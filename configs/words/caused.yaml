@@ -1,0 +1,7 @@
+word: caused
+dataset: data/raw/semcor_words/caused.json
+senses:
+  - cause.v.01
+  - induce.v.02
+n_per_sense: 11
+prefix: "Example sentence: "

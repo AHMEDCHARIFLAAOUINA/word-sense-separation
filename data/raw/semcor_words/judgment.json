@@ -1,0 +1,35 @@
+{
+ "target_word": "judgment",
+ "sentences": [
+  "Example sentence: That tumultuous, painful and costly experience shows clearly that a law expressing a moral judgment cannot be enforced when it has little correspondence with the general view of society.",
+  "Example sentence: Since the hero, a sterling and upright fellow, is a rich Brown senior, while two Yalies are cast as virtual rapists, I suppose I should disqualify myself from sitting in judgment on `` Where the Boys are '', but I shall do nothing of the sort.",
+  "Example sentence: In Plato's judgment, the arts play a meaningful role in society only in the education of the young, prior to the full development of their intellectual powers.",
+  "Example sentence: Persons developed in to-day's corporations cannot hope to serve here - a judgment based on experiences of my own in business and in activities outside.",
+  "Example sentence: Later abstractive and rational processes may indicate errors of judgment in these apprehensions of value, but the apprehensions themselves are the primary stuff of experience.",
+  "Example sentence: It is too easy for the inexperienced person to make a quick judgment of a few values of the area and base a decision on these alone.",
+  "Example sentence: After each presentation, the antagonist wrote his judgment of the salesmen; and so did the observers consisting of the president, three of his salesmen and a psychologist.",
+  "Example sentence: Family survival on our own Western frontier, for example, could quite literally depend on a man's strength and ability to bring home the bacon; and the dependent wife seldom questioned his judgment about anything, including the marriage bed."
+ ],
+ "labels": [
+  "judgment.n.01",
+  "judgment.n.01",
+  "judgment.n.01",
+  "judgment.n.01",
+  "judgment.n.02",
+  "judgment.n.02",
+  "judgment.n.02",
+  "judgment.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

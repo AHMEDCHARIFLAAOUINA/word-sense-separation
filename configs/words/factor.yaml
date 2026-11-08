@@ -1,0 +1,7 @@
+word: factor
+dataset: data/raw/semcor_words/factor.json
+senses:
+  - component.n.01
+  - factor.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

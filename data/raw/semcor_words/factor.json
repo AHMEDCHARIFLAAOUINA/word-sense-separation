@@ -1,0 +1,41 @@
+{
+ "target_word": "factor",
+ "sentences": [
+  "Example sentence: The soldiers are fighting and the Americans are helping, he said, but in the fight against the Pathet Lao the key factor is the villager himself.",
+  "Example sentence: The level of this average cost is determined by factor prices, technology, and so forth.",
+  "Example sentence: The fact that such threat is potent in the beginning reading lessons is thought to be a vital factor in the continued pattern of failure or under-achievement these children exhibit.",
+  "Example sentence: The question may be raised whether or not we are dealing with a common factor in anxiety and compulsivity.",
+  "Example sentence: The relationship of intelligence test scores to school achievement is a well established fact (in this case, * * f); therefore, in the investigation of the present hypothesis, it was necessary to control this factor.",
+  "Example sentence: Of course, there was another factor.",
+  "Example sentence: The common ultimate values, ends and goals fostered by religion are a most important factor.",
+  "Example sentence: It is presumed that this negative head was associated with some geometric factor of the assembly, since different readings were obtained with the same fluid and the only apparent difference was the assembly and disassembly of the apparatus.",
+  "Example sentence: And an additional factor was helping to make women more sexually self-assertive - the comparatively recent discovery of the true depths of female desire and response.",
+  "Example sentence: The quantity and quality of water sources is often a big factor in site selection."
+ ],
+ "labels": [
+  "component.n.01",
+  "component.n.01",
+  "component.n.01",
+  "component.n.01",
+  "component.n.01",
+  "factor.n.01",
+  "factor.n.01",
+  "factor.n.01",
+  "factor.n.01",
+  "factor.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

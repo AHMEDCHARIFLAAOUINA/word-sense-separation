@@ -1,0 +1,7 @@
+word: blame
+dataset: data/raw/semcor_words/blame.json
+senses:
+  - blame.v.01
+  - blame.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

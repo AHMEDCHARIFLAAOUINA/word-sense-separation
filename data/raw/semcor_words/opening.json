@@ -1,0 +1,35 @@
+{
+ "target_word": "opening",
+ "sentences": [
+  "Example sentence: The Prosecutor in his opening remarks did refer to `` the germ of anti-Semitism '' among the Germans which Hitler `` stimulated and transformed ''.",
+  "Example sentence: The world's best golfer, shooting below par, came to the last hole of the opening round of the Los Angeles open with every intention of delivering a final crusher.",
+  "Example sentence: To be sure, when this is pointed out, a common response among certain churchmen is to fulminate about `` the little flock '' and `` the great crowd '' and to take solace from Paul's castigation of the `` wisdom of the wise '' in the opening chapter of First Corinthians.",
+  "Example sentence: The Texans made themselves a comforting break on the opening kickoff when Denver's Al Carmichael was jarred loose from the ball when Dave Grayson, the speedy halfback, hit him and Guard Al Reynolds claimed it for Dallas.",
+  "Example sentence: Reinforcements came up quickly to take advantage of the opening made by Goulding's platoon.",
+  "Example sentence: He named this opening, between Baffin Island and Labrador, the `` Furious Overfall ''.",
+  "Example sentence: Smiling at his quixotic thoughts, Warren turned back from the opening and lit a cigarette before sitting down.",
+  "Example sentence: He dropped down to five hundred feet, swinging a little north of the city of Tacloban, and punched into the opening that showed against the mountain."
+ ],
+ "labels": [
+  "opening.a.01",
+  "opening.a.01",
+  "opening.a.01",
+  "opening.a.01",
+  "opening.n.01",
+  "opening.n.01",
+  "opening.n.01",
+  "opening.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

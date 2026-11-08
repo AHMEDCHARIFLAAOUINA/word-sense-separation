@@ -1,0 +1,7 @@
+word: reached
+dataset: data/raw/semcor_words/reached.json
+senses:
+  - reach.v.01
+  - reach.v.02
+n_per_sense: 11
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: soil
+dataset: data/raw/semcor_words/soil.json
+senses:
+  - soil.n.02
+  - dirt.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

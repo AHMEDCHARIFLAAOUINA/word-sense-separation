@@ -1,0 +1,35 @@
+{
+ "target_word": "key",
+ "sentences": [
+  "Example sentence: Come on - the key.",
+  "Example sentence: Sarah found the right key and unlocked the door.",
+  "Example sentence: Putting the key into the switch, pressing the accelerator with his foot, putting the car into reverse, seemed vast endeavors almost beyond the ability of his shaking body.",
+  "Example sentence: He handed Harold a key to the front door, and cautioned him against leaving it unlocked while they were out of the apartment.",
+  "Example sentence: The key to effective marketing is wrapped up in defining your company's marketing problems realistically.",
+  "Example sentence: The key to Protestant development, therefore, is economic integration of the nucleus of the congregation.",
+  "Example sentence: In this final line, we have the key to his nature.",
+  "Example sentence: The key to the world of geology is change; nothing remains the same."
+ ],
+ "labels": [
+  "key.n.01",
+  "key.n.01",
+  "key.n.01",
+  "key.n.01",
+  "key.n.02",
+  "key.n.02",
+  "key.n.02",
+  "key.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

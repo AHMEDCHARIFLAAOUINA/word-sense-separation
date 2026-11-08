@@ -1,0 +1,7 @@
+word: concrete
+dataset: data/raw/semcor_words/concrete.json
+senses:
+  - concrete.n.01
+  - concrete.a.01
+n_per_sense: 8
+prefix: "Example sentence: "

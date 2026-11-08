@@ -1,0 +1,41 @@
+{
+ "target_word": "separate",
+ "sentences": [
+  "Example sentence: The Maguire family was setting up a separate camp nearby.",
+  "Example sentence: London explains that the very distinct directional effect in the Phase 4 series is due in large part to their novel methods of microphoning and recording the music on a number of separate tape channels.",
+  "Example sentence: Try pegging down each separate branch to the earth, using a bobby pin to hold it there.",
+  "Example sentence: This can be justified thermodynamically in this case, and this will be done in a separate paper which is being prepared.",
+  "Example sentence: The form and the chaos remain separate.",
+  "Example sentence: The symbol is used to separate two or more numbers.",
+  "Example sentence: Another effect discovered is the large coefficient of thermal diffusion tending to separate nitrogen from the oxygen when temperature differences straddling the nitrogen dissociation region are present.",
+  "Example sentence: In fact, it was not until the King of Spain had visited at Pickfair that Mary and Doug were beckoned to cross the sacred barriers which separate Los Angeles and Pasadena from the hoi-polloi.",
+  "Example sentence: The unstained strips were then marked, using the stained ones as a guide, and cut transversely so as to separate the various protein bands.",
+  "Example sentence: It is used to separate two or more numbers in a row."
+ ],
+ "labels": [
+  "separate.a.01",
+  "separate.a.01",
+  "separate.a.01",
+  "separate.a.01",
+  "separate.a.01",
+  "separate.v.01",
+  "separate.v.01",
+  "separate.v.01",
+  "separate.v.01",
+  "separate.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

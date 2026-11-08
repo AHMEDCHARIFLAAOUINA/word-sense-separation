@@ -1,0 +1,7 @@
+word: light
+dataset: data/raw/semcor_words/light.json
+senses:
+  - light.n.01
+  - light.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

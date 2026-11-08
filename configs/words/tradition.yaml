@@ -1,0 +1,7 @@
+word: tradition
+dataset: data/raw/semcor_words/tradition.json
+senses:
+  - tradition.n.01
+  - custom.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

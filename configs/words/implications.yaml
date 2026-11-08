@@ -1,0 +1,7 @@
+word: implications
+dataset: data/raw/semcor_words/implications.json
+senses:
+  - deduction.n.03
+  - significance.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

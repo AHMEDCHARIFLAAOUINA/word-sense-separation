@@ -1,0 +1,41 @@
+{
+ "target_word": "characteristic",
+ "sentences": [
+  "Example sentence: Men, trees, automobiles, houses, and so on - objects continually confronted in everyday life - had each its characteristic blot appearance and became easily recognizable, at the very beginning of tracing, by an inference as to what each was.",
+  "Example sentence: If we try to study T using characteristic values, we are confronted with two problems.",
+  "Example sentence: Again, Henley's attitude of defiance which colors his ideal of self mastery is far from characteristic of a Stoic thinker like Marcus Aurelius, whose gentle acquiescence is almost Christian, comparable to the patience expressed in Milton's sonnet on his own blindness.",
+  "Example sentence: Mimesis is the nearest possible thing to the actual re-living of experience, in which the imagining person recovers through images something of the force and depth characteristic of experience itself.",
+  "Example sentence: We can do this through the characteristic values and vectors of T in certain special cases, i.e., when the minimal polynomial for T factors over the scalar field F into a product of distinct monic polynomials of degree 1.",
+  "Example sentence: He has given only the one pass in his 27 innings, an unusual characteristic for a southpaw.",
+  "Example sentence: In snakes difference in size is a common characteristic of subspecies.",
+  "Example sentence: The reflection of radiation originating from the anode holder and reflected back to it by the surrounding metal surfaces should also be small because of the specular characteristic of the metal surfaces and of the specific geometry.",
+  "Example sentence: This is a characteristic of good stereo recording and one of its tremendous advantages over monaural sound.",
+  "Example sentence: Because of the falling characteristic of the rectifier, no ballast resistor was required for stability of operation."
+ ],
+ "labels": [
+  "characteristic.a.01",
+  "characteristic.a.01",
+  "characteristic.a.01",
+  "characteristic.a.01",
+  "characteristic.a.01",
+  "feature.n.01",
+  "feature.n.01",
+  "feature.n.01",
+  "feature.n.01",
+  "feature.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

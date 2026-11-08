@@ -1,0 +1,35 @@
+{
+ "target_word": "representation",
+ "sentences": [
+  "Example sentence: For it had turned out, by a further paradox of Cubism, that the means to an illusion of depth and plasticity had now become widely divergent from the means of representation or imaging.",
+  "Example sentence: It was then that Picasso and Braque were confronted with a unique dilemma: they had to choose between illusion and representation.",
+  "Example sentence: If, on the other hand, they opted for representation, it had to be representation per se - representation as image pure and simple, without connotations (at least, without more than schematic ones) of the three-dimensional space in which the objects represented originally existed.",
+  "Example sentence: If they opted for illusion, it could only be illusion per se - an illusion of depth, and of relief, so general and abstracted as to exclude the representation of individual objects.",
+  "Example sentence: When the information cell for * * f has been determined, it is saved as a representation of * * f.",
+  "Example sentence: `` Gladius Dei '' (1902) resembles `` The Way to the Churchyard '' in its representation of a conflict between light and dark, between `` Life '' and a spirit of criticism, negation, melancholy, but it goes considerably further in characterizing the elements of this conflict.",
+  "Example sentence: If the content of faith is to be presented today in a form that can be `` understanded of the people '' - and this, it must not be forgotten, is one of the goals of the perennial theological task - there is no other choice but to abandon completely a mythological manner of representation.",
+  "Example sentence: It resembles, too, pictures such as Du^rer and Bruegel did, in which all that looks at first to be solely pictorial proves on inspection to be also literary, the representation of a proverb, for example, or a deadly sin."
+ ],
+ "labels": [
+  "representation.n.02",
+  "representation.n.02",
+  "representation.n.02",
+  "representation.n.02",
+  "representation.n.01",
+  "representation.n.01",
+  "representation.n.01",
+  "representation.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "flesh",
+ "sentences": [
+  "Example sentence: He felt the sweetness of pity flood through him, veining his very flesh.",
+  "Example sentence: He expected Concetta's thin hand to reach down to grasp the boy, and her shrill, impetuous voice to sound against the rotundity of his disfigured flesh that was never sure of hearing anything.",
+  "Example sentence: After all I'm made of flesh and blood.",
+  "Example sentence: The shapes of the men ahead of him lacked solidity, as if the whip had stripped them of their very flesh.",
+  "Example sentence: The scant flesh grew cool beneath her frantic hands.",
+  "Example sentence: He took the story of the pound of flesh and had to fasten it on someone.",
+  "Example sentence: His appearance as Lizzy evokes not amusement but horror in the audience; it is a spectacle absolutely painful, an epiphany of the suffering flesh unredeemed by spirit, untouched by any spirit other than abasement and humiliation.",
+  "Example sentence: Inside, as soon as Mr. Skopas had disclosed - in a hoarse whisper - the detective's errand, his family gathered in a huddle, forming a mass of dark flesh on and around a brocaded sofa which stood at one side of a baroque fireplace.",
+  "Example sentence: David Cortlandt was tired beyond almost the limits of his flesh.",
+  "Example sentence: It would have been unwise policy, for instance, to apply the pound of flesh characterization to the thrifty Scotchman."
+ ],
+ "labels": [
+  "flesh.n.01",
+  "flesh.n.01",
+  "flesh.n.01",
+  "flesh.n.01",
+  "flesh.n.01",
+  "human_body.n.01",
+  "human_body.n.01",
+  "human_body.n.01",
+  "human_body.n.01",
+  "human_body.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

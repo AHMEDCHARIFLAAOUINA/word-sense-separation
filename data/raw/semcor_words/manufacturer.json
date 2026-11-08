@@ -1,0 +1,35 @@
+{
+ "target_word": "manufacturer",
+ "sentences": [
+  "Example sentence: From the manufacturer's point of view, the increasing cost of advertising and promotion is a very real problem to be faced in the sixties.",
+  "Example sentence: As mass dealer and distributor organizations grow in size, there is every reason to expect them to try to share in the manufacturer's as well as the distributor's profits - which is, in effect, what the sale of private brands tends to do.",
+  "Example sentence: Follow manufacturer's recommendation carefully.",
+  "Example sentence: Average manufacturer frequently has helped build private brand business, delivering largely the same qualities and styles in private brand merchandise as in branded.",
+  "Example sentence: Seated on the platform were Amos C. Barstow, ex-mayor of Providence and a wealthy Republican stove manufacturer; Thomas Davis, an uncompromising Garrisonian; the Reverend Augustus Woodbury, a Unitarian minister; the Reverend George T. Day, a Free-Will Baptist; Daniel w. Vaughan, and William H. H. Clements.",
+  "Example sentence: Pierre Ameaux, the gaming-card manufacturer said, his little pig eyes glaring.",
+  "Example sentence: The truck and the car gave the manufacturer a new degree of freedom in selecting his plant site.",
+  "Example sentence: That summer the gambling houses were closed, despite the threats of Pierre Ameaux, a gaming-card manufacturer."
+ ],
+ "labels": [
+  "manufacturer.n.01",
+  "manufacturer.n.01",
+  "manufacturer.n.01",
+  "manufacturer.n.01",
+  "manufacturer.n.02",
+  "manufacturer.n.02",
+  "manufacturer.n.02",
+  "manufacturer.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

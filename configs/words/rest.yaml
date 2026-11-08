@@ -1,0 +1,7 @@
+word: rest
+dataset: data/raw/semcor_words/rest.json
+senses:
+  - remainder.n.01
+  - rest.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

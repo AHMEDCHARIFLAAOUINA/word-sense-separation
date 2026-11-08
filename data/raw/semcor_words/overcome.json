@@ -1,0 +1,35 @@
+{
+ "target_word": "overcome",
+ "sentences": [
+  "Example sentence: Good field techniques will not only equip linguists for better work, but also help them overcome negative attitudes.",
+  "Example sentence: `` By winning against Bradley, Kentucky and Notre Dame on those teams ' home courts, they showed that the home court advantage can be overcome anywhere and that it doesn's take a super team to do it ''.",
+  "Example sentence: So instead of being tests of the South's loyalty, the Spanish War, the two World Wars, and the Korean War all served to overcome old grievances and cement reunion.",
+  "Example sentence: His desires are so strong that he needs constant reassurance of his mother's love for him and what she expects of him, in order to overcome them.",
+  "Example sentence: Sometimes she can - to a large extent - help him overcome them.",
+  "Example sentence: How could the rich, for whom life was made so simple, ever understand the subterfuges, the lies, the frauds, the errors, sins and even crimes to which the poor were driven in their efforts to overcome the great advantages the rich had in the race of life?",
+  "Example sentence: An earlier difficulty was overcome by making it clear that individual libraries in any area might join or not, as they saw fit.",
+  "Example sentence: To overcome this unfair judging, the A. K. C. requires that a licensed Handler be present to judge the Class."
+ ],
+ "labels": [
+  "overcome.v.02",
+  "overcome.v.02",
+  "overcome.v.02",
+  "overcome.v.02",
+  "get_the_better_of.v.01",
+  "get_the_better_of.v.01",
+  "get_the_better_of.v.01",
+  "get_the_better_of.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: reflected
+dataset: data/raw/semcor_words/reflected.json
+senses:
+  - reflect.v.01
+  - reflect.v.03
+n_per_sense: 6
+prefix: "Example sentence: "

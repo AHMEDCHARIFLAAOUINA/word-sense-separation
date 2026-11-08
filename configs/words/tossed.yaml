@@ -1,0 +1,7 @@
+word: tossed
+dataset: data/raw/semcor_words/tossed.json
+senses:
+  - flip.v.06
+  - flip.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: recommend
+dataset: data/raw/semcor_words/recommend.json
+senses:
+  - recommend.v.01
+  - commend.v.04
+n_per_sense: 4
+prefix: "Example sentence: "

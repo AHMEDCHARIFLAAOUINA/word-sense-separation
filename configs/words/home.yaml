@@ -1,0 +1,7 @@
+word: home
+dataset: data/raw/semcor_words/home.json
+senses:
+  - home.r.01
+  - home.n.01
+n_per_sense: 19
+prefix: "Example sentence: "

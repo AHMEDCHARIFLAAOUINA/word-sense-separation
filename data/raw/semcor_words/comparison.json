@@ -1,0 +1,47 @@
+{
+ "target_word": "comparison",
+ "sentences": [
+  "Example sentence: Where there is comparison or contrast dominant stresses normally operate to center attention.",
+  "Example sentence: Whether this abnormal TSH differs chemically from pituitary TSH, or is, alternatively, normal TSH with its period of effectiveness modified by some other blood constituent, cannot be decided without chemical study of the activity in the blood of these patients and a comparison of the substance responsible for the blood activity with pituitary TSH.",
+  "Example sentence: Studying them, McFeeley could not help make comparison with the Andrus couple.",
+  "Example sentence: The great resemblance between electrical and magnetic attractions and repulsions and the similarity of their laws necessarily would bring about this comparison.",
+  "Example sentence: But the use of stress in comparison and contrast, for example, can undermine distinctions such as these.",
+  "Example sentence: Anatomically, the horse lung appears to be remarkably like that of man, insofar as this can be ascertained from comparison of our findings in the horse with those of others (Birnbaum, ' 54) in the human being.",
+  "Example sentence: The casual seduction of a seventeen year old bluestocking seemed tame by comparison.",
+  "Example sentence: By comparison, Fritzie and Laura Andrus were quivering fledglings.",
+  "Example sentence: In all cases the activity against * * f cells was spread over a wider area than that with * * f cells, regardless of the type of test (saline, albumin, indirect Coombs) used for comparison.",
+  "Example sentence: Selecting bunks by economic comparison is usually an individual problem.",
+  "Example sentence: Decide first what the place is worth to you and your family as a home in comparison with what it would cost to live in town.",
+  "Example sentence: Tsunami are so shallow in comparison with their length that in the open ocean they are hardly detectable."
+ ],
+ "labels": [
+  "comparison.n.01",
+  "comparison.n.01",
+  "comparison.n.01",
+  "comparison.n.01",
+  "comparison.n.01",
+  "comparison.n.01",
+  "comparison.n.02",
+  "comparison.n.02",
+  "comparison.n.02",
+  "comparison.n.02",
+  "comparison.n.02",
+  "comparison.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

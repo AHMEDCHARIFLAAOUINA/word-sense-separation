@@ -1,0 +1,47 @@
+{
+ "target_word": "glance",
+ "sentences": [
+  "Example sentence: He gave Abel a quick glance and moved closer to the wheel, hugging it to him, and Abel caught this briefest of allusions to guilt.",
+  "Example sentence: A glance revealed that the main topgallant mast had been carried away.",
+  "Example sentence: Spencer's potential followers were openly sullen and morose, missing muster without excuse, expressing in ominous tones their displeasure at the prisoners being kept in irons, communicating with the three by glance and signal.",
+  "Example sentence: Only then, when his glance focused on the divan and saw that it was empty, did he remember his earlier problem.",
+  "Example sentence: He knew at a glance that the biggest sandals belonged to Niobe, the neatest ones to Concetta, and the laced ones to Romeo, Concetta's idiot brother.",
+  "Example sentence: Garth's glance began to flicker to his watch.",
+  "Example sentence: The thin man stopped his pacing long enough to glance at the clock.",
+  "Example sentence: To be reminded of this we need only glance at the world map and note the extent to which religious divisions have compounded political ones, with a resultant fragmentation of the human race.",
+  "Example sentence: Since they did not glance curiously at us once, I guessed that there was a penalty for distraction.",
+  "Example sentence: Killpath sailed the paper across the desk, but Matson didn't pick it up or even glance at it.",
+  "Example sentence: At once he started to glance toward the instrument panel.",
+  "Example sentence: Pausing in the outside door to glance behind him, Pat looked his unspoken warning and stepped out."
+ ],
+ "labels": [
+  "glance.n.01",
+  "glance.n.01",
+  "glance.n.01",
+  "glance.n.01",
+  "glance.n.01",
+  "glance.n.01",
+  "glance.v.01",
+  "glance.v.01",
+  "glance.v.01",
+  "glance.v.01",
+  "glance.v.01",
+  "glance.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

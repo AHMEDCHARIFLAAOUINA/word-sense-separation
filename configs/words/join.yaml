@@ -1,0 +1,7 @@
+word: join
+dataset: data/raw/semcor_words/join.json
+senses:
+  - join.v.02
+  - join.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

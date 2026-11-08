@@ -1,0 +1,35 @@
+{
+ "target_word": "serve",
+ "sentences": [
+  "Example sentence: The basement or belowground shelters also will serve for tornado or hurricane protection.",
+  "Example sentence: The return for a decedent may also serve as a claim for refund of an overpayment of tax.",
+  "Example sentence: There are many varieties of coolers and they serve many purposes.",
+  "Example sentence: There were no depressingly serious cases: the ward doctor sometimes teamed up with the chaplain to serve as a marriage counselor - sometimes the Navy sent people back to the States to preserve a marriage - but mental health as a rule was very high.",
+  "Example sentence: Du Pont would be enjoined from having as a director, officer, or employee anyone who was simultaneously an officer or employee of General Motors, and no director, officer, or employee of du Pont could serve as a director of General Motors without court approval.",
+  "Example sentence: My discussion with reference to the resolution was that we should commend those citizens who serve as judges of election and who properly discharge their duty and polling place proprietors who make available their private premises, and not by innuendo criticize them.",
+  "Example sentence: Selkirk persuaded eighty men and four officers to go to Red River where they were to serve as a military force to protect his settlers from the hostile Northwest Company which resented the intrusion of farmers into the fur traders ' empire.",
+  "Example sentence: If the reserve components are to serve effectively in time of war, their basic organization and objectives must conform to the changing character and missions of the active forces."
+ ],
+ "labels": [
+  "serve.v.01",
+  "serve.v.01",
+  "serve.v.01",
+  "serve.v.01",
+  "serve.v.02",
+  "serve.v.02",
+  "serve.v.02",
+  "serve.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

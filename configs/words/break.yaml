@@ -1,0 +1,7 @@
+word: break
+dataset: data/raw/semcor_words/break.json
+senses:
+  - break.v.02
+  - interrupt.v.04
+n_per_sense: 4
+prefix: "Example sentence: "

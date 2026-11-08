@@ -1,0 +1,7 @@
+word: domestic
+dataset: data/raw/semcor_words/domestic.json
+senses:
+  - domestic.a.01
+  - domestic.a.02
+n_per_sense: 8
+prefix: "Example sentence: "

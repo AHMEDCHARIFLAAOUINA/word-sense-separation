@@ -1,0 +1,7 @@
+word: perception
+dataset: data/raw/semcor_words/perception.json
+senses:
+  - percept.n.01
+  - perception.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

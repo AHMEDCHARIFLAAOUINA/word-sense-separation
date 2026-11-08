@@ -1,0 +1,7 @@
+word: enforced
+dataset: data/raw/semcor_words/enforced.json
+senses:
+  - enforce.v.01
+  - enforce.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

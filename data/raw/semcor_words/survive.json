@@ -1,0 +1,41 @@
+{
+ "target_word": "survive",
+ "sentences": [
+  "Example sentence: To eat is human, the nation is learning to think, to survive divine.",
+  "Example sentence: They survive only when they can recruit social and economic peers.",
+  "Example sentence: `` A marriage can survive almost any kind of stress except an open and direct challenge to the husband's maleness '', declares Dr. Calderone.",
+  "Example sentence: I put a lot more trust in my two legs than in the gun, because the most important thing I had learned about war was that you could run away and survive to talk about it.",
+  "Example sentence: What we must have, if the United Nations is to survive, is as nonpolitical, nonpartisan an organization at the top as human beings can make it, subject to no single nation's direction and subservient to no single nation's ambition.",
+  "Example sentence: The scientists have also warned that no life above ground or underground, sheltered or unsheltered could be expected to survive in an area at least 50 miles in diameter.",
+  "Example sentence: The forces which survive the initial attack must be found and destroyed.",
+  "Example sentence: Most of these, with horrible exceptions, were conceived as is a ship, not as an attempt to quell the ocean of mankind, nor to deny its force, but as a means to survive and enjoy it.",
+  "Example sentence: Forces will survive a surprise attack, and these forces will give depth, or considerable duration, to the conflict.",
+  "Example sentence: Frequently we are given assurance that automatically all ideas will be sifted and resifted and in the end only the good ones will survive."
+ ],
+ "labels": [
+  "survive.v.01",
+  "survive.v.01",
+  "survive.v.01",
+  "survive.v.01",
+  "survive.v.01",
+  "survive.v.02",
+  "survive.v.02",
+  "survive.v.02",
+  "survive.v.02",
+  "survive.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

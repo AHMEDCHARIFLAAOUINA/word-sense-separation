@@ -1,0 +1,7 @@
+word: catholic
+dataset: data/raw/semcor_words/catholic.json
+senses:
+  - catholic.a.01
+  - catholic.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

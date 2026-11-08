@@ -1,0 +1,35 @@
+{
+ "target_word": "passage",
+ "sentences": [
+  "Example sentence: Notice, however, that the passage of time does not permit the raising of prices per se, without an accompanying wage increase.",
+  "Example sentence: I must state that the faster things happened, the slower they happened; the passage and rhythm of time changed, and when I remember back to what happened then, each event is a separate and frozen incident.",
+  "Example sentence: The extent to which the public limit price is raised by a given increase in the basic wage rate is itself a function of three things: the passage of time, the level of GNP, and the size of the wage increase.",
+  "Example sentence: The simple passage of an additional eleven months ' time makes the second 3% boost more acceptable.",
+  "Example sentence: One by one, the openings in the coast that promised a passage through had been explored and discarded.",
+  "Example sentence: His chief discovery was important - the Great North (later, the Hudson) River - but it produced no northwest passage.",
+  "Example sentence: Each time his objective had been the same - a direct water passage from Western Europe to the Far East.",
+  "Example sentence: More than anything, it is the therapist's intuitive sensing of these latent meanings in the stereotype which helps these meanings to become revealed, something like a spread-out deck of cards, on sporadic occasions over the passage of the patient's and his months of work together."
+ ],
+ "labels": [
+  "passage.n.01",
+  "passage.n.01",
+  "passage.n.01",
+  "passage.n.01",
+  "passage.n.03",
+  "passage.n.03",
+  "passage.n.03",
+  "passage.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

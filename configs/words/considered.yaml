@@ -1,0 +1,7 @@
+word: considered
+dataset: data/raw/semcor_words/considered.json
+senses:
+  - see.v.05
+  - study.v.03
+n_per_sense: 8
+prefix: "Example sentence: "

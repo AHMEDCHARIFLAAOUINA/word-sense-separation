@@ -1,0 +1,47 @@
+{
+ "target_word": "entitled",
+ "sentences": [
+  "Example sentence: Petitioner was not entitled, either in the administrative hearing at the Department of Justice or at his trial, to inspect the original report of the Federal Bureau of Investigation, since he was furnished a resume of it, did not challenge its accuracy, and showed no particular need for the original report.",
+  "Example sentence: The day before Election Day, to which we are entitled as a legal holiday, we were informed to report to our respective polls to work as `` workers of the party ''.",
+  "Example sentence: A spouse employed by a corporation her husband controls, for example, may be entitled to distributions under the company's pension plan as well as to her own Social Security coverage.",
+  "Example sentence: If you want credit for your employee services program, let your workers know what they're entitled to.",
+  "Example sentence: Even if we were not bound by Nugent, petitioner here would not be entitled to the report.",
+  "Example sentence: But I usually stick to the old phrase: ' Ich habe ein Amt, aber keine Meinung (I hold an office, but I do not feel entitled to have an opinion).",
+  "Example sentence: Chapter 8, is entitled `` On Magnetism '' and in it are included such remarks as, `` One has always been tempted to compare the magnetic forces with the electrical forces.",
+  "Example sentence: An amazing article in the Manchester Guardian of last November, entitled `` Fate of Redundant Churches '', states than an Archbishops ' Commission `` reported last month that in the Church of England alone there are 790 churches which are redundant now, or will be in 20 years ' time.",
+  "Example sentence: A brisk, satirical spoof of contemporary American mores entitled `` An American Journey '' was given its first New York performance at Hunter College Playhouse last night by the Helen Tamiris-Daniel Nagrin Dance Company.",
+  "Example sentence: His next major work, completed in 1892, was a long fantastic epic in prose, entitled Hans Alienus, which Professor Bo ^ o ^ k describes as a monument on the grave of his carefree and indolent youth.",
+  "Example sentence: A Birmingham newspaper printed in a column for children an article entitled `` The True Story of Guy Fawkes '', which began:",
+  "Example sentence: Last October he gave a public speech in Washington, D. C. entitled `` Are Women Here to Stay ''?"
+ ],
+ "labels": [
+  "entitle.v.01",
+  "entitle.v.01",
+  "entitle.v.01",
+  "entitle.v.01",
+  "entitle.v.01",
+  "entitle.v.01",
+  "entitle.v.02",
+  "entitle.v.02",
+  "entitle.v.02",
+  "entitle.v.02",
+  "entitle.v.02",
+  "entitle.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,47 @@
+{
+ "target_word": "sponsored",
+ "sentences": [
+  "Example sentence: These short, `` streamlined '' meetings usually are sponsored by local banks, Chambers of Commerce, trade associations, or other civic organizations.",
+  "Example sentence: A father and son dinner sponsored by the Men's Club will be held at 6: 15 p. m. Monday and the annual church picnic at 4 p. m. next Saturday.",
+  "Example sentence: It appears that an Orthodox girl in the community disrupted plans for an outing sponsored by one of the Jewish service groups because she would not travel on Saturday and, in addition, required kosher food.",
+  "Example sentence: In June, the Office of Foreign and Domestic Commerce - in conjunction with local trade associations, chambers of commerce, and bank officials - sponsored a World Trade Conference at the Sheraton-Biltmore Hotel.",
+  "Example sentence: He gave a resume of the steps taken in order for the boy he sponsored to win the scholarship.",
+  "Example sentence: When the shouting ended, the bill passed, 114 to 4, sending it to the Senate, where a similar proposal is being sponsored by Sen. George Parkhouse of Dallas.",
+  "Example sentence: The 1961 feed grain program, which the secretary sponsored, has been declared a billion dollar fiasco.",
+  "Example sentence: No one has sponsored more progressive and important legislation than has Sam Rayburn.",
+  "Example sentence: The series of ballets is sponsored by the Milenoff Ballet Foundation, Inc., a non-profit foundation with headquarters in Coral Gables.",
+  "Example sentence: These registries are sponsored by 18 national medical, dental, and veterinary societies and have as their mission the assembling of selected cases of interest to military medicine and of establishing through the mechanism of follow-up of living patients the natural history of various diseases of military-medical importance.",
+  "Example sentence: The aged care plan, similar to one the President sponsored last year as a senator, a fight on Capitol hill.",
+  "Example sentence: It was the first in the series of `` Concerts for Young People by Young People '' to be sponsored by First Lady Jacqueline Kennedy at the White House."
+ ],
+ "labels": [
+  "sponsor.v.01",
+  "sponsor.v.01",
+  "sponsor.v.01",
+  "sponsor.v.01",
+  "sponsor.v.01",
+  "sponsor.v.01",
+  "sponsor.v.02",
+  "sponsor.v.02",
+  "sponsor.v.02",
+  "sponsor.v.02",
+  "sponsor.v.02",
+  "sponsor.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

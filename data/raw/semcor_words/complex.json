@@ -1,0 +1,41 @@
+{
+ "target_word": "complex",
+ "sentences": [
+  "Example sentence: Life has evolved from simple combinations of molecules in the sea to complex combinations in man.",
+  "Example sentence: Charity as she knew it was complex and reciprocal, and almost every roof she saw signified charity.",
+  "Example sentence: Since emotional reactions in the higher vertebrates depend on individual experience and are aroused in man, in addition, by complex symbols, one would expect that the hypothalamus could be excited from the cortex.",
+  "Example sentence: The place of religion in the simple, preliterate societies is quite definite; as a complex it fits into the whole social organization and functions dominantly in every part of it.",
+  "Example sentence: O ' Banion was a complex and frightening man, whose bright blue eyes stared with a kind of frozen candour into others '.",
+  "Example sentence: Prevention of bacterial pneumonia, shipping fever, as an aid in reduction of losses due to respiratory infections (infectious rhinotracheitis - shipping fever complex).",
+  "Example sentence: Wage price policies of industry are the result of a complex of forces - no single explanation has been found which applies to all cases.",
+  "Example sentence: For the prevention or treatment of the early stages of shipping fever complex, increase feeding level to 0.5 to 2 grams per head per day.",
+  "Example sentence: Very likely it will also include a recognition that the work we are reading reflects or `` belongs to '' some way of thought labelled as a `` school '' or an `` - ism '', i. e. a complex or `` syndrome '' of ideas occurring together with sufficient prominence to warrant identification.",
+  "Example sentence: For cows, feed providing an intake of 0.1 milligram of Aureomycin per pound of body weight daily aids in the reduction of bacterial diarrhea, in the prevention of foot rot, and in the reduction of losses due to respiratory infection (infectious rhinotracheitis - shipping fever complex)."
+ ],
+ "labels": [
+  "complex.a.01",
+  "complex.a.01",
+  "complex.a.01",
+  "complex.a.01",
+  "complex.a.01",
+  "complex.n.01",
+  "complex.n.01",
+  "complex.n.01",
+  "complex.n.01",
+  "complex.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

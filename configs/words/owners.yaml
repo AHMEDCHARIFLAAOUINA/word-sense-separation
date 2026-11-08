@@ -1,0 +1,7 @@
+word: owners
+dataset: data/raw/semcor_words/owners.json
+senses:
+  - owner.n.01
+  - owner.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

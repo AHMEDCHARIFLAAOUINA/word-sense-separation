@@ -1,0 +1,7 @@
+word: announced
+dataset: data/raw/semcor_words/announced.json
+senses:
+  - announce.v.01
+  - announce.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

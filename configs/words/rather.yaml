@@ -1,0 +1,7 @@
+word: rather
+dataset: data/raw/semcor_words/rather.json
+senses:
+  - rather.r.01
+  - rather.r.02
+n_per_sense: 20
+prefix: "Example sentence: "

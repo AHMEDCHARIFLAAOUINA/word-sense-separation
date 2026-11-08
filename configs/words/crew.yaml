@@ -1,0 +1,7 @@
+word: crew
+dataset: data/raw/semcor_words/crew.json
+senses:
+  - crew.n.01
+  - gang.n.03
+n_per_sense: 4
+prefix: "Example sentence: "

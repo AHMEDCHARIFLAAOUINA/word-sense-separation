@@ -1,0 +1,7 @@
+word: job
+dataset: data/raw/semcor_words/job.json
+senses:
+  - job.n.02
+  - occupation.n.01
+n_per_sense: 15
+prefix: "Example sentence: "

@@ -1,0 +1,47 @@
+{
+ "target_word": "imagination",
+ "sentences": [
+  "Example sentence: This is the primary function of the imagination operating in the absence of the original experiential stimulus by which the images were first appropriated.",
+  "Example sentence: Whatever pole of this contrast one emphasizes and whatever the tension between these two approaches to understanding the artistic imagination, it will be readily seen that they are not mutually exclusive, that they belong together.",
+  "Example sentence: Could he honestly believe it would be good for Carla to have those old prophets gripping her imagination now?",
+  "Example sentence: In a bold, sometimes careless, form there is nothing academic; all is seen and felt and experienced, the observation is sharp and the imagination lively.",
+  "Example sentence: Although the particular form of conceptualization which popular imagination had made in response to the experience of spirit was undoubtedly defective, the raw experience itself which led to such excesses remains with us as vividly as ever.",
+  "Example sentence: The sweep of space, the delicate counterbalance of the white masses, the over-all completeness and unity, the originality and imagination, all entitle it to be called an authentic masterpiece.",
+  "Example sentence: He does not insist on telling all he knows about any given subject; rather his pictures invite the observer to draw on his memory, his imagination, his nostalgia.",
+  "Example sentence: But although the idea of communism is very old even in More's day and did not spring full-clad from his imagination in 1515, it is not communism as such that we are concerned with.",
+  "Example sentence: One of my virtues or vices is a sort of three-dimensional imagination complete with sound effects and glorious living color.",
+  "Example sentence: It should be added that in man neocortical hypothalamic interrelations probably play a role in the fusion of emotional processes with those underlying perception, memory, imagination, and creativity.",
+  "Example sentence: An idea, of the sort that we have in mind, although of necessity readily available to imagination, is more general in connotation than most poetic or literary images, especially those appearing in lyric poems that seek to capture a moment of personal experience.",
+  "Example sentence: There was no answer to this and he began to pace back and forth across the room, his imagination out of control."
+ ],
+ "labels": [
+  "imagination.n.01",
+  "imagination.n.01",
+  "imagination.n.01",
+  "imagination.n.01",
+  "imagination.n.01",
+  "imagination.n.01",
+  "imagination.n.02",
+  "imagination.n.02",
+  "imagination.n.02",
+  "imagination.n.02",
+  "imagination.n.02",
+  "imagination.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

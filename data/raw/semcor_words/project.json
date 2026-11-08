@@ -1,0 +1,41 @@
+{
+ "target_word": "project",
+ "sentences": [
+  "Example sentence: This project was carried out under sponsorship of the Ballistic Missile Division of the Air Research and Development Command, U. S. Air Force, and had as its goal the investigation of the transport by diffusion of the heat energy of chemical binding.",
+  "Example sentence: As long as there were two human beings working together on the same project, there would be competition and you could no more escape it than you could expect to escape the grave.",
+  "Example sentence: If nothing else, at least two good songs came out of the project, `` Out of This World '' and `` June Comes Around Every Year ''.",
+  "Example sentence: Makes necessary purchases, places contracts, supervises construction, installation, finishing and placement of furniture, fixtures and other correlated furnishings, and follows through to completion of project ``.",
+  "Example sentence: `` How many is that, Jim ''? asked Willie at one stage of his excavation project.",
+  "Example sentence: `` We have witnessed in this campaign the effort to project Mr. Mitchell as the image of a unity candidate from Washington.",
+  "Example sentence: In clothes, Letch simply did not project.",
+  "Example sentence: `` If I have seemed to emphasize the structure of the composition, I mean to project equal concern for color.",
+  "Example sentence: In his sculpture therefore it would not be possible for him to project anything of what Jesus felt for his mother; only what Mary felt for her son.",
+  "Example sentence: So in these pages the term `` technology '' is used to include any and all means which could amplify, project, or augment man's control over himself and over other men."
+ ],
+ "labels": [
+  "undertaking.n.01",
+  "undertaking.n.01",
+  "undertaking.n.01",
+  "undertaking.n.01",
+  "undertaking.n.01",
+  "project.v.01",
+  "project.v.01",
+  "project.v.01",
+  "project.v.01",
+  "project.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

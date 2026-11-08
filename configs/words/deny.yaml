@@ -1,0 +1,7 @@
+word: deny
+dataset: data/raw/semcor_words/deny.json
+senses:
+  - deny.v.02
+  - deny.v.01
+n_per_sense: 11
+prefix: "Example sentence: "

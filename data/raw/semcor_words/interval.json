@@ -1,0 +1,35 @@
+{
+ "target_word": "interval",
+ "sentences": [
+  "Example sentence: The graph of f has at least one component whose support is the entire interval [0, T].",
+  "Example sentence: In the neighborhood of an end point of an interval of tangent points in the f-plane the function is two valued or no valued on one side, and is a single valued function consisting entirely of tangent points on the other side.",
+  "Example sentence: The same remarks apply to an interval on the other side of **f.",
+  "Example sentence: Furthermore, one can find a neighborhood of Q in which the difference function is monotone, for since it is analytic it can have only a finite number of extrema in any interval.",
+  "Example sentence: Measurements at 3.15 cm were obtained on 11 days spread over the interval May 3 to June 19, 1956, using the 50 - foot reflector at the U.S. Naval Research Laboratory in Washington.",
+  "Example sentence: When the hay wagon had gone, and an interval passed, a huckster's cart might turn the corner.",
+  "Example sentence: In my recollection, there was a long interval between the death of the officer and the appearance of the first of the retreating redcoats, and in that interval the dust cloud over the road seems to hover indefinitely.",
+  "Example sentence: The gunfire, which was so near that it seemed just a piece up the road now, stopped for long enough to count to twenty; and in that brief interval, a redcoat officer came tearing down the road, whipping his horse fit to kill."
+ ],
+ "labels": [
+  "interval.n.02",
+  "interval.n.02",
+  "interval.n.02",
+  "interval.n.02",
+  "time_interval.n.01",
+  "time_interval.n.01",
+  "time_interval.n.01",
+  "time_interval.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

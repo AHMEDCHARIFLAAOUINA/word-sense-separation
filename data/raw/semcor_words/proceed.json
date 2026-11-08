@@ -1,0 +1,41 @@
+{
+ "target_word": "proceed",
+ "sentences": [
+  "Example sentence: If the indenture is accepted, the authority will proceed to validate a bond issue repayable from revenue.",
+  "Example sentence: Underlying these conceptions of mimesis are certain presuppositions concerning the nature of primary human experience which require some exposition before the main argument can proceed.",
+  "Example sentence: If he decides to proceed, he will custom-make for Susie an appliance consisting of bands, plastic plates, fine wires, and tiny springs.",
+  "Example sentence: Upon the expiration of a period deemed adequate for demonstration purposes for each plant, but not to exceed such twelve year period, the Secretary shall proceed as promptly as practicable to dispose of any plants so constructed by sale to the highest bidder, or as may otherwise be directed by Act of Congress.",
+  "Example sentence: At this point a working definition of idea is in order, although our first definition will have to be qualified somewhat as we proceed.",
+  "Example sentence: The pressure for our entry to the Common Market is mounting and we will proceed towards this amalgamated trade union by way of a purely `` economic thoroughfare '', or garden path, with the political ramifications kept neatly in the background.",
+  "Example sentence: There is some reason to think that thyroglobulin synthesis may proceed independently of iodination, for in certain transplantable tumours of the rat thyroid containing essentially no iodinated thyroglobulin, a protein that appears to be thyroglobulin has been observed in ultracentrifuge experiments (Wolff, Robbins and Rall, 1959).",
+  "Example sentence: The destiny of Racine's Phedre is sealed from the beginning: she will proceed into the dark.",
+  "Example sentence: This has been a working session of an organization that, by its very nature, can only proceed along its route step by step and without dramatic changes.",
+  "Example sentence: Now let us imagine a wing of B-52's, on alert near their `` positive control (or fail-safe) points '', the spots on the map, many miles from Soviet territory, beyond which they are forbidden to fly without specific orders to proceed to their targets."
+ ],
+ "labels": [
+  "continue.v.02",
+  "continue.v.02",
+  "continue.v.02",
+  "continue.v.02",
+  "continue.v.02",
+  "proceed.v.02",
+  "proceed.v.02",
+  "proceed.v.02",
+  "proceed.v.02",
+  "proceed.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

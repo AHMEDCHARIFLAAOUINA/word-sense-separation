@@ -1,0 +1,7 @@
+word: knife
+dataset: data/raw/semcor_words/knife.json
+senses:
+  - knife.n.01
+  - knife.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

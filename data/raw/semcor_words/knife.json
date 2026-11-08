@@ -1,0 +1,41 @@
+{
+ "target_word": "knife",
+ "sentences": [
+  "Example sentence: A knife would do.",
+  "Example sentence: The physical film is cut with a knife at the end of one complete sequence, and the cut edge is joined physically, by cement, to the cut edge of the beginning of the next sequence.",
+  "Example sentence: There was a little blood on the hem of her dress, for the assassin had slashed Miss Harris's companion, Major Rathbone, with a knife.",
+  "Example sentence: Then he looked at his finger, at the wrinkled, heavy knuckle and the thick nail he used like a knife to pry up, slit, and open.",
+  "Example sentence: When the knife went into his chest, he went down at once.",
+  "Example sentence: An African knife and battle-ax are at this moment being sharpened by McKinley and Green.",
+  "Example sentence: `` The Negro got a bad slice on his chest from the knife wound ''.",
+  "Example sentence: McKinley was overheard to say that he would like to get the knife into Spencer's possession and that '' -",
+  "Example sentence: The colored boy had it, and Trig lunged at him with a knife and said, ' Give that to me, you black bastard.",
+  "Example sentence: A New York kid, a refugee from one of the Harlem gangs, made fun of Trig's accent, and drew a knife."
+ ],
+ "labels": [
+  "knife.n.01",
+  "knife.n.01",
+  "knife.n.01",
+  "knife.n.01",
+  "knife.n.01",
+  "knife.n.02",
+  "knife.n.02",
+  "knife.n.02",
+  "knife.n.02",
+  "knife.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

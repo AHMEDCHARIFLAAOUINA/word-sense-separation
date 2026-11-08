@@ -1,0 +1,35 @@
+{
+ "target_word": "formula",
+ "sentences": [
+  "Example sentence: This formula is given by Rumscheidt and Mason.",
+  "Example sentence: We shall find a formula for the probability of exactly x successes for given values of p and n.",
+  "Example sentence: If it is assumed that the formula given by Lodge of * * f, cosec 2lc applies, the pressure difference along the major axes can be calculated from the angle of inclination of the major axis, and from this the interfacial tension can be calculated.",
+  "Example sentence: As is the case with the allotment provisions for support of vocational rehabilitation services, the matching requirements are also based on a statutory formula.",
+  "Example sentence: The formula for computing random addresses from the form of each occurrence will not give a distinct address for each distinct form.",
+  "Example sentence: A formula to supply players for the new Minneapolis Vikings and the problem of increasing the 1961 schedule to fourteen games will be discussed by National Football League owners at a meeting at the Hotel Warwick today.",
+  "Example sentence: They'd peddled the soap virtually alone, and without much success, until about a year ago, when - with the addition of `` SX-21 '' to their secret formula and the inauguration of a high-powered advertising campaign - sales had soared practically into orbit.",
+  "Example sentence: Actually, only two men know what the formula is, Blake and '' - He stopped and looked at Thor's body."
+ ],
+ "labels": [
+  "formula.n.01",
+  "formula.n.01",
+  "formula.n.01",
+  "formula.n.01",
+  "recipe.n.01",
+  "recipe.n.01",
+  "recipe.n.01",
+  "recipe.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

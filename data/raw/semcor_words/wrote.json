@@ -1,0 +1,53 @@
+{
+ "target_word": "wrote",
+ "sentences": [
+  "Example sentence: An Alabama soldier whose feminine associations were of the more admirable type wrote boastfully of his achievements among the Virginia belles: `` They thout I was a saint.",
+  "Example sentence: A Federal infantryman wrote to his father shortly after his first skirmish in Virginia: `` Dear Pa.",
+  "Example sentence: Still another, annoyed by the brevity of a recently received missive, wrote: `` Yore letter was short and sweet, jist like a roasted maget ''.",
+  "Example sentence: The governor wrote Miss Grant that he has been concerned for some time `` with the continuous problem which confronts our local and state law enforcement officers as a result of the laws regulating Sunday sales ''.",
+  "Example sentence: In a letter to the American Friends Service, Dr. Schweitzer wrote:",
+  "Example sentence: The Providence Daily Post's editor wrote that he could not believe that a meeting honoring Brown was to be held in Providence.",
+  "Example sentence: An Alabamian wrote: `` Col. Henry is [an ignoramus] fit for nothing higher than the cultivation of corn ''.",
+  "Example sentence: Editor's Note: Sir Robert Watson-Watt wrote, on page 50 of SR / Research for 4 March 1961: `` I have read an advance copy of the Snow book which is to be titled, ' Science and Government '.",
+  "Example sentence: But in order to keep Letch in the public eye and out of trouble, I wrote in a part especially for him - that of a dashing ruffian who `` sees the light '' and is saved by the inspiring example of Mother Cabrini.",
+  "Example sentence: Heidenstam wrote four other works of fiction about earlier figures revered in Swedish memory.",
+  "Example sentence: And everyone went to work to learn the parts which he wrote.",
+  "Example sentence: More stands on the margins of modernity for one reason alone - because he wrote Utopia.",
+  "Example sentence: Imagine the searching and the prayer that lay behind the letter the rector wrote after almost a decade of service to this majestic church.",
+  "Example sentence: Channing wrote this - in a letter!"
+ ],
+ "labels": [
+  "write.v.02",
+  "write.v.02",
+  "write.v.02",
+  "write.v.02",
+  "write.v.02",
+  "write.v.02",
+  "write.v.02",
+  "write.v.01",
+  "write.v.01",
+  "write.v.01",
+  "write.v.01",
+  "write.v.01",
+  "write.v.01",
+  "write.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

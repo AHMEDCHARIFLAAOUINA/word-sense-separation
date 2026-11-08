@@ -1,0 +1,7 @@
+word: stage
+dataset: data/raw/semcor_words/stage.json
+senses:
+  - phase.n.01
+  - stage.n.03
+n_per_sense: 14
+prefix: "Example sentence: "

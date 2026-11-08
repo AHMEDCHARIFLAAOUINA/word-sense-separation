@@ -1,0 +1,7 @@
+word: bill
+dataset: data/raw/semcor_words/bill.json
+senses:
+  - bill.n.01
+  - bill.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

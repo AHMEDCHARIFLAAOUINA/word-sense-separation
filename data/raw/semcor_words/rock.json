@@ -1,0 +1,41 @@
+{
+ "target_word": "rock",
+ "sentences": [
+  "Example sentence: It may be distant views of a valley or the mountains or natural features such as a small lake, colorful rock formations, or unusual trees.",
+  "Example sentence: `` Too many of our writers seem to be interested only in creatures that crawl out of the woodwork or from under the rock ''.",
+  "Example sentence: Notice should be taken of unusual rock formations, deposits, or shapes of the earth's crust in your region.",
+  "Example sentence: This is the kind of chest that invariably wins contests that steel edged `` carved out of solid rock '' looks of the great champions.",
+  "Example sentence: An unusual, if not extraordinary, rendering of the classic myth that involves the rescue of Prometheus from the rock by the U.S. Cavalry was given last week in the warehouse of the Albany Leather Conduit Company amid cheers of `` Hubba hubba '' and `` Yalagaloo pip pip ''!",
+  "Example sentence: Across the bay the Palisades were heavy in green timber; their rock paths led down to the Hudson.",
+  "Example sentence: These are particularly suitable for regions where water or rock is close to the surface.",
+  "Example sentence: In the search for oil and gas, we make similar waves under controlled conditions with dynamite and learn from them where there are buried rock structures favorable to the accumulation of these resources.",
+  "Example sentence: This shelter could be built in regions where water or rock is close to the surface, making it impractical to build an underground shelter.",
+  "Example sentence: Their secondary hero is another pro, Willie Chisholm, who drank his lunch during another Open and tried to blast his way out of a rock strewn gully."
+ ],
+ "labels": [
+  "rock.n.01",
+  "rock.n.01",
+  "rock.n.01",
+  "rock.n.01",
+  "rock.n.01",
+  "rock.n.02",
+  "rock.n.02",
+  "rock.n.02",
+  "rock.n.02",
+  "rock.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

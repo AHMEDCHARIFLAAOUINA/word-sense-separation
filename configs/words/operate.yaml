@@ -1,0 +1,7 @@
+word: operate
+dataset: data/raw/semcor_words/operate.json
+senses:
+  - operate.v.01
+  - function.v.01
+n_per_sense: 10
+prefix: "Example sentence: "

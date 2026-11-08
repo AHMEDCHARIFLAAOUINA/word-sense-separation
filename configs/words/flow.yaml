@@ -1,0 +1,7 @@
+word: flow
+dataset: data/raw/semcor_words/flow.json
+senses:
+  - flow.n.01
+  - flow.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

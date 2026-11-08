@@ -1,0 +1,53 @@
+{
+ "target_word": "think",
+ "sentences": [
+  "Example sentence: `` I feel good physically '', Hansen added, `` but I think I'll move better carrying a little less weight than I'm carrying now ''.",
+  "Example sentence: `` I think that all Americans will resent deeply the statements made about President Eisenhower by Richard J. Hughes.",
+  "Example sentence: `` Think you can walk to the table ''?",
+  "Example sentence: A half hour later he got her up to go out for breakfast so the Ferraros, hearing them hurrying down the stairs, would think they were going to a late mass.",
+  "Example sentence: `` Do you think you could find me something I could do here at home to make some money, so I could still watch the baby and do the rest of the things ''?",
+  "Example sentence: On the basis of its life history, we like to think that Andrena is more primitive than the bumblebees.",
+  "Example sentence: I don't think he'd mind too much if he were sure you'd decided not to be a rumdum in the future ''.",
+  "Example sentence: You think that Highlands swindled you and I helped ' em do it.",
+  "Example sentence: '' But I still think Penny's an awful nice girl, Russ `` -",
+  "Example sentence: It is true that we must keep up our national defenses and scientific accomplishments; only a fool would think otherwise.",
+  "Example sentence: Toynbee seems to think that there is some other way to give justice social embodiment.",
+  "Example sentence: In the recent political campaign two charges were leveled affecting the question of power, and I think we might begin by trying to put them into proper focus.",
+  "Example sentence: But I think that something more than this is involved.",
+  "Example sentence: I think you're mean and hateful and stupid, and - louder ''? said Joyce."
+ ],
+ "labels": [
+  "think.v.02",
+  "think.v.02",
+  "think.v.02",
+  "think.v.02",
+  "think.v.02",
+  "think.v.02",
+  "think.v.02",
+  "think.v.01",
+  "think.v.01",
+  "think.v.01",
+  "think.v.01",
+  "think.v.01",
+  "think.v.01",
+  "think.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

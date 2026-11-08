@@ -1,0 +1,7 @@
+word: arc
+dataset: data/raw/semcor_words/arc.json
+senses:
+  - discharge.n.05
+  - arc.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

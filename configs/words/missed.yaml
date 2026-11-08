@@ -1,0 +1,7 @@
+word: missed
+dataset: data/raw/semcor_words/missed.json
+senses:
+  - miss.v.01
+  - miss.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

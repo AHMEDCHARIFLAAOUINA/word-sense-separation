@@ -1,0 +1,4 @@
+family,n_models,n_curves,sep_max_median,peak_depth
+LLaMA family,4,3996,0.043790191411972004,0.25
+Qwen family,5,4995,0.03171259164810175,0.375
+BERT-family encoders,4,3996,0.021403658390045127,0.65

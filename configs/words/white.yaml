@@ -1,0 +1,7 @@
+word: white
+dataset: data/raw/semcor_words/white.json
+senses:
+  - white.a.01
+  - white.a.02
+n_per_sense: 15
+prefix: "Example sentence: "

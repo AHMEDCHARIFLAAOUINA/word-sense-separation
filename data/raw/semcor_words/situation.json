@@ -1,0 +1,53 @@
+{
+ "target_word": "situation",
+ "sentences": [
+  "Example sentence: In the absence of a truly adequate conceptuality in which the gospel can be expressed, the unavoidable need to demythologize it makes use of whatever resources are at hand - and this usually means one or another of the various forms of `` folk religion '' current in the situation.",
+  "Example sentence: The bartender measured this situation with heavy eyes and decided he wanted no part of it.",
+  "Example sentence: Getting drunk every night was the only way I could handle the situation.",
+  "Example sentence: One of the more noteworthy changes that have taken place since the mid 19th century is the situation of Catholics at Oxford and Cambridge Universities.",
+  "Example sentence: In order to focus clearly upon the operation of this one force, which we may call the effect of `` public limit pricing '' on `` key '' wage bargains, we deliberately simplify the model by abstracting from other forces, such as union power, which may be relevant in an actual situation.",
+  "Example sentence: Had the situation been reversed, had, for instance, England been the enemy in 1898 because of issues of concern chiefly to New England, there is little doubt that large numbers of Southerners would have happily put on their old Confederate uniforms to fight as allies of Britain.",
+  "Example sentence: And the law virtually ignored the situation.",
+  "Example sentence: One of the beer runners telephoned O ' Banion - on a line tapped by the detective bureau - and reported the situation.",
+  "Example sentence: These polar concerns (imitation vs. formalism) reflect a philosophical and religious situation which has been developing over a long period of time.",
+  "Example sentence: When an evaluative situation is set up, and no concern is with the details that lead to an over-all estimate, we say that roleplaying is used for evaluation.",
+  "Example sentence: Then, abandoning the studies in the face of their promising outlook for all concerned, B. + O. entered on-again-off-again negotiations with C. + O. which resulted in the present situation.",
+  "Example sentence: Sarason et al. present evidence that the anxious child will suffer in the test like situation, and that his performance will be impaired unless he receives supporting and accepting treatment from the teacher.",
+  "Example sentence: The night we saw it, a rather unpleasant situation arose when the soloist refused to approach the armadillo, complaining - in ad-lib - that `` it smelled ''.",
+  "Example sentence: I believe the situation is improving, but the success stories need to be heavily publicized."
+ ],
+ "labels": [
+  "situation.n.01",
+  "situation.n.01",
+  "situation.n.01",
+  "situation.n.01",
+  "situation.n.01",
+  "situation.n.01",
+  "situation.n.01",
+  "situation.n.02",
+  "situation.n.02",
+  "situation.n.02",
+  "situation.n.02",
+  "situation.n.02",
+  "situation.n.02",
+  "situation.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

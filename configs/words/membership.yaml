@@ -1,0 +1,7 @@
+word: membership
+dataset: data/raw/semcor_words/membership.json
+senses:
+  - membership.n.01
+  - membership.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

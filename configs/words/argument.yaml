@@ -1,0 +1,7 @@
+word: argument
+dataset: data/raw/semcor_words/argument.json
+senses:
+  - argument.n.01
+  - controversy.n.01
+n_per_sense: 10
+prefix: "Example sentence: "

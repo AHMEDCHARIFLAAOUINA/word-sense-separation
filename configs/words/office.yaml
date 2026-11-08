@@ -1,0 +1,7 @@
+word: office
+dataset: data/raw/semcor_words/office.json
+senses:
+  - office.n.01
+  - agency.n.01
+n_per_sense: 12
+prefix: "Example sentence: "

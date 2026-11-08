@@ -1,0 +1,7 @@
+word: major
+dataset: data/raw/semcor_words/major.json
+senses:
+  - major.a.01
+  - major.a.02
+n_per_sense: 20
+prefix: "Example sentence: "

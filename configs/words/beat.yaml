@@ -1,0 +1,7 @@
+word: beat
+dataset: data/raw/semcor_words/beat.json
+senses:
+  - beat.v.01
+  - beat.v.03
+n_per_sense: 4
+prefix: "Example sentence: "

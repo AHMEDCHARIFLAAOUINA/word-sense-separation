@@ -1,0 +1,7 @@
+word: like
+dataset: data/raw/semcor_words/like.json
+senses:
+  - wish.v.02
+  - like.v.02
+n_per_sense: 15
+prefix: "Example sentence: "

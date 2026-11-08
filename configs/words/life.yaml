@@ -1,0 +1,7 @@
+word: life
+dataset: data/raw/semcor_words/life.json
+senses:
+  - life.n.01
+  - life.n.02
+n_per_sense: 18
+prefix: "Example sentence: "

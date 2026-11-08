@@ -1,0 +1,47 @@
+{
+ "target_word": "dollars",
+ "sentences": [
+  "Example sentence: `` Three hundred dollars!",
+  "Example sentence: Another put sex on a dollars and cents basis.",
+  "Example sentence: The monthly cost of ADC to more than 100000 recipients in the county is 4.4 million dollars, said C. Virgil Martin, president of Carson Pirie Scott + Co., committee chairman.",
+  "Example sentence: The Colonel ordered that it be wiped out, and I suggested, ' You ask for volunteers, and promise each man on the patrol a quart of whisky, ten dollars and a week-end pass to Davao '.",
+  "Example sentence: I'd forgotten all about Thelma and the Kentucky Derby and how it was Thelma's fifty dollars I was spending.",
+  "Example sentence: It was professedly worth three thousand dollars in stock and good will, and the name was written in gold in foot high letters across each of the two display windows.",
+  "Example sentence: Mrs. Monmouth thought of him as her discovery, and she paid two to three hundred dollars for a painting.",
+  "Example sentence: Since SAAMI's conception in 1926, and more specifically since the adoption of the Shooting Development Program in 1954, millions of dollars and promotional man-hours have gone into the development of more places to shoot for more youths and adults.",
+  "Example sentence: In six years, U. S. aid had amounted to more than $1.60 for each American - a total of three hundred million dollars.",
+  "Example sentence: Carpenters all wanted steady work and at the moment every mother's son for twenty miles around that could hammer nails for twenty-five dollars a day was working on the school job.",
+  "Example sentence: `` We know Penny spent some - and Carmer must have dropped a few dollars getting that load on ''.",
+  "Example sentence: If the retailer and hotelman's downtown unit sales have been decreasing, however, his dollar volume continues to rise, and it is dollars which you put in the bank."
+ ],
+ "labels": [
+  "dollar.n.01",
+  "dollar.n.01",
+  "dollar.n.01",
+  "dollar.n.01",
+  "dollar.n.01",
+  "dollar.n.01",
+  "dollar.n.02",
+  "dollar.n.02",
+  "dollar.n.02",
+  "dollar.n.02",
+  "dollar.n.02",
+  "dollar.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

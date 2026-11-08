@@ -1,0 +1,7 @@
+word: beginning
+dataset: data/raw/semcor_words/beginning.json
+senses:
+  - beginning.n.01
+  - beginning.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

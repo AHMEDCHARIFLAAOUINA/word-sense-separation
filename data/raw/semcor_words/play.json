@@ -1,0 +1,47 @@
+{
+ "target_word": "play",
+ "sentences": [
+  "Example sentence: The process of social control is operative insofar as sanctions play a part in the individual's behavior, as well as the group's behavior.",
+  "Example sentence: There is some evidence that naturally occurring goitrogens may play a role in the development of goitre, particularly in Tasmania and Australia (Clements and Wishart, 1956).",
+  "Example sentence: In general, however, it may be said that when a boy or a girl leaves the high school, the school authorities play little or no part in the decision of what happens next.",
+  "Example sentence: The most effective political inventions seem to make maximum use of natural harbors and are aware that restraining breakwaters can play only a minor part in the whole scheme.",
+  "Example sentence: In view of the important role which emotional disturbances play in the genesis of neurotic and psychotic disorders and the parallelism observed between autonomic states and psychological behavior in several instances, it is further suggested that a hypothalamic imbalance may play an important role in initiating mental changes.",
+  "Example sentence: The effectiveness of the governor in clearing up some of the inconsistencies revolving about the sales tax bill may play a part in determining whether it can muster the required two-thirds vote.",
+  "Example sentence: The Texans have two more road games - at Buffalo and Houston - before they play for the home folks again, and it looks as if coach Hank Stram's men will meet the Bills just as they are developing into the kind of team they were expected to be in pre-season reckonings.",
+  "Example sentence: Bill Kunkel, Bob Hartman and Ed Keegan did the mound chores for the club down from West Palm Beach to play the game before 767 paying customers in Miami Stadium.",
+  "Example sentence: `` We'll let him do a lot of running this week, but I don't know if he'll be able to play ''.",
+  "Example sentence: Although he never gets to play while the clock is running, he gets a big kick - several every Saturday, in fact - out of football.",
+  "Example sentence: `` You must play it where it lies ''.",
+  "Example sentence: They try to play baseball the best they can."
+ ],
+ "labels": [
+  "play.v.02",
+  "play.v.02",
+  "play.v.02",
+  "play.v.02",
+  "play.v.02",
+  "play.v.02",
+  "play.v.01",
+  "play.v.01",
+  "play.v.01",
+  "play.v.01",
+  "play.v.01",
+  "play.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

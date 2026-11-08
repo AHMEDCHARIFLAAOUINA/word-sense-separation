@@ -1,0 +1,35 @@
+{
+ "target_word": "luck",
+ "sentences": [
+  "Example sentence: Damn his luck.",
+  "Example sentence: `` What luck, Cobb ''? he said swiftly.",
+  "Example sentence: The truth was, the puncher was both bewildered and dismayed by his own mixed luck.",
+  "Example sentence: But as the tree passed, she lifted an arm in gesture of better luck and farewell.",
+  "Example sentence: Here's where luck would normally step in.",
+  "Example sentence: As luck had it, he had not gone twenty feet in the street before Pat appeared.",
+  "Example sentence: Some people have luck and some have no luck and that, whatever people who prefer order say, is the size of it.",
+  "Example sentence: `` Just our luck ''! exclaimed Stram."
+ ],
+ "labels": [
+  "fortune.n.04",
+  "fortune.n.04",
+  "fortune.n.04",
+  "fortune.n.04",
+  "luck.n.02",
+  "luck.n.02",
+  "luck.n.02",
+  "luck.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,35 @@
+{
+ "target_word": "marriage",
+ "sentences": [
+  "Example sentence: One of these is the solidarity and the confidential relationship of marriage.",
+  "Example sentence: These trumps were more touching than they were anything else, and seemed to imply that the nights were long, her children ungrateful, and her marriage bewilderingly threadbare.",
+  "Example sentence: Government itself was based upon contract; business organization - the corporation - was analyzed in contractual terms; trade was based on freedom of contract, and money was lent and borrowed on contractual terms; even marriage and the family was seen as a contractual arrangement.",
+  "Example sentence: Finally, it gives sanctity, more than human legitimacy, and even, through super empirical reference, transcendent and supernatural importance to some values; for example, marriage as a sacrament, much law-breaking as sinful, occasionally the state as a divine instrument.",
+  "Example sentence: It might be, indeed it had already proved to be a marriage without love, but it was marriage.",
+  "Example sentence: `` A marriage can survive almost any kind of stress except an open and direct challenge to the husband's maleness '', declares Dr. Calderone.",
+  "Example sentence: It can, in fact, wreck a marriage.",
+  "Example sentence: `` It reflects what is going on in other areas of the marriage and in society itself."
+ ],
+ "labels": [
+  "marriage.n.01",
+  "marriage.n.01",
+  "marriage.n.01",
+  "marriage.n.01",
+  "marriage.n.02",
+  "marriage.n.02",
+  "marriage.n.02",
+  "marriage.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

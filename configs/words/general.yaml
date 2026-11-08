@@ -1,0 +1,7 @@
+word: general
+dataset: data/raw/semcor_words/general.json
+senses:
+  - general.a.01
+  - general.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

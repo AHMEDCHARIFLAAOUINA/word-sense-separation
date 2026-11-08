@@ -1,0 +1,7 @@
+word: snow
+dataset: data/raw/semcor_words/snow.json
+senses:
+  - snow.n.01
+  - snow.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

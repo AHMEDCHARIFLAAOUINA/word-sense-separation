@@ -1,0 +1,7 @@
+word: said
+dataset: data/raw/semcor_words/said.json
+senses:
+  - state.v.01
+  - allege.v.01
+n_per_sense: 10
+prefix: "Example sentence: "

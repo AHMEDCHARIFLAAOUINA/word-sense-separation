@@ -1,0 +1,7 @@
+word: brought
+dataset: data/raw/semcor_words/brought.json
+senses:
+  - bring.v.01
+  - bring.v.02
+n_per_sense: 10
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: significance
+dataset: data/raw/semcor_words/significance.json
+senses:
+  - significance.n.01
+  - significance.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

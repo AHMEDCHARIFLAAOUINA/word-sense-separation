@@ -1,0 +1,7 @@
+word: cells
+dataset: data/raw/semcor_words/cells.json
+senses:
+  - cell.n.02
+  - cell.n.01
+n_per_sense: 10
+prefix: "Example sentence: "

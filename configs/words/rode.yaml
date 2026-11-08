@@ -1,0 +1,7 @@
+word: rode
+dataset: data/raw/semcor_words/rode.json
+senses:
+  - ride.v.02
+  - ride.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

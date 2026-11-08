@@ -1,0 +1,53 @@
+{
+ "target_word": "behavior",
+ "sentences": [
+  "Example sentence: He admitted his behavior, and defended it.",
+  "Example sentence: The interviewers were instructed not to suggest answers and, as much as possible, to record the parents ' actual words as they described the child's behavior in home situations.",
+  "Example sentence: The parent was asked to describe the child's typical behavior in certain standard situations in which there was an opportunity to observe tendencies toward perfectionism in demands upon self and others, irrational conformity to rules, orderliness, punctuality, and need for certainty.",
+  "Example sentence: What elements of our behavior are decisive?",
+  "Example sentence: On being criticized for his arbitrary behavior - he answered: `` I have to make decisions.",
+  "Example sentence: Blanche knew something must be causing Stanley's new, strange behavior but she never once connected it with Kitti Walker.",
+  "Example sentence: In the extreme and oversimplified example suggested in Figure 3, the organization is more easily understood and more predictable in behavior.",
+  "Example sentence: In view of the important role which emotional disturbances play in the genesis of neurotic and psychotic disorders and the parallelism observed between autonomic states and psychological behavior in several instances, it is further suggested that a hypothalamic imbalance may play an important role in initiating mental changes.",
+  "Example sentence: The common codes, for religious action as such and in their ethical aspects for everyday moral behavior, bind the devotees together.",
+  "Example sentence: This is, of course, a similar type of behavior to that indicated by birefringence studies.",
+  "Example sentence: If this is the case, one would expect that not only the various procedures just mentioned which alter the hypothalamic balance would influence emotional state and behavior but that emotion itself would act likewise.",
+  "Example sentence: These are ways of jointly participating in significantly symbolized, standardized, and ordered religiously sanctified behavior.",
+  "Example sentence: Nevertheless, the theory that the determining influence of the hypothalamic balance has a profound influence on the clinical behavior of neuropsychiatric patients has not yet been tested on an adequate number of patients.",
+  "Example sentence: We are forced, in our behavior towards others, to adopt empirically successful patterns in toto because we have such a minimal understanding of their essential elements."
+ ],
+ "labels": [
+  "behavior.n.01",
+  "behavior.n.01",
+  "behavior.n.01",
+  "behavior.n.01",
+  "behavior.n.01",
+  "behavior.n.01",
+  "behavior.n.01",
+  "demeanor.n.01",
+  "demeanor.n.01",
+  "demeanor.n.01",
+  "demeanor.n.01",
+  "demeanor.n.01",
+  "demeanor.n.01",
+  "demeanor.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

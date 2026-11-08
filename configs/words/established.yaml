@@ -1,0 +1,7 @@
+word: established
+dataset: data/raw/semcor_words/established.json
+senses:
+  - establish.v.02
+  - establish.v.01
+n_per_sense: 9
+prefix: "Example sentence: "

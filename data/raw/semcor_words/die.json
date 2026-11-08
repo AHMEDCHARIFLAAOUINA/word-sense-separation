@@ -1,0 +1,47 @@
+{
+ "target_word": "die",
+ "sentences": [
+  "Example sentence: Twice previously the Senate has approved measures backing ETV and the House has let f die.",
+  "Example sentence: If he ever did such a thing again she'd die of shame.",
+  "Example sentence: Or (more commonly, thinks Keys) the deposits themselves get so big that they choke off the artery's flow to the point that an infarct occurs: the heart muscle is suffocated, cells supplied by the artery die, and the heart is permanently, perhaps fatally injured.",
+  "Example sentence: Of course, in this small way of forcing the people to watch as tiny and innocent and dependent creatures die because we're afraid to feed them and afraid to protest and say `` How come?",
+  "Example sentence: `` I would far rather die after a Russian occupation of this country - by some deliberate act of refusal - than die uselessly by atomisation ''.",
+  "Example sentence: It would be a bad place to die.",
+  "Example sentence: Mathematically, we shall not distinguish the experiment of three dice tossed once from that of one die tossed three times.",
+  "Example sentence: Sometimes when there are many outcomes for a single trial, we group these outcomes into two classes, as in the example of the die, where we have arbitrarily constructed the classes `` ace '' and `` not ace ''.",
+  "Example sentence: Or, what amounts to the same thing, if one die is tossed three times, each toss is a trial, and the three tosses form the experiment.",
+  "Example sentence: Each die has probability * * f of producing an ace; the marksman has some probability p, perhaps 0.1, of making a bull's-eye.",
+  "Example sentence: Toss a die until an ace appears.",
+  "Example sentence: If three dice are tossed, a trial is one toss of one die and the experiment is composed of three trials."
+ ],
+ "labels": [
+  "die.v.01",
+  "die.v.01",
+  "die.v.01",
+  "die.v.01",
+  "die.v.01",
+  "die.v.01",
+  "die.n.01",
+  "die.n.01",
+  "die.n.01",
+  "die.n.01",
+  "die.n.01",
+  "die.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

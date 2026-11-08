@@ -1,0 +1,35 @@
+{
+ "target_word": "poured",
+ "sentences": [
+  "Example sentence: The letters which poured forth from camps were usually written under adverse circumstances.",
+  "Example sentence: In and in and in they poured through the gates of Majdanek, but they never left, and Majdanek was not growing any larger.",
+  "Example sentence: These poured through the gate and joined the flight.",
+  "Example sentence: They poured through the opening in the valley, then spread out in a long line to come at us, brandishing their lances and filling the morning with their spine-chilling scalp cry.",
+  "Example sentence: The amount of liquid poured into the chamber is determined by subtracting the quantity still in the beaker when the chamber is full from the original quantity.",
+  "Example sentence: They poured water over their catcher's face.",
+  "Example sentence: Mortar is poured between this bracing and the 4 - inch blocks on edge to complete the wall thickness for radiation shielding.",
+  "Example sentence: He poured the water off the sourdough and off the flour, salvaging the chunky, watery messes for biscuits of a sort."
+ ],
+ "labels": [
+  "pour.v.02",
+  "pour.v.02",
+  "pour.v.02",
+  "pour.v.02",
+  "pour.v.01",
+  "pour.v.01",
+  "pour.v.01",
+  "pour.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: tomorrow
+dataset: data/raw/semcor_words/tomorrow.json
+senses:
+  - tomorrow.n.01
+  - tomorrow.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

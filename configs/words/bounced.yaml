@@ -1,0 +1,7 @@
+word: bounced
+dataset: data/raw/semcor_words/bounced.json
+senses:
+  - bounce.v.01
+  - bounce.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

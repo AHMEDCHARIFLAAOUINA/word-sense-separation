@@ -1,0 +1,35 @@
+{
+ "target_word": "appearance",
+ "sentences": [
+  "Example sentence: Beckett's appearance is rough-hewn Irish.",
+  "Example sentence: And his relatively small hands and feet gave him an almost delicate appearance.",
+  "Example sentence: The values of the site may be affected by the appearance of the adjoining lands, ownership and use of the land, and the utilities available there.",
+  "Example sentence: Altogether he had, since the seizure, the appearance of a boy who overindulged in food and took no exercise.",
+  "Example sentence: Saxton has made only one second-half appearance this season and that was in the Washington State game, for four plays: he returned the kickoff 30 yards, gained five yards through the line and then uncorked a 56 - yard touchdown run before retiring to the bench.",
+  "Example sentence: The pain of the rabbit was not itself bad; nothing evil was happening when that pain was being endured; badness, in the only sense in which it is involved at all, waited for its appearance till I came and looked and felt.",
+  "Example sentence: In my recollection, there was a long interval between the death of the officer and the appearance of the first of the retreating redcoats, and in that interval the dust cloud over the road seems to hover indefinitely.",
+  "Example sentence: Their appearance, next spring, coincides in an almost uncanny way with the flowering of their host plants."
+ ],
+ "labels": [
+  "appearance.n.01",
+  "appearance.n.01",
+  "appearance.n.01",
+  "appearance.n.01",
+  "appearance.n.02",
+  "appearance.n.02",
+  "appearance.n.02",
+  "appearance.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

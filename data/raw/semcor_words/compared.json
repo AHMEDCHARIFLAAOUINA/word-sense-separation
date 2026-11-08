@@ -1,0 +1,41 @@
+{
+ "target_word": "compared",
+ "sentences": [
+  "Example sentence: The cumulative total of construction contracts for the first ten months of 1961 amounted to $634517000, a 4 per cent increase compared to the corresponding period of last year.",
+  "Example sentence: Onsets, Completions, and Skeletal Ages (Hand) of boy 34 and girl 2 may be directly compared and classified, using only those Skeletal Ages which appear immediately below the Onset Profile and the Completion Profile.",
+  "Example sentence: But I have compared its text with already published commentaries on the 1960 series of Godkin lectures at Harvard, from which the book was derived, and I can with confidence challenge the gist of C. P. Snow's incautious tale ''.",
+  "Example sentence: Their autumn tints are all fairly low keyed compared with the fiery stabs of crimson, gold, purple, bronze, blue and vermilion that flame up in North America.",
+  "Example sentence: Considering what is being done compared to what needs to be done, it behooves the hospital management to do some mighty careful planning toward making the best possible use of the increase granted.",
+  "Example sentence: And then think how little hydrogen we have in us compared with the hydrogen in Delaware Bay or in the ocean beyond.",
+  "Example sentence: The award, without interest, compared with a valuation of $57500 placed on the property by the property owners ' real estate expert, and a valuation of $52500 placed on it by the state's expert.",
+  "Example sentence: Estimated annual savings resulting from publication of the Journal and Bulletin on a triservice basis, as compared with the cost of producing separate periodicals for each service, were between $65000 and $70000.",
+  "Example sentence: In scope and power it can only be compared to Tolstoy's War and Peace.",
+  "Example sentence: For example, the level of improvement noted in a recent experiment with a short course of immediate treatment for parent-child relationship problems compared favorably with the results reported by typical child guidance clinics where the hours spent in purely diagnostic study may equal or exceed the number of hours devoted to actual treatment interviews in the experimental project."
+ ],
+ "labels": [
+  "compare.v.01",
+  "compare.v.01",
+  "compare.v.01",
+  "compare.v.01",
+  "compare.v.01",
+  "compare.v.02",
+  "compare.v.02",
+  "compare.v.02",
+  "compare.v.02",
+  "compare.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

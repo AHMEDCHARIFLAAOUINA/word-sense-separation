@@ -1,0 +1,53 @@
+{
+ "target_word": "defined",
+ "sentences": [
+  "Example sentence: A small business is defined as one which is independently owned and operated and which is not dominant in its field.",
+  "Example sentence: Field shifts were derived from the mean value of the resonance line, defined as the field about which the first moment is zero.",
+  "Example sentence: These are defined by a simple involutorial transformation of the points in which a general line meets a nonsingular quadric surface bearing a curve of symbol * * f.",
+  "Example sentence: Strikes should be declared illegal against corporations because disagreements would have to be settled by government representatives acting as controllers of the corporation whose responsibility to the state would now be defined against proprietorship because employees and proprietors must be completely interdependent, as they are each a part of the whole.",
+  "Example sentence: The tapping defined the rhythm and kept the boys awake.",
+  "Example sentence: The distinction between domiciled (de jure) and present (de facto) population was not clearly defined.",
+  "Example sentence: The activities of the Planning Division are defined in considerable detail in the enabling act of the Development Council, which assigns to the agency both broad responsibilities and specific duties in the field of planning.",
+  "Example sentence: Where boundary maintenance describes the boundaries or limits of the group, systemic linkage is defined `` as the process whereby one or more of the elements of at least two social systems is articulated in such a manner that the two systems in some ways and on some occasions may be viewed as a single unit.",
+  "Example sentence: All of the subjects in the Kohnstamm-negative and Kohnstamm-positive groups (as defined for purposes of the personality studies) were compared with those subjects who shifted in Conditions 3, or 4,.",
+  "Example sentence: The international unit is equipotent with the USP unit adopted in 1952, which was defined as the amount of activity present in 20 mg of the USP reference substance.",
+  "Example sentence: An idea, let us say, may be roughly defined as a theme or topic with which our reflection may be concerned.",
+  "Example sentence: The international unit (u.), adopted to make possible the comparison of results from different laboratories (Mussett and Perry, 1955), has been defined as the amount of activity present in 13.5 mg of the International Standard Preparation.",
+  "Example sentence: Dirt, which is here defined as particulate material which is usually inorganic and is very often extremely finely divided so as to exhibit colloidal properties.",
+  "Example sentence: The positive Kohnstamm reactivity in Condition 1, (the nai ^ ve state) is not adequately explained by such a concept as suggestibility (if suggestibility is defined as the influence on behavior by verbal cues)."
+ ],
+ "labels": [
+  "specify.v.03",
+  "specify.v.03",
+  "specify.v.03",
+  "specify.v.03",
+  "specify.v.03",
+  "specify.v.03",
+  "specify.v.03",
+  "define.v.02",
+  "define.v.02",
+  "define.v.02",
+  "define.v.02",
+  "define.v.02",
+  "define.v.02",
+  "define.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

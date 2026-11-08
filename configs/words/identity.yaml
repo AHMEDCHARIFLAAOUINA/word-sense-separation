@@ -1,0 +1,7 @@
+word: identity
+dataset: data/raw/semcor_words/identity.json
+senses:
+  - identity.n.01
+  - identity.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

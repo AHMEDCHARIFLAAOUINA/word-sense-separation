@@ -1,0 +1,41 @@
+{
+ "target_word": "safe",
+ "sentences": [
+  "Example sentence: For such an industry, it is only `` safe '' to raise its price if such an increase is manifestly `` justified '' by rising costs (due to rising wages, etc.).",
+  "Example sentence: The Roman Catholic Church sanctions only abstention or the rhythm method, also known as the use of the infertile or safe period.",
+  "Example sentence: Now you go outside and beckon me when it's safe ''.",
+  "Example sentence: `` Unless the oyabun has been working on it '', he said, then checked himself and added: `` You can tell Kayabashi-san that the back road is in very good condition and will be quite safe for his party to use ''.",
+  "Example sentence: A 10 - gallon garbage can, with a tightly fitting cover, could be used to keep the wastes until it is safe to leave the shelter.",
+  "Example sentence: Unlike the Sicilians, he additionally conducted holdups, robberies, and safe cracking expeditions, and refused to touch prostitution.",
+  "Example sentence: The safe at Ingleside District Station stands next to the gum machine in a narrow passageway that leads to Captain Harris's office (to the left), the lieutenant's office (farther along and to the left) and the janitor's supply closet (straight ahead).",
+  "Example sentence: The safe is a repository for three dead flashlight batteries, a hundred and fifty unused left-hand fingerprint cards, a stack of unsold Policemen's Ball tickets from last year, and thirty-seven cents in coins and stamps.",
+  "Example sentence: Gun set the captain's fifth of Hiram Walker inside the safe before he reported to Lt. Killpath, though he knew that Killpath's ulcer prevented him from making any untoward incursion on Herman Wolff's gift.",
+  "Example sentence: His eyes had the same dreadful rigid stare as Dr. Grimesby Roylott's when he was found before his open safe wearing the speckled band."
+ ],
+ "labels": [
+  "safe.a.01",
+  "safe.a.01",
+  "safe.a.01",
+  "safe.a.01",
+  "safe.a.01",
+  "safe.n.01",
+  "safe.n.01",
+  "safe.n.01",
+  "safe.n.01",
+  "safe.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

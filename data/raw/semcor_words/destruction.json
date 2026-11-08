@@ -1,0 +1,41 @@
+{
+ "target_word": "destruction",
+ "sentences": [
+  "Example sentence: The role of an earthquake in starting the destruction of whole cities is tremendously frightening, but fire may actually be the principal agent in a particular disaster.",
+  "Example sentence: They've worried, they've lain awake nights, they've shook at the slightest footstep, they've pictured their own destruction, and now it's all over and they can give up.",
+  "Example sentence: In this connection it should be capable of being disseminated without excessive destruction.",
+  "Example sentence: `` The discontinuity can either be that of war to destruction, or that of diplomatic policy ''.",
+  "Example sentence: She wouldn't be wilfully planning his destruction.",
+  "Example sentence: It grows terribly and unavoidably in power and leaves in its wake a trail of misery, moral disintegration, and destruction.",
+  "Example sentence: Anyone who tried to remedy some of the most glaring defects in our form of democracy was denounced as a traitorous red whose real purpose was the destruction of our government.",
+  "Example sentence: Jonathan wrote grimly of the destruction of Harpers Ferry before they abandoned it; of their first engagement at Falling Waters after Old Jack's First Brigade had destroyed all the rolling stock of the B + O Railroad.",
+  "Example sentence: In fact the accumulation of the hardware of destruction is day by day increasing our fear of each other.",
+  "Example sentence: A dead armadillo, the sole occupant of the stage, symbolizes the crisis and destruction of the Old Order."
+ ],
+ "labels": [
+  "destruction.n.01",
+  "destruction.n.01",
+  "destruction.n.01",
+  "destruction.n.01",
+  "destruction.n.01",
+  "destruction.n.02",
+  "destruction.n.02",
+  "destruction.n.02",
+  "destruction.n.02",
+  "destruction.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

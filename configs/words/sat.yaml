@@ -1,0 +1,7 @@
+word: sat
+dataset: data/raw/semcor_words/sat.json
+senses:
+  - sit.v.01
+  - sit.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

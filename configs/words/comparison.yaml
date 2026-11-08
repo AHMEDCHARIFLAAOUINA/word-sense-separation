@@ -1,0 +1,7 @@
+word: comparison
+dataset: data/raw/semcor_words/comparison.json
+senses:
+  - comparison.n.01
+  - comparison.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

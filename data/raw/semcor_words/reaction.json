@@ -1,0 +1,41 @@
+{
+ "target_word": "reaction",
+ "sentences": [
+  "Example sentence: This latter reaction is in accord with the reported decomposition of **f.",
+  "Example sentence: The samples for liquid phase thermal reaction studies were prepared in Pyrex capillary tubing 2.5 mm. i.d. and about 15 cm. long.",
+  "Example sentence: Rather large differences were still found between reaction cells from different manifold fillings.",
+  "Example sentence: In studying the liquid phase thermal reaction, some 70 tubes from 12 different manifold fillings were prepared and analyzed.",
+  "Example sentence: Some 80 reaction tubes from 13 manifold fillings were illuminated in the temperature range from 40 to 85 ` in a further endeavor to determine the cause of the irreproducibility and to obtain information on the activation energy and the effect of light intensity.",
+  "Example sentence: Where the industry's product price has been kept below the `` profit maximizing '' and `` entry limiting '' prices due to fears of public reaction, the profit seeking producers have an interest in offering little real resistance to wage demands.",
+  "Example sentence: Not terror, but anger and resentment have been the general reaction outside the Soviet sphere.",
+  "Example sentence: That much of what he calls folklore is the result of beliefs carefully sown among the people with the conscious aim of producing a desired mass emotional reaction to a particular situation or set of situations is irrelevant.",
+  "Example sentence: O ' Banion's reaction was:",
+  "Example sentence: In the eastern section of the state the newspapers ' reaction to Brown's trial and sentence were basically identical."
+ ],
+ "labels": [
+  "chemical_reaction.n.01",
+  "chemical_reaction.n.01",
+  "chemical_reaction.n.01",
+  "chemical_reaction.n.01",
+  "chemical_reaction.n.01",
+  "reaction.n.02",
+  "reaction.n.02",
+  "reaction.n.02",
+  "reaction.n.02",
+  "reaction.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,47 @@
+{
+ "target_word": "literature",
+ "sentences": [
+  "Example sentence: It is at least possible that the capacity to postpone gratification is developed as well as expressed in a continuous and guided exposure to great literature.",
+  "Example sentence: We may thus trace the notion of individual autonomy from its manifestation in religious practice and theological reflection through practical politics and political theory into literature and the arts.",
+  "Example sentence: One of the most frequent views of the value of literature is the education of sensibility that it is thought to provide.",
+  "Example sentence: Anyone who has watched children develop a taste for literature will understand what I mean.",
+  "Example sentence: Still, it would be surprising if what one reads did not contribute to one's ideas of right and wrong; certainly the awakened alarm over the comic books and the continuous concern over prurient literature indicate some peripheral aspects of this influence.",
+  "Example sentence: But the historian of literature need not confine his attention to biography or to stylistic questions of form, `` texture '', or technique.",
+  "Example sentence: My curiosity was sharpened a day or two before the interview by a conversation I had with a well-informed teacher of literature, a Jesuit father, at a conference on religious drama near Paris.",
+  "Example sentence: `` You and I have fallen out of literature into politics '', Moreland observed.",
+  "Example sentence: His earlier love for literature and history remained with him for his entire life.",
+  "Example sentence: Being a teacher of American literature, I remembered Whittier's `` Massachusetts to Virginia '', where he said: `` But that one dark loathsome burden ye must stagger with alone, And reap the bitter harvest which ye yourselves have sown ''.",
+  "Example sentence: It is through such reflection that literature approaches philosophy.",
+  "Example sentence: He not only knew soldiering, but mathematics, history and literature as well."
+ ],
+ "labels": [
+  "literature.n.01",
+  "literature.n.01",
+  "literature.n.01",
+  "literature.n.01",
+  "literature.n.01",
+  "literature.n.01",
+  "literature.n.02",
+  "literature.n.02",
+  "literature.n.02",
+  "literature.n.02",
+  "literature.n.02",
+  "literature.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: assured
+dataset: data/raw/semcor_words/assured.json
+senses:
+  - guarantee.v.02
+  - assure.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

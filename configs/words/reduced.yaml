@@ -1,0 +1,7 @@
+word: reduced
+dataset: data/raw/semcor_words/reduced.json
+senses:
+  - reduce.v.01
+  - reduce.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

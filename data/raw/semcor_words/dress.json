@@ -1,0 +1,47 @@
+{
+ "target_word": "dress",
+ "sentences": [
+  "Example sentence: The man wore a vest and a tie, the woman had on a dark green dress and three strands of pearls.",
+  "Example sentence: There was a little blood on the hem of her dress, for the assassin had slashed Miss Harris's companion, Major Rathbone, with a knife.",
+  "Example sentence: She was wearing a brown cotton dress, cut across the hips in a way that was supposed to make her look slimmer, a yoke set into the skirt and flaring pleats below.",
+  "Example sentence: This saleslady was a failure in the dress department and was transferred to the shoe department.",
+  "Example sentence: From what I was able to gauge in a swift, greedy glance, the figure inside the coral colored boucle dress was stupefying.",
+  "Example sentence: Still, he had liked the way she had looked, in a fresh, neat cotton dress - citron yellow, if he remembered.",
+  "Example sentence: (Music often sounds best to me when I can dress informally and sit in something more comfortable than a theatre seat.)",
+  "Example sentence: High school students have more sense of the way to dress than college students.",
+  "Example sentence: You could set up tables in the front room and serve salads and your baked beans and brown bread and Grandma could dress like a gypsy and tell fortunes ''.",
+  "Example sentence: The Jewish working girl almost invariably works in an office - in contradistinction to gentile factory workers - and, buttressed by a respectable income, she is likely to dress better and live more expansively than the college student.",
+  "Example sentence: The doctor stood about, waiting for Alex to dress, with a show of impatience, and soon they were moving, as quietly as could be, through the still dark hallways, past the bedroom of the patronne, and so into the street.",
+  "Example sentence: `` Ex-cuse me '', he said in Berlitz English, and got up and left them, to bathe and dress."
+ ],
+ "labels": [
+  "dress.n.01",
+  "dress.n.01",
+  "dress.n.01",
+  "dress.n.01",
+  "dress.n.01",
+  "dress.n.01",
+  "dress.v.01",
+  "dress.v.01",
+  "dress.v.01",
+  "dress.v.01",
+  "dress.v.01",
+  "dress.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: glance
+dataset: data/raw/semcor_words/glance.json
+senses:
+  - glance.n.01
+  - glance.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

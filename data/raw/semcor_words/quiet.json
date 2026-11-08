@@ -1,0 +1,47 @@
+{
+ "target_word": "quiet",
+ "sentences": [
+  "Example sentence: The campaign leading to the election was not so quiet, however.",
+  "Example sentence: All was quiet in the office of the Yankees and the local National Leaguers yesterday.",
+  "Example sentence: Instead Sergeant Early was quiet, sharp and confident.",
+  "Example sentence: It was nine o ' clock in the morning: the hour which, like a spade turning clods of earth, exposed to the day a myriad of busy creatures that had lain dormant in the quiet night.",
+  "Example sentence: But the scene was not the quiet, calm scene I'd expected.",
+  "Example sentence: They held the funeral the next morning from the crossroads church and buried the little box in the quiet family plot.",
+  "Example sentence: In a stream that turns a mill-wheel there is a lot of water; the mill-pond is quiet, its surface dark and shadowed, and there does not seem to be much water in it.",
+  "Example sentence: So they stayed quiet and hung not on what he said but on how he said it, not listening exactly, but rather, feeling.",
+  "Example sentence: Phil was very quiet.",
+  "Example sentence: The place was quiet.",
+  "Example sentence: `` We just sit quiet and wait '', Prevot had said.",
+  "Example sentence: The twenty-five year old recording offers rather faded string tone, but the balance between the instruments is good and the transfer is very quiet."
+ ],
+ "labels": [
+  "quiet.a.01",
+  "quiet.a.01",
+  "quiet.a.01",
+  "quiet.a.01",
+  "quiet.a.01",
+  "quiet.a.01",
+  "quiet.a.02",
+  "quiet.a.02",
+  "quiet.a.02",
+  "quiet.a.02",
+  "quiet.a.02",
+  "quiet.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

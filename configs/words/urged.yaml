@@ -1,0 +1,7 @@
+word: urged
+dataset: data/raw/semcor_words/urged.json
+senses:
+  - urge.v.01
+  - recommend.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

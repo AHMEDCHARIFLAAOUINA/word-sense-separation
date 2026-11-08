@@ -1,0 +1,7 @@
+word: director
+dataset: data/raw/semcor_words/director.json
+senses:
+  - director.n.01
+  - director.n.03
+n_per_sense: 6
+prefix: "Example sentence: "

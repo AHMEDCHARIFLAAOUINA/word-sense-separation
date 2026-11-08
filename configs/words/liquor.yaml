@@ -1,0 +1,7 @@
+word: liquor
+dataset: data/raw/semcor_words/liquor.json
+senses:
+  - liquor.n.01
+  - liquor.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

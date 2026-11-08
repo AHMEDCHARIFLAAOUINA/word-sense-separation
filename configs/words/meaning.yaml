@@ -1,0 +1,7 @@
+word: meaning
+dataset: data/raw/semcor_words/meaning.json
+senses:
+  - meaning.n.01
+  - meaning.n.02
+n_per_sense: 16
+prefix: "Example sentence: "

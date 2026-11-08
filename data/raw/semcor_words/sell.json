@@ -1,0 +1,35 @@
+{
+ "target_word": "sell",
+ "sentences": [
+  "Example sentence: As an added suggestion to balance the budget, the Government could sell advertising space on the Washington Monument.",
+  "Example sentence: Last year Beyeler arranged to sell $1500000 worth of Klees to the state of North Rhine-Westphalia, which will house them in a museum that is yet to be built.",
+  "Example sentence: Then if you change jobs you wonn't necessarily have to sell the farm.",
+  "Example sentence: The youngsters sell stock, produce and sell a product, pay taxes, and show a profit or loss just like full-scale businesses.",
+  "Example sentence: Publishers want books that will sell, recording studios want discs that will not seem strange to ears used to hillbilly and jazz music, grade and high schools want quaint, but moral, material.",
+  "Example sentence: The British coal industry is unprofitable, has large coal stocks it cann't sell.",
+  "Example sentence: The finished - and drastically cut - product would begin with a hazy longshot of Joyce entering the suds, then bursting above the pool's surface clad in layers of lavender lather, and I had a hunch this item was going to sell tons and tons of soap; even to clean men and boys.",
+  "Example sentence: Now, if Morton's newest product, a corn chip known as Chip-o's, turns out to sell as well as its stock did, the stock may turn out to be worth every cent of the prices that the avid buyers bid it up to."
+ ],
+ "labels": [
+  "sell.v.01",
+  "sell.v.01",
+  "sell.v.01",
+  "sell.v.01",
+  "sell.v.02",
+  "sell.v.02",
+  "sell.v.02",
+  "sell.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

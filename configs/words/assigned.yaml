@@ -1,0 +1,7 @@
+word: assigned
+dataset: data/raw/semcor_words/assigned.json
+senses:
+  - delegate.v.02
+  - assign.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

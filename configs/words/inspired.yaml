@@ -1,0 +1,7 @@
+word: inspired
+dataset: data/raw/semcor_words/inspired.json
+senses:
+  - inspire.v.01
+  - inspire.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

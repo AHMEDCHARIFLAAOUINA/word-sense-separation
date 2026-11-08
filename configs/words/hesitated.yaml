@@ -1,0 +1,7 @@
+word: hesitated
+dataset: data/raw/semcor_words/hesitated.json
+senses:
+  - hesitate.v.02
+  - hesitate.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: resistance
+dataset: data/raw/semcor_words/resistance.json
+senses:
+  - resistance.n.02
+  - resistance.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

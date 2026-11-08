@@ -1,0 +1,7 @@
+word: project
+dataset: data/raw/semcor_words/project.json
+senses:
+  - undertaking.n.01
+  - project.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

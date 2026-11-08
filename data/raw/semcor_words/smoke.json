@@ -1,0 +1,35 @@
+{
+ "target_word": "smoke",
+ "sentences": [
+  "Example sentence: She took Glendora to the smokehouse, unlocked it and saw with satisfaction there was still a quantity of hams and sides of bacon, hanging from the smoke stained rafters.",
+  "Example sentence: Al's Little Cafe was small, dark, narrow, and filled with the mingled scent of beer, tobacco smoke, and Italian cooking.",
+  "Example sentence: The third level leans on a belief that a lot of smoke means some fire.",
+  "Example sentence: `` Seems to me last time I was here the grate bellowed out smoke as it might have been preparing us for hell ''.",
+  "Example sentence: And as for his pipe, if he wanted to smoke one, nobody would stop him.",
+  "Example sentence: And the hours were six-thirty in the morning until eleven at night on Saturdays and during sales, and there were no chairs and you couldn't smoke and the cooling was overhead fans and there was no porter or janitor.",
+  "Example sentence: He would order her to bring coffee, and would take from his vest pocket a thin black pipe which he would stuff - he would not remove his gloves - and light and smoke.",
+  "Example sentence: `` It's all right to smoke, but make sure your cigarettes are out before you leave."
+ ],
+ "labels": [
+  "smoke.n.01",
+  "smoke.n.01",
+  "smoke.n.01",
+  "smoke.n.01",
+  "smoke.v.01",
+  "smoke.v.01",
+  "smoke.v.01",
+  "smoke.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

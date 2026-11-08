@@ -1,0 +1,47 @@
+{
+ "target_word": "market",
+ "sentences": [
+  "Example sentence: In addition to this the U. S. Civil Service Bureau, when examining applicants for government positions as interior designers, expects that `` when various needed objects are not obtainable on the market he will design them.",
+  "Example sentence: Solutions frequently suggest themselves when you accurately pinpoint your problems, whether they be in the market, in marketing methods or in marketing management.",
+  "Example sentence: Is your R + D or product development program tuned in to the commercial realities of the market?",
+  "Example sentence: If, in the trustee's judgment, `` reasonable market conditions '' did not prevail during any given year, he was to be allowed to petition the court for an extension of time within the ten year period.",
+  "Example sentence: If you are up against private brand competition, have you formulated a long-term program for researching and strengthening your market position?",
+  "Example sentence: Second, in a competitive market, the customer feels his weight and throws it around.",
+  "Example sentence: In the household market, there are also low-sudsing detergent formulations based on nonionic actives with about the same amount of phosphate builder; light-duty synthetic detergents with much less builder; and the dwindling built soap powders as well as soap flakes and granules, none of which are now nationally advertised.",
+  "Example sentence: `` And I sort o ' got a corner on the market ''.",
+  "Example sentence: The market today for detergent builders is quite diverse.",
+  "Example sentence: A former du Pont official became a General Motors vice president and set about maximizing du Pont's share of the General Motors market.",
+  "Example sentence: Are you looking ahead to the exploding market of millions of American boys and girls, who will grow up to enjoy a traditional American way of life - ranging the fields with a fine American gun and uniformly excellent ammunition?",
+  "Example sentence: Guidance and advice are available on new product research and development; new product potential; processing methods; product and market developments; new industrial uses for raw, semi-processed and waste materials; and industrial uses for agricultural products."
+ ],
+ "labels": [
+  "market.n.01",
+  "market.n.01",
+  "market.n.01",
+  "market.n.01",
+  "market.n.01",
+  "market.n.01",
+  "market.n.02",
+  "market.n.02",
+  "market.n.02",
+  "market.n.02",
+  "market.n.02",
+  "market.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: phase
+dataset: data/raw/semcor_words/phase.json
+senses:
+  - phase.n.02
+  - phase.n.01
+n_per_sense: 15
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "medical",
+ "sentences": [
+  "Example sentence: Can you share medical facilities and staff with neighboring plants?",
+  "Example sentence: All comments concerning effectiveness and use of drugs have been carefully reviewed by a veterinary medical officer with FDA.",
+  "Example sentence: Also, beware of open end policies, especially in the medical field.",
+  "Example sentence: Multiply these figures by the millions of people known to be conned by medical pirates annually.",
+  "Example sentence: The host of novel applications of electronics to medical problems is far more thrilling because of their implication in matters concerning our health and vitality.",
+  "Example sentence: The laws of many states permit birth control only for medical reasons.",
+  "Example sentence: Pope Pius 12, declared in 1951 that it is possible to be exempt from the normal obligation of parenthood for a long time and even for the whole duration of married life, if there are serious reasons, such as those often mentioned in the so-called medical, eugenic, economic and social `` indications ''.",
+  "Example sentence: Rather, it is typical of the thousands of quacks who use phony therapeutic devices to fatten themselves on the miseries of hundreds of thousands of Americans by robbing them of millions of dollars and luring them away from legitimate, ethical medical treatment of serious diseases."
+ ],
+ "labels": [
+  "medical.a.01",
+  "medical.a.01",
+  "medical.a.01",
+  "medical.a.01",
+  "medical.a.02",
+  "medical.a.02",
+  "medical.a.02",
+  "medical.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

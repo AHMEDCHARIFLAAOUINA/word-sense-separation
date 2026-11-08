@@ -1,0 +1,7 @@
+word: similar
+dataset: data/raw/semcor_words/similar.json
+senses:
+  - similar.a.01
+  - alike.a.01
+n_per_sense: 5
+prefix: "Example sentence: "

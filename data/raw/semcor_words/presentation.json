@@ -1,0 +1,35 @@
+{
+ "target_word": "presentation",
+ "sentences": [
+  "Example sentence: Subject to the limitations of this Act, the Secretary shall make stabilization payments to small domestic producers upon presentation of evidence satisfactory to him of their status as such producers and of the sale by them of newly mined ores, or concentrates produced therefrom, as provided in this Act.",
+  "Example sentence: Despite the clarity of his presentation, his idea was not of Einsteinian calibre.",
+  "Example sentence: When helped by a high degree of structure in lesson presentation, then, and only then, does such a child attain unusual success.",
+  "Example sentence: In fact, O ' Connor was honoured during the ceremony with the presentation of a $2500 diamond stickpin.",
+  "Example sentence: The Albany Civic Opera's presentation of Spumoni's immortal Il Sevigli del Spegititgninino, with guest contralto Hattie Sforzt.",
+  "Example sentence: The mimetic character of the imaginative consciousness tends to express itself in the presentation of artistic forms and materials.",
+  "Example sentence: As in experience one is seized by given entities and their interrelations and is forced to respond in value feelings to them, so one is similarly seized in the mimetic presentation of images.",
+  "Example sentence: By `` image '' is meant not only a visual presentation, but also remembered sensations of any of the five senses plus the feelings which are immediately conjoined therewith."
+ ],
+ "labels": [
+  "presentation.n.01",
+  "presentation.n.01",
+  "presentation.n.01",
+  "presentation.n.01",
+  "presentation.n.03",
+  "presentation.n.03",
+  "presentation.n.03",
+  "presentation.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: located
+dataset: data/raw/semcor_words/located.json
+senses:
+  - locate.v.01
+  - situate.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

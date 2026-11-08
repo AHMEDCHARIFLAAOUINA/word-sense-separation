@@ -1,0 +1,7 @@
+word: smelled
+dataset: data/raw/semcor_words/smelled.json
+senses:
+  - smell.v.02
+  - smell.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

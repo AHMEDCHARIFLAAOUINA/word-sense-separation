@@ -1,0 +1,7 @@
+word: danger
+dataset: data/raw/semcor_words/danger.json
+senses:
+  - danger.n.01
+  - risk.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

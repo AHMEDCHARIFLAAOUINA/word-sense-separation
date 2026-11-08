@@ -1,0 +1,7 @@
+word: situation
+dataset: data/raw/semcor_words/situation.json
+senses:
+  - situation.n.01
+  - situation.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

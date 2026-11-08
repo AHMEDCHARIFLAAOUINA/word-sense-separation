@@ -1,0 +1,47 @@
+{
+ "target_word": "gathered",
+ "sentences": [
+  "Example sentence: NBC had gathered a lot of historical material which it was eager to share.",
+  "Example sentence: And she felt amply rewarded for her suffering when the evidence of Lee's quack shenanigans, gathered by the tape recorder under her friend's clothing, proved adequate in court for convicting Franklin D. Lee.",
+  "Example sentence: Moisture ran down the cheeks, gathered at the tip of the nose, and at the chin.",
+  "Example sentence: Much information has been gathered relative to quantitative sampling and assessment techniques.",
+  "Example sentence: They gathered roots, bulbs, odd ferns, leaves, and bits of resin from the rare Santa Lucia fir, which exists only on a forty-five mile strip on the westerly side of these mountains.",
+  "Example sentence: Hank had gathered wood for a cookfire, and his wife was busy at it now.",
+  "Example sentence: Inside, as soon as Mr. Skopas had disclosed - in a hoarse whisper - the detective's errand, his family gathered in a huddle, forming a mass of dark flesh on and around a brocaded sofa which stood at one side of a baroque fireplace.",
+  "Example sentence: Before daylight Sunday morning, a posse of twenty-three men under the leadership of Deputy Sheriff Frank MacPherson of Catskill followed the trail to the house of Francisco Chaves, where 100 to 150 Mexicans had gathered.",
+  "Example sentence: More than 250 Scottish Rite Masons and guests gathered in their House of the Temple to pay tribute to their most prominent leader, Albert Pike, who headed the Scottish Rite from 1859 to 1891.",
+  "Example sentence: Undismayed by this contretemps, a small band of the faithful gathered at Lauchli's home at 6: 30 A. M. the next day, put on their uniforms, and headed for a farm several miles away.",
+  "Example sentence: Many of the music-loving members of the President's staff gathered around the tent listening and watching the rapt attention given by the young seated audience.",
+  "Example sentence: We will recall that the still confident liberals of the Truman administration gathered with other Western utopians in San Francisco to set up the legal framework, finally and at last, to rationalize war - to rationalize want and fear - out of the world: the United Nations."
+ ],
+ "labels": [
+  "gather.v.01",
+  "gather.v.01",
+  "gather.v.01",
+  "gather.v.01",
+  "gather.v.01",
+  "gather.v.01",
+  "meet.v.07",
+  "meet.v.07",
+  "meet.v.07",
+  "meet.v.07",
+  "meet.v.07",
+  "meet.v.07"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

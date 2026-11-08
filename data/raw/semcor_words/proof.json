@@ -1,0 +1,53 @@
+{
+ "target_word": "proof",
+ "sentences": [
+  "Example sentence: The reader will find it helpful to think of the special case when the primes are of degree 1, and even more particularly, to think of the proof of Theorem 10, a special case of this theorem.",
+  "Example sentence: The idea of the proof is this.",
+  "Example sentence: This completes the proof of statement (a).",
+  "Example sentence: We shall show that the polynomials * * f behave in the manner described in the first paragraph of the proof.",
+  "Example sentence: In the notation of the proof of Theorem 12, let us take a look at the special case in which the minimal polynomial for T is a product of first degree polynomials, i.e., the case in which each * * f is of the form * * f.",
+  "Example sentence: If T is a linear operator on an arbitrary vector space and if there is a monic polynomial p such that * * f, then parts (a) and (b) of Theorem 12 are valid for T with the proof which we gave.",
+  "Example sentence: Both men and women of twenty-one years of age could register and vote upon presenting proof of residence and identification.",
+  "Example sentence: A good many beef hungry settlers were accepting the death of William Lewis as proof that the warning notes were not idle threats.",
+  "Example sentence: Also, reserve the right to demand proof of death despite the fact that you'll probably never use it.",
+  "Example sentence: Along these lines, the particular point that sensitivity in literature leads to sensitivity in human relations would require more proof than I have seen.",
+  "Example sentence: The final proof was a small incident.",
+  "Example sentence: The appointment of U Thant of Burma as the U.N.'s Acting Secretary General - at this writing, the choice appears to be certain - offers further proof that in politics it is more important to have no influential enemies than to have influential friends.",
+  "Example sentence: They also furnish proof that, in modern war, message sending must be monitored.",
+  "Example sentence: I must confess that I prefer the Liberal who is personally affected, who is willing to send his own children to a mixed school as proof of his faith."
+ ],
+ "labels": [
+  "proof.n.02",
+  "proof.n.02",
+  "proof.n.02",
+  "proof.n.02",
+  "proof.n.02",
+  "proof.n.02",
+  "proof.n.02",
+  "proof.n.01",
+  "proof.n.01",
+  "proof.n.01",
+  "proof.n.01",
+  "proof.n.01",
+  "proof.n.01",
+  "proof.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,47 @@
+{
+ "target_word": "fit",
+ "sentences": [
+  "Example sentence: International law had to fit the conditions of Europe, and nothing that could not fit this system, or the interests of the great European nations collectively, could possibly emerge as law in any meaningful sense.",
+  "Example sentence: Walnut, wormy chestnut, pecan, three varieties of burl, hand-woven Philippine cane, ceramic tiles, marble are used to emphasize the feeling of texture and of permanence, the furniture to fit into rooms with tiled floors, brick or paneled walls, windows that bring in the outdoors.",
+  "Example sentence: Thus, theory and doctrine applicable among the great nations and the smaller European states did not really comfortably fit less developed and less powerful societies elsewhere.",
+  "Example sentence: The District Courts, in the framing of equitable decrees, are clothed ' with large discretion to model their judgments to fit the exigencies of the particular case '.",
+  "Example sentence: He will know that general policy papers written months before may not fit his problem because of crucial changes in circumstance.",
+  "Example sentence: There is nothing to suggest that the brain can alter past impressions to fit into an original, realistic and unbroken continuity like we experience in dreams.",
+  "Example sentence: Check fit of lid on jar; if inner lid is too big, trim to fit, allowing room for thickness of glaze.",
+  "Example sentence: Occlusion is the dentist's expression for the way teeth fit together when the jaws are closed.",
+  "Example sentence: A cardboard pattern cut to fit inside holder will help to prevent warping.",
+  "Example sentence: These blocks are sold in various sizes so it seldom is necessary to cut a block to fit.",
+  "Example sentence: The failure of teeth to fit together when closed interferes with normal chewing, so that a child may swallow food whole and put a burden on his digestive system.",
+  "Example sentence: All matching surfaces should be checked frequently and mated on a cut and fit basis."
+ ],
+ "labels": [
+  "suit.v.01",
+  "suit.v.01",
+  "suit.v.01",
+  "suit.v.01",
+  "suit.v.01",
+  "suit.v.01",
+  "fit.v.02",
+  "fit.v.02",
+  "fit.v.02",
+  "fit.v.02",
+  "fit.v.02",
+  "fit.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

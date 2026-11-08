@@ -1,0 +1,7 @@
+word: cast
+dataset: data/raw/semcor_words/cast.json
+senses:
+  - cast.n.01
+  - project.v.10
+n_per_sense: 6
+prefix: "Example sentence: "

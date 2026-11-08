@@ -1,0 +1,35 @@
+{
+ "target_word": "derived",
+ "sentences": [
+  "Example sentence: When values of temperature derived with this instrument were compared with the accepted values associated with liquid helium 4 vapor pressures, differences of about 10 and 7 millidegrees respectively were found.",
+  "Example sentence: Note that the mass scale is one to two orders of magnitude greater than some previously used; for example, Jacchia (1948) derived a scale of 0.15 g for a * * f, zero magnitude meteorite.",
+  "Example sentence: The value derived was 16 microseconds.",
+  "Example sentence: A measure of its widespread acceptance may be derived from a statement of the International Congress of Jurists in 1959.",
+  "Example sentence: The full forms can be derived from such information just prior to the lookup of the form in the text form list.",
+  "Example sentence: The Ch ' an (Zen) sect may have derived its metaphysic from Mahayana, but its psychology was pure early Taoist.",
+  "Example sentence: The answers derived by these means may determine not only the temporal organization of the dance but also its spatial design, special slips designating the location on the stage where the movement is to be performed.",
+  "Example sentence: This pleural supply is derived both from hilar and interlobular bronchial artery branches."
+ ],
+ "labels": [
+  "deduce.v.01",
+  "deduce.v.01",
+  "deduce.v.01",
+  "deduce.v.01",
+  "derive.v.02",
+  "derive.v.02",
+  "derive.v.02",
+  "derive.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

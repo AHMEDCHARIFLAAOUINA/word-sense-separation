@@ -1,0 +1,41 @@
+{
+ "target_word": "nuclear",
+ "sentences": [
+  "Example sentence: The Strategic Air Command is the principal element of our long range nuclear capability.",
+  "Example sentence: We have also developed techniques for recognizing and locating underground nuclear tests through the waves in the ground which they generate.",
+  "Example sentence: Khrushchev himself is reported to be concerned by the surge of animosity he has aroused, yet our own nuclear statesmen seem intent on following compulsively in his footsteps.",
+  "Example sentence: We simply cann't tolerate further Russian weapons, including the possibility of long-range nuclear missiles, being located in Cuba.",
+  "Example sentence: Let's throw a little nuclear hardware at them and show them who's boss ''.",
+  "Example sentence: Hence, the electron paramagnetic effects (slope) can be separated from the nuclear effects (intercept).",
+  "Example sentence: The nuclear dipole effects provide some information on the motions of the hydrogen nuclei, but the symmetry of the **f bond in **f remains in doubt.",
+  "Example sentence: Indeed it is possible to separate electron paramagnetic from nuclear effects.",
+  "Example sentence: The information provided by the electron paramagnetic effects is then discussed, and finally the nuclear effects are interpreted in terms of various motional modified models of the **f bond in **f.",
+  "Example sentence: **f is paramagnetic, and electron paramagnetic dipole as well as nuclear dipole effects lead to line broadening."
+ ],
+ "labels": [
+  "nuclear.a.01",
+  "nuclear.a.01",
+  "nuclear.a.01",
+  "nuclear.a.01",
+  "nuclear.a.01",
+  "nuclear.a.02",
+  "nuclear.a.02",
+  "nuclear.a.02",
+  "nuclear.a.02",
+  "nuclear.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

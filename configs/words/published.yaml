@@ -1,0 +1,7 @@
+word: published
+dataset: data/raw/semcor_words/published.json
+senses:
+  - print.v.01
+  - publish.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

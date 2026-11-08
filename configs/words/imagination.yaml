@@ -1,0 +1,7 @@
+word: imagination
+dataset: data/raw/semcor_words/imagination.json
+senses:
+  - imagination.n.01
+  - imagination.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

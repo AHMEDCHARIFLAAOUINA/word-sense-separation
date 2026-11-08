@@ -1,0 +1,7 @@
+word: offer
+dataset: data/raw/semcor_words/offer.json
+senses:
+  - offer.v.01
+  - offer.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

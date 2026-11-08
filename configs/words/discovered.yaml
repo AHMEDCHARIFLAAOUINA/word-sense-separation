@@ -1,0 +1,7 @@
+word: discovered
+dataset: data/raw/semcor_words/discovered.json
+senses:
+  - discover.v.03
+  - learn.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

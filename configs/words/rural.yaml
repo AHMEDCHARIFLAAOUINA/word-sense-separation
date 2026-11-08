@@ -1,0 +1,7 @@
+word: rural
+dataset: data/raw/semcor_words/rural.json
+senses:
+  - rural.a.01
+  - rural.a.02
+n_per_sense: 7
+prefix: "Example sentence: "

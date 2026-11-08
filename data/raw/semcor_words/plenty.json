@@ -1,0 +1,41 @@
+{
+ "target_word": "plenty",
+ "sentences": [
+  "Example sentence: That'll be plenty to eat by ''.",
+  "Example sentence: He's getting plenty of rest ''.",
+  "Example sentence: She's got plenty of guts, Mr. Paxton.",
+  "Example sentence: `` Hell, plenty of guys get let out and come back later.",
+  "Example sentence: `` We've got plenty of time to think about that.",
+  "Example sentence: `` We wonn't live long enough if I wait for you, besides which you don't need to worry - there'll be plenty more ''.",
+  "Example sentence: I would tell them I got a letter from home stating that five of my Negroes had run away and ten of Pappies But I wold say I recond he did not mind it for he had a plenty more left and then they would lean to me like a sore eyd kitten to a basin of milk ''.",
+  "Example sentence: Yes, there was plenty of water, too much, and that was probably the trouble.",
+  "Example sentence: It's plenty warm ''.",
+  "Example sentence: There would still be plenty of moments of regret and sadness and guilty relief."
+ ],
+ "labels": [
+  "plenty.n.01",
+  "plenty.n.01",
+  "plenty.n.01",
+  "plenty.n.01",
+  "plenty.n.01",
+  "enough.r.01",
+  "enough.r.01",
+  "enough.r.01",
+  "enough.r.01",
+  "enough.r.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

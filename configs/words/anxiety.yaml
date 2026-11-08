@@ -1,0 +1,7 @@
+word: anxiety
+dataset: data/raw/semcor_words/anxiety.json
+senses:
+  - anxiety.n.01
+  - anxiety.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

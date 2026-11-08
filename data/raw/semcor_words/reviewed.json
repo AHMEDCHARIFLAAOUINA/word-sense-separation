@@ -1,0 +1,41 @@
+{
+ "target_word": "reviewed",
+ "sentences": [
+  "Example sentence: `` Our interior line and our linebackers played exceptionally well '', said Stram Monday after he and his staff reviewed movies of the game.",
+  "Example sentence: Much of this work has been reviewed by White (1944) and by Albert (1949).",
+  "Example sentence: How long has it been since you reviewed the objectives of your benefit and service program?",
+  "Example sentence: Are annual marketing plans reviewed throughout your management group to get the perspective of all individuals and get everyone on the marketing team?",
+  "Example sentence: Brown (1959) has reviewed generally the various methods of assaying TSH, and the reader is referred to her paper for further information on the subject.",
+  "Example sentence: Policies on nuclear test ban negotiations were reviewed and changed.",
+  "Example sentence: On Earth elections continued and a very advanced poet published a limited edition of verse consisting entirely of punctuation marks and spaces; Time magazine reviewed it and suggested that the Federation Assembly Daily Record should be translated into the medium.",
+  "Example sentence: All comments concerning effectiveness and use of drugs have been carefully reviewed by a veterinary medical officer with FDA.",
+  "Example sentence: If this practice should take root and spread, the man who submits a manuscript to a publisher will find himself reviewed before he is accepted and publication will become a sort of post-mortem formality.",
+  "Example sentence: Louis H. Grenier, clerk of the board, said that the appeals will be reviewed in December at the time the board is visiting new construction sites in the town for assessment purposes."
+ ],
+ "labels": [
+  "review.v.01",
+  "review.v.01",
+  "review.v.01",
+  "review.v.01",
+  "review.v.01",
+  "review.v.02",
+  "review.v.02",
+  "review.v.02",
+  "review.v.02",
+  "review.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

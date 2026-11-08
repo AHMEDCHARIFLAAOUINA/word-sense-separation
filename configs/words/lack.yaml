@@ -1,0 +1,7 @@
+word: lack
+dataset: data/raw/semcor_words/lack.json
+senses:
+  - lack.n.01
+  - miss.v.06
+n_per_sense: 7
+prefix: "Example sentence: "

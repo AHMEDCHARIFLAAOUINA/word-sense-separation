@@ -1,0 +1,35 @@
+{
+ "target_word": "combat",
+ "sentences": [
+  "Example sentence: Though he knew no more about military science and tactics than any other desk officer, he managed to get transferred to the combat forces.",
+  "Example sentence: `` He recommended both of them for the DSM and the Detroit fellow for the Purple Heart, too, for a combat inflicted wound.",
+  "Example sentence: The forces to be supported include an Army of 14 divisions and 870000 men; a Navy of 817 active ships and 619000 men; a Marine Corps of 3 divisions and 3 air wings with 175000 men; and an Air Force of 91 combat wings and 825000 men.",
+  "Example sentence: Quality and combat readiness must take precedence over mere numbers.",
+  "Example sentence: The new year might see some house-cleaning, either genuine or token, depending upon developments, to give Davis an opportunity to combat some of these criticisms.",
+  "Example sentence: Further, it should be recalled that some very definite steps were taken by Congress to combat corruption in the labor movement by its passage of the Landrum-Griffin Act.",
+  "Example sentence: Analyses such as these four will simultaneously combat the assumptions that tone is impossible and that it is simple.",
+  "Example sentence: You can use heat-absorbing glass to stop the sun, double glass and insulated glass to combat condensation."
+ ],
+ "labels": [
+  "combat.n.01",
+  "combat.n.01",
+  "combat.n.01",
+  "combat.n.01",
+  "battle.v.01",
+  "battle.v.01",
+  "battle.v.01",
+  "battle.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

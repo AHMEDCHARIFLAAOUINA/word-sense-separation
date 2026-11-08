@@ -1,0 +1,7 @@
+word: along
+dataset: data/raw/semcor_words/along.json
+senses:
+  - along.r.02
+  - along.r.01
+n_per_sense: 7
+prefix: "Example sentence: "

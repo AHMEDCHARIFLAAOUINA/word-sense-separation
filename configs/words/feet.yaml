@@ -1,0 +1,7 @@
+word: feet
+dataset: data/raw/semcor_words/feet.json
+senses:
+  - foot.n.02
+  - foot.n.01
+n_per_sense: 12
+prefix: "Example sentence: "

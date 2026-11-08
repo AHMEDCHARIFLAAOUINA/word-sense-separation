@@ -1,0 +1,7 @@
+word: added
+dataset: data/raw/semcor_words/added.json
+senses:
+  - add.v.02
+  - add.v.01
+n_per_sense: 9
+prefix: "Example sentence: "

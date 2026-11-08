@@ -1,0 +1,35 @@
+{
+ "target_word": "composition",
+ "sentences": [
+  "Example sentence: Since the absorption of radio waves in rocklike material varies with wave length, it should be possible to sample the temperature variation at different depths beneath the surface and possibly detect changes in the structure or composition of the lunar surface material.",
+  "Example sentence: These contrasting trends in procurement reflect the anticipated changes in the composition and missions of our Armed Forces in the years ahead.",
+  "Example sentence: (1) central cities tend to be areas of residence for lower social classes; (2) central cities tend to be more heterogeneous in social composition.",
+  "Example sentence: The most active preparations obtained by these two groups of investigators appear to be similar in potency, composition and physical properties.",
+  "Example sentence: `` Speed in painting a picture is valid only when it imparts spontaneity and crispness, but unless the artist has lots of experience so that he can control rapid execution, he would do well to take these first sketches and soberly reorder their design to achieve a unified composition.",
+  "Example sentence: Just because a tree or other object appears in a certain spot is absolutely no reason to place it in the same position in the painting, unless the position serves the design of the whole composition.",
+  "Example sentence: `` If I have seemed to emphasize the structure of the composition, I mean to project equal concern for color.",
+  "Example sentence: What I have observed time and time again is a process of integration, integration that begins as abstract design and gradually takes on recognizable form; color patterns that are made to weave throughout the whole composition; and that over all, amazing control of large washes which is the Mason stylemark."
+ ],
+ "labels": [
+  "constitution.n.04",
+  "constitution.n.04",
+  "constitution.n.04",
+  "constitution.n.04",
+  "composition.n.01",
+  "composition.n.01",
+  "composition.n.01",
+  "composition.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

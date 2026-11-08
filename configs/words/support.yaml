@@ -1,0 +1,7 @@
+word: support
+dataset: data/raw/semcor_words/support.json
+senses:
+  - support.v.01
+  - support.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

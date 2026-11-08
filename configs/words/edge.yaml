@@ -1,0 +1,7 @@
+word: edge
+dataset: data/raw/semcor_words/edge.json
+senses:
+  - edge.n.01
+  - edge.n.03
+n_per_sense: 4
+prefix: "Example sentence: "

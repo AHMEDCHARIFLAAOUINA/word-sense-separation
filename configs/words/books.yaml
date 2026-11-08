@@ -1,0 +1,7 @@
+word: books
+dataset: data/raw/semcor_words/books.json
+senses:
+  - book.n.02
+  - book.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

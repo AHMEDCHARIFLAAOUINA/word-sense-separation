@@ -1,0 +1,7 @@
+word: reaction
+dataset: data/raw/semcor_words/reaction.json
+senses:
+  - chemical_reaction.n.01
+  - reaction.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,47 @@
+{
+ "target_word": "incident",
+ "sentences": [
+  "Example sentence: The famous author tells us of the strange incident in Something About Myself.",
+  "Example sentence: There was no reference to the incident on the stairs, his powers being absorbed by this more immediate business.",
+  "Example sentence: Thus he may be referring to some concrete thing, or incident, in his immediate environment by some symbolic sounding, hyperbolic reference to transcendental events on the global scene.",
+  "Example sentence: Finding him dead, Cook caught Russell's horse and rode to the cattle foreman's house to report the incident and request bloodhounds to trail the assassins.",
+  "Example sentence: But suppose that a week later we revert to the incident in thought and make our statement again.",
+  "Example sentence: The final proof was a small incident.",
+  "Example sentence: Relative incident light intensities were measured with a thermopile potentiometer system.",
+  "Example sentence: Many workers believe that the response is proportional to the incident momentum of the particles, a relation deduced from laboratory results linearly extrapolated to meteoritic velocities.",
+  "Example sentence: The data provide a measure of the total mass of cosmic material incident upon the Earth.",
+  "Example sentence: The Russian experimenters claim that only a small fraction of the impulse from the sensors is caused by the incident momentum with the remainder being momentum of ejected material from the sensor.",
+  "Example sentence: The diurnal variation in the observed flux may be partly due to the dependence of the detector sensitivity on the incident velocity.",
+  "Example sentence: Direct proportionality of the rate to the incident intensity has also been assumed in obtaining the value in the last column for the fourth sample of series /2, where the light intensity was reduced by use of a screen."
+ ],
+ "labels": [
+  "incident.n.01",
+  "incident.n.01",
+  "incident.n.01",
+  "incident.n.01",
+  "incident.n.01",
+  "incident.n.01",
+  "incident.a.01",
+  "incident.a.01",
+  "incident.a.01",
+  "incident.a.01",
+  "incident.a.01",
+  "incident.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

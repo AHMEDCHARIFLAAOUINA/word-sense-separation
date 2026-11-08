@@ -1,0 +1,7 @@
+word: made
+dataset: data/raw/semcor_words/made.json
+senses:
+  - make.v.01
+  - make.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

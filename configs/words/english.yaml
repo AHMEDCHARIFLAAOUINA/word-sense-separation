@@ -1,0 +1,7 @@
+word: english
+dataset: data/raw/semcor_words/english.json
+senses:
+  - english.a.01
+  - english.n.01
+n_per_sense: 14
+prefix: "Example sentence: "

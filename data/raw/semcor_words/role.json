@@ -1,0 +1,47 @@
+{
+ "target_word": "role",
+ "sentences": [
+  "Example sentence: The latter plays a prominent role in Roman Catholic theology and is considered decisive, entirely apart from Scripture, in determining the ethical character of birth-prevention methods.",
+  "Example sentence: Or was he now taking the role - the gesture and the suffering - because it was the only way to affirm his history and identity in the torpid, befogged loneliness of this land.",
+  "Example sentence: Great stress is placed on the role that the monitoring of information sending plays in maintaining the effectiveness of the network.",
+  "Example sentence: The foregoing remarks imply that the hypothalamic balance plays a crucial role at the crossroads between physiological and pathological forms of emotion.",
+  "Example sentence: In all the respects just indicated Utopian communism differs from previous conceptions in which community of possessions and living plays a role.",
+  "Example sentence: After another two weeks, the first young emerge, four to eight small daughters that begin to play the role of worker bees, collecting pollen and nectar in the field and caring for the new young generation while the queen retires to a life of egg laying.",
+  "Example sentence: Not that Mr. Hedison does not make the most of his role.",
+  "Example sentence: Miss Pulova has a voice that Maria Callas once described as `` like chipping teeth with a screw driver '', and her round, opalescent face becomes fascinatingly reflective of the emotions demanded by the role of Rosalie.",
+  "Example sentence: Dolores Hart, is charming in a leading role, and quite believable.",
+  "Example sentence: Jen Nelson, as Thea, his first wife, managed to make that short role impressive.",
+  "Example sentence: Miss Sutherland appeared almost as another person in this scene: A much more girlish Lucia, a sensational coloratura who ran across stage while singing, and an actress immersed in her role.",
+  "Example sentence: But if Joyce got involved in murder or salacious scandal, the role would probably go to the sponsor's wife, Mrs. Oatnut Grits."
+ ],
+ "labels": [
+  "function.n.03",
+  "function.n.03",
+  "function.n.03",
+  "function.n.03",
+  "function.n.03",
+  "function.n.03",
+  "character.n.04",
+  "character.n.04",
+  "character.n.04",
+  "character.n.04",
+  "character.n.04",
+  "character.n.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

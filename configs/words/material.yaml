@@ -1,0 +1,7 @@
+word: material
+dataset: data/raw/semcor_words/material.json
+senses:
+  - material.n.01
+  - material.n.02
+n_per_sense: 15
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: revealed
+dataset: data/raw/semcor_words/revealed.json
+senses:
+  - uncover.v.01
+  - unwrap.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

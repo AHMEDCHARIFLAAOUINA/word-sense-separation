@@ -1,0 +1,35 @@
+{
+ "target_word": "stomach",
+ "sentences": [
+  "Example sentence: Ablard Corne, a short man with a rotunda of stomach, rose.",
+  "Example sentence: The teeth will rain from his mouth like pebbles, his wife will make him cocu with fishmongers, and a trolley car will grow in his stomach.",
+  "Example sentence: You laughed and then your chest swelled and you felt you could cry for a little bit, and then a feeling hit you like a chill in your stomach and the goose bumps rippled along your arm.",
+  "Example sentence: Reduces losses from stomach, hookworm, and nodular worms by interfering with reproduction of the female worm by reducing the number of eggs laid and essentially rendering all laid eggs sterile.",
+  "Example sentence: Russ gave him a brutal thrust that tumbled him over flat on his stomach.",
+  "Example sentence: He rocked back in the chair, knee locked against stomach, his beady eyes fixed on Matson.",
+  "Example sentence: O ' Banion drew his guns and fired at Dave, severely wounding him in the stomach.",
+  "Example sentence: He went prone on his stomach, the better to pursue his examination."
+ ],
+ "labels": [
+  "stomach.n.01",
+  "stomach.n.01",
+  "stomach.n.01",
+  "stomach.n.01",
+  "abdomen.n.01",
+  "abdomen.n.01",
+  "abdomen.n.01",
+  "abdomen.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: worry
+dataset: data/raw/semcor_words/worry.json
+senses:
+  - worry.v.01
+  - worry.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

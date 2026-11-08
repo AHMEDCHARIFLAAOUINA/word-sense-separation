@@ -1,0 +1,7 @@
+word: heart
+dataset: data/raw/semcor_words/heart.json
+senses:
+  - heart.n.01
+  - heart.n.02
+n_per_sense: 20
+prefix: "Example sentence: "

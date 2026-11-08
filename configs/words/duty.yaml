@@ -1,0 +1,7 @@
+word: duty
+dataset: data/raw/semcor_words/duty.json
+senses:
+  - duty.n.01
+  - duty.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

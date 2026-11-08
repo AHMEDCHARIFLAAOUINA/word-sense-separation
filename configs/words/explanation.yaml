@@ -1,0 +1,7 @@
+word: explanation
+dataset: data/raw/semcor_words/explanation.json
+senses:
+  - explanation.n.01
+  - explanation.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

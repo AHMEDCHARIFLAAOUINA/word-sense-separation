@@ -1,0 +1,7 @@
+word: initiative
+dataset: data/raw/semcor_words/initiative.json
+senses:
+  - enterprise.n.03
+  - first_step.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

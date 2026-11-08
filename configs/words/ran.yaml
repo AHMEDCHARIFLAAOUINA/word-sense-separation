@@ -1,0 +1,7 @@
+word: ran
+dataset: data/raw/semcor_words/ran.json
+senses:
+  - run.v.01
+  - run.v.03
+n_per_sense: 7
+prefix: "Example sentence: "

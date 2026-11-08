@@ -1,0 +1,41 @@
+{
+ "target_word": "chance",
+ "sentences": [
+  "Example sentence: For instance - what about all those people Harold Rhodes went toward unhesitatingly, as if this were the one moment they would ever have together, their one chance of knowing each other?",
+  "Example sentence: He meant to say more, but he never got the chance.",
+  "Example sentence: I was loaded with suds when I ran away, and I haven't had a chance to wash it off.",
+  "Example sentence: They succeeded in eluding the curious at the hotel, but there was no chance of avoiding them at the nightclub.",
+  "Example sentence: He had his chance the very next morning, for exactly the same thing happened again.",
+  "Example sentence: The gun would fire or not, just as chance willed.",
+  "Example sentence: It was ruled a difficult chance and a hit.",
+  "Example sentence: There is a well-known relationship between probability and entropy which states that * * f, where \\q is the probability that state (i.e., volume for an ideal gas) could be reached by chance alone.",
+  "Example sentence: Boxell did not have the chance to grow up graciously.",
+  "Example sentence: And if by some wild chance Mahzeer was the man, he wouldn't dare try anything now - not after Docherty had looked in on the two of them to see that all was well."
+ ],
+ "labels": [
+  "opportunity.n.01",
+  "opportunity.n.01",
+  "opportunity.n.01",
+  "opportunity.n.01",
+  "opportunity.n.01",
+  "luck.n.02",
+  "luck.n.02",
+  "luck.n.02",
+  "luck.n.02",
+  "luck.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

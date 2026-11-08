@@ -1,0 +1,35 @@
+{
+ "target_word": "balance",
+ "sentences": [
+  "Example sentence: They shift the hypothalamic balance to the sympathetic side.",
+  "Example sentence: Nevertheless, the theory that the determining influence of the hypothalamic balance has a profound influence on the clinical behavior of neuropsychiatric patients has not yet been tested on an adequate number of patients.",
+  "Example sentence: After this brief discussion of neo -, paleocortical, and cortico-hypothalamic relations, let us return once more to the problem of hypothalamic balance and its physiological and pathological significance.",
+  "Example sentence: This problem of the optimum balance in the relative numbers of generalists and specialists can be investigated on a communicative network basis.",
+  "Example sentence: As an added suggestion to balance the budget, the Government could sell advertising space on the Washington Monument.",
+  "Example sentence: DeKalb's budget for 1961 is a record one and carries with it the promise of no tax increase to make it balance.",
+  "Example sentence: The statement was also made that undoubtedly the railroad had received some compensating benefit from the telegraphers, but that it was difficult to imagine what could balance a job for life.",
+  "Example sentence: There are a number of other considerations besides this one but it is for the Congress, not the department of justice, to balance these various considerations and make a judgment about legislation."
+ ],
+ "labels": [
+  "balance.n.01",
+  "balance.n.01",
+  "balance.n.01",
+  "balance.n.01",
+  "balance.v.01",
+  "balance.v.01",
+  "balance.v.01",
+  "balance.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

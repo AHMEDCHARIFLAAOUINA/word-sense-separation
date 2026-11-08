@@ -1,0 +1,7 @@
+word: interest
+dataset: data/raw/semcor_words/interest.json
+senses:
+  - interest.n.01
+  - sake.n.01
+n_per_sense: 16
+prefix: "Example sentence: "

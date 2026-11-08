@@ -1,0 +1,7 @@
+word: then
+dataset: data/raw/semcor_words/then.json
+senses:
+  - then.r.01
+  - then.r.02
+n_per_sense: 20
+prefix: "Example sentence: "

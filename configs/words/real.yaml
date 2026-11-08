@@ -1,0 +1,7 @@
+word: real
+dataset: data/raw/semcor_words/real.json
+senses:
+  - real.a.01
+  - real.a.02
+n_per_sense: 11
+prefix: "Example sentence: "

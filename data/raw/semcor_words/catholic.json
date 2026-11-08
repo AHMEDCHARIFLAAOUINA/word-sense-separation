@@ -1,0 +1,35 @@
+{
+ "target_word": "catholic",
+ "sentences": [
+  "Example sentence: Would we gain by keeping alive his memory and besmirching today's Roman Catholics by saying he had a Catholic heart?",
+  "Example sentence: The London Universe devoted its centenary issue last December 8 to mapping out various aspects of Catholic progress during the last one hundred years.",
+  "Example sentence: The return of the Catholic hierarchy in 1850 was looked upon with indignant disapprobation and, in fact, was charged with being a gesture of disloyalty.",
+  "Example sentence: A Catholic priest recently recounted how in the chapel of a large city university, following Anglican evensong, at which there was a congregation of twelve, he celebrated Mass before more than a hundred.",
+  "Example sentence: Now Pat may have been a lecher and a plug-ugly, but he was a good churchgoing Catholic and he loved his little sister.",
+  "Example sentence: It was too bad he wasn't a Catholic himself.",
+  "Example sentence: As symptomatic of the common man's malaise, he is most significant: a liberal and a Catholic, elected by the skin of his teeth.",
+  "Example sentence: As an American Catholic of Irish ancestry, I came with certain preconceptions and expectations; being intellectually influenced by Newman and the general 19th century literature of England, I knew only a Protestant dominated country."
+ ],
+ "labels": [
+  "catholic.a.01",
+  "catholic.a.01",
+  "catholic.a.01",
+  "catholic.a.01",
+  "catholic.n.01",
+  "catholic.n.01",
+  "catholic.n.01",
+  "catholic.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

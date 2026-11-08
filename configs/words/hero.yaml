@@ -1,0 +1,7 @@
+word: hero
+dataset: data/raw/semcor_words/hero.json
+senses:
+  - hero.n.01
+  - hero.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

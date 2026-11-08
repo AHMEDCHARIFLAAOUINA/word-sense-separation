@@ -1,0 +1,41 @@
+{
+ "target_word": "agreement",
+ "sentences": [
+  "Example sentence: We then outline the theory of the interaction of paramagnetic dipoles with nuclei and show that the theory is in excellent agreement with experiment.",
+  "Example sentence: Mars has been observed twice at about 3 - cm wave length, and the intensity of the observed radiation is in reasonable agreement with the thermal radiation which might be predicted on the basis of the known temperature of Mars.",
+  "Example sentence: This agreement is considered very good for such short time intervals.",
+  "Example sentence: In spite of all the pitfalls, there is a certain amount of agreement on some of the giants.",
+  "Example sentence: The x-ray diffraction pattern of the material, taken with CuKla radiation, indicated the presence of no extra lines and was in good agreement with the pattern of Douglass.",
+  "Example sentence: The second step is to recognize the substantial agreement - frequently blurred by emotionalism and inaccurate newspaper reporting - already existing between Catholics and non-Catholics concerning the over-all objectives of family planning.",
+  "Example sentence: In March, 1961, representatives of the national laboratories of Australia, Canada, The Netherlands, United Kingdom, U. S. S. R., United States, and West Germany, met at the NBS to devise means for reaching international agreement on a temperature scale between 10 and 90 * * f.",
+  "Example sentence: Here is a difference in theological belief where there seems little chance of agreement.",
+  "Example sentence: This section prevents the military departments and the Office of Civil and Defense Mobilization from carrying out certain transactions involving real property unless they come into agreement with the Committees on Armed Services of the Senate and the House of Representatives.",
+  "Example sentence: Instead of emotional recrimination, loaded phrases and sloganeering, we need a dispassionate study of the facts, a better understanding of the opposite viewpoint and a more serious effort to extend the areas of agreement until a solution is reached."
+ ],
+ "labels": [
+  "agreement.n.02",
+  "agreement.n.02",
+  "agreement.n.02",
+  "agreement.n.02",
+  "agreement.n.02",
+  "agreement.n.03",
+  "agreement.n.03",
+  "agreement.n.03",
+  "agreement.n.03",
+  "agreement.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

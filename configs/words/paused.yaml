@@ -1,0 +1,7 @@
+word: paused
+dataset: data/raw/semcor_words/paused.json
+senses:
+  - hesitate.v.02
+  - pause.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

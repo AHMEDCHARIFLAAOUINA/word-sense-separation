@@ -1,0 +1,41 @@
+{
+ "target_word": "drove",
+ "sentences": [
+  "Example sentence: Since Mr. McKinley had to give a lecture, Rachel and Scotty drove home alone in the Plymouth.",
+  "Example sentence: He drove carefully in the direction of the brief tour they had taken earlier.",
+  "Example sentence: Finally, however, the arrangements were made and we drove out into the bush in a Land Rover.",
+  "Example sentence: The brothers drove down together in Mark's small red sports car, Mark at the wheel.",
+  "Example sentence: Once he said, `` Why ' n hell didn't you look in the back seat of the car before you drove off?",
+  "Example sentence: After Mr. Jack drove away, Winston went on looking out the window.",
+  "Example sentence: He drove on, wary and shaken.",
+  "Example sentence: Shayne drove westward from the Boulevard slowly, letting Rourke crane his head out the window and watch for street numbers.",
+  "Example sentence: I got in the car, drove down to the drive-in and ordered a couple of hamburgers with everything included, a cup of coffee and the fastest service possible.",
+  "Example sentence: The older men would be there at noon, and maybe rest for a time before they took their guns off to the creek or drove down the road towards town."
+ ],
+ "labels": [
+  "drive.v.02",
+  "drive.v.02",
+  "drive.v.02",
+  "drive.v.02",
+  "drive.v.02",
+  "drive.v.01",
+  "drive.v.01",
+  "drive.v.01",
+  "drive.v.01",
+  "drive.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: mind
+dataset: data/raw/semcor_words/mind.json
+senses:
+  - mind.n.01
+  - mind.v.01
+n_per_sense: 13
+prefix: "Example sentence: "

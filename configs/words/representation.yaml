@@ -1,0 +1,7 @@
+word: representation
+dataset: data/raw/semcor_words/representation.json
+senses:
+  - representation.n.02
+  - representation.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: collapsed
+dataset: data/raw/semcor_words/collapsed.json
+senses:
+  - break_down.v.08
+  - collapse.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

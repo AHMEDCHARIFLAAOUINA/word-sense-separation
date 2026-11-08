@@ -1,0 +1,47 @@
+{
+ "target_word": "ability",
+ "sentences": [
+  "Example sentence: Putting the key into the switch, pressing the accelerator with his foot, putting the car into reverse, seemed vast endeavors almost beyond the ability of his shaking body.",
+  "Example sentence: We must believe we have the ability to affect our own destinies: otherwise why try anything?",
+  "Example sentence: Related to micelle formation is the technologically important ability of detergent actives to congregate at oil water interfaces in such a manner that the polar (or ionized) end of the molecule is directed towards the aqueous phase and the hydrocarbon chain towards the oily phase.",
+  "Example sentence: Family survival on our own Western frontier, for example, could quite literally depend on a man's strength and ability to bring home the bacon; and the dependent wife seldom questioned his judgment about anything, including the marriage bed.",
+  "Example sentence: The high cost of land and a few operational problems resulting from excessive loadings have created the need for a wastewater treatment system with the operational characteristics of the oxidation pond but with the ability to treat more organic matter per unit volume.",
+  "Example sentence: The record of past earnings and prospects for the future must indicate it has the ability to repay the loan out of current and anticipated income.",
+  "Example sentence: Businesses must develop as a result of the ideas, energies and ambitions of an individual having purpose and comprehensive ability within one mind.",
+  "Example sentence: Of course, it can be argued that an ability to write English correctly and with some degree of elegance is a marketable skill.",
+  "Example sentence: The children can do chores adapted to their age and ability.",
+  "Example sentence: The boys had a tremendous respect for each other's ability.",
+  "Example sentence: Kieffer, the only junior in the group, was commended for his ability to hit in the clutch, as well as his all-round excellent play.",
+  "Example sentence: Mays and Mantle, both 10 - year men at 30, have so much ability that, baseball men agree, they've never hit the heights."
+ ],
+ "labels": [
+  "ability.n.01",
+  "ability.n.01",
+  "ability.n.01",
+  "ability.n.01",
+  "ability.n.01",
+  "ability.n.01",
+  "ability.n.02",
+  "ability.n.02",
+  "ability.n.02",
+  "ability.n.02",
+  "ability.n.02",
+  "ability.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

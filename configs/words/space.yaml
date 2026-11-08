@@ -1,0 +1,7 @@
+word: space
+dataset: data/raw/semcor_words/space.json
+senses:
+  - space.n.01
+  - space.n.03
+n_per_sense: 12
+prefix: "Example sentence: "

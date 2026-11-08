@@ -1,0 +1,35 @@
+{
+ "target_word": "combined",
+ "sentences": [
+  "Example sentence: - Syllables are linguistic units centering in peaks which are usually vocalic but, as has been noted, are consonantal under certain circumstances, and which may or may not be combined with preceding and / or following consonants or combinations of consonants.",
+  "Example sentence: To carry out this exalted conception the author has combined the vivid realism and imaginative power we have noticed in his early poetry and carried them out on a grand scale.",
+  "Example sentence: Later this can be combined with the handstand to provide a walkover.",
+  "Example sentence: The unsatisfactory 1958 - 60 expansion, he said, was not due to inadequate growth forces inherent in our economy but rather to the adverse effect of inappropriate economic policies combined with retrenching decisions resulting from the steel strike.",
+  "Example sentence: Simultaneously, a variety of environmental supports - a calm but not too motherly homemaker, referral for temporary economic aid, intelligent use of nursing care, accompaniment to the well-baby clinic for medical advice on the twins ' feeding problem - combined to prevent further development of predictable pathological mechanisms.",
+  "Example sentence: The charge that the federal indictment of three Chicago narcotics detail detectives `` is the product of rumor, combined with malice, and individual enmity '' on the part of the federal narcotics unit here was made yesterday in their conspiracy trial before Judge Joseph Sam Perry in federal District court.",
+  "Example sentence: The Irish accent is, as one would expect, combined with slight inflections from the French.",
+  "Example sentence: All seven combined ardent devotion to the cause of revolution with a profound respect for legality."
+ ],
+ "labels": [
+  "compound.v.02",
+  "compound.v.02",
+  "compound.v.02",
+  "compound.v.02",
+  "unite.v.03",
+  "unite.v.03",
+  "unite.v.03",
+  "unite.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

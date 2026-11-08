@@ -1,0 +1,7 @@
+word: physical
+dataset: data/raw/semcor_words/physical.json
+senses:
+  - physical.a.01
+  - physical.a.02
+n_per_sense: 5
+prefix: "Example sentence: "

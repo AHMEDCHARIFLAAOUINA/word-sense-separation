@@ -1,0 +1,7 @@
+word: evidence
+dataset: data/raw/semcor_words/evidence.json
+senses:
+  - evidence.n.01
+  - evidence.n.02
+n_per_sense: 20
+prefix: "Example sentence: "

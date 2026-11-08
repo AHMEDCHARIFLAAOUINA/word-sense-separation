@@ -1,0 +1,7 @@
+word: rhythm
+dataset: data/raw/semcor_words/rhythm.json
+senses:
+  - rhythm.n.02
+  - rhythm.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

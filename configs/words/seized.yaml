@@ -1,0 +1,7 @@
+word: seized
+dataset: data/raw/semcor_words/seized.json
+senses:
+  - seize.v.01
+  - appropriate.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

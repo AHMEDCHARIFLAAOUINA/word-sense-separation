@@ -1,0 +1,7 @@
+word: security
+dataset: data/raw/semcor_words/security.json
+senses:
+  - security.n.01
+  - security.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

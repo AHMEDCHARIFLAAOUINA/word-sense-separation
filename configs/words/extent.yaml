@@ -1,0 +1,7 @@
+word: extent
+dataset: data/raw/semcor_words/extent.json
+senses:
+  - extent.n.01
+  - extent.n.02
+n_per_sense: 12
+prefix: "Example sentence: "

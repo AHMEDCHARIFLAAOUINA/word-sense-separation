@@ -1,0 +1,7 @@
+word: shop
+dataset: data/raw/semcor_words/shop.json
+senses:
+  - shop.n.01
+  - shop.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

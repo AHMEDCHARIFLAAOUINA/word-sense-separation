@@ -1,0 +1,7 @@
+word: appearance
+dataset: data/raw/semcor_words/appearance.json
+senses:
+  - appearance.n.01
+  - appearance.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

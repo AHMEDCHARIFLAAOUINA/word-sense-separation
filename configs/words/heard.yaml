@@ -1,0 +1,7 @@
+word: heard
+dataset: data/raw/semcor_words/heard.json
+senses:
+  - hear.v.01
+  - learn.v.02
+n_per_sense: 13
+prefix: "Example sentence: "

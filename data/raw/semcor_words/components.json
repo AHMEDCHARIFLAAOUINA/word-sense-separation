@@ -1,0 +1,41 @@
+{
+ "target_word": "components",
+ "sentences": [
+  "Example sentence: This result suggests a very high temperature at the solid surface of the planet, although there is the possibility that the observed radiation may be a combination of both thermal and non thermal components and that the observed spectrum is that of a black body merely by coincidence.",
+  "Example sentence: I strongly recommend to the Congress the avoidance of mandatory floors on the size of the reserve components so that we may have the flexibility to make adjustments in keeping with military necessity.",
+  "Example sentence: This is true of all components which have such a bounded support.",
+  "Example sentence: For the case of Jupiter, the radio emission spectrum is definitely not like the spectrum of a black-body radiator, and it seems very likely that the radiation reaching the earth is a combination of thermal radiation from the atmosphere and non thermal components.",
+  "Example sentence: The remaining (incomplete) components all have an even number of ordinary points at any argument, and are defined only on a proper sub-interval of [0, T].",
+  "Example sentence: The sections were mounted on cold slides smeared with Haupts ' adhesive (Johansen, 1940) in earlier experiments, and in later experiments with a different mixture of the same components reported by Schramm and Rottger (1959).",
+  "Example sentence: Dreams that display events of the future with photographic detail call for a theory explaining their basic mystery and all its components, including that weird feeling of deja vu, inevitably fantastic though that theory must seem.",
+  "Example sentence: These increased costs are partially offset by a decrease of $56 million in expenditures for the reserve forces, largely because of the planned reduction in strength of the Army Reserve components during 1961.",
+  "Example sentence: Instead, he constantly became lost in parts and components of them, confused some of their details with those of neighboring objects, and so on, unless he allowed time to `` trace '' the object in question through minute movements of the head and hands and in this way to discover its contours.",
+  "Example sentence: Sedimentation coefficients were computed as * * f values and relative amounts of the various components were calculated from the Schlieren patterns."
+ ],
+ "labels": [
+  "component.n.01",
+  "component.n.01",
+  "component.n.01",
+  "component.n.01",
+  "component.n.01",
+  "part.n.01",
+  "part.n.01",
+  "part.n.01",
+  "part.n.01",
+  "part.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

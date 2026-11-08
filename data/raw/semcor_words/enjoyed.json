@@ -1,0 +1,47 @@
+{
+ "target_word": "enjoyed",
+ "sentences": [
+  "Example sentence: The ultimate objective of American policy is to help establish a world in which there is the largest possible measure of freedom and justice and peace and material prosperity; and in particular - since this is our special responsibility - that these conditions be enjoyed by the people of the United States.",
+  "Example sentence: During the greater part of Jefferson's career he enjoyed the close collaboration of a fellow Virginian, James Madison, eight years his junior.",
+  "Example sentence: The job security enjoyed by Doc Doolittle, and nearly all members of the Armed Forces, is a wonderful thing.",
+  "Example sentence: When, therefore, it turned its attention to the concrete entities with which popular imagination had peopled the world of spirit, these entities soon lost whatever status they had enjoyed as actual elements of external reality.",
+  "Example sentence: `` The Forgotten War '' his soldiers called the Burma fighting because the war in Africa and Europe enjoyed priorities in equipment and in headlines.",
+  "Example sentence: Save for brief periods in garrison or winter quarters, soldiers rarely enjoyed the luxury of a writing desk or table.",
+  "Example sentence: I enjoyed my lessons ''.",
+  "Example sentence: The Szolds, like the Marches, enjoyed and loved living together, even in troubled times; and, as in the March home, any young man who called on the Szolds found himself confronted with a phalanx of femininity which made it rather difficult to direct his particular attention to any one of them.",
+  "Example sentence: On the highway he relaxed and enjoyed the drive over Lake Pontchartrain and along the coast.",
+  "Example sentence: Although we enjoyed our rounds of the government offices in Vientiane, with officials offering tea and pleasing conversation in French, we were getting nowhere.",
+  "Example sentence: `` I have enjoyed it and will feel a bit lost at least for a while '', she said wistfully Friday.",
+  "Example sentence: He knew we were looking and he enjoyed it."
+ ],
+ "labels": [
+  "enjoy.v.02",
+  "enjoy.v.02",
+  "enjoy.v.02",
+  "enjoy.v.02",
+  "enjoy.v.02",
+  "enjoy.v.02",
+  "enjoy.v.01",
+  "enjoy.v.01",
+  "enjoy.v.01",
+  "enjoy.v.01",
+  "enjoy.v.01",
+  "enjoy.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

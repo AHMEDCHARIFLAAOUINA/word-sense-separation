@@ -1,0 +1,35 @@
+{
+ "target_word": "emphasis",
+ "sentences": [
+  "Example sentence: It will readily be seen that in this suggested network (not materially different from some of the networks in vogue today) greater emphasis on monitoring is implied than is usually put into practice.",
+  "Example sentence: Personal financial assistance would enable more emphasis to be placed on the interests of the individual.",
+  "Example sentence: And the emphasis on nationalism in America is in proportion to the growth of American influence across the world.",
+  "Example sentence: Not all men of the period would have accepted this emphasis.",
+  "Example sentence: Schnabel's emphasis on structural clarity, his innate rhythmic vibrancy, and impetuous intensity all tend to stamp his reading as a symphonic one.",
+  "Example sentence: The effect of the recording is very open and natural, with the frequency emphasis exactly what you would expect from a live performance.",
+  "Example sentence: This emphasis upon death rather than sin as man's fundamental problem Irenaeus shares with many early theologians, especially the Greek speaking ones.",
+  "Example sentence: A program of financial assistance would permit placing emphasis on the national interest in training highly skilled labor."
+ ],
+ "labels": [
+  "emphasis.n.01",
+  "emphasis.n.01",
+  "emphasis.n.01",
+  "emphasis.n.01",
+  "vehemence.n.01",
+  "vehemence.n.01",
+  "vehemence.n.01",
+  "vehemence.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

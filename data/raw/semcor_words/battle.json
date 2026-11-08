@@ -1,0 +1,47 @@
+{
+ "target_word": "battle",
+ "sentences": [
+  "Example sentence: It had been a big battle, and the Confederate forces had won.",
+  "Example sentence: Alexander guessed that they had planned confusion and turmoil, thinking it the ideal climate in which to begin battle and bloodshed.",
+  "Example sentence: This damage had been done in the battle of Vientiane, fought less than three months earlier when four successive governments had ruled here in three days (December 9 - 11, 1960).",
+  "Example sentence: Thus at the same time that William Henry Harrison was preparing to pacify the aborigines of Indiana Territory and winning fame at the battle of Tippecanoe, Anglo-Saxon settlement made a great leap into the center of the North American continent to the west of the American agricultural frontier.",
+  "Example sentence: The battle of the Naktong River is just one example of how the battle cry and the spirit of The Fighting Seventh have paid off.",
+  "Example sentence: We pointed out that emotional excitement may lead to psychosomatic disorders and neurotic symptoms, particularly in certain types of personality, but it is also known that the reliving of a strong emotion (`` abreaction '') may cure a battle neurosis.",
+  "Example sentence: I asked about the battle between life and death in his plays.",
+  "Example sentence: The battle is not easy.",
+  "Example sentence: I used to love this country and believe that someday we'd win our battle for equality.",
+  "Example sentence: Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $50 million worth of additional rural roads bonds proposed by then Gov. Marvin Griffin.",
+  "Example sentence: The battle of the drib-drool continues, but most of New York's knowing sophisticates of Abstract Expressionism are stamping their feet impatiently in expectation of V (for Vindication) Day, September first, when Augustus Quasimodo's first one-man show opens at the Guggenheim.",
+  "Example sentence: Otherwise, she would be baited into a tantrum - teased and provoked until she lost control of herself, and thus lost still another battle in the maddening struggle of Tom Lord Vs. Joyce Lakewood."
+ ],
+ "labels": [
+  "battle.n.01",
+  "battle.n.01",
+  "battle.n.01",
+  "battle.n.01",
+  "battle.n.01",
+  "battle.n.01",
+  "struggle.n.01",
+  "struggle.n.01",
+  "struggle.n.01",
+  "struggle.n.01",
+  "struggle.n.01",
+  "struggle.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

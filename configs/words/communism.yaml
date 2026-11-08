@@ -1,0 +1,7 @@
+word: communism
+dataset: data/raw/semcor_words/communism.json
+senses:
+  - communism.n.01
+  - communism.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

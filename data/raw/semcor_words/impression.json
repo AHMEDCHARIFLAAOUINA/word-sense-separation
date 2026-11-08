@@ -1,0 +1,35 @@
+{
+ "target_word": "impression",
+ "sentences": [
+  "Example sentence: The clinical impression at this time was either muscular dystrophy or polymyositis.",
+  "Example sentence: Macneff smiled and said, `` I am glad that your scriptural lessons have left such an impression ''.",
+  "Example sentence: When painting, Mason's physical eyes are half closed, while his mind's eye is wide open, and this circumstance accounts in part for the impression he wishes to convey.",
+  "Example sentence: Of course, there must be clarity: a single distinct impression is more valuable than many fuzzy ones.",
+  "Example sentence: A good initial impression would be important now.",
+  "Example sentence: The senses in each counterpart bear the impression only of phenomena that share its own frequency, whereas those upon all other frequencies are invisible, inaudible and intactible to them.",
+  "Example sentence: Members of higher and lower social status often cluster around this nucleus, so that Protestant figures on social class give the impression of spread over all social classes; but this is deceptive, for the core of membership is concentrated in a single social and economic stratum.",
+  "Example sentence: I want to create the impression of a compound full of children."
+ ],
+ "labels": [
+  "impression.n.01",
+  "impression.n.01",
+  "impression.n.01",
+  "impression.n.01",
+  "impression.n.02",
+  "impression.n.02",
+  "impression.n.02",
+  "impression.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

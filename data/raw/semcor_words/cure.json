@@ -1,0 +1,53 @@
+{
+ "target_word": "cure",
+ "sentences": [
+  "Example sentence: Chairman Khrushchev (Kennedy) rattles his rockets (sabre) in order to cure his internal ills and to strengthen his negotiating position.",
+  "Example sentence: We pointed out that emotional excitement may lead to psychosomatic disorders and neurotic symptoms, particularly in certain types of personality, but it is also known that the reliving of a strong emotion (`` abreaction '') may cure a battle neurosis.",
+  "Example sentence: Yes, the ozone from his machine would cure practically everything, he assured her.",
+  "Example sentence: He didn't say what would cure him; he had been explaining all during the trip what he needed to make him feel like himself.",
+  "Example sentence: He then sold her minerals to cure her kidney ailment, a can of sage `` to make her look like a girl again '', and an application of plain mud to take her wrinkles away.",
+  "Example sentence: This machine will cure your cancer ridden body ''.",
+  "Example sentence: The first superhighways - New York's Henry Hudson and Chicago's Lake Shore, San Francisco's Bay Bridge and its approaches, a good slice of the Pennsylvania Turnpike - were built as part of the federal works program which was going to cure the depression.",
+  "Example sentence: Noting such evidence is the first step; and almost the only `` cure '' is early detection and removal.",
+  "Example sentence: As these maladies overlap, so must the cure.",
+  "Example sentence: And just as domination today often begins with the wife, so the cure generally must lie with the husband.",
+  "Example sentence: `` Look, my friend '', he said, `` in my life I learn, how is it the proverb says, better an ounce of prevention to a pound of cure.",
+  "Example sentence: Moreover, the diabetic patient who relies on cure by the quack device and therefore cuts off his insulin intake can be committing suicide.",
+  "Example sentence: In California, a few years ago, a ghoul by the name of H. F. Bell sold electric blankets as a cure for cancer.",
+  "Example sentence: The dweller at p is last to hear about a new cure, the slowest to announce to his neighbors his urgent distresses, the one who goes the farthest to trade, and the one with the greatest difficulty of all in putting over an idea or getting people to join him in a cooperative effort."
+ ],
+ "labels": [
+  "bring_around.v.02",
+  "bring_around.v.02",
+  "bring_around.v.02",
+  "bring_around.v.02",
+  "bring_around.v.02",
+  "bring_around.v.02",
+  "bring_around.v.02",
+  "remedy.n.02",
+  "remedy.n.02",
+  "remedy.n.02",
+  "remedy.n.02",
+  "remedy.n.02",
+  "remedy.n.02",
+  "remedy.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,53 @@
+{
+ "target_word": "movement",
+ "sentences": [
+  "Example sentence: Well stretched, trained in posture and coordinated movement, and wedded to rhythm, they presented the audiences in Rome with one of the most beautiful sights ever seen at any Olympic contest.",
+  "Example sentence: Ahead there was a stirring of sudden movement at a crossroads.",
+  "Example sentence: In an hour remembered for its almost rudderless movement, a score of jazz luminaries went before the cameras for lengthy periods.",
+  "Example sentence: From above one could only occasionally catch a glimpse of life on the floor of this green sea: a neighbor's gingham skirt flashing into sight for an instant on the path beneath her grape-arbor, or the movement of hands above a clothesline and the flutter of garments hung there, half-way down the block.",
+  "Example sentence: Our most elemental and unavoidable impressions, he says, are those of being involved in a large arena of powers which have a longer past than our own, which are interrelated in a vast movement through the present toward the future.",
+  "Example sentence: Just as exciting but in a more technically proficient way is Laura Stuart, whose complete control of her every movement is lovely to watch.",
+  "Example sentence: After you have taken a breather, reverse the position of your legs so that the front thigh of the previous exercise is now to the rear, and the rear thigh now to the front, and perform the same movement in the same manner.",
+  "Example sentence: Man has the experience of being helpfully allied with what he cannot fully understand; he is a coordinate part of all of the mysterious energy and being and movement.",
+  "Example sentence: From the east to the west coast of the Korean peninsula was a strip of land in which fear filled men were at that same moment furtively crawling through the night, sitting in sweaty anticipation of any movement or sound, or shouting amidst confused rifle flashes and muzzle blasts.",
+  "Example sentence: Adam watched his own hands make the caressing, anxious movement that, when rain falls and nobody comes, and ruin draws close like a cat rubbing against the ankles, has been the ritual of stall vendors, forever.",
+  "Example sentence: There was no real sign of the river now, just a roiling, oily ribbon of liquid movement through muddy waters that reached everywhere.",
+  "Example sentence: The supposed tactual sense of spatial location and orientation in the patient and his ability to specify the location of a member, as well as the direction and scope of a movement, passively executed (with one of his members), proved to have been, on the contrary, very considerably affected ''.",
+  "Example sentence: The movement of events is so fast, the pace so severe, that an attempt to peer into the future is essential if we are to think accurately about the present.",
+  "Example sentence: Each successive movement in his growing was recorded on the unreeling film inside her."
+ ],
+ "labels": [
+  "motion.n.03",
+  "motion.n.03",
+  "motion.n.03",
+  "motion.n.03",
+  "motion.n.03",
+  "motion.n.03",
+  "motion.n.03",
+  "movement.n.03",
+  "movement.n.03",
+  "movement.n.03",
+  "movement.n.03",
+  "movement.n.03",
+  "movement.n.03",
+  "movement.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: movement
+dataset: data/raw/semcor_words/movement.json
+senses:
+  - motion.n.03
+  - movement.n.03
+n_per_sense: 7
+prefix: "Example sentence: "

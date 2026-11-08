@@ -1,0 +1,7 @@
+word: gesture
+dataset: data/raw/semcor_words/gesture.json
+senses:
+  - gesture.n.01
+  - gesture.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

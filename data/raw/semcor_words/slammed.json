@@ -1,0 +1,41 @@
+{
+ "target_word": "slammed",
+ "sentences": [
+  "Example sentence: Greg slammed his throttle to the fire wall and rammed up the RPM, and the engine responded as if it had been waiting.",
+  "Example sentence: Before Roberts could move inside to cut upward toward his face, he slammed his right fist into Roberts ' belly.",
+  "Example sentence: Johnny Blanchard, Mantle's replacement, slammed a 2 - run homer as the Yankees routed loser Joey Jay in a 5 - run first inning.",
+  "Example sentence: Then Robinson slammed a long double to left center to score both runners.",
+  "Example sentence: White teeth suddenly vanishing, the driver slammed the side of his bottle against Johnson's ear.",
+  "Example sentence: If Blanche had been honest, she would have yelled, slammed at least a couple of doors, and thrown a few little, valueless things.",
+  "Example sentence: `` Isn't enough time to go into it '', he finished, and slammed the door in his son's face.",
+  "Example sentence: Susan bounced to her feet and slammed the door.",
+  "Example sentence: On all sides doors were being slammed in his face.",
+  "Example sentence: At that moment, Holden almost slammed on the brakes to go back to Cooper and ask if Ferguson was about."
+ ],
+ "labels": [
+  "slam.v.02",
+  "slam.v.02",
+  "slam.v.02",
+  "slam.v.02",
+  "slam.v.02",
+  "slam.v.01",
+  "slam.v.01",
+  "slam.v.01",
+  "slam.v.01",
+  "slam.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

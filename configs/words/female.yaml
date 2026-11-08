@@ -1,0 +1,7 @@
+word: female
+dataset: data/raw/semcor_words/female.json
+senses:
+  - female.a.01
+  - female.n.01
+n_per_sense: 10
+prefix: "Example sentence: "

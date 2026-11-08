@@ -1,0 +1,47 @@
+{
+ "target_word": "hope",
+ "sentences": [
+  "Example sentence: I hope the man who plans to sit on his hands until the emergency comes will have a change of heart, will get busy and be the first member of our `` plus-one '' shelter club.",
+  "Example sentence: It was the best he could hope for on a watch that had ended with a session in Killpath's office.",
+  "Example sentence: I would hope that we could create the recognition in the Department and overseas that those who come across little things going wrong have the responsibility for bringing these to the attention of those who can do something about them.",
+  "Example sentence: I would hope that Sargent Shriver will encourage everyone entering the Peace Corps to read it.",
+  "Example sentence: I only hope my talking to you has helped you a little, anyway, because you need spiritual bucking-up ''.",
+  "Example sentence: And there must be many Soviet citizens who know what is going on and who realize that before they can hope to enjoy the full life promised for 1980 they and their children must first survive.",
+  "Example sentence: At the end of the calculated time he'd nose the Waco down through the cloud bank and hope to break through where some feature of the winter landscape would be recognizable.",
+  "Example sentence: Each enjoys seeing the other hit home runs (`` I hope Roger hits 80 '', Mantle says), and each enjoys even more seeing himself hit home runs (`` and I hope I hit 81 '').",
+  "Example sentence: I also hope that we can do something about reducing the infant mortality rate of ideas - an affliction of all bureaucracies.",
+  "Example sentence: I hope his suggestions are given the consideration they deserve in Kikuyu circles.",
+  "Example sentence: She asked if I had other advice and, heady with success, I rushed it in, I hope not too late.",
+  "Example sentence: `` O Blessed Virgin Mary, Mother of God and our most gentle queen and mother, look down in mercy upon England, thy '' dowry ``, and upon us all who greatly hope and trust in thee."
+ ],
+ "labels": [
+  "hope.v.01",
+  "hope.v.01",
+  "hope.v.01",
+  "hope.v.01",
+  "hope.v.01",
+  "hope.v.01",
+  "hope.v.02",
+  "hope.v.02",
+  "hope.v.02",
+  "hope.v.02",
+  "hope.v.02",
+  "hope.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

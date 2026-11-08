@@ -1,0 +1,7 @@
+word: legs
+dataset: data/raw/semcor_words/legs.json
+senses:
+  - leg.n.01
+  - leg.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

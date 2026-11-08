@@ -1,0 +1,7 @@
+word: god
+dataset: data/raw/semcor_words/god.json
+senses:
+  - god.n.01
+  - deity.n.01
+n_per_sense: 11
+prefix: "Example sentence: "

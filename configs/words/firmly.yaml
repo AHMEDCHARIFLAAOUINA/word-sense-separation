@@ -1,0 +1,7 @@
+word: firmly
+dataset: data/raw/semcor_words/firmly.json
+senses:
+  - firm.r.01
+  - securely.r.01
+n_per_sense: 4
+prefix: "Example sentence: "

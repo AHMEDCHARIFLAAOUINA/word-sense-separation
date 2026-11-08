@@ -1,0 +1,7 @@
+word: conducted
+dataset: data/raw/semcor_words/conducted.json
+senses:
+  - conduct.v.01
+  - conduct.v.02
+n_per_sense: 12
+prefix: "Example sentence: "

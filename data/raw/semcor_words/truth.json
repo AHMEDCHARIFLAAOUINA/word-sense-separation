@@ -1,0 +1,53 @@
+{
+ "target_word": "truth",
+ "sentences": [
+  "Example sentence: `` Now, ain't it the truth ''?",
+  "Example sentence: Too many times was the truth of it, Winston thought.",
+  "Example sentence: At last, sitting there, in the familiar surroundings, the truth began to sink in.",
+  "Example sentence: How foolish it was to try to fathom the truth in an area where only faith would suffice.",
+  "Example sentence: I suggested that one must let it in because it is the truth, but Beckett did not take to the word truth.",
+  "Example sentence: There was one fact which Rector could not overlook, one truth which he could not deny.",
+  "Example sentence: I lived in this onward driving contest where each day overcame a new difficulty, gained a new truth, or banished a previous error ''.",
+  "Example sentence: Even as the conviction of truth roared through him, shattering his last hope of safety, he was reaching to release the hand brake, to head up the road for home, doing her bidding.",
+  "Example sentence: Somehow, the pictures and stories of Soviet T-34 tanks on Cuban beaches and Russian Mig jet fighters strafing rebel troops has brought home to all of us the stark, blunt truth of what it means to have a Russian military base 90 miles away from home.",
+  "Example sentence: All artistic and mythological representations, therefore, are `` imitations of imitations '' and are completely superseded by the truth value of `` dialectic '', the proper use of the inquiring intellect.",
+  "Example sentence: The truth was, the puncher was both bewildered and dismayed by his own mixed luck.",
+  "Example sentence: `` They are also honest seekers after truth.",
+  "Example sentence: When Peter B. Kyne (Pride of Palomar, 43) informed us in 1921 that we had an instinctive dislike for the Japanese, did the heated debates of the Californians settle the truth or falsity of the proposition?",
+  "Example sentence: Will argument and debate decide its truth or falsity?"
+ ],
+ "labels": [
+  "truth.n.01",
+  "truth.n.01",
+  "truth.n.01",
+  "truth.n.01",
+  "truth.n.01",
+  "truth.n.01",
+  "truth.n.01",
+  "truth.n.02",
+  "truth.n.02",
+  "truth.n.02",
+  "truth.n.02",
+  "truth.n.02",
+  "truth.n.02",
+  "truth.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

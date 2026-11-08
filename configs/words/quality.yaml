@@ -1,0 +1,7 @@
+word: quality
+dataset: data/raw/semcor_words/quality.json
+senses:
+  - quality.n.01
+  - quality.n.02
+n_per_sense: 12
+prefix: "Example sentence: "

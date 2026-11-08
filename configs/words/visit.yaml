@@ -1,0 +1,7 @@
+word: visit
+dataset: data/raw/semcor_words/visit.json
+senses:
+  - visit.v.01
+  - travel_to.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

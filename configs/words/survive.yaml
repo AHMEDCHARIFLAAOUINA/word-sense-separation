@@ -1,0 +1,7 @@
+word: survive
+dataset: data/raw/semcor_words/survive.json
+senses:
+  - survive.v.01
+  - survive.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

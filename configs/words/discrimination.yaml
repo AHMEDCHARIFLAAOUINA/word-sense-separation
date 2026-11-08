@@ -1,0 +1,7 @@
+word: discrimination
+dataset: data/raw/semcor_words/discrimination.json
+senses:
+  - discrimination.n.01
+  - discrimination.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

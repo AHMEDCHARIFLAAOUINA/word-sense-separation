@@ -1,0 +1,47 @@
+{
+ "target_word": "indicated",
+ "sentences": [
+  "Example sentence: Though far from completion, these studies indicated beyond a doubt that savings would result which would be of unprecedented benefit to the railroads concerned, their investors, their customers, their users, and to the public at large.",
+  "Example sentence: The x-ray diffraction pattern of the material, taken with CuKla radiation, indicated the presence of no extra lines and was in good agreement with the pattern of Douglass.",
+  "Example sentence: The short poems grouped at the end of the volume as `` Thoughts in Loneliness '' is, as Professor Bo ^ o ^ k indicated, in sharp contrast with the others.",
+  "Example sentence: At the rate of need indicated in the early weeks of the month, this could mean a shortage of as high as $17000.",
+  "Example sentence: A single 24 - hr composite sample indicated that the sewage flow pattern and characteristics were typical.",
+  "Example sentence: This is, of course, a similar type of behavior to that indicated by birefringence studies.",
+  "Example sentence: The monitor of this discourse grinned with pride and amusement as Helva's tone indicated pity for the unfortunate.",
+  "Example sentence: The observed intensity of the radio emission of Venus is much higher than the expected thermal intensity, although the spectrum indicated by measurements at wave lengths near 3 cm and 10 cm is like that of a black body at about 600 ` K.",
+  "Example sentence: The sounds issuing from beyond - winches whirring, men shouting - indicated great activity and excited me.",
+  "Example sentence: Addition is indicated by the + symbol.",
+  "Example sentence: Even less regard for mom and mom's apple pie goes with: In other words, the way the speaker relates to mother is clearly indicated.",
+  "Example sentence: She had begun to turn back toward the house, but his look caught her and she stood still, waiting there for what his expression indicated would be a serious word of farewell."
+ ],
+ "labels": [
+  "indicate.v.02",
+  "indicate.v.02",
+  "indicate.v.02",
+  "indicate.v.02",
+  "indicate.v.02",
+  "indicate.v.02",
+  "bespeak.v.01",
+  "bespeak.v.01",
+  "bespeak.v.01",
+  "bespeak.v.01",
+  "bespeak.v.01",
+  "bespeak.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

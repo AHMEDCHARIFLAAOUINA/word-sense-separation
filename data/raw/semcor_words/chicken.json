@@ -1,0 +1,35 @@
+{
+ "target_word": "chicken",
+ "sentences": [
+  "Example sentence: `` Chicken '', Mose said.",
+  "Example sentence: `` Come on, there's some cold chicken and we'll see what else ''.",
+  "Example sentence: `` Johnny insisted on cooking a chicken dinner in my honor - he's always been a good cook - and I'll never forget him cleaning the chicken in the tub ''.",
+  "Example sentence: `` Chicken '', Mose said, and theatrically licked his lips.",
+  "Example sentence: A bullet fired by one of the Mexicans hiding in a little chicken house had passed through his head, tearing a hole two inches square on the outgoing side.",
+  "Example sentence: `` Tee-wah '', the driver cackled, his black eyes glittering behind dull silver chicken fencing.",
+  "Example sentence: Eyes swerved in the patronne's head, Alex coughed loudly, and the doctor, with a sforzando of chicken noises floating behind him, took to the stairs in long shanked leaps.",
+  "Example sentence: But it was only Johnson reaching around the wire chicken fencing, which half covered the truck cab's glassless rear window."
+ ],
+ "labels": [
+  "chicken.n.01",
+  "chicken.n.01",
+  "chicken.n.01",
+  "chicken.n.01",
+  "chicken.n.02",
+  "chicken.n.02",
+  "chicken.n.02",
+  "chicken.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

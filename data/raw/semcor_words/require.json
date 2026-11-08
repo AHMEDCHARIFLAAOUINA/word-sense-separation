@@ -1,0 +1,47 @@
+{
+ "target_word": "require",
+ "sentences": [
+  "Example sentence: One town and one city, Coventry and East Providence, require an adjustment of their fiscal year only.",
+  "Example sentence: Note 6 and 8 lock levers don't require holes for contacts.",
+  "Example sentence: Large, long-range bombers can be developed which would have the capability to take off from 3000 - foot runways, but they would require more powerful engines than we have today.",
+  "Example sentence: Completing the division first also includes those division parts that require multiplication, subtraction, or addition steps: * * f This would be reduced by multiplying 8 times 6 and then dividing the product by 12.",
+  "Example sentence: Sanitation in the confines of the family shelter will require much thought and planning.",
+  "Example sentence: To find a place for them in their theory of knowledge would require them to revise the theory radically, and yet that theory was what they regarded as their most important discovery.",
+  "Example sentence: The regulations require the inscription of each individual (male or female, adult or child) on a separate card (fiche).",
+  "Example sentence: Most orthodontists require an initial payment to cover the cost of diagnostic materials and construction of the appliances, but usually the remainder of the cost may be spread over a period of months or years.",
+  "Example sentence: Some churches require more.",
+  "Example sentence: The drug's chemical name is listed, since most states require feed processors to use this name instead of the trade name on the feed tag.",
+  "Example sentence: Most entry blanks for competitive events require engine displacement information because of class restrictions.",
+  "Example sentence: Fees are not the same and some states do not require certain craft, such as sailboats with no power, to be registered at all."
+ ],
+ "labels": [
+  "necessitate.v.01",
+  "necessitate.v.01",
+  "necessitate.v.01",
+  "necessitate.v.01",
+  "necessitate.v.01",
+  "necessitate.v.01",
+  "ask.v.04",
+  "ask.v.04",
+  "ask.v.04",
+  "ask.v.04",
+  "ask.v.04",
+  "ask.v.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: enjoyed
+dataset: data/raw/semcor_words/enjoyed.json
+senses:
+  - enjoy.v.02
+  - enjoy.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

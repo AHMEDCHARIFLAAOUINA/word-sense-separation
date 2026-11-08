@@ -1,0 +1,7 @@
+word: swung
+dataset: data/raw/semcor_words/swung.json
+senses:
+  - swing.v.01
+  - swing.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

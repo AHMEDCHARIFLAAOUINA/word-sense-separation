@@ -1,0 +1,47 @@
+{
+ "target_word": "travel",
+ "sentences": [
+  "Example sentence: We are here because all our paths travel a blind course through a thick forest, seeking human dignity.",
+  "Example sentence: After it has reached terminal velocity, the time for the tape to travel a known distance is recorded.",
+  "Example sentence: She didn't like to travel.",
+  "Example sentence: How we travel through the forest is for each man's conscience.",
+  "Example sentence: They travel in pairs as much as a hundred-and-fifty miles a day ''.",
+  "Example sentence: The smaller the particle the further it will travel downwind before settling out.",
+  "Example sentence: The respective vocabularies `` essential for travel '' are available in separate albums.",
+  "Example sentence: Before the airplanes came, he said, travel in Laos was just about impossible.",
+  "Example sentence: Take into account the difference in city and county taxes, insurance rates, utility rates, and the cost of travel to work.",
+  "Example sentence: Employees deduct expenses of travel, meals and lodging while away from home in connection with the performance of their services as employees.",
+  "Example sentence: In general, however, the timetable of travel lags considerably behind that of the student at Harvard or Smith.",
+  "Example sentence: The travel time of sound in tissue is about 1500 meters per second thus it takes about 16 | msec. to traverse 25 mm. of tissue."
+ ],
+ "labels": [
+  "travel.v.01",
+  "travel.v.01",
+  "travel.v.01",
+  "travel.v.01",
+  "travel.v.01",
+  "travel.v.01",
+  "travel.n.01",
+  "travel.n.01",
+  "travel.n.01",
+  "travel.n.01",
+  "travel.n.01",
+  "travel.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

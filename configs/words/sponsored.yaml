@@ -1,0 +1,7 @@
+word: sponsored
+dataset: data/raw/semcor_words/sponsored.json
+senses:
+  - sponsor.v.01
+  - sponsor.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

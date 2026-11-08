@@ -1,0 +1,7 @@
+word: only
+dataset: data/raw/semcor_words/only.json
+senses:
+  - merely.r.01
+  - entirely.r.02
+n_per_sense: 20
+prefix: "Example sentence: "

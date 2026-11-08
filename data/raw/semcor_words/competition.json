@@ -1,0 +1,35 @@
+{
+ "target_word": "competition",
+ "sentences": [
+  "Example sentence: This section shall not apply to corporations purchasing such stock solely for investment and not using the same by voting or otherwise to bring about, or in attempting to bring about, the substantial lessening of competition ``.",
+  "Example sentence: If you are up against private brand competition, have you formulated a long-term program for researching and strengthening your market position?",
+  "Example sentence: The section is violated whether or not actual restraints or monopolies, or the substantial lessening of competition, have occurred or are intended ''.",
+  "Example sentence: If competition beats you to it, this exciting new product era can have real headaches in store.",
+  "Example sentence: Periodic bulletins of the accomplishment in each province made the registration process into a kind of competition among provincial officials.",
+  "Example sentence: Yet even here many a problem is presented; as in a recent design competition with a floor plan and the simple command - `` design a luxury apartment ''; no description of the client or his cultural level, no assertion of geographical area or local social necessities - simply `` a luxury apartment ''.",
+  "Example sentence: When the troupe traveled to New York to participate in a one act play competition - and won - Mercer, instead of returning with the rest of the company in triumph, remained in New York.",
+  "Example sentence: After all, we did pretty well in some other areas of the Olympics competition."
+ ],
+ "labels": [
+  "competition.n.01",
+  "competition.n.01",
+  "competition.n.01",
+  "competition.n.01",
+  "contest.n.01",
+  "contest.n.01",
+  "contest.n.01",
+  "contest.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

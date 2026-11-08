@@ -1,0 +1,41 @@
+{
+ "target_word": "operation",
+ "sentences": [
+  "Example sentence: Consider adopting a system of holidays in which time off is granted with an eye to minimum inconvenience to the operation of the plant.",
+  "Example sentence: We assume that average total unit cost in the relevant region of operation is constant with respect to quantity produced (the average cost curve is horizontal, and therefore is identical with the marginal cost curve), and is the same for every firm (and therefore for the industry).",
+  "Example sentence: The latter now furnishes the area with electricity distributed from a modern sub-station at Manchester Depot which was put into operation February 19, 1930 and was improved in January 1942 by the installation of larger transformers.",
+  "Example sentence: The jury praised the administration and operation of the Atlanta Police Department, the Fulton Tax Commissioner's Office, the Bellwood and Alpharetta prison farms, Grady Hospital and the Fulton Health Department.",
+  "Example sentence: The data given in Table 2, show the routine operation of the aerator.",
+  "Example sentence: Have you considered gradual withdrawal of subsidies to your in plant feeding operation?",
+  "Example sentence: It depends on the kind and the scale of the farming operation.",
+  "Example sentence: Have cost studies been made of every phase of your operation to determine what might be done if things get worse?",
+  "Example sentence: In many cases that statement `` We break even on our downtown operation and make money on our branches '' would be turned around if the cost analysis were recalculated on terms less prejudicial to the old store.",
+  "Example sentence: Have you checked the cost of subcontracting your cafeteria operation in order to save administrative costs?"
+ ],
+ "labels": [
+  "operation.n.01",
+  "operation.n.01",
+  "operation.n.01",
+  "operation.n.01",
+  "operation.n.01",
+  "operation.n.02",
+  "operation.n.02",
+  "operation.n.02",
+  "operation.n.02",
+  "operation.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

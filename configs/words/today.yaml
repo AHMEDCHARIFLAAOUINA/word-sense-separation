@@ -1,0 +1,7 @@
+word: today
+dataset: data/raw/semcor_words/today.json
+senses:
+  - today.n.01
+  - nowadays.r.01
+n_per_sense: 17
+prefix: "Example sentence: "

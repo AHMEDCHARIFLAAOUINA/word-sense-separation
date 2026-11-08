@@ -1,0 +1,53 @@
+{
+ "target_word": "encountered",
+ "sentences": [
+  "Example sentence: I learned, for example, that he made a practice of yapping at dogs he encountered and, in winter, of sprinkling salt on the icy pavement to scarify their feet.",
+  "Example sentence: After three months of research, I can state unequivocally that Los Angeles drivers are considerably more courteous and competent than any other drivers I've ever encountered.",
+  "Example sentence: He had put on the gray jacket and the dark gray slacks and the fawn colored shirt he had worn that first night in Rome when he had encountered her on the street.",
+  "Example sentence: No orchestra, however, could be expected to follow a singer through quite as many adventures with pitch as Miss Pons encountered last night.",
+  "Example sentence: Never, he'd once told Joyce, had he encountered any man or situation that called for a gun.",
+  "Example sentence: Twenty feet below the street level in the excavation of the new motel to be constructed on this site, a black coal-like deposit has been encountered.",
+  "Example sentence: They have an ancestry extending back, however, at least to 1728, when William Byrd described the Lubberlanders he encountered in the back country of Virginia and North Carolina.",
+  "Example sentence: If the photographically realistic continuity of dreams, however bizarre their combinations, denies that it is purely a composition of the brain, it must be compounded from views of diverse realities, although some of them may never be encountered in what we are pleased to call the real life.",
+  "Example sentence: When I pressed for a purely religious definition, I encountered the familiar blend of liberal piety, interfaith good will, and a small residue of ethnic loyalty.",
+  "Example sentence: The jacket biography describes him as a former racing driver, and he may indeed have been, although I do not recall having encountered his name either in the records or the literature.",
+  "Example sentence: It sprang from a type of mentality I'd encountered often enough but certainly had not expected to find here.",
+  "Example sentence: From my wife's experience and other sources, this seems to be rarely encountered in educated circles.",
+  "Example sentence: Davis commenced his remarks by an allusion to the general feeling of opposition which the meeting had encountered from many of the citizens and all the newspapers of the city.",
+  "Example sentence: Upon consideration of the variety of soils and fabrics normally encountered in the washing process, it is little wonder that the use of a number of detergent constituents having `` synergistic '' properties has gained widespread acceptance."
+ ],
+ "labels": [
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.01",
+  "find.v.01",
+  "find.v.01",
+  "find.v.01",
+  "find.v.01",
+  "find.v.01",
+  "find.v.01",
+  "find.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

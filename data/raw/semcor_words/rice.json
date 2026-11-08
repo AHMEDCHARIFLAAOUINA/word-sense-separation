@@ -1,0 +1,35 @@
+{
+ "target_word": "rice",
+ "sentences": [
+  "Example sentence: Quite candidly, fellows, I wouldn't be in your shoes for all the rice in China.",
+  "Example sentence: Glendora put down a dish of lukewarm rice.",
+  "Example sentence: The rice wasn't dosed with opium, indeed it had no taste at all, not a grain of salt.",
+  "Example sentence: The Prince visited the hospital of Operation Brotherhood, supported by the Junior Chamber of Commerce of the Philippines, and fed rice to two pet elephants he kept at his residence at Pak Song.",
+  "Example sentence: The preparations were elaborate: flowers, candles, incense sticks, rice wine, dozens of delicacies, and pieces of white cotton string.",
+  "Example sentence: Then we drove on, until there was no more road and we traversed dry rice fields, bouncing across their squat earth walls.",
+  "Example sentence: Then came coconuts, eggs, and rice wine.",
+  "Example sentence: Practically all the people of Laos, he explained - about two million of them - are rice farmers, and the means and motives of modern war are as strange to them as clocks and steel plows."
+ ],
+ "labels": [
+  "rice.n.01",
+  "rice.n.01",
+  "rice.n.01",
+  "rice.n.01",
+  "rice.n.02",
+  "rice.n.02",
+  "rice.n.02",
+  "rice.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

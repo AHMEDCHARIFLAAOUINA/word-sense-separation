@@ -1,0 +1,7 @@
+word: destruction
+dataset: data/raw/semcor_words/destruction.json
+senses:
+  - destruction.n.01
+  - destruction.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

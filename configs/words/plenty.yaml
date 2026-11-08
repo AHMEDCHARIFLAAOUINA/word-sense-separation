@@ -1,0 +1,7 @@
+word: plenty
+dataset: data/raw/semcor_words/plenty.json
+senses:
+  - plenty.n.01
+  - enough.r.01
+n_per_sense: 5
+prefix: "Example sentence: "

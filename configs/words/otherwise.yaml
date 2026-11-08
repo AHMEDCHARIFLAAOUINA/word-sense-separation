@@ -1,0 +1,7 @@
+word: otherwise
+dataset: data/raw/semcor_words/otherwise.json
+senses:
+  - otherwise.r.01
+  - differently.r.01
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,47 @@
+{
+ "target_word": "conditions",
+ "sentences": [
+  "Example sentence: The purpose of the present study is to study the thermal conditions and to establish an energy balance for a transpiration cooled anode as well as the effect of blowing on the arc voltage.",
+  "Example sentence: Often, in working out-of-doors under all conditions of light and atmosphere, a particular passage that looked favorable in relation to the subject will be too bright, too dull, or too light, or too dark when viewed indoors in a mat.",
+  "Example sentence: When paper electrophoresis was to be used for preparation, eight strips of a whole serum sample or a chromatographic fraction concentrated by negative pressure dialysis were run / chamber under the conditions described above.",
+  "Example sentence: In the search for oil and gas, we make similar waves under controlled conditions with dynamite and learn from them where there are buried rock structures favorable to the accumulation of these resources.",
+  "Example sentence: Back at the Factory-to-You with the other old maids, back there she was the youngest clerk and she was thirty-four, which made her young enough to resent the usual ideal working conditions, like the unventilated toilet with the door you had to hold shut while you sat down.",
+  "Example sentence: The gas flow through a plasma generator will modify these conditions; however, the anode is still the part receiving the largest heat flux.",
+  "Example sentence: These conditions man did not keep, and thus he became mortal; yet he did not stop being human as a result.",
+  "Example sentence: Once these conditions of international law are met, countries that try to run to blockade do so at their own risk.",
+  "Example sentence: It was not always easy to develop theory and doctrine which would square the two conditions.",
+  "Example sentence: And He laid down for him certain conditions: so that, if he kept the command of God, then he would always remain as he was, that is, immortal; but if he did not, he would become mortal, melting into earth, whence his frame had been taken ''.",
+  "Example sentence: The constancy of p and the independence are the conditions most likely to give trouble in practice.",
+  "Example sentence: Essentially this imposed two conditions: First, international law had to recognize and be compatible with an international political system in which a number of states were competitive, suspicious, and opportunistic in their political alignments with one another; second, it had to be compatible with the value system that they shared."
+ ],
+ "labels": [
+  "condition.n.01",
+  "condition.n.01",
+  "condition.n.01",
+  "condition.n.01",
+  "condition.n.01",
+  "condition.n.01",
+  "condition.n.02",
+  "condition.n.02",
+  "condition.n.02",
+  "condition.n.02",
+  "condition.n.02",
+  "condition.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

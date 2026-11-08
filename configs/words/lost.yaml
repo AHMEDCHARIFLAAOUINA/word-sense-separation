@@ -1,0 +1,7 @@
+word: lost
+dataset: data/raw/semcor_words/lost.json
+senses:
+  - lose.v.01
+  - lose.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

@@ -1,0 +1,53 @@
+{
+ "target_word": "admitted",
+ "sentences": [
+  "Example sentence: Privately, the liberals admitted that the Humphrey amendment had no chance of passage.",
+  "Example sentence: Wexler admitted in earlier court hearings that he issued grand jury subpenas to about 200 persons involved in the election investigation, questioned the individuals in the Criminal courts building, but did not take them before the grand jury.",
+  "Example sentence: Privately, they also admitted that their hopes for Clint Anderson's three-fifths modification depended on none other than Republican Richard Nixon.",
+  "Example sentence: He admitted his behavior, and defended it.",
+  "Example sentence: `` As for my elders, they have already admitted that they were wrong.",
+  "Example sentence: Before he testified for 20 minutes, Stein, who lives at 3300 Lake Shore dr., admitted to reporters that he had a wide acquaintance with crime syndicate hoodlums.",
+  "Example sentence: It should be admitted, too, that there is a good percentage of lapsed or nonchurchgoing Catholics (one paper writes 50 per cent).",
+  "Example sentence: How, I asked, could chaos be admitted to chaos?",
+  "Example sentence: Bernard Parrillo, 20, of 19 Fletcher Ave., Cranston, was admitted to Roger Williams Hospital shortly before 11: 30 a. m. yesterday after a hunting accident in which a shotgun he was carrying discharged against his heel.",
+  "Example sentence: Charlayne was `` tentatively '' admitted for next fall, after state investigators questioned her white roommate at Wayne State.",
+  "Example sentence: `` There is not now, nor has there ever been in Emory University's charter or by-laws any requirement that students be admitted or rejected on the basis of race, color or creed.",
+  "Example sentence: `` How could the mess be admitted, because it appears to be the very opposite of form and therefore destructive of the very thing that art holds itself to be ''?",
+  "Example sentence: Judge Bootle's decision: `` The two plaintiffs are qualified for admission to said university and would already have been admitted had it not been for their race and color ''.",
+  "Example sentence: His sister and brother, Marie Louise, 3, and John Raymond, Jr. 22 months, were admitted to the hospital."
+ ],
+ "labels": [
+  "admit.v.01",
+  "admit.v.01",
+  "admit.v.01",
+  "admit.v.01",
+  "admit.v.01",
+  "admit.v.01",
+  "admit.v.01",
+  "admit.v.02",
+  "admit.v.02",
+  "admit.v.02",
+  "admit.v.02",
+  "admit.v.02",
+  "admit.v.02",
+  "admit.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

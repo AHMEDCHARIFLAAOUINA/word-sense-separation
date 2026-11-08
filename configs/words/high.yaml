@@ -1,0 +1,7 @@
+word: high
+dataset: data/raw/semcor_words/high.json
+senses:
+  - high.a.01
+  - high.a.02
+n_per_sense: 17
+prefix: "Example sentence: "

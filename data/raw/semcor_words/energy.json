@@ -1,0 +1,35 @@
+{
+ "target_word": "energy",
+ "sentences": [
+  "Example sentence: The purpose of the present study is to study the thermal conditions and to establish an energy balance for a transpiration cooled anode as well as the effect of blowing on the arc voltage.",
+  "Example sentence: The impact of technological factors is also illustrated by the history of the high energy fuel program.",
+  "Example sentence: It is sufficiently small compared with the surface temperature of the anode holder, to make the energy flux radiated from the environment toward the anode holder negligible within the accuracy of the present measurements.",
+  "Example sentence: From this and the force of deformation it should be possible to calculate the elastic energy of deformation which should be equal to the * * f calculated from the pressure normal to the shearing face.",
+  "Example sentence: The child with high anxiety may first direct his anxiety released energy toward achievement, but because his distress severely reduces the abilities of discrimination and memorization of complex symbols, the child may fail in his initial attempts to master the problem.",
+  "Example sentence: It required an energy he no longer possessed to be satirical about his father.",
+  "Example sentence: When carving he was charged with spontaneous energy; too careful or detailed studies in clay and wax would have glued him down to a mere enlarging of his model.",
+  "Example sentence: The individual with high anxiety in the structured classroom may approach the learning task with the same increased energy and lowered powers of discrimination."
+ ],
+ "labels": [
+  "energy.n.01",
+  "energy.n.01",
+  "energy.n.01",
+  "energy.n.01",
+  "energy.n.03",
+  "energy.n.03",
+  "energy.n.03",
+  "energy.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

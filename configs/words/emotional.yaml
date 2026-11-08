@@ -1,0 +1,7 @@
+word: emotional
+dataset: data/raw/semcor_words/emotional.json
+senses:
+  - emotional.a.01
+  - emotional.a.02
+n_per_sense: 7
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: paint
+dataset: data/raw/semcor_words/paint.json
+senses:
+  - paint.v.01
+  - paint.v.03
+n_per_sense: 4
+prefix: "Example sentence: "

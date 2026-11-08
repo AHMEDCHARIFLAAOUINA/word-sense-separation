@@ -1,0 +1,7 @@
+word: shot
+dataset: data/raw/semcor_words/shot.json
+senses:
+  - shooting.n.01
+  - shot.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

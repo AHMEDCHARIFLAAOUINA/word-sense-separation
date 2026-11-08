@@ -1,0 +1,7 @@
+word: replaced
+dataset: data/raw/semcor_words/replaced.json
+senses:
+  - replace.v.01
+  - supplant.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

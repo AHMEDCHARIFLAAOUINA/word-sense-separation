@@ -1,0 +1,53 @@
+{
+ "target_word": "vary",
+ "sentences": [
+  "Example sentence: Even in the neighborhood of the Earth, where information has been obtained both directly and indirectly, the derived flux values vary by at least four orders of magnitude.",
+  "Example sentence: Even here there is room for some variation, for metal surfaces vary in smoothness, absorptive capacity, and chemical reactivity.",
+  "Example sentence: The estimates vary widely on the strength of the Chinese army.",
+  "Example sentence: Plans vary from the `` talking stage '' to establishing special committees to accomplish this end.",
+  "Example sentence: Second, for both sexes, the 21 transverse lines in the Onset Profile vary more in individual spread than those in the Completion Profile.",
+  "Example sentence: These studies vary widely in scope and precision.",
+  "Example sentence: However, only Illinois, Oregon, Louisiana and Rhode Island have a situation in which the sundry units of government vary widely in relation to fiscal uniformity.",
+  "Example sentence: The industry is so structured that price-setting by a multi-product company will vary with the way overhead charges are allocated - whether marginal or average pricing is applied.",
+  "Example sentence: This gives you a better opportunity to get the feel of the climate conditions, the exposure to the sun and wind, the water interests, etcetera, which vary greatly with the seasons.",
+  "Example sentence: Although economic and personal circumstances vary widely among those now choosing apartments, Leo J. Pantas, vice president of a hardware manufacturing company, pointed out recently that many apartment seekers seem to have one characteristic in common: a desire for greater convenience and freedom from the problems involved in maintaining a house.",
+  "Example sentence: This would seem to vary from family to family, depending somewhat on the core or marginal `` status '' of that family.",
+  "Example sentence: The form of the industry demand function is one which makes quantity demanded vary inversely with the product price, and vary directly with the level of GNP.",
+  "Example sentence: Folklore is individually created art that a homogeneous group of people preserve, vary and recreate through oral transmission.",
+  "Example sentence: In repeated sets of five shots his numbers of bull's-eyes vary."
+ ],
+ "labels": [
+  "deviate.v.02",
+  "deviate.v.02",
+  "deviate.v.02",
+  "deviate.v.02",
+  "deviate.v.02",
+  "deviate.v.02",
+  "deviate.v.02",
+  "change.v.03",
+  "change.v.03",
+  "change.v.03",
+  "change.v.03",
+  "change.v.03",
+  "change.v.03",
+  "change.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

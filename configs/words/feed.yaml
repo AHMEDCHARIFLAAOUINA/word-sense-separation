@@ -1,0 +1,7 @@
+word: feed
+dataset: data/raw/semcor_words/feed.json
+senses:
+  - feed.n.01
+  - feed.v.01
+n_per_sense: 11
+prefix: "Example sentence: "

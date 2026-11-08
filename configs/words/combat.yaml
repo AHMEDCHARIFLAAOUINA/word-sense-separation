@@ -1,0 +1,7 @@
+word: combat
+dataset: data/raw/semcor_words/combat.json
+senses:
+  - combat.n.01
+  - battle.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

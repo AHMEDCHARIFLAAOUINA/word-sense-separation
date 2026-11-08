@@ -1,0 +1,35 @@
+{
+ "target_word": "sensitivity",
+ "sentences": [
+  "Example sentence: It is possible that the study of literature affects the conscience, the morality, the sensitivity to some code of `` right '' and `` wrong ''.",
+  "Example sentence: Among other things it means perception, discrimination, sensitivity to subtle differences.",
+  "Example sentence: High sensitivity in radio telescopes is achieved by reducing the bandwidth of the receiver; therefore, only with precise foreknowledge of the line frequencies is an astronomical search for the radio spectra of these molecules feasible.",
+  "Example sentence: Its truth is illustrated by the skill, sensitivity, and general expertise of the English professor with whom one attends the theatre.",
+  "Example sentence: This involves the application of a strong magnetic field to the radical vapor, which shifts the low-frequency spectra to a conveniently high microwave range, where they may be measured with optimum sensitivity.",
+  "Example sentence: Measurements of polarization are presently limited by apparatus sensitivity and will remain difficult because of the low intensity of the planetary radiation at the earth.",
+  "Example sentence: The diurnal variation in the observed flux may be partly due to the dependence of the detector sensitivity on the incident velocity.",
+  "Example sentence: The antenna patterns and the power gain at the peak of the beam were both measured (Mayer, McCullough, and Sloanaker, 1958 b), so that the absolute power sensitivity of the antenna beam over the solid angle of the moon was known."
+ ],
+ "labels": [
+  "sensitivity.n.01",
+  "sensitivity.n.01",
+  "sensitivity.n.01",
+  "sensitivity.n.01",
+  "sensitivity.n.02",
+  "sensitivity.n.02",
+  "sensitivity.n.02",
+  "sensitivity.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

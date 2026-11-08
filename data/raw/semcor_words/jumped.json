@@ -1,0 +1,41 @@
+{
+ "target_word": "jumped",
+ "sentences": [
+  "Example sentence: He jumped.",
+  "Example sentence: He jumped, and sank to his knees in muddy water.",
+  "Example sentence: See you '', Donovan said as he jumped off the wing.",
+  "Example sentence: Totaling 3399, sales jumped 14 per cent over February's 2963.",
+  "Example sentence: I hurried over to the agency heap, jumped in, started the motor and was just in time to see the car I wanted to shadow turn to the left.",
+  "Example sentence: She hesitated, she hopped, she roll and rocked, skipped and jumped, but in some two weeks she started to pace, From that time to this she has shown steady improvement and now looks like one of the classiest things on the grounds.",
+  "Example sentence: Within half an hour I jumped a six-point buck that hop-skipped through a rhododendron thicket, and I caught him just behind the left foreleg at 60 yards.",
+  "Example sentence: She jumped as the little man now appeared at the window and, reaching through the opening, offered her a bottle of coke.",
+  "Example sentence: Startled, he jumped up to pull hen and case out of view, and Alex went to the door.",
+  "Example sentence: She had jumped away from his shy touch like a cat confronted by a sidewinder."
+ ],
+ "labels": [
+  "jump.v.01",
+  "jump.v.01",
+  "jump.v.01",
+  "jump.v.01",
+  "jump.v.01",
+  "startle.v.02",
+  "startle.v.02",
+  "startle.v.02",
+  "startle.v.02",
+  "startle.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

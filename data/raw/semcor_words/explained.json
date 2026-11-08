@@ -1,0 +1,35 @@
+{
+ "target_word": "explained",
+ "sentences": [
+  "Example sentence: Finally, it did seem clear as day to these clergymen, as Gannett's son explained in the biography of his father, they had always contended for the propriety of their claim to the title of Christians.",
+  "Example sentence: If the argument is accepted as essentially sound up to this point, it remains for us to consider whether the patient's difficulties in orienting himself spatially and in locating objects in space with the sense of touch can be explained by his defective visual condition.",
+  "Example sentence: `` It doesn't drown out the dialogue '', I explained.",
+  "Example sentence: `` I'm allergic to Tahoe '', Owen explained.",
+  "Example sentence: Practically all the people of Laos, he explained - about two million of them - are rice farmers, and the means and motives of modern war are as strange to them as clocks and steel plows.",
+  "Example sentence: Roleplaying was offered as a solution - and the procedure worked as follows: all candidates were invited to a hotel conference room, where the president explained the difficulty he had, and how unnecessary it seemed to him to hire people who just did not work out.",
+  "Example sentence: A very great Pope, this one, the old woman explained, her black eyes sparkling.",
+  "Example sentence: Madden explained that he was thinking of an application sent directly to Mrs. Meeker."
+ ],
+ "labels": [
+  "explain.v.01",
+  "explain.v.01",
+  "explain.v.01",
+  "explain.v.01",
+  "explain.v.02",
+  "explain.v.02",
+  "explain.v.02",
+  "explain.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

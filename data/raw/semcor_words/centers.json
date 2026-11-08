@@ -1,0 +1,35 @@
+{
+ "target_word": "centers",
+ "sentences": [
+  "Example sentence: Arteries and veins are apparent by their black, blood-filled centers and the surrounding white walls.",
+  "Example sentence: Second, the upper portion permits comparison of maturity levels of an equal number of growth centers from the long, short, and round bones of the five regions.",
+  "Example sentence: Thus, the alignment of the `` dots '' and `` tips '', respectively, indicate individual variability of the 21 growth centers of each child with respect to the mean values for these boys and girls.",
+  "Example sentence: Although the standard deviation values on which spread of the lines are based are relatively larger for those centers which begin to ossify early (Table 1), there are considerable differences in this value between centers having the closely timed Onsets.",
+  "Example sentence: The action centers about a group of outspoken and offbeat students sitting around a table in a cafeteria and their collective and ultimately fruitless search for a cup of hot coffee.",
+  "Example sentence: From the point of view of syntactic analysis the head word in the statement is the predicator has broken, and from the point of view of meaning it would seem that the trouble centers in the breaking; but dominant stress will be assigned to broken only in rather exceptional versions of the sentence.",
+  "Example sentence: It could be argued that any fellowship which centers in residential neighborhoods is doomed to become an expression of the panic for stable identity among the middle classes.",
+  "Example sentence: Though it centers around the brilliant and enigmatic figure of Charles 12,, the true hero is not finally the king himself."
+ ],
+ "labels": [
+  "center.n.01",
+  "center.n.01",
+  "center.n.01",
+  "center.n.01",
+  "focus_on.v.01",
+  "focus_on.v.01",
+  "focus_on.v.01",
+  "focus_on.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: fact
+dataset: data/raw/semcor_words/fact.json
+senses:
+  - fact.n.01
+  - fact.n.02
+n_per_sense: 13
+prefix: "Example sentence: "

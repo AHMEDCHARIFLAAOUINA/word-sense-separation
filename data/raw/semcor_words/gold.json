@@ -1,0 +1,35 @@
+{
+ "target_word": "gold",
+ "sentences": [
+  "Example sentence: And he certainly couldn't have guessed that she would resist his demand for the gold or that she was not the yielding - yes, and credible fool he had every right to expect.",
+  "Example sentence: She had quarreled with Lucien, she had resisted his demands for money - and if she died, by the provisions of her marriage contract, Lucien would inherit legally not only the immediate sum of gold under the floorboards in the office, but later, when the war was over, her father's entire estate.",
+  "Example sentence: In this third year at the university, Hans, in 1797, was awarded the first important token of recognition, a gold medal for his essay on `` Limits of Poetry and Prose ''.",
+  "Example sentence: Will mere debate on that proposition, even though it be free and untrammeled, remove the dross and leave a residue of refined gold?",
+  "Example sentence: In the first place, it's static; in the second place, it doesn't look authentic; and in the third place, it would cost a fortune to reproduce in the first place - you've got six colors there including gold ''.",
+  "Example sentence: It was professedly worth three thousand dollars in stock and good will, and the name was written in gold in foot high letters across each of the two display windows.",
+  "Example sentence: Then I saw the father's head slightly turn; gauche rainbow shapes replaced the poignant ovals of gold.",
+  "Example sentence: On the right window, at eye level, in smaller print but also in gold, was Gonzalez, Prop., and under that, Se Habla Espanol."
+ ],
+ "labels": [
+  "gold.n.01",
+  "gold.n.01",
+  "gold.n.01",
+  "gold.n.01",
+  "amber.n.01",
+  "amber.n.01",
+  "amber.n.01",
+  "amber.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

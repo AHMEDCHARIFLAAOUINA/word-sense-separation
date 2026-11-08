@@ -1,0 +1,41 @@
+{
+ "target_word": "curve",
+ "sentences": [
+  "Example sentence: In the following paper it is shown that in a certain definite sense, exactly an odd number of squares can be inscribed in every such curve which does not contain an infinite number of inscribed squares.",
+  "Example sentence: For any such square the middle corner of these will be called the vertex of the square and the corner not on the curve will be called the diagonal point of the square.",
+  "Example sentence: A continuous change in t through an amount e results in a translation along an analytic arc of the curve **f.",
+  "Example sentence: A square inscribed in a curve C means a square with its four corner points on the curve, though it may not lie entirely in the interior of C.",
+  "Example sentence: Consider a simple, closed, plane curve C which is a real analytic image of the unit circle, and which is given by **f.",
+  "Example sentence: The Skeletal Age curve in the lower portion of Figure 2 shows that slowing may have occurred for her during the prepubescent period.",
+  "Example sentence: The upper curve denotes the mean plus one standard deviation, and the lower curve represents the mean minus one standard deviation.",
+  "Example sentence: We assume that average total unit cost in the relevant region of operation is constant with respect to quantity produced (the average cost curve is horizontal, and therefore is identical with the marginal cost curve), and is the same for every firm (and therefore for the industry).",
+  "Example sentence: Thus, a child's Skeletal Age `` dots '' may be classified as `` advanced '' when they appear above the middle curve, `` moderate '' when they appear immediately above or below the middle curve, and `` delayed '' when they appear below the lower curve.",
+  "Example sentence: If one assumes that the average flux did not change between measurements, a mass distribution curve is obtained which relates the flux of particles larger than a given radius to the inverse 7 2 power of the radius."
+ ],
+ "labels": [
+  "curve.n.01",
+  "curve.n.01",
+  "curve.n.01",
+  "curve.n.01",
+  "curve.n.01",
+  "curve.n.02",
+  "curve.n.02",
+  "curve.n.02",
+  "curve.n.02",
+  "curve.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

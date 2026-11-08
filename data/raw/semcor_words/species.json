@@ -1,0 +1,41 @@
+{
+ "target_word": "species",
+ "sentences": [
+  "Example sentence: Certainly, the mere fact of failing to demonstrate them in one or another species does not conclusively deny their existence in that species.",
+  "Example sentence: One of my favorites is A. armata, a species very common in England, where it is sometimes referred to as the lawn bee.",
+  "Example sentence: Its life history is much simpler than that of the truly colonial bumblebees and can serve as an example of the life cycle of many other species.",
+  "Example sentence: Finally, it is suggested that in many respects the horse lung may be anatomically more comparable to that of the human than any other presently known species.",
+  "Example sentence: If you really insist on knowing their names, an excellent book on the North American species is Bumblebees and Their Ways by O. E. Plath.",
+  "Example sentence: One species of ambiguity tries to baffle by interweaving repetition.",
+  "Example sentence: On chemical grounds it seems most likely that iodide is first converted to * * f and then to * * f as the active iodinating species.",
+  "Example sentence: One species is restricted to statements which are neither explicit nor precise regarding a particular person, place, time or thing.",
+  "Example sentence: The misplaced modifier is another species more honored in the observance of obscurity than in the breach.",
+  "Example sentence: We are concerned not with the genus communism nor with other species of the genus:"
+ ],
+ "labels": [
+  "species.n.01",
+  "species.n.01",
+  "species.n.01",
+  "species.n.01",
+  "species.n.01",
+  "species.n.02",
+  "species.n.02",
+  "species.n.02",
+  "species.n.02",
+  "species.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,35 @@
+{
+ "target_word": "resistance",
+ "sentences": [
+  "Example sentence: One simple method of measuring the expansion of the heart is to tie a thin rubber tube, filled with mercury, around the heart and record the change in resistance as the tube is stretched.",
+  "Example sentence: Outputs of the two systems are measured by a pulse timing circuit and a resistance bridge, followed by a simple analogue computer which feeds a multichannel recorder.",
+  "Example sentence: A balanced resistance bridge and a pen recorder are all the electronic instrumentation needed.",
+  "Example sentence: The added resistance to the rotor damaged the drive belts and reduced the oxygen transfer capacity.",
+  "Example sentence: Public indignation and resistance to wage price increases is obviously much less when the increases are on the order of 3% per annum than when the increases are on the order of 3% per month.",
+  "Example sentence: If word classes differ in their resistance or liability to stem replacement within meaning slot, it is conceivable that individual meanings also differ with fair consistence trans lingually.",
+  "Example sentence: We are abstracting from the fact of strikes here, but it should be obvious that the extent to which the public limit price is raised by a given increase in the basic wage rate is also a function of the show of resistance put up by the industry.",
+  "Example sentence: Where the industry's product price has been kept below the `` profit maximizing '' and `` entry limiting '' prices due to fears of public reaction, the profit seeking producers have an interest in offering little real resistance to wage demands."
+ ],
+ "labels": [
+  "resistance.n.02",
+  "resistance.n.02",
+  "resistance.n.02",
+  "resistance.n.02",
+  "resistance.n.01",
+  "resistance.n.01",
+  "resistance.n.01",
+  "resistance.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

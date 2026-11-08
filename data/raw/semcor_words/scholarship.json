@@ -1,0 +1,35 @@
+{
+ "target_word": "scholarship",
+ "sentences": [
+  "Example sentence: `` Sometimes we'd have trouble persuading her to make tax-exempt charitable contributions, and I've known her to quarrel with a plumber over a bill for fixing a faucet; the next moment she'd put another half million into the scholarship fund or thirty thousand into something as impractical as this unfortunate Johnston affair.",
+  "Example sentence: She wanted to make a more equitable distribution of it among the groups that would benefit the most; particularly the scholarship fund.",
+  "Example sentence: I had studied with Burns ten years before, during the scholarship year the Manhattan gave me, along with the five-hundred dollar prize for my paintings of bums on Hudson Street.",
+  "Example sentence: He skimmed over the millions that went to Meeker Park, Medfield Hospital, the civic center, the Public Health Nursing Association, the library, and so on, pausing when he came to the scholarship fund.",
+  "Example sentence: The absence of successful Negroes in the world of scholarship and science has tended to tamp down enthusiasm among Negro youth for academic careers.",
+  "Example sentence: If his scholarship and formal musicianship were not all they might have been, Mercer demonstrated at an early age that he was gifted with a remarkable ear for rhythm and dialect.",
+  "Example sentence: One might argue that the ultimate purpose of literary scholarship is to correct this spontaneous provincialism that is likely to obscure the horizons of the general public, of the newspaper critic, and of the creative artist himself.",
+  "Example sentence: But there are also the commercial propagandists and the analysts - one dominated by money, the other by nineteenth century German scholarship."
+ ],
+ "labels": [
+  "scholarship.n.01",
+  "scholarship.n.01",
+  "scholarship.n.01",
+  "scholarship.n.01",
+  "eruditeness.n.01",
+  "eruditeness.n.01",
+  "eruditeness.n.01",
+  "eruditeness.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

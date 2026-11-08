@@ -1,0 +1,47 @@
+{
+ "target_word": "activity",
+ "sentences": [
+  "Example sentence: Chromatography of whole sera revealed that the areas of Rh antibody activity were generally continuous and wide.",
+  "Example sentence: In fact agglutination of * * f cells in saline could be produced by the insoluble material from sera containing `` only '' incomplete antibody activity.",
+  "Example sentence: This was particularly noticeable in group A and group B sera, in which cases activity in Regions 1 and 2 was usually not detectable without prior concentration and occasionally could not be detected at all.",
+  "Example sentence: The incomplete antibody activity appeared in the early part of the chromatogram; the complete, in the latter part.",
+  "Example sentence: When the temperature reached 32 ` F all protozoan activity ceased; but as the temperature rose, the numbers of protozoa increased rapidly.",
+  "Example sentence: There appeared to be no difference in the distribution of anti - A and anti - B activity in group O serum, though in two group O donors (J. F. and E. M.) only one type of agglutinin was found in the regions of low anionic binding capacity (Figs. 1 and 2).",
+  "Example sentence: In 1959 SAAMI's shooting development program announced a new activity designed to expose thousands of teen-age boys and girls to the healthy fun enjoyed through the participation in the shooting sports.",
+  "Example sentence: Marketing in the new decade will be no picnic - for the sixties will present possibly the most intense competitive activity that you have experienced in the last 20 - 25 yr..",
+  "Example sentence: The student of ideas and their place in history will always be concerned with the patterns of transition, which are at the same time patterns of transformation, whereby ideas pass from one area of activity to another.",
+  "Example sentence: Accordingly, though the practice violated the no trading provision of the Selkirk charter which reserved all such activity in merchandise and furs to the Hudson's Bay Company, some settlers went into trade.",
+  "Example sentence: Although they were forced to maintain a sharper watch, this activity enabled them to ride in and rack their broncs without any particular attention being paid them.",
+  "Example sentence: The concentration of effective power in Rabat leads not only to party bickering, but to distraction from local activity that might have had many auxiliary benefits in addition to contributing to more meaningful elections."
+ ],
+ "labels": [
+  "action.n.02",
+  "action.n.02",
+  "action.n.02",
+  "action.n.02",
+  "action.n.02",
+  "action.n.02",
+  "activity.n.01",
+  "activity.n.01",
+  "activity.n.01",
+  "activity.n.01",
+  "activity.n.01",
+  "activity.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

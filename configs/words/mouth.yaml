@@ -1,0 +1,7 @@
+word: mouth
+dataset: data/raw/semcor_words/mouth.json
+senses:
+  - mouth.n.01
+  - mouth.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

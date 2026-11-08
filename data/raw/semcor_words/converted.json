@@ -1,0 +1,35 @@
+{
+ "target_word": "converted",
+ "sentences": [
+  "Example sentence: When the chance came, they first eliminated cold cereal once a week, then gradually converted to hot fresh-ground cereal every day.",
+  "Example sentence: However, the displacement of the cylinder can be converted to cubic centimeters.",
+  "Example sentence: For use in formulas, fractions should be converted to their decimal equivalents.",
+  "Example sentence: Studies of the intensity data indicate that they may be converted to approximate transition probabilities.",
+  "Example sentence: There it seems that the goitrogen ingested by dairy animals is itself inactive but is converted in the animal to an active goitrogen, which is then secreted in the milk.",
+  "Example sentence: So many Cubans were reported being swept into the Castro dragnet that the massive Sports Palace auditorium and at least one hotel were converted into makeshift jails.",
+  "Example sentence: In order to save the mystery story, they have converted the private detective into an organization man.",
+  "Example sentence: On chemical grounds it seems most likely that iodide is first converted to * * f and then to * * f as the active iodinating species."
+ ],
+ "labels": [
+  "convert.v.01",
+  "convert.v.01",
+  "convert.v.01",
+  "convert.v.01",
+  "convert.v.02",
+  "convert.v.02",
+  "convert.v.02",
+  "convert.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: same
+dataset: data/raw/semcor_words/same.json
+senses:
+  - same.a.01
+  - same.a.02
+n_per_sense: 20
+prefix: "Example sentence: "

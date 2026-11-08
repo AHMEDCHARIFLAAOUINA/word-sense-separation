@@ -1,0 +1,7 @@
+word: china
+dataset: data/raw/semcor_words/china.json
+senses:
+  - china.n.01
+  - china.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

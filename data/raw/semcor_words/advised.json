@@ -1,0 +1,47 @@
+{
+ "target_word": "advised",
+ "sentences": [
+  "Example sentence: `` Just you wait '', advised Arlene, echoing the dialogue in a recent British movie.",
+  "Example sentence: Speaking from long years of experience, Mrs. Long advised the Juniors: `` When showing dogs ceases to be fun and excitement, Stop!",
+  "Example sentence: When suitable equipment is located by the SBA representative, the small business concern is contacted and advised on when, where, and how to bid on such property.",
+  "Example sentence: The council advised the governor that `` large supermarkets, factory outlets and department stores not be allowed to do business '' on Sunday.",
+  "Example sentence: The juror said the masked men had advised him to be lenient.",
+  "Example sentence: And when he complained of the lack of time for all he wanted to do, Henrietta advised him to rise at five in the morning as she and Papa did.",
+  "Example sentence: In his answer thereto, he advised the Board that he had made no such statement in 1956, and asserted that his only claim to `` pioneering '' was in 1952.",
+  "Example sentence: Not long ago a newspaper advised those taking part in a contest that `` snapshots must be of a person not larger than * * f inches ''.",
+  "Example sentence: The attorney general has advised local police that it is their duty to enforce the blue laws.",
+  "Example sentence: As I have stated previously, the Attorney General has advised me that this section violates fundamental constitutional principles.",
+  "Example sentence: The flavor of Baltimore's Florida Grapefruit League news ripened considerably late today when the Orioles were advised that Ron Hansen has fulfilled his obligations under the Army's military training program and is ready for belated spring training.",
+  "Example sentence: The civil and military authorities are then advised of the danger, and they issue warnings and take all necessary protective steps."
+ ],
+ "labels": [
+  "rede.v.02",
+  "rede.v.02",
+  "rede.v.02",
+  "rede.v.02",
+  "rede.v.02",
+  "rede.v.02",
+  "advise.v.02",
+  "advise.v.02",
+  "advise.v.02",
+  "advise.v.02",
+  "advise.v.02",
+  "advise.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

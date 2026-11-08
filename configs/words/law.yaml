@@ -1,0 +1,7 @@
+word: law
+dataset: data/raw/semcor_words/law.json
+senses:
+  - law.n.01
+  - law.n.02
+n_per_sense: 14
+prefix: "Example sentence: "

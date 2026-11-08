@@ -1,0 +1,7 @@
+word: imply
+dataset: data/raw/semcor_words/imply.json
+senses:
+  - imply.v.02
+  - imply.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

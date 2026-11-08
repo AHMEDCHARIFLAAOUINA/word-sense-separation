@@ -1,0 +1,7 @@
+word: crisis
+dataset: data/raw/semcor_words/crisis.json
+senses:
+  - crisis.n.01
+  - crisis.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

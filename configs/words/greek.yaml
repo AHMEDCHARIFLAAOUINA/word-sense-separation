@@ -1,0 +1,7 @@
+word: greek
+dataset: data/raw/semcor_words/greek.json
+senses:
+  - greek.a.01
+  - greek.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

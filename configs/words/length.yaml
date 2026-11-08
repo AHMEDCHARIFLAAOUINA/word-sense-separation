@@ -1,0 +1,7 @@
+word: length
+dataset: data/raw/semcor_words/length.json
+senses:
+  - length.n.01
+  - duration.n.03
+n_per_sense: 7
+prefix: "Example sentence: "

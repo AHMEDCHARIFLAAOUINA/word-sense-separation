@@ -1,0 +1,7 @@
+word: honor
+dataset: data/raw/semcor_words/honor.json
+senses:
+  - award.n.02
+  - honor.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

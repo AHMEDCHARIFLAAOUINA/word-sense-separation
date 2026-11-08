@@ -1,0 +1,41 @@
+{
+ "target_word": "couple",
+ "sentences": [
+  "Example sentence: In any case, Dr. Calderone remarks, such problems are a couple's own affair, and cann't always be measured by a general yardstick.",
+  "Example sentence: The petition said that the couple has not lived together as man and wife for more than a year.",
+  "Example sentence: It's inevitable in this case, for the couple will be separated for, at the least, forty years.",
+  "Example sentence: Studying them, McFeeley could not help make comparison with the Andrus couple.",
+  "Example sentence: Son and Daughter of Local Couple Married ''.",
+  "Example sentence: They were an old fat couple (as Linda Kay described them to herself), a thick middle-aged man, and a girl about ten or twelve.",
+  "Example sentence: A weekly newspaper reported a local romance: `` and the couple were married last Saturday, thus ending a friendship which began in their schooldays ''.",
+  "Example sentence: What does the camping couple do to this set of figures?",
+  "Example sentence: An experiment consists of the voting of one couple, or two trials.",
+  "Example sentence: In repetitions of the experiment from couple to couple, the votes of the two persons in a couple probably agree more often than independence would imply, because couples who visit the museum together are more likely to have similar tastes than are a random pair of people drawn from the entire population of visitors."
+ ],
+ "labels": [
+  "couple.n.02",
+  "couple.n.02",
+  "couple.n.02",
+  "couple.n.02",
+  "couple.n.02",
+  "couple.n.01",
+  "couple.n.01",
+  "couple.n.01",
+  "couple.n.01",
+  "couple.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

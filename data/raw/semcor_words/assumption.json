@@ -1,0 +1,41 @@
+{
+ "target_word": "assumption",
+ "sentences": [
+  "Example sentence: Here we may observe that at least one modern philosophy of history is built on the assumption that ideas are the primary objectives of the historian's research.",
+  "Example sentence: From an estimated mass of 25 g for a zero magnitude meteorite, the other masses are derived with the assumption of a mass decrease by a factor of 2.512 for each unit increase in magnitude.",
+  "Example sentence: The mass scale used in Table 5 - 1 was derived on the assumption that the motion of the glowing trail is related to the momentum transfer to the trail by the meteorite, permitting the calculation of the mass if the velocity is known (Cook and Whipple, 1958).",
+  "Example sentence: This has an interesting analogy with the assumption stated by Philippoff that `` the deformational mechanics of elastic solids can be applied to flowing solutions ''.",
+  "Example sentence: Indeed, as already noted, the Court proceeded on the assumption that the executives involved in the dealings between du Pont and General Motors acted `` honorably and fairly '' and exercised their business judgment only to serve what they deemed the best interests of their own companies.",
+  "Example sentence: Under this assumption the space group must be **f and the following are the positions of the atoms in the unit cell.",
+  "Example sentence: There seems to be an unfortunate assumption that an hour of Chicago style jazz in prime evening time, for example, could not be justified without the trimmings of a portentous documentary.",
+  "Example sentence: His assumption seems to be that any such friends, being tolerable humans, must be more liberal than most Southerners and therefore at least partly in sympathy with his views.",
+  "Example sentence: The existence of conflict and of vigorous union demand for an increase in money wages does not contradict the assumption that the union is willing to settle for cost-of-living and productivity share increases as distinct from a cost raising increase in the basic wage rate.",
+  "Example sentence: If (remember this is an assumption) the minimal polynomial for T decomposes * * f where * * f are distinct elements of F, then we shall show that the space V is the direct sum of the null spaces of * * f."
+ ],
+ "labels": [
+  "premise.n.01",
+  "premise.n.01",
+  "premise.n.01",
+  "premise.n.01",
+  "premise.n.01",
+  "assumption.n.02",
+  "assumption.n.02",
+  "assumption.n.02",
+  "assumption.n.02",
+  "assumption.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

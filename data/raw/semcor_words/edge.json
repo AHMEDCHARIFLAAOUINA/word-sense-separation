@@ -1,0 +1,35 @@
+{
+ "target_word": "edge",
+ "sentences": [
+  "Example sentence: Because of their location, on the edge of the feed lot, fence-line bunks are not in the way of mechanical manure removal.",
+  "Example sentence: While several yards from it, still concealed by the shrubbery, she'd seen two men on her left at the pool's edge.",
+  "Example sentence: Soon they were picking their way along the edge of the stream which glowed in the night.",
+  "Example sentence: The first series of Sherlock Holmes adventures ends with Holmes and Moriarty grappling together on the edge of a cliff.",
+  "Example sentence: Watson supported the man to the edge of the bank and passed the frail figure over the bow of the nearest skiff.",
+  "Example sentence: The bristles are a Fitch 2 and a one-half inch brush shaved to a sharp chisel edge.",
+  "Example sentence: He would sit, slim-waisted and spare, on the edge of Scotty's bed, his legs crossed so elaborately that the crossed foot could tap the floor.",
+  "Example sentence: It stood some fifty paces from the edge of the bank."
+ ],
+ "labels": [
+  "edge.n.01",
+  "edge.n.01",
+  "edge.n.01",
+  "edge.n.01",
+  "edge.n.03",
+  "edge.n.03",
+  "edge.n.03",
+  "edge.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

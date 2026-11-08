@@ -1,0 +1,7 @@
+word: noticed
+dataset: data/raw/semcor_words/noticed.json
+senses:
+  - detect.v.01
+  - notice.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

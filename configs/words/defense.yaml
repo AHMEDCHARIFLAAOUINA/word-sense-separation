@@ -1,0 +1,7 @@
+word: defense
+dataset: data/raw/semcor_words/defense.json
+senses:
+  - defense.n.01
+  - defense.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

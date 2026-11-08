@@ -1,0 +1,41 @@
+{
+ "target_word": "issue",
+ "sentences": [
+  "Example sentence: The general Protestant conviction is that motives, rather than methods, form the primary moral issue, provided the methods are limited to the prevention of conception ''.",
+  "Example sentence: Land reform is likely to be a pressing issue in many of these countries.",
+  "Example sentence: In the light of these circumstances, as well as the fact that the issue at trial in this respect centered entirely on the Department's recommendation, which petitioner repudiated but which both the appeal board and the courts below found supported by the record, we find no relevancy in the hearing officer's report and notes.",
+  "Example sentence: The issue was settled on shore, Greene winning and Wilson remaining ashore, determined to catch the next fishing boat back to England.",
+  "Example sentence: Despite the internal and international crises that harassed Morocco the elections remained a central issue.",
+  "Example sentence: The civil and military authorities are then advised of the danger, and they issue warnings and take all necessary protective steps.",
+  "Example sentence: Assemble and maintain pertinent and current scientific literature, both domestic and foreign, and issue bibliographical data with respect thereto;",
+  "Example sentence: Meanwhile, it was learned the State Highway Department is very near being ready to issue the first $30 million worth of highway reconstruction bonds.",
+  "Example sentence: The Highway Department source told The Constitution, however, that Vandiver has not been consulted yet about the plans to issue the new rural roads bonds.",
+  "Example sentence: A Mexican justice of the peace had issue a writ against Chavez for taking part in the `` murder '' of Manuel Gonzales so he and his father were anxious to be taken out of danger."
+ ],
+ "labels": [
+  "issue.n.01",
+  "issue.n.01",
+  "issue.n.01",
+  "issue.n.01",
+  "issue.n.01",
+  "publish.v.02",
+  "publish.v.02",
+  "publish.v.02",
+  "publish.v.02",
+  "publish.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

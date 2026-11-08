@@ -1,0 +1,41 @@
+{
+ "target_word": "rest",
+ "sentences": [
+  "Example sentence: This region which had a higher temperature than the rest of the anode surface changed size and location continuously.",
+  "Example sentence: It serves merely as an excess cushion for the rest of the carcass.",
+  "Example sentence: In every war of the United States since the Civil War the South was more belligerent than the rest of the country.",
+  "Example sentence: During the rest of the summer my scholarly mania for making plaster casts and spatter prints of Catskill flowers and leaves was all but surpassed by the constantly renewed impressions of Jessica that my mind served up to me for contemplation and delight.",
+  "Example sentence: When the troupe traveled to New York to participate in a one act play competition - and won - Mercer, instead of returning with the rest of the company in triumph, remained in New York.",
+  "Example sentence: When she agrees, you can rest assured her position will remain unchanged.",
+  "Example sentence: Having hit one of the trees, the ball came to rest not more than 160 yards out.",
+  "Example sentence: The small shaft of blue had drifted down and come to rest at his feet.",
+  "Example sentence: Burlington aviator John J. Burns suggested the parade ground southwest of Fort Ethan Allen, and soon a dozen hastily-summoned National Guard pilots were bringing their wide-winged `` Jenny '' and DeHaviland two-seaters to rest on the frozen sod of the military base.",
+  "Example sentence: We rode over roads so rough that our Jeep came to rest atop the soil between ruts, all four wheels spinning uselessly."
+ ],
+ "labels": [
+  "remainder.n.01",
+  "remainder.n.01",
+  "remainder.n.01",
+  "remainder.n.01",
+  "remainder.n.01",
+  "rest.v.01",
+  "rest.v.01",
+  "rest.v.01",
+  "rest.v.01",
+  "rest.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

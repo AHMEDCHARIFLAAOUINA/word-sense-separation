@@ -1,0 +1,53 @@
+{
+ "target_word": "occurred",
+ "sentences": [
+  "Example sentence: But the thought occurred that God would want this opportunity used to tell them about Him.",
+  "Example sentence: It then occurred to me to ask, `` Is that what that woman told you ''?",
+  "Example sentence: After looking about a bit, Wilson discovered beyond Black Bottom, across the river and far removed from the white city, a considerable tract of land, and it occurred to him that the church and the better Negro homes might gradually be moved to this plot.",
+  "Example sentence: At that moment Kipling was overwhelmed with awed amazement, suddenly recalling that these identical details of scene, action and word had occurred to him in a dream six weeks earlier.",
+  "Example sentence: It suddenly occurred to me that I did not particularly like acting, that I was at some sort of crossroads and would have to decide soon what I was going to do with my life.",
+  "Example sentence: It would not have occurred to her that it was curious for a female to sing bass, baritone, tenor, alto, mezzo, soprano and coloratura as she pleased.",
+  "Example sentence: After a time, it occurred to her that her thoughts were not worth the trouble.",
+  "Example sentence: This occurred in spite of the rational awareness that the ball should be going downhill.",
+  "Example sentence: And then a startling thing occurred.",
+  "Example sentence: The sequence of events leading to his important discovery still remains ambiguous but it seems that one of the advanced students at the university related that the first direct event that led to the publication of Oersted's discovery occurred during a private lecture made before a group of other advanced students in the spring of 1820.",
+  "Example sentence: That had happened on the day when two other unusual things had occurred.",
+  "Example sentence: The power was off for about five minutes in houses along Smith Street as far away as Fruit Hill Avenue shortly before 5 p. m. when the accident occurred.",
+  "Example sentence: If we did not mean to say this, why should we be so relieved on finding that the suffering had not occurred?",
+  "Example sentence: The section is violated whether or not actual restraints or monopolies, or the substantial lessening of competition, have occurred or are intended ''."
+ ],
+ "labels": [
+  "occur.v.02",
+  "occur.v.02",
+  "occur.v.02",
+  "occur.v.02",
+  "occur.v.02",
+  "occur.v.02",
+  "occur.v.02",
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

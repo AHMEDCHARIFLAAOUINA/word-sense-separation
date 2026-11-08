@@ -1,0 +1,41 @@
+{
+ "target_word": "sign",
+ "sentences": [
+  "Example sentence: They consider it simply a sign of our times.",
+  "Example sentence: There was no sign of Mrs. Lauren Payne at her house on Nod Road, Ridgefield, Connecticut.",
+  "Example sentence: Because of the size of the areas it covers, the pasted paper establishes undepicted flatness bodily, as more than an indication or sign.",
+  "Example sentence: There was no real sign of the river now, just a roiling, oily ribbon of liquid movement through muddy waters that reached everywhere.",
+  "Example sentence: His wife didn't give a sign she'd heard.",
+  "Example sentence: The Senate (by voice vote) and the House (by 224 - 170) passed and sent to the White House the compromise farm bill which the President is expected to sign, not too unhappily.",
+  "Example sentence: The army leaders threatened to form a new military government if the parties failed to sign an eight point protocol agreeing on Gen. Gursel as president.",
+  "Example sentence: Instead, retailers would sign a certificate of correctness, violation of which would carry a penalty of one to five years in prison, plus a $1000 fine.",
+  "Example sentence: The paradox implicit in the whole affair is shown by the demand of the government, after the conviction, that General Electric sign a wide-open consent decree that it would not reduce prices so low as to compete seriously with its fellows.",
+  "Example sentence: `` President Kennedy once again interpreted the Soviet proposals, to sign a peace treaty with Germany as a threat, as part of the world menace allegedly looming over the countries of capitalism."
+ ],
+ "labels": [
+  "sign.n.01",
+  "sign.n.01",
+  "sign.n.01",
+  "sign.n.01",
+  "sign.n.01",
+  "sign.v.02",
+  "sign.v.02",
+  "sign.v.02",
+  "sign.v.02",
+  "sign.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

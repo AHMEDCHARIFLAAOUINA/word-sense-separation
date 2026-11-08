@@ -1,0 +1,47 @@
+{
+ "target_word": "explanation",
+ "sentences": [
+  "Example sentence: Another, more interesting explanation, is hinted at by Watson when he observes on several occasions that Holmes would have made a magnificent criminal.",
+  "Example sentence: When Mayor Dever heard of the banquet he summoned Hughes for an explanation of why he had been dishonouring the police department by consorting with these felons and fixers.",
+  "Example sentence: The variation in the 3 - cm emission of the moon during a lunation is very much less than the variation in the 8.6 - mm emission, as would be expected from the explanation of Piddington and Minnett (1949).",
+  "Example sentence: All of the jackets carry a fairly technical and detailed explanation of this new recording program.",
+  "Example sentence: They recall Byron's classic comment: `` I wish he would explain his explanation ''.",
+  "Example sentence: Therefore, an explanation of this alveolar bronchial artery supply might be the nutritive requirement of an increased amount of supportive tissue, not primarily diffusing in nature, in the region of the alveolus.",
+  "Example sentence: While there may be several such industries to which the model of this paper is applicable, the authors make particular claim of relevance to the explanation of the course of wages and prices in the steel industry of the United States since World War 2,.",
+  "Example sentence: Welmers has suggested one explanation.",
+  "Example sentence: Indeed, the apparent stiffening of the industry's attitude in the recent steel strike has a direct explanation in terms of the model here presented.",
+  "Example sentence: A second explanation is suggested by the material described in Rowlands ' paper.",
+  "Example sentence: Wage price policies of industry are the result of a complex of forces - no single explanation has been found which applies to all cases.",
+  "Example sentence: Every dream, and this is true of a mental image of any type even though it may be readily interpreted into its equivalent of wakeful thought, is a psychic phenomenon for which no explanation is available."
+ ],
+ "labels": [
+  "explanation.n.01",
+  "explanation.n.01",
+  "explanation.n.01",
+  "explanation.n.01",
+  "explanation.n.01",
+  "explanation.n.01",
+  "explanation.n.02",
+  "explanation.n.02",
+  "explanation.n.02",
+  "explanation.n.02",
+  "explanation.n.02",
+  "explanation.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

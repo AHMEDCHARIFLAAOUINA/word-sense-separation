@@ -1,0 +1,7 @@
+word: measured
+dataset: data/raw/semcor_words/measured.json
+senses:
+  - quantify.v.02
+  - measure.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

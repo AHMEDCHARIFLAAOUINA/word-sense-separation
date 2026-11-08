@@ -1,0 +1,7 @@
+word: affect
+dataset: data/raw/semcor_words/affect.json
+senses:
+  - affect.v.01
+  - affect.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: distance
+dataset: data/raw/semcor_words/distance.json
+senses:
+  - distance.n.01
+  - distance.n.03
+n_per_sense: 4
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "host",
+ "sentences": [
+  "Example sentence: With Ritter he was exposed to the fantastic profusion of ideas that stormed through his host's fertile but disorganized mind.",
+  "Example sentence: For the occasion on which everyone already knows everyone else and the host wishes them to meet one or a few honored newcomers, then the `` open house '' system is advantageous because the honored guests are fixed connective points and the drifting guests make and break connections at the door.",
+  "Example sentence: Presumably a cocktail party is expected to fulfill the host's desire to get together a number of people who are inadequately acquainted and thereby arrange for bringing the level of acquaintance up to adequacy for future cooperative endeavors.",
+  "Example sentence: To Voltaire's surprise, however, their host gives them fresh clothes to put on, opens his purse to lend them money and sits them down before a good dinner.",
+  "Example sentence: Adios '', I said, exhausting my Spanish vocabulary on my host and exchanging one of a scarcely tapped store of smiles with my host's daughters.",
+  "Example sentence: Additionally, since you're going to be hors de combat pretty soon with sprue, yaws, Delhi boil, the Granville wilt, liver fluke, bilharziasis, and a host of other complications of the hex you've aroused, you mustn't expect to be lionized socially.",
+  "Example sentence: There's Gaetan d'Amours who is our newest Mr. Canada; Jean-Paul Senesac, whose story appeared here two issues ago; Jack Boissoneault, who was with us last month; Charles Harve, who recently won the `` Most Muscular Man '' subdivision award in the Mr. Canada event; and a host of others.",
+  "Example sentence: The host of novel applications of electronics to medical problems is far more thrilling because of their implication in matters concerning our health and vitality.",
+  "Example sentence: Demons, fairies, angels, and a host of other spiritual beings were as much a part of the experiential world of western man as were rocks and trees and stars.",
+  "Example sentence: Admiralty law, the law merchant, and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law of Nations and made dependent on the several national laws."
+ ],
+ "labels": [
+  "host.n.01",
+  "host.n.01",
+  "host.n.01",
+  "host.n.01",
+  "host.n.01",
+  "horde.n.01",
+  "horde.n.01",
+  "horde.n.01",
+  "horde.n.01",
+  "horde.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

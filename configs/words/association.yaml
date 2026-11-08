@@ -1,0 +1,7 @@
+word: association
+dataset: data/raw/semcor_words/association.json
+senses:
+  - association.n.01
+  - association.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

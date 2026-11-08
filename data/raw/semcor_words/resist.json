@@ -1,0 +1,41 @@
+{
+ "target_word": "resist",
+ "sentences": [
+  "Example sentence: If he died before she did, she would never be unable to resist opening it.",
+  "Example sentence: She had the opportunity that few clever women can resist, of showing her superiority in argument over a man.",
+  "Example sentence: But Blanche had been able to maintain a serene and assured composure in the face of her widowed mother's continued carping, had been able to resist her urgings to date anyone who offered the slightest possibility of matrimony.",
+  "Example sentence: He also demanded that Kennedy take additional measures to increase international tension: specifically to crush the Cuban revolution, resume nuclear testing, resist more vigorously admission of China to its lawful seat in the United Nations, and postpone non-military programs at home ''.",
+  "Example sentence: The fabrics have Scotchgard finish to resist soil and wrinkles.",
+  "Example sentence: And he certainly couldn't have guessed that she would resist his demand for the gold or that she was not the yielding - yes, and credible fool he had every right to expect.",
+  "Example sentence: There is a marked tendency for religions, once firmly established, to resist change, not only in their own doctrines and policies and practices, but also in secular affairs having religious relevance.",
+  "Example sentence: Prosperity is a worthy objective; but if providing higher standards of living gets in the way of producing sufficient guns to resist Communist aggression, then material sacrifices and denials will have to be made.",
+  "Example sentence: Since he introduces so much modern music, I could not resist asking how he felt about it.",
+  "Example sentence: In other words, no merely male creature can resist that corps de ballet."
+ ],
+ "labels": [
+  "defy.v.02",
+  "defy.v.02",
+  "defy.v.02",
+  "defy.v.02",
+  "defy.v.02",
+  "resist.v.02",
+  "resist.v.02",
+  "resist.v.02",
+  "resist.v.02",
+  "resist.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

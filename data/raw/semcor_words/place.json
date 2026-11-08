@@ -1,0 +1,41 @@
+{
+ "target_word": "place",
+ "sentences": [
+  "Example sentence: The place was evidently a familiar haunt and Claire wondered what other illicit loves had been celebrated in the comfortable rooms to which they were shown.",
+  "Example sentence: This place was hatred to him, just as hatred was his only companion in his aloneness.",
+  "Example sentence: Here in the God-forsaken place, the westerly end of nowhere, Tom Lord looked almost insignificant, almost contemptible.",
+  "Example sentence: The doctor sat down rather wearily, caressing the hen and remarking that the city was not the place for a poultry loving man, but no sooner was the remark out than a knock at this door obliged him to cover the hen with his greatcoat once more.",
+  "Example sentence: When I have instructions to leave is equivalent in meaning to I have instructions that I am to leave this place, dominant stress is ordinarily on leave.",
+  "Example sentence: Just because a tree or other object appears in a certain spot is absolutely no reason to place it in the same position in the painting, unless the position serves the design of the whole composition.",
+  "Example sentence: Prick frankfurters with fork; place in sauce.",
+  "Example sentence: The submission of detailed plans would place the issues before the court more readily than would discussion of divestiture or disenfranchisement in the abstract.",
+  "Example sentence: When drilling all the way through a workpiece, always place a piece of scrap wood underneath.",
+  "Example sentence: At this lecture Oersted happened to place the conducting wire over and parallel to a magnetic needle."
+ ],
+ "labels": [
+  "topographic_point.n.01",
+  "topographic_point.n.01",
+  "topographic_point.n.01",
+  "topographic_point.n.01",
+  "topographic_point.n.01",
+  "put.v.01",
+  "put.v.01",
+  "put.v.01",
+  "put.v.01",
+  "put.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: felt
+dataset: data/raw/semcor_words/felt.json
+senses:
+  - find.v.05
+  - feel.v.01
+n_per_sense: 9
+prefix: "Example sentence: "

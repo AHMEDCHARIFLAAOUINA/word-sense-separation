@@ -1,0 +1,47 @@
+{
+ "target_word": "justify",
+ "sentences": [
+  "Example sentence: If you have a higher quality product, how can you make it stand out - justify its premium price - without the spoken word?",
+  "Example sentence: What Mr. Kennedy, in fact, wrote was: `` It is the department's view that no anti-trust enforcement considerations justify any loss of revenue of this proportion ''.",
+  "Example sentence: Elaborate studies have been made in labor surplus areas in order to identify sufficient numbers of local job vacancies and future replacement needs for certain skills to justify training programs for those skills.",
+  "Example sentence: Still, we must remember that we cannot construct and justify generalizations of this sort unless we are ready to consider many special instances of influence moving between such areas as theology, philosophy, political thought, and literature.",
+  "Example sentence: When they say that under no circumstances would it ever be right to `` permit '' the termination of the human race by human action, because there could not possibly be any proportionate grave reason to justify such a thing, they know exactly what they mean.",
+  "Example sentence: Yet your editorial said: `` Now the attorney general writes that no considerations ' justify any loss of revenue of this proportion '' '.",
+  "Example sentence: One girl describes her past, her succession of broken marriages, the abortions she has had and finally confesses that she loves sex and sees no reason why she must justify her passion.",
+  "Example sentence: Kitti had come along to justify everything.",
+  "Example sentence: We must justify our heritage.",
+  "Example sentence: Another great danger is that the emerging middle class will feel itself increasingly alienated from the political leaders who still justify their dominance by reference to the struggle for independence or the early phase of nationalism.",
+  "Example sentence: In arguing in this way, we are obviously taking for granted that a demythologized restatement of the kerygma can be achieved; and that we firmly believe this will presently become evident when we set forth reasons to justify such a conviction.",
+  "Example sentence: `` The U. S. President has shown once again that the United States needs the fanning of the West Berlin crisis to justify the armaments race."
+ ],
+ "labels": [
+  "justify.v.01",
+  "justify.v.01",
+  "justify.v.01",
+  "justify.v.01",
+  "justify.v.01",
+  "justify.v.01",
+  "justify.v.02",
+  "justify.v.02",
+  "justify.v.02",
+  "justify.v.02",
+  "justify.v.02",
+  "justify.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

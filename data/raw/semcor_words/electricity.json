@@ -1,0 +1,35 @@
+{
+ "target_word": "electricity",
+ "sentences": [
+  "Example sentence: In the physical sciences, these achievements concern electricity, chemistry, and atomic physics.",
+  "Example sentence: It is true, that nothing has been found comparable with electricity by communication; but the phenomena observed had such a degree of analogy to those depending on electrical distribution that one could not find the slightest difference.",
+  "Example sentence: His interest in finding a relationship between voltaic electricity and magnetism is here first indicated.",
+  "Example sentence: An attempt should be made to see if electricity, in its most latent stage, has any action on the magnet as such ''.",
+  "Example sentence: At about the time the Marsden enterprise was getting under way, the Vail Light and Lumber Company started construction of a chair stock factory on the site of the present Bennington Co-operative Creamery, intending to use its surplus power for generating electricity.",
+  "Example sentence: The utilities available nearby may provide a savings in the cost of extending electricity or water to the site.",
+  "Example sentence: The latter now furnishes the area with electricity distributed from a modern sub-station at Manchester Depot which was put into operation February 19, 1930 and was improved in January 1942 by the installation of larger transformers.",
+  "Example sentence: If the house is not wired adequately for electricity or if plumbing or a central heating system must be installed, check into the cost of making these improvements."
+ ],
+ "labels": [
+  "electricity.n.01",
+  "electricity.n.01",
+  "electricity.n.01",
+  "electricity.n.01",
+  "electricity.n.02",
+  "electricity.n.02",
+  "electricity.n.02",
+  "electricity.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

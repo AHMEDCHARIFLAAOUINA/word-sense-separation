@@ -1,0 +1,7 @@
+word: dragged
+dataset: data/raw/semcor_words/dragged.json
+senses:
+  - haul.v.01
+  - drag.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

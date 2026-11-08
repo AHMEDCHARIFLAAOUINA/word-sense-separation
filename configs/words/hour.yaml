@@ -1,0 +1,7 @@
+word: hour
+dataset: data/raw/semcor_words/hour.json
+senses:
+  - hour.n.02
+  - hour.n.01
+n_per_sense: 11
+prefix: "Example sentence: "

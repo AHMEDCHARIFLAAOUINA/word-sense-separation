@@ -1,0 +1,35 @@
+{
+ "target_word": "decided",
+ "sentences": [
+  "Example sentence: Caucusing, the liberals decided to go after Colmer, which actually was the more drastic course, since seniority in the House is next to godliness.",
+  "Example sentence: For a moment he thought of going into Crosson's office to explain that he had to leave, but there was now such a pain in his chest, such a pounding in his head, that he decided to let it go.",
+  "Example sentence: Deep enough, he decided.",
+  "Example sentence: Moreover, the President is meeting the Soviet leader at a time when the Administration has still not decided on the scope of America's firm foreign policy commitments.",
+  "Example sentence: Whether this abnormal TSH differs chemically from pituitary TSH, or is, alternatively, normal TSH with its period of effectiveness modified by some other blood constituent, cannot be decided without chemical study of the activity in the blood of these patients and a comparison of the substance responsible for the blood activity with pituitary TSH.",
+  "Example sentence: Seeing so many illustrations and reading so many testimonials to the value of Quick-Wate and Super-Protein, those two wonder-working Weider food supplements, he decided to try them and see what they could do for him.",
+  "Example sentence: After his pains got worse, Tom decided to see a real doctor, from whom he learned he was suffering from cancer of the lung.",
+  "Example sentence: State representatives decided Thursday against taking a poll on what kind of taxes Texans would prefer to pay."
+ ],
+ "labels": [
+  "decide.v.01",
+  "decide.v.01",
+  "decide.v.01",
+  "decide.v.01",
+  "decide.v.03",
+  "decide.v.03",
+  "decide.v.03",
+  "decide.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

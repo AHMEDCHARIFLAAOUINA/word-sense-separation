@@ -1,0 +1,7 @@
+word: recording
+dataset: data/raw/semcor_words/recording.json
+senses:
+  - recording.n.01
+  - recording.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

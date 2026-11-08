@@ -1,0 +1,7 @@
+word: sensitivity
+dataset: data/raw/semcor_words/sensitivity.json
+senses:
+  - sensitivity.n.01
+  - sensitivity.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

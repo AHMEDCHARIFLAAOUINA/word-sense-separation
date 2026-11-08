@@ -1,0 +1,7 @@
+word: wish
+dataset: data/raw/semcor_words/wish.json
+senses:
+  - wish.v.01
+  - wish.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

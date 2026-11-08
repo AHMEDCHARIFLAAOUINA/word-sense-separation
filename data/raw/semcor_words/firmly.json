@@ -1,0 +1,35 @@
+{
+ "target_word": "firmly",
+ "sentences": [
+  "Example sentence: The Istiqlal was still firmly united in 1957, but the P.D.I. (Parti Democratique de l'Independance), the most important minor party at the time, objected to the Istiqlal's predominance in the civil service and influence in Radio Maroc.",
+  "Example sentence: Finally, the conception of the natural community of all possessions which originated with the Stoics was firmly fixed in a tradition by More's time, although it was not accepted by all the theologian philosophers of the Middle Ages.",
+  "Example sentence: She paused at the kitchen door, caught her breath, told herself firmly that the opium was only an attempt to frighten her and went into the kitchen, where Glendora was eyeing the chickens dismally and Maude was cleaning lamp chimneys.",
+  "Example sentence: In arguing in this way, we are obviously taking for granted that a demythologized restatement of the kerygma can be achieved; and that we firmly believe this will presently become evident when we set forth reasons to justify such a conviction.",
+  "Example sentence: Now, Mis-ter McBride '', said Lord, and he laid a firmly restraining hand on the field boss's arm.",
+  "Example sentence: Avoiding runaway technology can be done only by assuring a humane society; and for this human beings must be firmly in control of the economics on which our society rests.",
+  "Example sentence: The Kirov Ballet is firmly booked into the Shrine Auditorium, Los Angeles, Nov. 21 thru Dec. 4.",
+  "Example sentence: These are the centuries in which the inhabitants of the Aegean world settled firmly into their minds and into their institutions the foundations of the Hellenic outlook, independent of outside forces."
+ ],
+ "labels": [
+  "firm.r.01",
+  "firm.r.01",
+  "firm.r.01",
+  "firm.r.01",
+  "securely.r.01",
+  "securely.r.01",
+  "securely.r.01",
+  "securely.r.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

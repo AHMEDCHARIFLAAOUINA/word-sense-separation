@@ -1,0 +1,41 @@
+{
+ "target_word": "self",
+ "sentences": [
+  "Example sentence: What I am here to do is to report on the gyrations of the struggle - a struggle that amounts to self redefinition - to see if we can predict its future course.",
+  "Example sentence: In my letters I took on a personality that differed from the self I knew in real life.",
+  "Example sentence: At the same time, there is a good deal of self congratulation at attending a good college - they are even inclined to exaggerate its not inconsiderable virtues - and they express pleasure at the cozy in-group feeling that the college generates.",
+  "Example sentence: Freeman, Cameron and McGhie, in their description of the disturbances of thinking found in chronic schizophrenic patients, say, in regard to condensation, that `` the lack of adequate discrimination between the self and the environment, and the objects contained therein in itself is the prototypical condensation ''.",
+  "Example sentence: If I get a low M. R., I do so because I want it that way or my dark self does.",
+  "Example sentence: `` How wonderful to see your cherished self.",
+  "Example sentence: The parent was asked to describe the child's typical behavior in certain standard situations in which there was an opportunity to observe tendencies toward perfectionism in demands upon self and others, irrational conformity to rules, orderliness, punctuality, and need for certainty.",
+  "Example sentence: Again, Henley's attitude of defiance which colors his ideal of self mastery is far from characteristic of a Stoic thinker like Marcus Aurelius, whose gentle acquiescence is almost Christian, comparable to the patience expressed in Milton's sonnet on his own blindness.",
+  "Example sentence: His old self.",
+  "Example sentence: In `` The King's Ride '', Charles breaks out of a long period of petulance and inertia, regains his old self, escapes from Turkey, and finally reaches his own land after an absence of eighteen years."
+ ],
+ "labels": [
+  "self.n.01",
+  "self.n.01",
+  "self.n.01",
+  "self.n.01",
+  "self.n.01",
+  "self.n.02",
+  "self.n.02",
+  "self.n.02",
+  "self.n.02",
+  "self.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

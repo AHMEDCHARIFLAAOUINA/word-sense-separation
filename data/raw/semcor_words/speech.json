@@ -1,0 +1,47 @@
+{
+ "target_word": "speech",
+ "sentences": [
+  "Example sentence: The Prime Minister paid his respects to the Buddhist monks, strode rapidly among the houses, joked with the local soldiery, and made a speech.",
+  "Example sentence: After the preliminary business affair was finished Depew arose and delivered the convincing speech that clinched the nomination for Roosevelt.",
+  "Example sentence: He saw himself before them delivering the speech.",
+  "Example sentence: In the remainder of his speech Davis spoke of his admiration for Brown and warned those who took part in the meeting that they `` are liable to the charge that they are supporting traitors and upholding men whom the laws have condemned ''.",
+  "Example sentence: At the close of Davis ' speech the following preamble and resolutions were read by the president, and on the question of their adoption passed unanimously:",
+  "Example sentence: `` Senator '', said an interviewer, `` your constituents cann't understand from your speech last night just how you stand on the question ''.",
+  "Example sentence: `` Comment ''? ejaculated the surprised woman, looking at Alex for an explanation but he, parting from her without ceremony, only offered a few words about the doctor's provincial American speech and a state of nerves brought on by the demands of his work.",
+  "Example sentence: For one thing, the organs of speech of the Ozagen natives differed somewhat from Earthmen's; the sounds made by these organs were, therefore, dissimilar.",
+  "Example sentence: Such speech differences made him acutely aware of the richness and expressivness of language.",
+  "Example sentence: He didn't look like what I thought of as an old man, and his lively and erudite speech made him seem even younger.",
+  "Example sentence: Tone languages use for linguistic contrasts speech parameters which also function heavily in nonlinguistic use.",
+  "Example sentence: Then there was North America, where American was the native speech of all except the twenty descendants of French-Canadians living on the Hudson Bay Preserve."
+ ],
+ "labels": [
+  "address.n.03",
+  "address.n.03",
+  "address.n.03",
+  "address.n.03",
+  "address.n.03",
+  "address.n.03",
+  "speech.n.02",
+  "speech.n.02",
+  "speech.n.02",
+  "speech.n.02",
+  "speech.n.02",
+  "speech.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

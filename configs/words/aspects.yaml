@@ -1,0 +1,7 @@
+word: aspects
+dataset: data/raw/semcor_words/aspects.json
+senses:
+  - aspect.n.01
+  - aspect.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

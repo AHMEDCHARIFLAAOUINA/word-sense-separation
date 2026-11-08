@@ -1,0 +1,47 @@
+{
+ "target_word": "concluded",
+ "sentences": [
+  "Example sentence: Steinberg obviously has concluded that it is the lyric element which must dominate in this score, and he manages at times to create the effect of the whole orchestra bursting into song.",
+  "Example sentence: The man was King Leopold 2, of the Belgians, who in 1885 concluded that he had better grab a colony while the grabbing was still good.",
+  "Example sentence: Barstow concluded that as Rhode Island's John Brown became a canonized hero, if not a saint, so would it be with John Brown of Harper's Ferry.",
+  "Example sentence: There was the further complication that the administration had very early concluded that Laos was ill suited to be an ally, unlike its more determined neighbors, Thailand and South Viet Nam.",
+  "Example sentence: His claim was therefore `` so highly exaggerated '', the Department concluded, that it `` cast doubt upon his veracity and, consequently, upon his sincerity and good faith ''.",
+  "Example sentence: `` We had concluded that no race as ephemeral as yours could have had time to develop a sense of justice.",
+  "Example sentence: The fourth session may be concluded with a tour of the church facilities and refreshments.",
+  "Example sentence: She concluded by asking for a brief interview - `` to settle with you where '' - and she threw in a tribute to his `` gentle manners '' and `` the wild originality of your countenance ''.",
+  "Example sentence: Mr. Nagrin has described four `` places '', each with its scenery and people, added two `` diversions '', and concluded with `` A Toccata for the Young '', a refreshingly underplayed interpretation of rock ' n ' roll dancing.",
+  "Example sentence: She concluded by asking him to name another hour should this one be inconvenient.",
+  "Example sentence: W. Averell Harriman of the United States, Malcolm MacDonald of Britain, Maurice Couve de Murville, France's Foreign Minister, and Howard C. Green, Canada's Minister of External Affairs, concluded, meanwhile, a round of consultations here on future tactics in the conference.",
+  "Example sentence: Each conference should be concluded naturally with prayer."
+ ],
+ "labels": [
+  "reason.v.01",
+  "reason.v.01",
+  "reason.v.01",
+  "reason.v.01",
+  "reason.v.01",
+  "reason.v.01",
+  "conclude.v.02",
+  "conclude.v.02",
+  "conclude.v.02",
+  "conclude.v.02",
+  "conclude.v.02",
+  "conclude.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

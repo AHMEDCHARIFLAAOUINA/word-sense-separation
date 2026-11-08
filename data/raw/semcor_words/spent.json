@@ -1,0 +1,53 @@
+{
+ "target_word": "spent",
+ "sentences": [
+  "Example sentence: You spent $800 for his support.",
+  "Example sentence: Throughout the history of the program, state government expenditures in the aggregate have usually matched or exceeded the Federal expenditures, while local districts all together have spent more than either Federal or state governments.",
+  "Example sentence: The procedure for determining the amounts of money to be spent by county colleges and raised by taxation will certainly startle many taxpayers.",
+  "Example sentence: Many industry trade associations are developing campaigns to protect or enhance the share of the consumer's dollar being spent on their particular products.",
+  "Example sentence: The state Public Works Department is accused of having spent $8555 to build a private beach for a state judge on his waterfront property.",
+  "Example sentence: This sum spent for foreign economic aid, the peace corps, food for peace, or any other program to solve the problems of the underdeveloped countries would be an investment that would pay off in world peace, increased world trade, and prosperity for every country on the globe.",
+  "Example sentence: Cotten construed this as a veiled effort by Parkhouse to help Dallas and other large cities get money which Cotten felt could better be spent providing water for rural Texas.",
+  "Example sentence: He thereupon went to London and spent the winter talking to men of wealth.",
+  "Example sentence: He felt close to Mary, having spent so long concentrating on the beginning of her journey.",
+  "Example sentence: In the course of our talk, Askington mentioned that he spent part of each week studying.",
+  "Example sentence: The jury foreman, Mrs. Olive Heideman, of rural Elsie, said that a ballot was not even taken until yesterday morning and that the first day of deliberation was spent in going over the evidence.",
+  "Example sentence: Part of the time saved was spent on a preliminary estimate for a long-distance plan to free bound oxygen in the sands of Mars to make the planet more friendly to future human generations.",
+  "Example sentence: The request for lower rates originated with the Southern railway, which has spent a good deal of time and money developing a 100 - ton hopper car with which it says it can move grain at about half what it costs in the conventional, smaller car.",
+  "Example sentence: He himself was once convicted of painting erotica and jailed for 24 days - the first three of which he spent desperately trying to make paintings on the wall with his own spittle."
+ ],
+ "labels": [
+  "spend.v.02",
+  "spend.v.02",
+  "spend.v.02",
+  "spend.v.02",
+  "spend.v.02",
+  "spend.v.02",
+  "spend.v.02",
+  "spend.v.01",
+  "spend.v.01",
+  "spend.v.01",
+  "spend.v.01",
+  "spend.v.01",
+  "spend.v.01",
+  "spend.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: treatment
+dataset: data/raw/semcor_words/treatment.json
+senses:
+  - treatment.n.01
+  - treatment.n.02
+n_per_sense: 16
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: represents
+dataset: data/raw/semcor_words/represents.json
+senses:
+  - typify.v.02
+  - represent.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

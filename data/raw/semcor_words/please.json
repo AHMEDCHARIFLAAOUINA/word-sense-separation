@@ -1,0 +1,47 @@
+{
+ "target_word": "please",
+ "sentences": [
+  "Example sentence: Working in a vacuum of minimal information can result only in show pieces that look good in exhibitions and catalogs and may please the public relations department but have little to do with the essence of interior design.",
+  "Example sentence: After the meal, he and his guests went out to inspect the rig; this was merely a ritual, to please all hands concerned.",
+  "Example sentence: To please her, her husband assumed some of the domestic chores.",
+  "Example sentence: We sympathize with Mr. Kennedy, but we feel bound to say that his budget review doesn't please us either, although for very different reasons.",
+  "Example sentence: And please it did, in every sense of the word, for it had the audience shouting much of the time in a manner far from typical of London audiences.",
+  "Example sentence: Or a bored dog because you are more interested in something else - maybe the way you look, or the date you have after the Class, or you are just doing this to please the parents.",
+  "Example sentence: Thay may say what they please but godamit Pa it is fun ''.",
+  "Example sentence: By virtue of his self-reliance, his individualism and his freedom from external restraint, the private eye is a perfect embodiment of the middle class conception of liberty, which amounts to doing what you please and let the devil take the hindmost.",
+  "Example sentence: Finally, Orville intoned through his hawk nose, `` We cann't have people running in any time they please, Sergeant ''.",
+  "Example sentence: Ray, if you please - the ' Cradle Song '' '.",
+  "Example sentence: You may do as you please with God now.",
+  "Example sentence: You've already sent your daughter to Miss X's select academy for girls and your son to Mr. Y's select academy for boys, and you can be as liberal as you please with strict impunity."
+ ],
+ "labels": [
+  "please.v.01",
+  "please.v.01",
+  "please.v.01",
+  "please.v.01",
+  "please.v.01",
+  "please.v.01",
+  "please.v.02",
+  "please.v.02",
+  "please.v.02",
+  "please.v.02",
+  "please.v.02",
+  "please.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

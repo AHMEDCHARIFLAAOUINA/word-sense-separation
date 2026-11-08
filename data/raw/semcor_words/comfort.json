@@ -1,0 +1,35 @@
+{
+ "target_word": "comfort",
+ "sentences": [
+  "Example sentence: Designed for summer comfort are the shoes illustrated.",
+  "Example sentence: For added comfort some of the Italian designed sandals have foam padded cushioning.",
+  "Example sentence: We speculate that compulsives in the unstructured schools are under greater strain because of the lack of systemization in their school setting, but that their need to organize (for comfort) is so intense that they struggle to induce the phonic rules and achieve in spite of the lack of direction from the environment.",
+  "Example sentence: The comfort was short-lived, yet she found herself returning to the assurance whenever her imagination forced images on her too awful to contemplate without the prop of illusion.",
+  "Example sentence: Poor where they had once been rich, humbled where they had been arrogant, having no longer any hope of sharing in the leadership of the nation, the rebels who would not surrender in spirit drew comfort from the sympathy they felt extended to them by the mother country.",
+  "Example sentence: Then he took off his wet boots and dropped down into the water to talk with the beasts, needing their comfort more than they needed his.",
+  "Example sentence: It gives him aid, comfort, even solace, in meeting mundane life situations where his own unassisted practical knowledge and skill are felt by him to be inadequate.",
+  "Example sentence: She wanted to be with him, to give him the comfort and companionship she knew he needed."
+ ],
+ "labels": [
+  "comfort.n.02",
+  "comfort.n.02",
+  "comfort.n.02",
+  "comfort.n.02",
+  "consolation.n.02",
+  "consolation.n.02",
+  "consolation.n.02",
+  "consolation.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

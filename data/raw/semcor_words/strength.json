@@ -1,0 +1,47 @@
+{
+ "target_word": "strength",
+ "sentences": [
+  "Example sentence: As strength improves start in a standing position with legs wide apart and upper body bent forward.",
+  "Example sentence: Arm, shoulder, chest, upper and lower back strength will be aided with the Horse Kick.",
+  "Example sentence: On the morning of Stanley's return, however, her strength left her.",
+  "Example sentence: When they can take ten seconds to accomplish the descent, they will have the strength to chin up.",
+  "Example sentence: Five of these done daily for about a week will develop the strength for one push-up.",
+  "Example sentence: Fractions from the column which were to be subjected to analytical ultracentrifugation were concentrated by negative pressure dialysis and dialyzed for 16 hr in the cold against at least 500 volumes of phosphate buffered saline, pH 7.2, ionic strength 0.154.",
+  "Example sentence: Add also a comparatively primitive industrial plant which would severely limit our capacity to keep abreast of the Soviets even in the missile field which is reputed to be our main strength.",
+  "Example sentence: There were seven of them, enough for a show of strength - to run a bluff.",
+  "Example sentence: Captain Chandler saw that it was building up strength.",
+  "Example sentence: Last year the Congress discontinued its previously imposed minimum personnel strength limitations on the Army Reserve.",
+  "Example sentence: These increased costs are partially offset by a decrease of $56 million in expenditures for the reserve forces, largely because of the planned reduction in strength of the Army Reserve components during 1961.",
+  "Example sentence: Only the vain and incurably sentimental among us will lose sleep simply because foreign peoples are not as impressed by our strength as they ought to be."
+ ],
+ "labels": [
+  "strength.n.01",
+  "strength.n.01",
+  "strength.n.01",
+  "strength.n.01",
+  "strength.n.01",
+  "strength.n.01",
+  "military_capability.n.01",
+  "military_capability.n.01",
+  "military_capability.n.01",
+  "military_capability.n.01",
+  "military_capability.n.01",
+  "military_capability.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

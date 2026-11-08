@@ -1,0 +1,47 @@
+{
+ "target_word": "experiment",
+ "sentences": [
+  "Example sentence: If three dice are tossed, a trial is one toss of one die and the experiment is composed of three trials.",
+  "Example sentence: Their sum is X, the total number of successes, which in this experiment has the value * * f.",
+  "Example sentence: A binomial experiment consists of * * f independent binomial trials, all with the same probability * * f of yielding a success.",
+  "Example sentence: Each binomial trial of a binomial experiment produces either 0 or 1 success.",
+  "Example sentence: Each performance of an n-trial binomial experiment results in some whole number from 0 through n as the value of the random variable X, where * * f.",
+  "Example sentence: Mathematically, we shall not distinguish the experiment of three dice tossed once from that of one die tossed three times.",
+  "Example sentence: Distribution costs are almost bound to increase in the sixties - and you will never know what you can do to control them unless you study each element and experiment with alternative ways of doing the job.",
+  "Example sentence: In February 1801, Oersted did manage to experiment with physical apparatus and reported experiments made with a voltaic battery of 600 plates of zinc and silver and of later experiments with a battery of 60 plates of zinc and lead.",
+  "Example sentence: Place mold or paper pattern on rolled clay and cut clay by holding knife in vertical position (cut more pieces than required for project to make allowance for defects; experiment with defects for decoration techniques of glazes and colors).",
+  "Example sentence: Still, the network's willingness to experiment in this musical field is to be commended, and future essays happily anticipated.",
+  "Example sentence: But they are aware of the world outside, they court public approval, they delight in full houses, and they occasionally dare to experiment in interpreting a dramatic classic.",
+  "Example sentence: Others, less consciously but quite probably influenced by the trends of the times, experiment with approaches that parallel those of the contemporary poet, painter, and musician."
+ ],
+ "labels": [
+  "experiment.n.01",
+  "experiment.n.01",
+  "experiment.n.01",
+  "experiment.n.01",
+  "experiment.n.01",
+  "experiment.n.01",
+  "experiment.v.01",
+  "experiment.v.01",
+  "experiment.v.01",
+  "experiment.v.01",
+  "experiment.v.01",
+  "experiment.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

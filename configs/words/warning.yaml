@@ -1,0 +1,7 @@
+word: warning
+dataset: data/raw/semcor_words/warning.json
+senses:
+  - warning.n.01
+  - admonition.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

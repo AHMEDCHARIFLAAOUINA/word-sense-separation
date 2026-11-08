@@ -1,0 +1,7 @@
+word: require
+dataset: data/raw/semcor_words/require.json
+senses:
+  - necessitate.v.01
+  - ask.v.04
+n_per_sense: 6
+prefix: "Example sentence: "

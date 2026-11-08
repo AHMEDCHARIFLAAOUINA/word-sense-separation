@@ -1,0 +1,7 @@
+word: satisfy
+dataset: data/raw/semcor_words/satisfy.json
+senses:
+  - satisfy.v.01
+  - meet.v.04
+n_per_sense: 6
+prefix: "Example sentence: "

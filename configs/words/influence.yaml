@@ -1,0 +1,7 @@
+word: influence
+dataset: data/raw/semcor_words/influence.json
+senses:
+  - influence.n.01
+  - influence.v.01
+n_per_sense: 9
+prefix: "Example sentence: "

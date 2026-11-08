@@ -1,0 +1,47 @@
+{
+ "target_word": "confidence",
+ "sentences": [
+  "Example sentence: Speakers at a Tipoff Club dinner dealt lavish praise to a group of St. Louis University players who, in the words of Coach John Benington, `` had more confidence in themselves than I did ''.",
+  "Example sentence: I forced confidence into myself.",
+  "Example sentence: They possessed no outer fortifications, no hard shells of confidence; they had enough difficulty getting from day to day, let alone having an awful crime thrust upon them.",
+  "Example sentence: In child care, the opposite extreme prevails; procedures change rapidly and parental confidence probably exceeds anything warranted by established psychological theory.",
+  "Example sentence: Apparently the population as a whole eventually acquires enough confidence in the explanations of the scientists to modify its procedures and its fears.",
+  "Example sentence: Gracias '', I hollered, my first long swallow filling me with confidence and immediately doubling the size of my Spanish vocabulary.",
+  "Example sentence: She always did before, and showed the utmost confidence in whatever we advised ''.",
+  "Example sentence: He was unwilling to rely on Griffith's carrying his message, and he had no confidence the police would act on it.",
+  "Example sentence: It is curious that even centuries of repetition of the yearly cycle did not induce a sufficient degree of confidence to allow people to abandon the ceremonies of the winter solstice.",
+  "Example sentence: Had Faith Constable's explanation of her confidence, so uninvited, been a little thin?",
+  "Example sentence: `` If you destroy confidence in banks, you do something to the economy '', he said.",
+  "Example sentence: Dewey Lawrence, a Tyler lawyer representing the Texas Bankers Association, sounded the opposition keynote when he said it would force banks to violate their contractual obligations with depositors and undermine the confidence of bank customers."
+ ],
+ "labels": [
+  "assurance.n.01",
+  "assurance.n.01",
+  "assurance.n.01",
+  "assurance.n.01",
+  "assurance.n.01",
+  "assurance.n.01",
+  "confidence.n.02",
+  "confidence.n.02",
+  "confidence.n.02",
+  "confidence.n.02",
+  "confidence.n.02",
+  "confidence.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

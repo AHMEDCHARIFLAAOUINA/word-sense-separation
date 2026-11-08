@@ -1,0 +1,7 @@
+word: mounted
+dataset: data/raw/semcor_words/mounted.json
+senses:
+  - mount.v.01
+  - wax.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

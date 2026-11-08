@@ -1,0 +1,41 @@
+{
+ "target_word": "wire",
+ "sentences": [
+  "Example sentence: This time no wire came whipping into the truck.",
+  "Example sentence: The next time we saw him, he was a changed person; he had aged thirty years, and his face, the color of tallow, was crisscrossed with wrinkles, as though it had been wrapped in chicken wire.",
+  "Example sentence: Looking around slowly, he saw a marble fireplace, a desk, a low bookcase of mahogany with criss-crossed brass wire instead of glass panes in the doors.",
+  "Example sentence: Changes of intensity on the cell were achieved by use of a wire screen and by varying the distance of the light source from the cell.",
+  "Example sentence: But it was only Johnson reaching around the wire chicken fencing, which half covered the truck cab's glassless rear window.",
+  "Example sentence: The element is inserted in the discharge circuit in place of the exploding wire, and the calorimetric heating of the element is measured with high accuracy.",
+  "Example sentence: Used in several sets of high reps once or twice each week it will not be long before your entire upper leg takes on a razor-sharp definition in which the muscles look like wire cables writhing and twisting under the skin!",
+  "Example sentence: The accuracy of measuring the total electrical energy entering an exploding wire during a few microseconds was verified when two independent types of comparison with the heat energy produced had an uncertainty of less than 2 percent.",
+  "Example sentence: He devised a detonating fuse in which a short wire was caused to glow by an electric current.",
+  "Example sentence: In one of these, an exploding wire device to study systems thermodynamically up to 6000 * * f and 100 atmospheres pressure, a major goal was achieved."
+ ],
+ "labels": [
+  "wire.n.01",
+  "wire.n.01",
+  "wire.n.01",
+  "wire.n.01",
+  "wire.n.01",
+  "wire.n.02",
+  "wire.n.02",
+  "wire.n.02",
+  "wire.n.02",
+  "wire.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

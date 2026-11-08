@@ -1,0 +1,7 @@
+word: rolled
+dataset: data/raw/semcor_words/rolled.json
+senses:
+  - wheel.v.03
+  - roll.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

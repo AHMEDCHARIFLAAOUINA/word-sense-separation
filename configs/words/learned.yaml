@@ -1,0 +1,7 @@
+word: learned
+dataset: data/raw/semcor_words/learned.json
+senses:
+  - learn.v.02
+  - learn.v.01
+n_per_sense: 9
+prefix: "Example sentence: "

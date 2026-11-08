@@ -1,0 +1,7 @@
+word: species
+dataset: data/raw/semcor_words/species.json
+senses:
+  - species.n.01
+  - species.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

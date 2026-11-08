@@ -1,0 +1,35 @@
+{
+ "target_word": "boss",
+ "sentences": [
+  "Example sentence: The Boss wants performance, not gripes.",
+  "Example sentence: Let's throw a little nuclear hardware at them and show them who's boss ''.",
+  "Example sentence: Show them who's boss ''!",
+  "Example sentence: Now, Mis-ter McBride '', said Lord, and he laid a firmly restraining hand on the field boss's arm.",
+  "Example sentence: He evolved programs that plumbed new depths of bathos and besmirched whole networks, and quickly superseded his boss.",
+  "Example sentence: The failure of the boss's wife and son to join the outfit.",
+  "Example sentence: It all seemed - if one could have peeked in at him through one of his windows - as though this broken nosed man with the muscular arms and wrestler's neck was merely the caretaker trying his hand at the boss's work.",
+  "Example sentence: The hired man ran over to help his boss."
+ ],
+ "labels": [
+  "foreman.n.01",
+  "foreman.n.01",
+  "foreman.n.01",
+  "foreman.n.01",
+  "boss.n.02",
+  "boss.n.02",
+  "boss.n.02",
+  "boss.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

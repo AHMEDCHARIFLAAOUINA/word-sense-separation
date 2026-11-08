@@ -1,0 +1,53 @@
+{
+ "target_word": "shut",
+ "sentences": [
+  "Example sentence: Phil shut the door behind him.",
+  "Example sentence: Giselle was reluctant but Alex succeeded in persuading her to come back in five minutes and the door was shut again.",
+  "Example sentence: Phil followed Eddie into the office and shut the door.",
+  "Example sentence: Aggie might fly into a closet, shut the door and bury her head in the clothes; he dared to wait for the lightning.",
+  "Example sentence: But the Blevins were away; their maid gave him an envelope with a check in it and shut the door.",
+  "Example sentence: Curt followed, reaching behind him to shut the door and hook it.",
+  "Example sentence: `` Now don't shut this door.",
+  "Example sentence: The doors of the D train slid shut, and as I dropped into a seat and, exhaling, looked up across the aisle, the whole aviary in my head burst into song.",
+  "Example sentence: And Phil banged his locker door shut and spun around.",
+  "Example sentence: Back at the Factory-to-You with the other old maids, back there she was the youngest clerk and she was thirty-four, which made her young enough to resent the usual ideal working conditions, like the unventilated toilet with the door you had to hold shut while you sat down.",
+  "Example sentence: He opened the door and went in, pulling it shut behind him.",
+  "Example sentence: He reached out to pull the door shut and fasten it with a sliding bolt.",
+  "Example sentence: The 7: 45 bell rang and he could hear the outside doors bang shut, closing in the assembled day watch.",
+  "Example sentence: It had been shut again, but the lock was broken; he noted with a thrill of fear that the door moved under his touch."
+ ],
+ "labels": [
+  "close.v.01",
+  "close.v.01",
+  "close.v.01",
+  "close.v.01",
+  "close.v.01",
+  "close.v.01",
+  "close.v.01",
+  "shut.a.01",
+  "shut.a.01",
+  "shut.a.01",
+  "shut.a.01",
+  "shut.a.01",
+  "shut.a.01",
+  "shut.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

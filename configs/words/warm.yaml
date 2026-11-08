@@ -1,0 +1,7 @@
+word: warm
+dataset: data/raw/semcor_words/warm.json
+senses:
+  - warm.a.01
+  - warm.a.02
+n_per_sense: 7
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "seat",
+ "sentences": [
+  "Example sentence: (Music often sounds best to me when I can dress informally and sit in something more comfortable than a theatre seat.)",
+  "Example sentence: It dawns on you that instead of a lump to fill the seat across the bridge table from you, he was a man, and that because Gratt Shafer was making you miserable, you were passing it down to him, to Gratt Shafer's substitute, that other guy.",
+  "Example sentence: Cool air moving slowly through the open or smashed out side windows hinted of blooming roadside vegetation, and occasionally a faint fragrance of perfume swirled from the back seat.",
+  "Example sentence: The doors of the D train slid shut, and as I dropped into a seat and, exhaling, looked up across the aisle, the whole aviary in my head burst into song.",
+  "Example sentence: He then pushes his seat into the air and the teacher guides it over.",
+  "Example sentence: By lifting the seat upwards a little, the weight is taken off the neck and the back is kept rounded.",
+  "Example sentence: The child should then bring both legs together overhead, point the toes and tighten the seat muscles.",
+  "Example sentence: When the child raises his seat into the air, the teacher takes hold under both sides of the pelvis; then no matter what happens, the child's performance will be controlled."
+ ],
+ "labels": [
+  "seat.n.01",
+  "seat.n.01",
+  "seat.n.01",
+  "seat.n.01",
+  "buttocks.n.01",
+  "buttocks.n.01",
+  "buttocks.n.01",
+  "buttocks.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: stay
+dataset: data/raw/semcor_words/stay.json
+senses:
+  - stay.v.01
+  - stay.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

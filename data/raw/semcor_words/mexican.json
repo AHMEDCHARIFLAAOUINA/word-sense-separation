@@ -1,0 +1,35 @@
+{
+ "target_word": "mexican",
+ "sentences": [
+  "Example sentence: You thought I was a Mexican, didn't you, buddy ''?",
+  "Example sentence: Others carried extra clips for the Browning Automatic Rifle, which was in the hands of a little Mexican named Martinez.",
+  "Example sentence: Two of the new hands, a Mexican named Jose Amado and a kid known only as Laredo, were picked for the first trick of riding night herd.",
+  "Example sentence: Early the next morning, a Mexican telephoned Pels that Celso Chavez, one of the posse members, was surrounded by ten Mexicans at his father's home on the upper Vermejo.",
+  "Example sentence: About 300 yards up the creek was a cluster of Mexican houses containing six rooms in the form of a square.",
+  "Example sentence: A Mexican justice of the peace had issue a writ against Chavez for taking part in the `` murder '' of Manuel Gonzales so he and his father were anxious to be taken out of danger.",
+  "Example sentence: Tomas, she called him - as the Mexican hands did.",
+  "Example sentence: Bursting from the lips of a charging cavalry trooper was the last sound heard on this earth by untold numbers of Cheyennes, Sioux and Apaches, Mexican banditos under Pancho Villa, Japanese in the South Pacific, and Chinese and North Korean Communists in Korea."
+ ],
+ "labels": [
+  "mexican.n.01",
+  "mexican.n.01",
+  "mexican.n.01",
+  "mexican.n.01",
+  "mexican.a.01",
+  "mexican.a.01",
+  "mexican.a.01",
+  "mexican.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

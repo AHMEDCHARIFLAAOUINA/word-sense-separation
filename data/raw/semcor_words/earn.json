@@ -1,0 +1,41 @@
+{
+ "target_word": "earn",
+ "sentences": [
+  "Example sentence: Idea is to let these countries earn their way as much as possible.",
+  "Example sentence: For example, on the basis of the regression equation, a child with an I. Q. of 120 in this sample would be expected to earn an achievement test score of 4.8 (grade equivalent).",
+  "Example sentence: If we want respect from ourselves or others, we will have to earn it.",
+  "Example sentence: A child with an I. Q. of 98 would be expected to earn an achievement test score of 3.5.",
+  "Example sentence: They get all the glory and most of the pay and don't earn ten cents apiece on the average, the drunken rascals ''.",
+  "Example sentence: A minor child is allowed a personal exemption of $600 on his own return regardless of how much money he may earn.",
+  "Example sentence: Their own easier, slower tempo is especially dear to Southerners; and I have heard many say that they are content to earn a half or a third as much as they could up North because they so much prefer the quieter habits of their home town.",
+  "Example sentence: Consider what you have to earn to be able to spend the $3000 and your building time is well worth it.",
+  "Example sentence: When I mentioned that for my first long voyage I did not even have the money for the return fare, but had trusted to luck that I would earn a sufficient amount, the young people looked at me doubtingly.",
+  "Example sentence: Nonresident aliens living in Canada or Mexico who earn wages in the United States may be subject to withholding of tax on their wages, the same as if they were citizens of the United States."
+ ],
+ "labels": [
+  "earn.v.02",
+  "earn.v.02",
+  "earn.v.02",
+  "earn.v.02",
+  "earn.v.02",
+  "gain.v.08",
+  "gain.v.08",
+  "gain.v.08",
+  "gain.v.08",
+  "gain.v.08"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

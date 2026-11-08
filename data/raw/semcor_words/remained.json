@@ -1,0 +1,53 @@
+{
+ "target_word": "remained",
+ "sentences": [
+  "Example sentence: Two years later he became director of the Frankfurt Opera, where he remained until he lost this position in 1933 through the rise of the Hitler regime.",
+  "Example sentence: All four remained impacted on the sofa until he had left.",
+  "Example sentence: When the troupe traveled to New York to participate in a one act play competition - and won - Mercer, instead of returning with the rest of the company in triumph, remained in New York.",
+  "Example sentence: Mrs. Pankowski, 61, remained in Holy Cross Hospital as a result of the explosion, which occurred while Mrs. Kowalski fueled a cook stove in the grandmother's small upstairs flat at 2274 Eight Mile road east.",
+  "Example sentence: But except for a vague adherence to the basic storyline - i.e., that Ruth remained with Naomi and finally wound up with Boaz - the film version has little to do with the Bible.",
+  "Example sentence: Sherry remained in his hotel suite, where he amused himself as best he could.",
+  "Example sentence: Thereafter seed and food became more plentiful and the colony remained in the north the year round.",
+  "Example sentence: After heavy rains and an onslaught of mice, snow fell on October 15, 1825, and remained on the ground through a winter so cold that the ice on the Red was five feet thick.",
+  "Example sentence: In France, it remained always more picturesque, more dancelike, more full of flavor.",
+  "Example sentence: Her extendibles were diverted, connected or augmented and the final, delicate-beyond-description brain taps were completed while Helva remained anesthetically unaware of the proceedings.",
+  "Example sentence: Had it done so, the blot on its escutcheon would have remained indelible, nor could the Harvard Divinity School assemble today to honor Parker's insurgence other than by getting down on its collective knees and crying `` peccavi ''.",
+  "Example sentence: In its propagandistic and commercial haste to discover our folk heritage, the public has remained ignorant of definitions such as this.",
+  "Example sentence: Then, to conclude on an indeterminate note: `` Nevertheless, if fallout increased substantially, or remained high for a long time, it would become far more important as a potential health hazard in this country and throughout the world ''.",
+  "Example sentence: In any event, the extraordinary result of this injury was that he became `` psychically blind '', while at the same time, apparently, the sense of touch remained essentially intact."
+ ],
+ "labels": [
+  "stay.v.04",
+  "stay.v.04",
+  "stay.v.04",
+  "stay.v.04",
+  "stay.v.04",
+  "stay.v.04",
+  "stay.v.04",
+  "stay.v.01",
+  "stay.v.01",
+  "stay.v.01",
+  "stay.v.01",
+  "stay.v.01",
+  "stay.v.01",
+  "stay.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

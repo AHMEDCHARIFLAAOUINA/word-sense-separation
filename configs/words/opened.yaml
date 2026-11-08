@@ -1,0 +1,7 @@
+word: opened
+dataset: data/raw/semcor_words/opened.json
+senses:
+  - open.v.01
+  - open.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "challenge",
+ "sentences": [
+  "Example sentence: Some date it from woman suffrage, others from when women first began to challenge men in the marketplace, still others from the era of the emancipated flapper and bathtub gin.",
+  "Example sentence: But I have compared its text with already published commentaries on the 1960 series of Godkin lectures at Harvard, from which the book was derived, and I can with confidence challenge the gist of C. P. Snow's incautious tale ''.",
+  "Example sentence: It is this conclusion that we challenge; we do so by disproving the presumption on which it is based.",
+  "Example sentence: At the risk of losing my charge-a-plate at Marshall Field and Company, I would like to challenge an old and hallowed stereotype.",
+  "Example sentence: Though there is obviously nothing new about these techniques, they do challenge the worker's skill to articulate them precisely on the spot and on the basis of quick and accurate diagnostic assessments.",
+  "Example sentence: In North Dakota the strangely beautiful Badlands will challenge you to translate its wonder on to film.",
+  "Example sentence: Two Anabaptists, Caroli and Benoit, are to challenge you and William to a debate before the Council.",
+  "Example sentence: The state is now faced with the immediate question of raising new taxes whether on utilities, real estate or motor vehicles, he said, `` and I challenge Mitchell to tell the people where he stands on the tax issue ''."
+ ],
+ "labels": [
+  "challenge.v.01",
+  "challenge.v.01",
+  "challenge.v.01",
+  "challenge.v.01",
+  "challenge.v.02",
+  "challenge.v.02",
+  "challenge.v.02",
+  "challenge.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

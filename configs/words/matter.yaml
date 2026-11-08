@@ -1,0 +1,7 @@
+word: matter
+dataset: data/raw/semcor_words/matter.json
+senses:
+  - matter.n.01
+  - topic.n.02
+n_per_sense: 12
+prefix: "Example sentence: "

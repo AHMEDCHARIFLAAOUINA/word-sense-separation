@@ -1,0 +1,7 @@
+word: impressed
+dataset: data/raw/semcor_words/impressed.json
+senses:
+  - impress.v.02
+  - affect.v.05
+n_per_sense: 5
+prefix: "Example sentence: "

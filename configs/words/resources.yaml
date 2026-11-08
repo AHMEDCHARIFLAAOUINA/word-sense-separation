@@ -1,0 +1,7 @@
+word: resources
+dataset: data/raw/semcor_words/resources.json
+senses:
+  - resource.n.01
+  - resource.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

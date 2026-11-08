@@ -1,0 +1,35 @@
+{
+ "target_word": "flew",
+ "sentences": [
+  "Example sentence: He was crouched over his anvil in the courtyard getting his chisels into trim, when a splinter of steel flew into his eye and imbedded itself in his pupil.",
+  "Example sentence: The Jap's propeller flew off in pieces.",
+  "Example sentence: I saw the pony fall like a stone and the young warrior flew over its head, bouncing like a rubber ball.",
+  "Example sentence: The heavy glass didn't break, but the top flew off; sugar sprayed with a hiss that was loud in the silence.",
+  "Example sentence: They all flew into action.",
+  "Example sentence: After two drinks containing alcohol, her arm flew upward very freely.",
+  "Example sentence: He flew about the place making these adjustments and it was obvious that what he was doing was the fruit of long experience.",
+  "Example sentence: Rumors flew from lip to lip that Fidel Castro was on his way to Havana, coming from the mountains where he had fought Batista for five years."
+ ],
+ "labels": [
+  "fly.v.01",
+  "fly.v.01",
+  "fly.v.01",
+  "fly.v.01",
+  "fly.v.02",
+  "fly.v.02",
+  "fly.v.02",
+  "fly.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

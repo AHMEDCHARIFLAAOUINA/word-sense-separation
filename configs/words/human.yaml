@@ -1,0 +1,7 @@
+word: human
+dataset: data/raw/semcor_words/human.json
+senses:
+  - human.a.01
+  - human.a.02
+n_per_sense: 17
+prefix: "Example sentence: "

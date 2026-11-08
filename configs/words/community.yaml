@@ -1,0 +1,7 @@
+word: community
+dataset: data/raw/semcor_words/community.json
+senses:
+  - community.n.01
+  - community.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

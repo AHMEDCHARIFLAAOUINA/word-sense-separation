@@ -1,0 +1,35 @@
+{
+ "target_word": "continuous",
+ "sentences": [
+  "Example sentence: Establish and operate necessary facilities and test sites at which to carry on the continuous research, testing, development, and programming necessary to effectuate the purposes of this Act;",
+  "Example sentence: It is at least possible that the capacity to postpone gratification is developed as well as expressed in a continuous and guided exposure to great literature.",
+  "Example sentence: As a result, life had become a kind of continuous make-ready.",
+  "Example sentence: (3) For anionics, these micelles appear to be roughly spherical assemblages in which the hydrocarbon tails come together so that the polar groups (the ionized ends) face outward towards the aqueous continuous phase.",
+  "Example sentence: A continuous change in t through an amount e results in a translation along an analytic arc of the curve **f.",
+  "Example sentence: Thus **f is also continuous at **f, and in a neighborhood of **f which does not contain a tangent point.",
+  "Example sentence: In some neighborhood in the f-plane of any ordinary point of the graph, the function f is a single valued, continuous function.",
+  "Example sentence: It is also seen that **f, since the change from **f to **f is accomplished by a continuous translation."
+ ],
+ "labels": [
+  "continuous.a.01",
+  "continuous.a.01",
+  "continuous.a.01",
+  "continuous.a.01",
+  "continuous.a.02",
+  "continuous.a.02",
+  "continuous.a.02",
+  "continuous.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

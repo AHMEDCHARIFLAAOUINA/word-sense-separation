@@ -1,0 +1,7 @@
+word: once
+dataset: data/raw/semcor_words/once.json
+senses:
+  - once.r.01
+  - once.r.03
+n_per_sense: 16
+prefix: "Example sentence: "

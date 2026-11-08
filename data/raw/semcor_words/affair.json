@@ -1,0 +1,35 @@
+{
+ "target_word": "affair",
+ "sentences": [
+  "Example sentence: My object, rather, is to alert you to an aspect or two of the affair that could have the gravest implications for you, far beyond the legal sanctions society might inflict.",
+  "Example sentence: But he brought back the sheriff and several deputies, and to the lawmen the entire affair seemed a repetition of the Lewis killing.",
+  "Example sentence: Garth was prepared to be helpful in what he referred to with fastidious distaste as this unfortunate Johnston affair, which would not, he said more than once, have ever come about if Mrs. Meeker had only seen fit to consult Mr. Hohlbein or him about it.",
+  "Example sentence: `` Sometimes we'd have trouble persuading her to make tax-exempt charitable contributions, and I've known her to quarrel with a plumber over a bill for fixing a faucet; the next moment she'd put another half million into the scholarship fund or thirty thousand into something as impractical as this unfortunate Johnston affair.",
+  "Example sentence: `` Do you think he could be having an affair ''?",
+  "Example sentence: Then there was the caterer's ad which read: `` Are you getting married or having an affair?",
+  "Example sentence: The two kids were together a lot, they were having some kind of teen-age affair - God knows how far that had gone - and the kid's crippled.",
+  "Example sentence: But her personality was such that each affair lasted only until that lover, too, had been conquered and reduced to passivity."
+ ],
+ "labels": [
+  "matter.n.01",
+  "matter.n.01",
+  "matter.n.01",
+  "matter.n.01",
+  "affair.n.02",
+  "affair.n.02",
+  "affair.n.02",
+  "affair.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

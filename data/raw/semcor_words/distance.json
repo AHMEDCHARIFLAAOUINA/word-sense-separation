@@ -1,0 +1,35 @@
+{
+ "target_word": "distance",
+ "sentences": [
+  "Example sentence: We assume for this illustration that the size of the land plots is so great that the distance between dwellings is greater than the voice can carry and that most of the communication is between nearest neighbors only, as shown in Figure 2.",
+  "Example sentence: Figures seemed to crouch in the surrounding dark; in the distance he saw a band of men who seemed to advance and retreat even as he watched.",
+  "Example sentence: We leap from event to event - including the formation of the posse - even though the events, in `` reality '' are taking place not in sequence but simultaneously, and not near each other but at a considerable distance.",
+  "Example sentence: Land within commuting distance of a growing city is usually high in price, higher if it has subdivision possibilities.",
+  "Example sentence: We have ample light when the sun sets; the temperature of our homes is independent of the seasons; we fly through the air, although gravity pulls us down; the range of our voice ignores distance.",
+  "Example sentence: My unscientific friend does not believe that human stature is measurable in terms of speed, momentum, weightlessness, or distance from earth, but is a matter of the development of the human mind.",
+  "Example sentence: An inquest was held, and after a good deal of testimony about the anonymous notes, the county coroner estimated that the shooting had been done from a distance of 300 yards.",
+  "Example sentence: I cann't tell you now the distance in light years or what star this was, though you can see it with the naked eye at night in this hemisphere."
+ ],
+ "labels": [
+  "distance.n.01",
+  "distance.n.01",
+  "distance.n.01",
+  "distance.n.01",
+  "distance.n.03",
+  "distance.n.03",
+  "distance.n.03",
+  "distance.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

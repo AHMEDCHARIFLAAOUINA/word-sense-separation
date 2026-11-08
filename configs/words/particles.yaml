@@ -1,0 +1,7 @@
+word: particles
+dataset: data/raw/semcor_words/particles.json
+senses:
+  - atom.n.02
+  - particle.n.02
+n_per_sense: 11
+prefix: "Example sentence: "

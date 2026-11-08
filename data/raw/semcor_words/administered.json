@@ -1,0 +1,35 @@
+{
+ "target_word": "administered",
+ "sentences": [
+  "Example sentence: They, perhaps, gave the pitch of their position in the preface where it was said that Eisenhower requested that the Commission be administered by the American Assembly of Columbia University, because it was non-partisan.",
+  "Example sentence: At first the Belgian royal family administered the Congo as its own private property.",
+  "Example sentence: The colony was administered from Brussels, with neither the Congolese nor the resident Belgians having any vote.",
+  "Example sentence: During World War 2, about 7.5 million persons were enrolled in courses organized under two special programs administered by state and local school authorities: (1) Vocational Education for National Defense, and (2) War Production Training.",
+  "Example sentence: Although the Taylor Scale was designed as a group testing device, in this study it was individually administered by psychologically trained workers who established rapport and assisted the children in reading the items.",
+  "Example sentence: The Stanford Achievement Test, Form J, was administered by classroom teachers, consisting of a battery of six sub tests: Paragraph Meaning, Word Meaning, Spelling, Language, Arithmetic Computation, and Arithmetic Reasoning.",
+  "Example sentence: The Wechsler Intelligence Scale for Children was administered to each sample third grade child by a clinical worker.",
+  "Example sentence: Bern demands that the Lord's Supper be administered here as it used to be, with unleavened bread."
+ ],
+ "labels": [
+  "administer.v.01",
+  "administer.v.01",
+  "administer.v.01",
+  "administer.v.01",
+  "administer.v.02",
+  "administer.v.02",
+  "administer.v.02",
+  "administer.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

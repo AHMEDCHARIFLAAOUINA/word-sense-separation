@@ -1,0 +1,7 @@
+word: recognition
+dataset: data/raw/semcor_words/recognition.json
+senses:
+  - recognition.n.01
+  - recognition.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

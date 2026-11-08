@@ -1,0 +1,47 @@
+{
+ "target_word": "variation",
+ "sentences": [
+  "Example sentence: The results of present observations of the thermal radio emission of the moon are consistent with the very low thermal conductivity of the surface layer which was derived from the variation in the infrared emission during eclipses (e.g., Garstung, 1958).",
+  "Example sentence: It doesn't really matter which month of the year you sow them, but they germinate best when they have a wide variation of temperature, very warm followed by cool in the same 24 hours.",
+  "Example sentence: A reason for such wide variation in the pulmonary morphology is entirely lacking at present.",
+  "Example sentence: Ninety per cent of the 153 recorded impacts occurred between midnight and noon, and from day to day the variation of the rate was as much as an order of magnitude.",
+  "Example sentence: Even here there is room for some variation, for metal surfaces vary in smoothness, absorptive capacity, and chemical reactivity.",
+  "Example sentence: In the discussion which follows, the time average of the radio emission will be referred to as the constant component, and the superimposed periodic variation will be called the variable component.",
+  "Example sentence: (Note how strongly the upper lats and serratus are worked in this fine exercise because of the pin point concentration of force which the dumbbell variation affords).",
+  "Example sentence: The `` push '' exercise of this Push-Pull Super-Set is the Bench Press done with elbows well pulled back and with a greater downward stretch of the pectorals not possible with the barbell variation.",
+  "Example sentence: You need the barbell variation to build width and mass in the pecs.",
+  "Example sentence: The drama in the theater and the concert in the hall both have a fixed time, but the time is fixed by the director and the players, the conductor and the instrumentalists, subject, therefore, to much variation, as record collectors well know.",
+  "Example sentence: When irregularity and variation prevent summarizing, information is written in complete detail.",
+  "Example sentence: The dumbbell variation develops a most classically sculptured outline to the pecs."
+ ],
+ "labels": [
+  "variation.n.01",
+  "variation.n.01",
+  "variation.n.01",
+  "variation.n.01",
+  "variation.n.01",
+  "variation.n.01",
+  "variation.n.02",
+  "variation.n.02",
+  "variation.n.02",
+  "variation.n.02",
+  "variation.n.02",
+  "variation.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,53 @@
+{
+ "target_word": "assembled",
+ "sentences": [
+  "Example sentence: He assembled quantities of facts about the nature of American politics in general, as well as about the day-to-day course of the closest Presidential election in American history.",
+  "Example sentence: But, after a fifteen-minute delay, the substantially complete Philharmonic assembled on stage for the afternoon's proceedings.",
+  "Example sentence: Jars are assembled in bowl of butter mold.",
+  "Example sentence: The Heritage collection, to be shown by Sanger-Harris and Anderson's Studio, has perhaps more different types of woods and decorations than any one manufacturer ever assembled together at one time.",
+  "Example sentence: Too many books and articles are just assembled by putting one word after another.",
+  "Example sentence: Fifty lantern slide teaching sets on the subject of `` Emergency War Surgery (NATO) '' were assembled and distributed to the Medical Military Services of foreign Governments associated with NATO and South-East Asia Treaty Organization.",
+  "Example sentence: Even though in most cases the completion of the definitive editions of their writings is still years off, enough documentation has already been assembled to warrant drawing a new composite profile of the leadership which performed the heroic dual feats of winning American independence and founding a new nation.",
+  "Example sentence: Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Act of July 3, 1952 (66 Stat. 328) as amended (42 U. S. C. 1952 - 1958), is further amended to read as follows:",
+  "Example sentence: Here in 1815 the great nations assembled to legislate not merely for Europe, but for the world.",
+  "Example sentence: Eugene Lester assembled a witty and explicit score for `` An American Journey '', and Malcolm McCormick gave it sprightly imaginative costumes.",
+  "Example sentence: The American Bishops assembled at the Third Plenary Council of Baltimore urged the Catholic people to read the Holy Bible.",
+  "Example sentence: He opens his discourse, however, with a review of the Eisenhower inaugural festivities at which a sympathetic press had assembled its massive talents, all primed to catch some revelation of the emerging new age.",
+  "Example sentence: They recommended, also, that `` at a fixed hour, let the entire family be assembled for night prayers, followed by a short reading of the Holy Scriptures ''.",
+  "Example sentence: Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Secretary of the Interior is hereby authorized and directed to make or cause to be made a study covering -"
+ ],
+ "labels": [
+  "assemble.v.01",
+  "assemble.v.01",
+  "assemble.v.01",
+  "assemble.v.01",
+  "assemble.v.01",
+  "assemble.v.01",
+  "assemble.v.01",
+  "meet.v.07",
+  "meet.v.07",
+  "meet.v.07",
+  "meet.v.07",
+  "meet.v.07",
+  "meet.v.07",
+  "meet.v.07"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

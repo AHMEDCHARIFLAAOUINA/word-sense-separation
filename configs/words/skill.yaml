@@ -1,0 +1,7 @@
+word: skill
+dataset: data/raw/semcor_words/skill.json
+senses:
+  - skill.n.01
+  - skill.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

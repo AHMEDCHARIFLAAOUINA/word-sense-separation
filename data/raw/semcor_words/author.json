@@ -1,0 +1,47 @@
+{
+ "target_word": "author",
+ "sentences": [
+  "Example sentence: The famous author tells us of the strange incident in Something About Myself.",
+  "Example sentence: The dialogue is sharp, witty and candid - typical `` don't eat the daisies '' material - which has stamped the author throughout her books and plays, and it was obvious that the Theatre-by-the-Sea audience liked it.",
+  "Example sentence: To carry out this exalted conception the author has combined the vivid realism and imaginative power we have noticed in his early poetry and carried them out on a grand scale.",
+  "Example sentence: In all of this extensive and expensive effort, the camera was downgraded to the status of recording instrument for art work produced elsewhere by the actor or by the author.",
+  "Example sentence: The reality of spirit emerges in this play in spite of the author's convictions to the contrary.",
+  "Example sentence: A woman met a famous author at a literary tea.",
+  "Example sentence: The Church considers this to be the method provided by nature and its divine Author: It involves no frustration of nature's laws, but simply an intelligent and disciplined use of them.",
+  "Example sentence: Believing that God is the Author of this law and of all laws of nature, Roman Catholics believe that they are obliged to obey those laws, not frustrate or mock them.",
+  "Example sentence: Merely to satisfy the author's curiosity.",
+  "Example sentence: But I said I would first have to get the author's permission.",
+  "Example sentence: The author of the anonymous notes seemed to be all-knowing.",
+  "Example sentence: Ritter died in 1810 and Oersted not only lived to see the event occur but was the author of it."
+ ],
+ "labels": [
+  "writer.n.01",
+  "writer.n.01",
+  "writer.n.01",
+  "writer.n.01",
+  "writer.n.01",
+  "writer.n.01",
+  "generator.n.03",
+  "generator.n.03",
+  "generator.n.03",
+  "generator.n.03",
+  "generator.n.03",
+  "generator.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

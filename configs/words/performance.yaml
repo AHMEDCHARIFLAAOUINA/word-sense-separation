@@ -1,0 +1,7 @@
+word: performance
+dataset: data/raw/semcor_words/performance.json
+senses:
+  - performance.n.01
+  - performance.n.02
+n_per_sense: 14
+prefix: "Example sentence: "

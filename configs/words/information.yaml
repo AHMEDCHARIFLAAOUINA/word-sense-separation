@@ -1,0 +1,7 @@
+word: information
+dataset: data/raw/semcor_words/information.json
+senses:
+  - information.n.01
+  - information.n.02
+n_per_sense: 20
+prefix: "Example sentence: "

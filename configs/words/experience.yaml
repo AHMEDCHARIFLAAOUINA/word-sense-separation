@@ -1,0 +1,7 @@
+word: experience
+dataset: data/raw/semcor_words/experience.json
+senses:
+  - experience.n.01
+  - experience.n.02
+n_per_sense: 18
+prefix: "Example sentence: "

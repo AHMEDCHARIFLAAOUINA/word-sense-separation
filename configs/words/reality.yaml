@@ -1,0 +1,7 @@
+word: reality
+dataset: data/raw/semcor_words/reality.json
+senses:
+  - world.n.03
+  - reality.n.02
+n_per_sense: 13
+prefix: "Example sentence: "

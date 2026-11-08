@@ -1,0 +1,7 @@
+word: read
+dataset: data/raw/semcor_words/read.json
+senses:
+  - read.v.01
+  - read.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: market
+dataset: data/raw/semcor_words/market.json
+senses:
+  - market.n.01
+  - market.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

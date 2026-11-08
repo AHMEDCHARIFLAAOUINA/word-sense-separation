@@ -1,0 +1,7 @@
+word: units
+dataset: data/raw/semcor_words/units.json
+senses:
+  - unit_of_measurement.n.01
+  - unit.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: atmosphere
+dataset: data/raw/semcor_words/atmosphere.json
+senses:
+  - atmosphere.n.01
+  - atmosphere.n.03
+n_per_sense: 6
+prefix: "Example sentence: "

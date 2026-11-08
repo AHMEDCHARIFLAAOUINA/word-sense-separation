@@ -1,0 +1,7 @@
+word: registered
+dataset: data/raw/semcor_words/registered.json
+senses:
+  - file.v.01
+  - register.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

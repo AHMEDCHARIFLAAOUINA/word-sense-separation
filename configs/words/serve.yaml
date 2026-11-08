@@ -1,0 +1,7 @@
+word: serve
+dataset: data/raw/semcor_words/serve.json
+senses:
+  - serve.v.01
+  - serve.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

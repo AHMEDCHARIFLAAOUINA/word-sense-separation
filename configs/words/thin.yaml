@@ -1,0 +1,7 @@
+word: thin
+dataset: data/raw/semcor_words/thin.json
+senses:
+  - thin.a.02
+  - thin.a.01
+n_per_sense: 11
+prefix: "Example sentence: "

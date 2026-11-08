@@ -1,0 +1,7 @@
+word: asserted
+dataset: data/raw/semcor_words/asserted.json
+senses:
+  - assert.v.01
+  - affirm.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

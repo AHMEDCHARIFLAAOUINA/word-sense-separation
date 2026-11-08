@@ -1,0 +1,35 @@
+{
+ "target_word": "kiss",
+ "sentences": [
+  "Example sentence: Rachel came close to the bed, bent as if she would kiss him, then moved away.",
+  "Example sentence: In or out, should I kiss her good-night?",
+  "Example sentence: It was late, we were playing kissing games, and Jessica and I called on to kiss in front of the others.",
+  "Example sentence: Beaming idiotically, he pooched out his lips and attempted to kiss her.",
+  "Example sentence: The kiss outraged our friends but it was done and meanwhile had released in me all the remote, exciting premonitions of lust, all the mysterious sensations that I had imagined a truly consummated kiss would convey to me.",
+  "Example sentence: An early film by a competitor of the Wizard of Menlo Park simply showed a long kiss performed by two actors of the contemporary stage.",
+  "Example sentence: But, kindled by his kiss, his caressing hand, her desire was aflame.",
+  "Example sentence: But youth asked nothing of its parents - not a touch of the hand or a kiss given in passing."
+ ],
+ "labels": [
+  "snog.v.01",
+  "snog.v.01",
+  "snog.v.01",
+  "snog.v.01",
+  "kiss.n.01",
+  "kiss.n.01",
+  "kiss.n.01",
+  "kiss.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

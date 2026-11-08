@@ -1,0 +1,35 @@
+{
+ "target_word": "sight",
+ "sentences": [
+  "Example sentence: Suddenly he was interrupted in his daydreaming by a warm wetness lapping against his chin, and his eyes opened wide and long at the sight of a goat's claret tongue, feasting against the salt taste of him.",
+  "Example sentence: The men in the boats had started yelling happily at first sight of the officer, two of them calling him Billy.",
+  "Example sentence: At a siding, another train which was a familiar sight these days.",
+  "Example sentence: It lost sight of the individual almost entirely and confined itself to rules limiting the exercise of state power for reasons essentially unconnected with justice or morality save as these values might affect international relations.",
+  "Example sentence: The apparatus used by gymnasts was once a common sight in American gyms, but about 1930 it was in favor of games.",
+  "Example sentence: To be on the safe side I never let Eileen get out of my sight day or night.",
+  "Example sentence: They had suffered, in sulky silence, the sight of his sharp practice in Cicero.",
+  "Example sentence: The fish hawk flew on and was lost from sight."
+ ],
+ "labels": [
+  "sight.n.01",
+  "sight.n.01",
+  "sight.n.01",
+  "sight.n.01",
+  "sight.n.02",
+  "sight.n.02",
+  "sight.n.02",
+  "sight.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

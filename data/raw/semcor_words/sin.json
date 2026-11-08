@@ -1,0 +1,35 @@
+{
+ "target_word": "sin",
+ "sentences": [
+  "Example sentence: The repeated efforts in Christian history to describe death as altogether the consequence of human sin show that these two aspects of death cannot be separated.",
+  "Example sentence: It is borne out also by the absence of any developed theory about how sin passes from one generation to the next.",
+  "Example sentence: It is probably fair to say that the idea of death is more profound in Irenaeus than the idea of sin is.",
+  "Example sentence: It becomes most evident in his description of Christ as the second Adam, who does indeed come to destroy sin, but whose work culminates in the achievement of immortality.",
+  "Example sentence: The wages of sin is death.",
+  "Example sentence: To speak of Papa dying was a sin.",
+  "Example sentence: Only confusion, failure and anarchy result when the effort is made to impose upon the civil authority the impossible task of policing private homes to preclude the possibility of sin.",
+  "Example sentence: Conscience and religion are concerned with private sin: The civil law is concerned with public crimes."
+ ],
+ "labels": [
+  "sin.n.01",
+  "sin.n.01",
+  "sin.n.01",
+  "sin.n.01",
+  "sin.n.02",
+  "sin.n.02",
+  "sin.n.02",
+  "sin.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

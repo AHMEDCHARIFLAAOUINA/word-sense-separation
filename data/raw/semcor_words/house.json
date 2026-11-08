@@ -1,0 +1,35 @@
+{
+ "target_word": "house",
+ "sentences": [
+  "Example sentence: Or: `` I walk around the house a lot ''.",
+  "Example sentence: As Curt had hoped, the house door banged open.",
+  "Example sentence: More bouncing, another stop, a new house for teachers, a new well.",
+  "Example sentence: He knew the house like a blind man, through his fingers, and he did not like to think of all the time and rags and polishes he had spent on keeping it up.",
+  "Example sentence: Following arrowed signs, I veered right toward the former kitchens, complete with chimneys, which now house one of the world's greatest collections of Chinese porcelain and a fabulous array of silver dinner services.",
+  "Example sentence: Last year Beyeler arranged to sell $1500000 worth of Klees to the state of North Rhine-Westphalia, which will house them in a museum that is yet to be built.",
+  "Example sentence: Then Goodbody will hand over a minimum of $15.5 million for developing the spacious Graves Tract to house the center.",
+  "Example sentence: In any social system in which communications have an importance comparable with that of production and other human factors, a point like f in Figure 2 would (other things being equal) be the dwelling place for the community leader, while e and h would house the next most important citizens."
+ ],
+ "labels": [
+  "house.n.01",
+  "house.n.01",
+  "house.n.01",
+  "house.n.01",
+  "house.v.01",
+  "house.v.01",
+  "house.v.01",
+  "house.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

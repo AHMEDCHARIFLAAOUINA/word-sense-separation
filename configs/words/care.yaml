@@ -1,0 +1,7 @@
+word: care
+dataset: data/raw/semcor_words/care.json
+senses:
+  - care.v.01
+  - care.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,47 @@
+{
+ "target_word": "rolled",
+ "sentences": [
+  "Example sentence: When the skies grew dark and thunder rolled across the valley, he was unafraid.",
+  "Example sentence: Briefly we rolled over a paved road up to Pak Song, on the cool Bolovens Plateau.",
+  "Example sentence: Houses winked as the cars rolled beside a little depot.",
+  "Example sentence: Two clotted balls the color of mucus rolled between fiery lids.",
+  "Example sentence: Sometimes they went south and rolled past the tollhouse - `` Afternoon, Reverend ''!",
+  "Example sentence: The British ships rolled at anchor, sent out picket boats and waited for orders from London.",
+  "Example sentence: Mike rolled to Susan, grasped her around the knees, dragging her off her feet.",
+  "Example sentence: He rolled toward her and took her in his arms.",
+  "Example sentence: Then he got on his knees and rolled Roberts ' body toward the edge.",
+  "Example sentence: The facsiport rolled open on the landscape.",
+  "Example sentence: Dice rolled, prostitutes plied their trade, thieves stole, murderers stabbed, and the ungodly blasphemed.",
+  "Example sentence: Below the moon splashed world rolled away to insurmountable white peaks; above him the deep blue sky glittered with stars."
+ ],
+ "labels": [
+  "wheel.v.03",
+  "wheel.v.03",
+  "wheel.v.03",
+  "wheel.v.03",
+  "wheel.v.03",
+  "wheel.v.03",
+  "roll.v.01",
+  "roll.v.01",
+  "roll.v.01",
+  "roll.v.01",
+  "roll.v.01",
+  "roll.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

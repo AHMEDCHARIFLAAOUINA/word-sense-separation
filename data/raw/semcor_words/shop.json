@@ -1,0 +1,41 @@
+{
+ "target_word": "shop",
+ "sentences": [
+  "Example sentence: The monk Savonarola, brought over from the Renaissance and placed against the background of Munich at the turn of the century, protests against the luxurious works displayed in the art shop of M. Bluthenzweig; in particular against a Madonna portrayed in a voluptuous style and modeled, according to gossip, upon the painter's mistress.",
+  "Example sentence: Gradually he withdrew from the shop altogether, and for the past thirty years, he has worked independently as a painter, except for his continued hunting and fishing expeditions.",
+  "Example sentence: Hieronymus, like Piepsam, makes his protest quite in vain, and his rejection, though not fatal, is ridiculous and humiliating; he is simply thrown out of the shop by the porter.",
+  "Example sentence: At 12, Hans was sufficiently mature to help his father in the apothecary shop, which helped stimulate his interest in medicine and science.",
+  "Example sentence: That was Bartoli's shop.",
+  "Example sentence: Most women, in this age of freezers, shop for the entire week on week-ends, when prices are lower.",
+  "Example sentence: Advertisers have discovered the tendency of Negroes to shop for brand names they have heard on stations catering to their special interests.",
+  "Example sentence: As America on wheels was responsible for an industry of motor courts, motels, and drive-in establishments where you can dine, see a movie, shop, or make a bank deposit, the ever-increasing number of boating enthusiasts have sparked industries designed especially to accommodate them.",
+  "Example sentence: Though Americans usually lived in groups segregated by national origin or religious belief, they liked to work and shop in the noise and vitality of downtown.",
+  "Example sentence: And tomorrow she would take time to shop for the kimono her mother wanted to present to the young wife of a faculty member as a hostess gown."
+ ],
+ "labels": [
+  "shop.n.01",
+  "shop.n.01",
+  "shop.n.01",
+  "shop.n.01",
+  "shop.n.01",
+  "shop.v.01",
+  "shop.v.01",
+  "shop.v.01",
+  "shop.v.01",
+  "shop.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,35 @@
+{
+ "target_word": "owners",
+ "sentences": [
+  "Example sentence: A formula to supply players for the new Minneapolis Vikings and the problem of increasing the 1961 schedule to fourteen games will be discussed by National Football League owners at a meeting at the Hotel Warwick today.",
+  "Example sentence: In the fall of 1878, the `` Popular Telegraph Line '' was established between Manchester and Factory Point by the owners, Paul W. Orvis, Henry Gray, J. N. Hard, and Clark J. Wait.",
+  "Example sentence: Besides being most convenient, the line `` soon proved a good investment for the owners ''.",
+  "Example sentence: The owners would like each club in the fourteen team league to play a home and home series with teams in its division, plus two games against teams in the other division.",
+  "Example sentence: There remained a family named Kahler, owners of a two story Tudor style house on the south side of the Andrus home.",
+  "Example sentence: He had assumed that all these buildings had been divided into apartments, but this one, from a glance at the hall furnishings, was obviously still a functioning town house, and its owners were in residence; that made it doubtful as the hiding place of a man whose plans had to be made in advance.",
+  "Example sentence: Sometimes these servants wrote or dictated for enclosure with the letters of their soldier masters messages to their relatives and to members of their owners ' families.",
+  "Example sentence: The slaves never shared in their profits, while they did share, in a very real sense, in the profits of the slave owners: they were fed, clothed, doctored, and so forth; they were the beneficiaries of responsible, paternalistic care."
+ ],
+ "labels": [
+  "owner.n.01",
+  "owner.n.01",
+  "owner.n.01",
+  "owner.n.01",
+  "owner.n.02",
+  "owner.n.02",
+  "owner.n.02",
+  "owner.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

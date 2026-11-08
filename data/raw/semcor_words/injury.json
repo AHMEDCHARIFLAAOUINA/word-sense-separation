@@ -1,0 +1,41 @@
+{
+ "target_word": "injury",
+ "sentences": [
+  "Example sentence: Within a week after the injury, suffered in St. Louis's victory in the final game of the Kentucky tournament, Nordmann was sitting on the Bill's bench doing what he could to help Benington.",
+  "Example sentence: (3) How can we be sure that his sense of touch was not profoundly disturbed by his head injury?",
+  "Example sentence: In addition, a special award was given to Bob (Bevo) Nordmann, the 6 - foot - 10 center who missed much of the season because of a knee injury.",
+  "Example sentence: Because of his brain injury and the extreme damage suffered to his sight, the patient had to train himself for a new line of work, that of a portfolio maker, an occupation requiring a great deal of precision in the making of measurements and a fairly well developed sense of form and contour.",
+  "Example sentence: In any event, the extraordinary result of this injury was that he became `` psychically blind '', while at the same time, apparently, the sense of touch remained essentially intact.",
+  "Example sentence: The addition of endurance training later, when the body is mature enough to benefit from it without danger of injury, provides that final quality that makes the top athlete, soldier or citizen.",
+  "Example sentence: End Gene Raesz, who broke a hand in the Owl's game with LSU, was back working out with Rice Monday, and John Nichols, sophomore guard, moved back into action after a week's idleness with an ankle injury.",
+  "Example sentence: An injury forced Skorich to quit after the 1948 season.",
+  "Example sentence: Ramsey has a thing or two to mutter about himself, for the Dallas defensive unit turned in another splendid effort against Denver, and the Texans were able to whip the dangerous Broncs without the fullbacking of a top star, Jack Spikes, though he did the team's place-kicking while nursing a knee injury.",
+  "Example sentence: - Held out of Texas Tech's sweat suits drill Monday at Lubbock was tackle Richard Stafford, who is undergoing treatment for a leg injury suffered in the Raiders ' 38 - 7 loss to Texas A+M."
+ ],
+ "labels": [
+  "injury.n.01",
+  "injury.n.01",
+  "injury.n.01",
+  "injury.n.01",
+  "injury.n.01",
+  "injury.n.02",
+  "injury.n.02",
+  "injury.n.02",
+  "injury.n.02",
+  "injury.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

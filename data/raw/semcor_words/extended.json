@@ -1,0 +1,41 @@
+{
+ "target_word": "extended",
+ "sentences": [
+  "Example sentence: This was extended the following year to include the railroad station agent's office and Thayer's Hotel at Factory Point.",
+  "Example sentence: Thus, the avant-garde choreographers have extended the scope of materials available for dance composition.",
+  "Example sentence: In November 1887 a line connecting several dwelling houses in Dorset was extended to Manchester Depot.",
+  "Example sentence: As time has passed and science has progressed, the speed of military vehicles has increased, the range of missiles has been extended, the use of target-hunting noses on the projectiles has been adopted, and the range and breadth of message sending has increased.",
+  "Example sentence: This method can be extended to include the concentration differences caused by shear fields.",
+  "Example sentence: He maintained amply financed lobbies in the United States and elsewhere which sycophantically chanted his praise, and his influence extended even to Congress.",
+  "Example sentence: For although I had crossed a corner of the hall on my way to the toilet I still could not tell for sure how far to the rear the darkness extended.",
+  "Example sentence: He parked facing it and left the headlights on, but when he started into the tunnel with the suitcase, he found the illumination extended no farther than half a dozen feet into the passage.",
+  "Example sentence: Holden noticed almost absently how she chewed, how the whole side of her cheek moved, a slab of fat that extended down into her neck.",
+  "Example sentence: The road's engineers look for further improvement when the turnpike is extended into Boston."
+ ],
+ "labels": [
+  "widen.v.04",
+  "widen.v.04",
+  "widen.v.04",
+  "widen.v.04",
+  "widen.v.04",
+  "run.v.03",
+  "run.v.03",
+  "run.v.03",
+  "run.v.03",
+  "run.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "application",
+ "sentences": [
+  "Example sentence: In this article we will concentrate on the advances in the application of electronics in bio-medical research laboratories because this is where tomorrow's commonplace equipment originates.",
+  "Example sentence: The author has recently studied the field of medical electronics and has been convinced that, in this area alone, the application of electronic equipment has enormous possibilities.",
+  "Example sentence: It was assumed that the shift in autonomic hypothalamic balance occurring spontaneously in neuropsychiatric patients from the application of certain therapeutic procedures follows the pattern known from the sleep wakefulness cycle.",
+  "Example sentence: No matter how they are formulated, a large number of organic actives are simply not suitable for this application, since they do not give adequate soil removal.",
+  "Example sentence: In the last few years, the application of chromatographic and other modern techniques to the problem of isolating TSH has led to further purification (Bates and Condliffe, 1960; Pierce, Carsten and Wynston, 1960).",
+  "Example sentence: Refunds of less than $1 will not be made unless you attach a separate application to your return requesting such a refund.",
+  "Example sentence: Your application must include the following information:",
+  "Example sentence: Madden explained that he was thinking of an application sent directly to Mrs. Meeker.",
+  "Example sentence: Any person who makes application for any such payment shall be held to have consented to all the provisions of this Title.",
+  "Example sentence: You may apply for such an extension by filing Form 2688, Application For Extension Of Time To File, with the District Director of Internal Revenue for your district, or you may make your application in a letter."
+ ],
+ "labels": [
+  "application.n.01",
+  "application.n.01",
+  "application.n.01",
+  "application.n.01",
+  "application.n.01",
+  "application.n.02",
+  "application.n.02",
+  "application.n.02",
+  "application.n.02",
+  "application.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: examined
+dataset: data/raw/semcor_words/examined.json
+senses:
+  - examine.v.02
+  - analyze.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

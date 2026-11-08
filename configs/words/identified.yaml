@@ -1,0 +1,7 @@
+word: identified
+dataset: data/raw/semcor_words/identified.json
+senses:
+  - identify.v.01
+  - name.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "blanket",
+ "sentences": [
+  "Example sentence: Even from where he stood he could see the neatly folded blanket that he had spread over Burton, the pillow, the sheet of paper on top of it.",
+  "Example sentence: From under the shapeless huddle of blanket the feet moved in the mud.",
+  "Example sentence: Finding it true that he was not inside, the deputies returned to the first house and tore holes through the side and the roof until they could see a body on the bed covered by a blanket.",
+  "Example sentence: Several slugs fired into the bed jerked aside the blanket to reveal an apparently lifeless hand.",
+  "Example sentence: Of course, if there is a dust blanket around the Earth, the fluxes in interplanetary space should be less than the figures given here.",
+  "Example sentence: The water in Thor's big swimming pool had been covered with a blanket of thick, foamy soapsuds - fashioned, of course, from ZING - Joyce had dived from the board into the pool, then swirled and cavorted in her luxurious `` bath '' while cameras rolled.",
+  "Example sentence: Zodiacal light and the gegenschein give some evidence for such a dust blanket, a phenomenon also to be expected if the dust before capture is in circular orbits about the sun, as indicated by the trend of the smaller visible meteors.",
+  "Example sentence: This effect can give rise to a blanket of micrometeorites around the Earth."
+ ],
+ "labels": [
+  "blanket.n.01",
+  "blanket.n.01",
+  "blanket.n.01",
+  "blanket.n.01",
+  "blanket.n.02",
+  "blanket.n.02",
+  "blanket.n.02",
+  "blanket.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

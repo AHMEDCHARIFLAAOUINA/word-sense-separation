@@ -1,0 +1,7 @@
+word: extended
+dataset: data/raw/semcor_words/extended.json
+senses:
+  - widen.v.04
+  - run.v.03
+n_per_sense: 5
+prefix: "Example sentence: "

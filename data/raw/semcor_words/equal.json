@@ -1,0 +1,47 @@
+{
+ "target_word": "equal",
+ "sentences": [
+  "Example sentence: From this and the force of deformation it should be possible to calculate the elastic energy of deformation which should be equal to the * * f calculated from the pressure normal to the shearing face.",
+  "Example sentence: There was the smell of the coast, like a primeval memory, composed of equal parts salt water, clams, seaweed and northern air.",
+  "Example sentence: This is true because of savings in utility lines and the fact that your buildings have a useful radius equal in all directions.",
+  "Example sentence: While the particular limits of these groupings may seem artificially arbitrary; they do fairly express a corresponding grouping of more variable material, and they eventuate also in five classes, along a similar scale, containing approximately equal numbers of cases, namely 19, 14, 15, 11, 12 in Athabascan.",
+  "Example sentence: The general tone of articles appearing in such important newspapers as the Manchester Guardian and the Sunday Observer implies a kindly recognition that the Catholic Church is now at least of equal stature in England with the Protestant churches.",
+  "Example sentence: All of the jobs in the mission might be equal in the eyes of the Lord, but they were certainly not equal in the eyes of the Lord's servants.",
+  "Example sentence: When this situation exists, the address * * f will equal * * f which was produced from * * f.",
+  "Example sentence: The apparent black-body disk temperature is the temperature which must be assumed for the black body in order that the intensity of its radiation should equal that of the observed radiation.",
+  "Example sentence: Prior to 1960, in order to provide matching for the minimum (base) allotment, State funds had to equal 1954 State funds.",
+  "Example sentence: Furthermore, the middle number of the Lo Shu is not only the physical mean between every opposing pair of the other numbers, by reason of its central position; it is also their mathematical mean, since it is equal to half the sum of every opposing pair, all of which equal 10.",
+  "Example sentence: For example, the level of improvement noted in a recent experiment with a short course of immediate treatment for parent-child relationship problems compared favorably with the results reported by typical child guidance clinics where the hours spent in purely diagnostic study may equal or exceed the number of hours devoted to actual treatment interviews in the experimental project.",
+  "Example sentence: With the March pickup, dealers are optimistic that the April-June quarter will equal or top last year."
+ ],
+ "labels": [
+  "equal.a.01",
+  "equal.a.01",
+  "equal.a.01",
+  "equal.a.01",
+  "equal.a.01",
+  "equal.a.01",
+  "equal.v.01",
+  "equal.v.01",
+  "equal.v.01",
+  "equal.v.01",
+  "equal.v.01",
+  "equal.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

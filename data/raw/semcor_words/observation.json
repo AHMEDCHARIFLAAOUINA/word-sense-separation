@@ -1,0 +1,35 @@
+{
+ "target_word": "observation",
+ "sentences": [
+  "Example sentence: Squatting on our haunches beside the flat stone we broke them on, we were safe behind the high closed gates at the end of the drive: safe from interruption and the observation and possible amusement of the passers-by.",
+  "Example sentence: The 10.3 - cm observation of Sloanaker was made on May 20, 1958, using the 84 - foot reflector at the Maryland Point Observatory of the U.S. Naval Research Laboratory.",
+  "Example sentence: An important observation of Pavlov served as a guide post to achieve such a reversibility by physiological means.",
+  "Example sentence: His own testimony is that he has read very little in the history of the South, implying that what he knows of that history has come to him orally and that he knows the world around him primarily from his own unassisted observation.",
+  "Example sentence: A high-speed shutter has been developed in order to permit photographic observation of any portion of the electrical wire explosion.",
+  "Example sentence: Henrietta was discovering in the process of writing, as the born writer does, not merely a channel for the discharge of accumulated information but a stimulus to the development of the creative powers of observation, insight and intuition.",
+  "Example sentence: One of the advantages of this method is that the `` pill '' can remain in the patient for several days, permitting observation under natural conditions.",
+  "Example sentence: The best way to determine the correct figure (in captives) is by direct observation of pairs isolated from birth, a method that produced surprising results: maturing of a male Indian python in less than two years, his mate in less than three; data on the boa constrictor about match this."
+ ],
+ "labels": [
+  "observation.n.02",
+  "observation.n.02",
+  "observation.n.02",
+  "observation.n.02",
+  "observation.n.01",
+  "observation.n.01",
+  "observation.n.01",
+  "observation.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

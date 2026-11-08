@@ -1,0 +1,41 @@
+{
+ "target_word": "head",
+ "sentences": [
+  "Example sentence: There had also been a man who must have had St. Vitus or something, because he kept jerking his head.",
+  "Example sentence: She held herself that way and turned her head towards them and laughed and winked.",
+  "Example sentence: Thayer shook his head.",
+  "Example sentence: He shook his head.",
+  "Example sentence: And still another witness, one who had crawled out from under a heap of corpses, had to tell how the victims had been forced to lay themselves head to foot one on top of the other before being shot.",
+  "Example sentence: At the first restaurant he sensibly pulled up to go in for his dinner, and as a consequence did not see Cobb strike the open range at the mouth of the canyon and head straight across the swells for Antler.",
+  "Example sentence: `` Buster would solve that quarterback problem just as we head that way ''.",
+  "Example sentence: No matter how many Americans go abroad in summer, probably a hundred times as many gas up the family car, throw suitcases, kids and comic books in the back seat, and head for home.",
+  "Example sentence: Even as the conviction of truth roared through him, shattering his last hope of safety, he was reaching to release the hand brake, to head up the road for home, doing her bidding.",
+  "Example sentence: The Georgia Legislature will wind up its 1961 session Monday and head for home - where some of the highway bond money it approved will follow shortly."
+ ],
+ "labels": [
+  "head.n.01",
+  "head.n.01",
+  "head.n.01",
+  "head.n.01",
+  "head.n.01",
+  "head.v.01",
+  "head.v.01",
+  "head.v.01",
+  "head.v.01",
+  "head.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

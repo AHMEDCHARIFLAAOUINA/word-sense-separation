@@ -1,0 +1,7 @@
+word: related
+dataset: data/raw/semcor_words/related.json
+senses:
+  - related.a.01
+  - related.a.02
+n_per_sense: 4
+prefix: "Example sentence: "

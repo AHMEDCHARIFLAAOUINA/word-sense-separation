@@ -1,0 +1,53 @@
+{
+ "target_word": "straight",
+ "sentences": [
+  "Example sentence: They were headed straight for each other on a collision course.",
+  "Example sentence: At the first restaurant he sensibly pulled up to go in for his dinner, and as a consequence did not see Cobb strike the open range at the mouth of the canyon and head straight across the swells for Antler.",
+  "Example sentence: Setting a course straight for the house, he was covering ground fast when an angry bee buzzed past close to his face.",
+  "Example sentence: We are tempted to blame others for our problems rather than look them straight in the face and realize they are of our own making and possible of solution only by ourselves with the help of desperately needed, enlightened, competent leaders.",
+  "Example sentence: As a finale is appended a close-up of one of the band taking aim and firing his revolver straight at the audience.",
+  "Example sentence: But Mr. Hendl does not go straight to any point.",
+  "Example sentence: The pitcher wound up and the ball came in straight for Mike's head.",
+  "Example sentence: After having mated, an Andrena female digs a hole straight down into the ground, forming a burrow about the size of a lead pencil.",
+  "Example sentence: The gray face stared straight ahead in the drizzle.",
+  "Example sentence: Planes made her feel faint, and in Tokyo, where she had gone that summer, she had been given raw fish for breakfast and so she had come straight home.",
+  "Example sentence: That is, when Mr. Milstein thrust straight to the core of the music, sparks flying, bow shredding, violin singing, glittering and sometimes spitting, Mr. Hendl could go along.",
+  "Example sentence: Unruly hair goes straight up from his forehead, standing so high that the top falls gently over, as if to show that it really is hair and not bristle.",
+  "Example sentence: He came home overheated, ran straight to the ice-chest, and gulped shivery cold water.",
+  "Example sentence: He went straight to the Presidential box."
+ ],
+ "labels": [
+  "directly.r.01",
+  "directly.r.01",
+  "directly.r.01",
+  "directly.r.01",
+  "directly.r.01",
+  "directly.r.01",
+  "directly.r.01",
+  "directly.r.04",
+  "directly.r.04",
+  "directly.r.04",
+  "directly.r.04",
+  "directly.r.04",
+  "directly.r.04",
+  "directly.r.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

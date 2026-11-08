@@ -1,0 +1,47 @@
+{
+ "target_word": "enforced",
+ "sentences": [
+  "Example sentence: There are sins of omission as well as commission; the attitude adopted by realtors and their associations, either negative or positive, plays a large part in the public acceptance of such measures and the degree to which they may be effectively enforced.",
+  "Example sentence: The rule was enforced by demand of Sen. Wayne Morse [D., Ore.] in connection with President Eisenhower's cabinet selections in 1953 and President Kennedy's in 1961.",
+  "Example sentence: This seems somewhat shortsighted since if the absolute educational qualifications for membership which the organizations profess are ever enforced, the educator will have the molding of the entire profession in his hands.",
+  "Example sentence: The escheat law cannot be enforced now because it is almost impossible to locate such property, Daniel declared.",
+  "Example sentence: The efforts of various interest groups to control or influence governmental decisions, particularly when taken in conjunction with the impact of industrialization, led to a concentration of attention on the legislative power and the means whereby policy could be formulated and enforced as law through bureaucratic institutions.",
+  "Example sentence: Mr. Schaefer also recommended that the snow emergency route plan, under which parking is banned on key streets and cars are required to use snow tires or chains on them, should be `` strictly enforced ''.",
+  "Example sentence: With troops dispersed on fields of battle rather than on the parade ground, it may seem that a certain amount of monitoring is automatically enforced by the lines of communication.",
+  "Example sentence: That tumultuous, painful and costly experience shows clearly that a law expressing a moral judgment cannot be enforced when it has little correspondence with the general view of society.",
+  "Example sentence: However, because of Church laws, lately more stringently enforced, which forbid the marriage of cousins closely related consanguineously, a means of facilitating the goal of in-group relations may be that of recourse to illegitimate unions.",
+  "Example sentence: Efficiency was enforced and nothing was left to chance.",
+  "Example sentence: Our litterbug ordinances are not enforced and I have yet to read of a conviction in a littering case.",
+  "Example sentence: Uniform questions, definitions, and procedures were enforced throughout the whole country."
+ ],
+ "labels": [
+  "enforce.v.01",
+  "enforce.v.01",
+  "enforce.v.01",
+  "enforce.v.01",
+  "enforce.v.01",
+  "enforce.v.01",
+  "enforce.v.02",
+  "enforce.v.02",
+  "enforce.v.02",
+  "enforce.v.02",
+  "enforce.v.02",
+  "enforce.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

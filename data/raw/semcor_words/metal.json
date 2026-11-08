@@ -1,0 +1,41 @@
+{
+ "target_word": "metal",
+ "sentences": [
+  "Example sentence: Spring used a Brush surface analyzer in a metal cleaning study and showed considerable differences in soil removal, depending upon surface roughness.",
+  "Example sentence: Even here there is room for some variation, for metal surfaces vary in smoothness, absorptive capacity, and chemical reactivity.",
+  "Example sentence: The crude wooden boxes of the enemy, our nicely turned gray metal disks.",
+  "Example sentence: The magnitude of effort and costs of each of these possible phases of an effective safety program for metal and nonmetallic mines (excluding coal and lignite mines); and the scope and adequacy of State mine safety laws applicable to such mines and the enforcement of such laws.",
+  "Example sentence: In contrast, a metal coupon * * f in size would have a magnitude from 100000 to a million less.",
+  "Example sentence: The rows of animals and birds, in particular, suggest awareness of Oriental animal friezes, transmitted perhaps via Syrian silver bowls and textiles, but the specific forms of these rows on local vases and metal products are nonetheless Greek.",
+  "Example sentence: Greg rumbled down the rough metal taxi strip, and one by one the seven members of his flight fell in behind him.",
+  "Example sentence: Pre shaped corrugated metal sections or pre-cast concrete can be used for shelters either above or below ground.",
+  "Example sentence: Warren handed him the metal box and Prevot quietly disappeared down the line.",
+  "Example sentence: The metal strip they had taken off from was coal black against the green jungle around it."
+ ],
+ "labels": [
+  "metallic_element.n.01",
+  "metallic_element.n.01",
+  "metallic_element.n.01",
+  "metallic_element.n.01",
+  "metallic_element.n.01",
+  "metallic.a.01",
+  "metallic.a.01",
+  "metallic.a.01",
+  "metallic.a.01",
+  "metallic.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "president",
+ "sentences": [
+  "Example sentence: After each presentation, the antagonist wrote his judgment of the salesmen; and so did the observers consisting of the president, three of his salesmen and a psychologist.",
+  "Example sentence: At the insistence of his own supervisor - the president of the firm, he enrolled in a course designed to develop leaders.",
+  "Example sentence: Roleplaying was offered as a solution - and the procedure worked as follows: all candidates were invited to a hotel conference room, where the president explained the difficulty he had, and how unnecessary it seemed to him to hire people who just did not work out.",
+  "Example sentence: In one company covering the country with a high quality sales force of 10 men, the president personally phones each major account every 6 mos..",
+  "Example sentence: By 1883 the `` Battenkill Telegraph Company '' was in existence and Alvin Pettibone was its president.",
+  "Example sentence: A fellow came up to me, a Senator, I don't have to tell you his name, and he told me, ' I love the President like a brother, but God damn it, he's crucifying me.",
+  "Example sentence: For a time the President received hundreds of them every day, most of them worthless.",
+  "Example sentence: This seems like an attitude favoring a sort of totalitarian bureaucracy which, under a President of the same stamp, would try to coerce an uncooperative Congress or Supreme Court.",
+  "Example sentence: Mickie had a pleasant glow as he said, `` You see, both of them, I mean the President and Jeff Lawrence, are romantics.",
+  "Example sentence: The Vice President said with a slight bluster, `` There isn't anyone who loves the President more than I do."
+ ],
+ "labels": [
+  "president.n.01",
+  "president.n.01",
+  "president.n.01",
+  "president.n.01",
+  "president.n.01",
+  "president.n.03",
+  "president.n.03",
+  "president.n.03",
+  "president.n.03",
+  "president.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

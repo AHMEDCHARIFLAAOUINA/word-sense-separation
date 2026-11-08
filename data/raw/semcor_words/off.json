@@ -1,0 +1,41 @@
+{
+ "target_word": "off",
+ "sentences": [
+  "Example sentence: Those souls like to wander off, and must be called back.",
+  "Example sentence: Hardly had Mrs. Roebuck driven off when a rusty pick-up truck, father or grandfather of Senor `` Moriarty's '' Ford sedan, came screeching to a dust swirling stop, and a brown face appeared, its nose threatened by shards of what had once been the side window.",
+  "Example sentence: Then we were off again.",
+  "Example sentence: Couldn't I just '' - His voice trailed off into silence.",
+  "Example sentence: She charged off to the bedrooms.",
+  "Example sentence: She stood up, pulled the coat from her shoulders and started to slide it off, then let out a high-pitched scream and I let out a low-pitched, wobbling sound like a muffler blowing out.",
+  "Example sentence: This chlorine carbon tetrachloride solution was illuminated for a day following which the flask was resealed onto a vacuum system and the excess chlorine distilled off.",
+  "Example sentence: I was loaded with suds when I ran away, and I haven't had a chance to wash it off.",
+  "Example sentence: They'll roll off in another day.",
+  "Example sentence: Successive 1 - ml fractions were then drawn off with a hypodermic syringe, starting at the top of the tube, and tested for agglutinin activity."
+ ],
+ "labels": [
+  "away.r.01",
+  "away.r.01",
+  "away.r.01",
+  "away.r.01",
+  "away.r.01",
+  "off.r.03",
+  "off.r.03",
+  "off.r.03",
+  "off.r.03",
+  "off.r.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

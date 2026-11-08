@@ -1,0 +1,47 @@
+{
+ "target_word": "impact",
+ "sentences": [
+  "Example sentence: These vehicles, with large sensitive areas, have collected data for long enough times to give reliable impact rates for the periods of exposure.",
+  "Example sentence: On May 15, a very large increase occurred with * * f of mass between * * f and * * f; for the next two days, the impact rate was * * f; and for the next nine days, the impact rate was less than * * f (Nazarova, 1960).",
+  "Example sentence: Preliminary data from 1959 Eta give an average impact rate of * * f for masses larger than * * f for about 1000 events in a 22 - day period (LaGow and Alexander, 1960).",
+  "Example sentence: Direct information has been obtained from rockets and satellites equipped with impact sensors.",
+  "Example sentence: The impact rate on 1958 Alpha for 153 events was * * f for particles of mass greater than * * f (Dubin, 1960); this mass threshold was derived from the detector calibration and an assumed impact velocity of * * f.",
+  "Example sentence: The threshold mass is derived from the momentum threshold with the assumption of a mean impact velocity of * * f in the U.S. work and * * f in the U.S.S.R. work.",
+  "Example sentence: The efforts of various interest groups to control or influence governmental decisions, particularly when taken in conjunction with the impact of industrialization, led to a concentration of attention on the legislative power and the means whereby policy could be formulated and enforced as law through bureaucratic institutions.",
+  "Example sentence: And in its engineers ' frantic attempts to achieve maximum dynamic impact and earsplitting brilliance, the recording sounds as though it had been `` doctored for super high fidelity ''.",
+  "Example sentence: And it is certainly no slight to either of them to compare both their achievements and their impact.",
+  "Example sentence: Now, under the impact of his wife's disclosures, he was brought suddenly to the realization that there was a limit to tolerance, however brilliant, however far-famed the offender might be.",
+  "Example sentence: The greatest impact of the matching fund principle has been in initially encouraging the poorest states and school districts to spend enough to obtain their full allocation of outside funds.",
+  "Example sentence: The impact of technological factors is also illustrated by the history of the high energy fuel program."
+ ],
+ "labels": [
+  "impact.n.01",
+  "impact.n.01",
+  "impact.n.01",
+  "impact.n.01",
+  "impact.n.01",
+  "impact.n.01",
+  "impact.n.02",
+  "impact.n.02",
+  "impact.n.02",
+  "impact.n.02",
+  "impact.n.02",
+  "impact.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

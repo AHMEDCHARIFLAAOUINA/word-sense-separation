@@ -1,0 +1,7 @@
+word: management
+dataset: data/raw/semcor_words/management.json
+senses:
+  - management.n.01
+  - management.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

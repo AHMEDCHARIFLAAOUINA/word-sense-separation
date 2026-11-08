@@ -1,0 +1,47 @@
+{
+ "target_word": "answer",
+ "sentences": [
+  "Example sentence: `` What was your answer ''?",
+  "Example sentence: But the only answer that reached him was the screeching of the porch rail from her leg moving against it.",
+  "Example sentence: `` Oh, he'll be a plumber '', came the answer.",
+  "Example sentence: If the answer to what was that noise?",
+  "Example sentence: The answer is, `` Yes ''!",
+  "Example sentence: The reader, observing this process, might ask `` why not be different ''? and find in the answer a license to be a variant of the human species.",
+  "Example sentence: This baffling lack of distinct details recalls the secretary whose employer was leaving the office and told her what to answer if anyone called in his absence.",
+  "Example sentence: He selects queries or general interest to answer.",
+  "Example sentence: When we repeat the remark that such suffering was a bad thing, the feeling with which we made it last week may be at or near the vanishing point, but if we were asked whether we meant to say what we did before, we should certainly answer Yes.",
+  "Example sentence: The mediums with whom the Parapsychology Foundation is working in this experiment are in a waking or only slightly dissociated state, so that the sitter can make comments, ask and answer questions, instead of talking with a `` control '' who speaks through an entranced sensitive.",
+  "Example sentence: Maris, in talking to reporters, tries to answer all questions candidly and fully, but on rare occasions, he shuns newsmen.",
+  "Example sentence: Laura did not answer him."
+ ],
+ "labels": [
+  "answer.n.01",
+  "answer.n.01",
+  "answer.n.01",
+  "answer.n.01",
+  "answer.n.01",
+  "answer.n.01",
+  "answer.v.01",
+  "answer.v.01",
+  "answer.v.01",
+  "answer.v.01",
+  "answer.v.01",
+  "answer.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

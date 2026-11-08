@@ -1,0 +1,47 @@
+{
+ "target_word": "bill",
+ "sentences": [
+  "Example sentence: Rep. Wesley Roberts of Seminole, sponsor of the poll idea, said that further delay in the committee can kill the bill.",
+  "Example sentence: `` This is a poor boy's bill '', said Chapman.",
+  "Example sentence: The bill would increase from $5000000 to $15000000 the maximum loan the state could make to a local water project.",
+  "Example sentence: When the shouting ended, the bill passed, 114 to 4, sending it to the Senate, where a similar proposal is being sponsored by Sen. George Parkhouse of Dallas.",
+  "Example sentence: The bill, which Daniel said he drafted personally, would force banks, insurance firms, pipeline companies and other corporations to report such property to the state treasurer.",
+  "Example sentence: Without dissent, senators passed a bill by Sen. A. R. Schwartz of Galveston authorizing establishment in the future of a school for the mentally retarded in the Gulf Coast district.",
+  "Example sentence: This bill should be paid within 30 days.",
+  "Example sentence: If you file Form 1040 A and the District Director computes your tax, you will be sent a bill if additional tax is due.",
+  "Example sentence: `` Sometimes we'd have trouble persuading her to make tax-exempt charitable contributions, and I've known her to quarrel with a plumber over a bill for fixing a faucet; the next moment she'd put another half million into the scholarship fund or thirty thousand into something as impractical as this unfortunate Johnston affair.",
+  "Example sentence: Because they prepare their own meals they also keep in their pockets a good portion of that $10.50 food bill along with most of the tip money.",
+  "Example sentence: Otherwise, you may be saddled with a good size milk bill by milk drinkers.",
+  "Example sentence: The doctor paid the bill and they repaired to the hotel, room number nine, to initiate Alex further into these undertakings."
+ ],
+ "labels": [
+  "bill.n.01",
+  "bill.n.01",
+  "bill.n.01",
+  "bill.n.01",
+  "bill.n.01",
+  "bill.n.01",
+  "bill.n.02",
+  "bill.n.02",
+  "bill.n.02",
+  "bill.n.02",
+  "bill.n.02",
+  "bill.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

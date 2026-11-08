@@ -1,0 +1,7 @@
+word: disaster
+dataset: data/raw/semcor_words/disaster.json
+senses:
+  - catastrophe.n.02
+  - calamity.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

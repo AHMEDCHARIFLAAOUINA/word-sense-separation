@@ -1,0 +1,7 @@
+word: devote
+dataset: data/raw/semcor_words/devote.json
+senses:
+  - give.v.18
+  - give.v.10
+n_per_sense: 4
+prefix: "Example sentence: "

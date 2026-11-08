@@ -1,0 +1,7 @@
+word: scholarship
+dataset: data/raw/semcor_words/scholarship.json
+senses:
+  - scholarship.n.01
+  - eruditeness.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

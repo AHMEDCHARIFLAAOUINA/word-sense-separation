@@ -1,0 +1,7 @@
+word: military
+dataset: data/raw/semcor_words/military.json
+senses:
+  - military.a.01
+  - military.a.02
+n_per_sense: 11
+prefix: "Example sentence: "

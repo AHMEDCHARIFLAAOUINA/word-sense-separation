@@ -1,0 +1,35 @@
+{
+ "target_word": "related",
+ "sentences": [
+  "Example sentence: Several related tasks must be carried out if self-sustaining growth is to be achieved.",
+  "Example sentence: A related question is whether unemployed workers can be motivated to take the training provided.",
+  "Example sentence: The increase in oxygen uptake rates from 1.2 to 2.6 mg / l / hr which followed an increase in rotor speed was believed to be related to resuspension of solids which had settled at the lower rotor speeds.",
+  "Example sentence: Closely related to this function is the fact that the religious system provides a body of ultimate ends for the society, which are compatible with the supreme eternal ends.",
+  "Example sentence: It is believed that Hudson was related to other seafaring men of the Muscovy Company and was trained on company ships.",
+  "Example sentence: There are several closely related inner functions.",
+  "Example sentence: Although the * * f calculation is obvious by analogy with that for gravitational field and osmotic pressure, it is interesting to confirm it by a method which can be generalized to include related effects.",
+  "Example sentence: Closely related to the andrenas are the nomias or alkali bees."
+ ],
+ "labels": [
+  "related.a.01",
+  "related.a.01",
+  "related.a.01",
+  "related.a.01",
+  "related.a.02",
+  "related.a.02",
+  "related.a.02",
+  "related.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

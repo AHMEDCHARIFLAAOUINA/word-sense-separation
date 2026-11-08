@@ -1,0 +1,47 @@
+{
+ "target_word": "tossed",
+ "sentences": [
+  "Example sentence: He lifted the skirt of Macklin's coat, took his gun from its holster, tossed it onto the desk.",
+  "Example sentence: A man could be tossed outside the dimension of time by a stray bullet these days.",
+  "Example sentence: As reports dribbled in, William Weigand tossed them into the centrifuge which had become his head.",
+  "Example sentence: He tossed the bag into the pit and watched dry dust spray up around it.",
+  "Example sentence: Weigand tossed this news into the centrifuge.",
+  "Example sentence: He shouldered the blanket again, backed off, and tossed the lantern with its open wick beneath the wagon.",
+  "Example sentence: If three dice are tossed, a trial is one toss of one die and the experiment is composed of three trials.",
+  "Example sentence: Or, what amounts to the same thing, if one die is tossed three times, each toss is a trial, and the three tosses form the experiment.",
+  "Example sentence: Mathematically, we shall not distinguish the experiment of three dice tossed once from that of one die tossed three times.",
+  "Example sentence: I tossed the bottle.",
+  "Example sentence: When three dice are tossed repeatedly, what is the probability that the number of aces is 0 (or 1, or 2, or 3)?",
+  "Example sentence: A family of five plans to go together either to the beach or to the mountains, and a coin is tossed to decide."
+ ],
+ "labels": [
+  "flip.v.06",
+  "flip.v.06",
+  "flip.v.06",
+  "flip.v.06",
+  "flip.v.06",
+  "flip.v.06",
+  "flip.v.01",
+  "flip.v.01",
+  "flip.v.01",
+  "flip.v.01",
+  "flip.v.01",
+  "flip.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

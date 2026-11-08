@@ -1,0 +1,7 @@
+word: figure
+dataset: data/raw/semcor_words/figure.json
+senses:
+  - figure.n.01
+  - human_body.n.01
+n_per_sense: 17
+prefix: "Example sentence: "

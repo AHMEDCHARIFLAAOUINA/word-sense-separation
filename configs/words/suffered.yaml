@@ -1,0 +1,7 @@
+word: suffered
+dataset: data/raw/semcor_words/suffered.json
+senses:
+  - suffer.v.02
+  - suffer.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

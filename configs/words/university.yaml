@@ -1,0 +1,7 @@
+word: university
+dataset: data/raw/semcor_words/university.json
+senses:
+  - university.n.01
+  - university.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

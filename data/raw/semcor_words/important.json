@@ -1,0 +1,35 @@
+{
+ "target_word": "important",
+ "sentences": [
+  "Example sentence: One of the most gratifying applications of an important technique of submarine detection is in the exploration of the human body.",
+  "Example sentence: There have been, indeed, many important and valuable gains from the development of our present scientific view of the world for which we may be rightly grateful.",
+  "Example sentence: You need answers to four important questions.",
+  "Example sentence: The size and scope of other important programs have been reduced from earlier plans.",
+  "Example sentence: This is important to understanding the position that doctrinaire liberals found themselves in after World War 2, and our great democratic victory that brought no peace.",
+  "Example sentence: This is an important consideration.",
+  "Example sentence: Sometimes strong stress serves to focus an important secondary relationship.",
+  "Example sentence: The important thing was that Burton had gone somewhere to meet a blackmailer with a gun in his pocket."
+ ],
+ "labels": [
+  "important.a.01",
+  "important.a.01",
+  "important.a.01",
+  "important.a.01",
+  "significant.a.01",
+  "significant.a.01",
+  "significant.a.01",
+  "significant.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

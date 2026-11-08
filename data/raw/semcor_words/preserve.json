@@ -1,0 +1,41 @@
+{
+ "target_word": "preserve",
+ "sentences": [
+  "Example sentence: He said `` Morris County is rapidly changing and unless steps are taken to preserve the green areas, there will be no land left to preserve ''.",
+  "Example sentence: The Providence Daily Journal stated that although the guilt of Brown was evident, the South must guarantee him a fair trial to preserve domestic peace.",
+  "Example sentence: And when he did, when he gave to his ship that protection necessary to preserve her honor, he knew he would lose forever the Navy to which he had dedicated his soul.",
+  "Example sentence: Now to him who is able to preserve you without sin and to set you before the presence of his glory, without blemish, in gladness, to the only God our Savior, through Jesus Christ our Lord, belong glory and majesty, dominion and authority, before all time, and now, and forever.",
+  "Example sentence: A congregation survives only if it can sustain a socially homogeneous membership; that is, when it can preserve economic integration.",
+  "Example sentence: It is they, of course, who keep it alive and preserve it so the same spirit will continue to be present in the Corps for future recruits to find as they come into it.",
+  "Example sentence: It is the purpose of Armed Forces Day to give Americans an opportunity to honor men of the Armed Forces, those who have made the supreme sacrifice, those who remain to preserve our security.",
+  "Example sentence: If we want to preserve our sovereignty, this is the way to do it; not acquiesce to an international planning board.",
+  "Example sentence: I really loved that boy, and, in a feverish attempt to preserve our marriage and to try to revive the wonderful, wonderful person Letch had once been, I took my troubles to Momma, hoping that her earthy advice would help me.",
+  "Example sentence: Emerson evaded the problem by shoving it aside, or rather by leaving it behind him: he walked out of the Unitarian communion, so that it could lick the wound of his departure, preserve its self-respect and eventually accord him pious veneration."
+ ],
+ "labels": [
+  "continue.v.03",
+  "continue.v.03",
+  "continue.v.03",
+  "continue.v.03",
+  "continue.v.03",
+  "conserve.v.02",
+  "conserve.v.02",
+  "conserve.v.02",
+  "conserve.v.02",
+  "conserve.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: wealth
+dataset: data/raw/semcor_words/wealth.json
+senses:
+  - wealth.n.01
+  - wealth.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

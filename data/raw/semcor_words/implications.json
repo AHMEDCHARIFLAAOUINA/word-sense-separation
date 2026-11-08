@@ -1,0 +1,35 @@
+{
+ "target_word": "implications",
+ "sentences": [
+  "Example sentence: It has multiple implications and possible headaches for your marketing program.",
+  "Example sentence: The contribution of this paper is a demonstration of this proposition, and an exploration of some of its implications.",
+  "Example sentence: Part 3, discusses the empirical relevance and policy implications of the conclusions.",
+  "Example sentence: Have you considered the implications of continuing geographic shifts in terms of sales force allocation, strength of distributor organizations, and even plant location?",
+  "Example sentence: My object, rather, is to alert you to an aspect or two of the affair that could have the gravest implications for you, far beyond the legal sanctions society might inflict.",
+  "Example sentence: In order to make the implications of our position as clear as possible, we may develop this argument at greater length.",
+  "Example sentence: For another second or two he gave in to the annoyance that was directed at himself; then his mind moved on to be confronted by something far more serious, and as the thought expanded, the implications jarred him.",
+  "Example sentence: Here artistic realism involves the audience in an impassioned participation in events whose overtones and implications are transcendent."
+ ],
+ "labels": [
+  "deduction.n.03",
+  "deduction.n.03",
+  "deduction.n.03",
+  "deduction.n.03",
+  "significance.n.02",
+  "significance.n.02",
+  "significance.n.02",
+  "significance.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: relationship
+dataset: data/raw/semcor_words/relationship.json
+senses:
+  - relationship.n.01
+  - relationship.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

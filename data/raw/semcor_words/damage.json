@@ -1,0 +1,35 @@
+{
+ "target_word": "damage",
+ "sentences": [
+  "Example sentence: What hurts most is the damage the automobile has done to central-city retailing, especially in those cities where public transit is feeble.",
+  "Example sentence: But not a single human life was lost, and property damage in the Hawaiian Islands did not exceed $800000.",
+  "Example sentence: There is little doubt that the warning system saved lives and reduced the damage.",
+  "Example sentence: This resulted in damage to the occipital lobe and very probably to the left side of the cerebellum also.",
+  "Example sentence: The simple mechanical strain of overweight, says New York's Dr. Norman Jolliffe, can overburden and damage the heart `` for much the same reason that a Chevrolet engine in a Cadillac body would wear out sooner than if it were in a body for which it was built ''.",
+  "Example sentence: In rare cases, diseases such as encephalitis or a pituitary tumor may damage the appestat permanently, destroying nearly all sense of satiety.",
+  "Example sentence: In war, on a night like this, it was only the outward emotions that mattered, what could be flung out into the darkness to damage others.",
+  "Example sentence: Effectively controls cattle grubs which damage hides and can reduce gains."
+ ],
+ "labels": [
+  "damage.n.01",
+  "damage.n.01",
+  "damage.n.01",
+  "damage.n.01",
+  "damage.v.01",
+  "damage.v.01",
+  "damage.v.01",
+  "damage.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

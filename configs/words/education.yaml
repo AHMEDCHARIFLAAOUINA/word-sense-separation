@@ -1,0 +1,7 @@
+word: education
+dataset: data/raw/semcor_words/education.json
+senses:
+  - education.n.01
+  - education.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

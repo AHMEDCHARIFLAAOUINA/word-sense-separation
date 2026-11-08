@@ -1,0 +1,7 @@
+word: affair
+dataset: data/raw/semcor_words/affair.json
+senses:
+  - matter.n.01
+  - affair.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

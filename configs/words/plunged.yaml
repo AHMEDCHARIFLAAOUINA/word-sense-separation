@@ -1,0 +1,7 @@
+word: plunged
+dataset: data/raw/semcor_words/plunged.json
+senses:
+  - immerse.v.01
+  - dive.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

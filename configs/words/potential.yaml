@@ -1,0 +1,7 @@
+word: potential
+dataset: data/raw/semcor_words/potential.json
+senses:
+  - potential.n.01
+  - potential.a.01
+n_per_sense: 7
+prefix: "Example sentence: "

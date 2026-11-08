@@ -1,0 +1,7 @@
+word: maximum
+dataset: data/raw/semcor_words/maximum.json
+senses:
+  - maximal.a.01
+  - maximum.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

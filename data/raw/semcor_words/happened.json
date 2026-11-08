@@ -1,0 +1,53 @@
+{
+ "target_word": "happened",
+ "sentences": [
+  "Example sentence: As she reached Dave and felt his arm go around her, felt him pull her to the safety of his person, she knew with the certainty of despair that something bad had happened to Lauren.",
+  "Example sentence: I used his polarity to illustrate what I thought had happened to us in that form of liberalism we call Progressivism.",
+  "Example sentence: This happened in Decatur, DeKalb County, not 10 miles from the heart of metropolitian Atlanta.",
+  "Example sentence: On that view, nothing good or bad happened in the case until I came on the scene and made my remark.",
+  "Example sentence: What happened with you ''?",
+  "Example sentence: Most passengers didn't know what had happened until they got on the ground.",
+  "Example sentence: And what had happened?",
+  "Example sentence: Maybe it's a good thing it happened.",
+  "Example sentence: Let me tell you what happened to me today.",
+  "Example sentence: When something unexpected happened, one always asked for water if one were a woman, brandy if one were a man.",
+  "Example sentence: What happened to the fourteen missing men?",
+  "Example sentence: Indeed we should say, on the contrary, that the accident of our later discovery made no difference whatever to the badness of the animal's pain, that it would have been every whit as bad whether a chance passer-by happened later to discover the body and feel repugnance or not.",
+  "Example sentence: `` We're here because of what happened last night '', he said.",
+  "Example sentence: A measure of how hot the stock was, can be found in what happened to it on the market as soon as trading began."
+ ],
+ "labels": [
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.01",
+  "happen.v.02",
+  "happen.v.02",
+  "happen.v.02",
+  "happen.v.02",
+  "happen.v.02",
+  "happen.v.02",
+  "happen.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

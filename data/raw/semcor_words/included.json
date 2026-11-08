@@ -1,0 +1,47 @@
+{
+ "target_word": "included",
+ "sentences": [
+  "Example sentence: The solution reached in the agreement was more acceptable to the railroad than that originally included in a series of union demands.",
+  "Example sentence: His income is not required to be included in the return of his parent.",
+  "Example sentence: Within certain wide limits anatomy dictates function and, if one is permitted to speculate, potential pathology should be included in this statement as well.",
+  "Example sentence: The proclamation of the churches is almost totally confined to pastoral contacts by the clergy (17.3 per cent of new members) and friendly contacts by members (over two thirds if organizational activities are included).",
+  "Example sentence: But Gardner Willings was not included; he had been at the Dumont for almost a week.",
+  "Example sentence: They are included in all types of mathematical handbooks and they are stamped on some types of precision measuring instruments.",
+  "Example sentence: In all `` degree '' courses in interior design a number of `` academic '' or `` general studies '' courses are included.",
+  "Example sentence: Other capable soloists included David Clifton, Joseph Schockler and Pat Thompson.",
+  "Example sentence: Named by Mayor Wagner three years ago to head a committee that included James A. Farley, Bernard Gimbel and Clint Blume, Shea worked relentlessly.",
+  "Example sentence: But though each of its members had asserted this right against the Union, the final Constitution which the Confederacy signed on March 11 - nearly a month before hostilities began - included no explicit provision authorizing a state to secede.",
+  "Example sentence: In spring and in autumn the run was made for a group of botanists which included an old friend of mine.",
+  "Example sentence: The common belief was that there existed one moral order, which included everything."
+ ],
+ "labels": [
+  "include.v.02",
+  "include.v.02",
+  "include.v.02",
+  "include.v.02",
+  "include.v.02",
+  "include.v.02",
+  "include.v.01",
+  "include.v.01",
+  "include.v.01",
+  "include.v.01",
+  "include.v.01",
+  "include.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,35 @@
+{
+ "target_word": "seized",
+ "sentences": [
+  "Example sentence: I seized the rack and made a western style flying mount just in time, one of my knees mercifully landing on my duffel bag - and merely wrecking my camera, I was to discover later - my other knee landing on the slivery truck floor boards and - but this is no medical report.",
+  "Example sentence: As in experience one is seized by given entities and their interrelations and is forced to respond in value feelings to them, so one is similarly seized in the mimetic presentation of images.",
+  "Example sentence: All were carrying guns they had seized up, but they were half-clad or hardly clad at all.",
+  "Example sentence: She did not notice that the customer seized her purchase and turned away without a smile or a word of thanks.",
+  "Example sentence: Shipments of arms from Western countries could similarly be seized as contraband.",
+  "Example sentence: Meeting it without preparation as they did, robbed of anticipation, a common disappointment seized them.",
+  "Example sentence: Under another law, hundreds of farms were seized.",
+  "Example sentence: Moreover, Col. Faget's information on Cuba was too outdated to be useful in `` screening '' Castro agents; the Colonel fled to the friendly haven of the Dominican dictatorship as soon as Castro seized power."
+ ],
+ "labels": [
+  "seize.v.01",
+  "seize.v.01",
+  "seize.v.01",
+  "seize.v.01",
+  "appropriate.v.02",
+  "appropriate.v.02",
+  "appropriate.v.02",
+  "appropriate.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

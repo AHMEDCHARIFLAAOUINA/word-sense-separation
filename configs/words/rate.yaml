@@ -1,0 +1,7 @@
+word: rate
+dataset: data/raw/semcor_words/rate.json
+senses:
+  - rate.n.02
+  - rate.n.01
+n_per_sense: 14
+prefix: "Example sentence: "

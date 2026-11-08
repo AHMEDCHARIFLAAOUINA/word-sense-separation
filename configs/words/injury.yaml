@@ -1,0 +1,7 @@
+word: injury
+dataset: data/raw/semcor_words/injury.json
+senses:
+  - injury.n.01
+  - injury.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

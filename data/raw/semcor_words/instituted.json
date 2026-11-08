@@ -1,0 +1,35 @@
+{
+ "target_word": "instituted",
+ "sentences": [
+  "Example sentence: A unified set of regulations, applicable to all areas, was issued in 1929, and a complementary series of demographic inquiries in selected areas was instituted at the same time.",
+  "Example sentence: His political opponent and lifetime friend, Thomas Jefferson, achieved immortality through his authorship of the Declaration of Independence, but equally notable were the legal and constitutional reforms he instituted in his native Virginia, his role as father of our territorial system, and his acquisition of the Louisiana Territory during his first term as President.",
+  "Example sentence: The sampling program was instituted before the principles of probability sampling were widely recognized in population studies.",
+  "Example sentence: Independence Day is the appropriate date as a symbolical reminder of the American article of faith that governments are instituted among men to secure to them certain inalienable rights, the first of which is life, and when any government becomes subversive of that end, it is the right of the people to alter or abolish it.",
+  "Example sentence: This type of borrowing can be reduced to a minimum if quarterly installment payment of taxes is instituted and the first payment placed near the opening of the fiscal year.",
+  "Example sentence: The program was instituted in 1940, and releases are available only from the Recording Laboratory of the Library of Congress, Washington 25, D. C. A catalogue is available on request.",
+  "Example sentence: The giant electric signs and marquees were lit up for the first time since blackout regulations had been instituted, and the atmosphere was alive with the feeling that victory was just around the corner.",
+  "Example sentence: The Secretary shall make reports to the President and the Congress at the beginning of each regular session of the action taken or instituted by him under the provisions of this Act and of prospective action during the ensuing year."
+ ],
+ "labels": [
+  "establish.v.02",
+  "establish.v.02",
+  "establish.v.02",
+  "establish.v.02",
+  "institute.v.02",
+  "institute.v.02",
+  "institute.v.02",
+  "institute.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

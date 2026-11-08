@@ -1,0 +1,7 @@
+word: host
+dataset: data/raw/semcor_words/host.json
+senses:
+  - host.n.01
+  - horde.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

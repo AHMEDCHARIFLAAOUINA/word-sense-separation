@@ -1,0 +1,7 @@
+word: principles
+dataset: data/raw/semcor_words/principles.json
+senses:
+  - principle.n.02
+  - principle.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

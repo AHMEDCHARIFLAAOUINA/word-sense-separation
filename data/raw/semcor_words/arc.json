@@ -1,0 +1,47 @@
+{
+ "target_word": "arc",
+ "sentences": [
+  "Example sentence: In order to reduce the number of variable parameters, all experiments were made with a constant arc length of 0.5 '' and a current of 100 Amp.",
+  "Example sentence: This energy transfer depends on the current, the temperature in the arc column, the anode material, and the conditions in the anode sheath.",
+  "Example sentence: For each mass flow rate the arc voltage was measured.",
+  "Example sentence: The arc voltage was measured with a voltmeter whose terminals were connected to the anode and cathode holders.",
+  "Example sentence: Experiments were made on an electric arc applying a porous graphite anode cooled by a transpiring gas (Argon).",
+  "Example sentence: The pressure gradient producing the jet is due to the nature of the magnetic field in the arc (rapid decrease of current density from cathode to the anode).",
+  "Example sentence: The transducer itself moves the beam in a sector scan, just like a radar antenna, while the entire transducer structure is moved over a 90 - degree arc in front of the eye to `` look into '' all corners.",
+  "Example sentence: The arc is itself a segment of an analytic curve.",
+  "Example sentence: But **f is just the curve **f translated without rotation through a small arc, for **f is always obtained by rotating C through exactly 90 `.",
+  "Example sentence: The ball went off in a majestic arc, an out-of-bounds slice.",
+  "Example sentence: The drive along Massachusetts ' Route 128, the by-pass which makes an arc about twenty miles from downtown Boston, may be a vision of the future.",
+  "Example sentence: A continuous change in t through an amount e results in a translation along an analytic arc of the curve **f."
+ ],
+ "labels": [
+  "discharge.n.05",
+  "discharge.n.05",
+  "discharge.n.05",
+  "discharge.n.05",
+  "discharge.n.05",
+  "discharge.n.05",
+  "arc.n.02",
+  "arc.n.02",
+  "arc.n.02",
+  "arc.n.02",
+  "arc.n.02",
+  "arc.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

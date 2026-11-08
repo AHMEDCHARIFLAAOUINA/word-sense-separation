@@ -1,0 +1,7 @@
+word: preserve
+dataset: data/raw/semcor_words/preserve.json
+senses:
+  - continue.v.03
+  - conserve.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

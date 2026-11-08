@@ -1,0 +1,7 @@
+word: outlook
+dataset: data/raw/semcor_words/outlook.json
+senses:
+  - mentality.n.01
+  - expectation.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

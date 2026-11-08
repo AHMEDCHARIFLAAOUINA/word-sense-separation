@@ -1,0 +1,7 @@
+word: government
+dataset: data/raw/semcor_words/government.json
+senses:
+  - government.n.01
+  - government.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

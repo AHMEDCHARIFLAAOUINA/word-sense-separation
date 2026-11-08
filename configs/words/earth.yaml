@@ -1,0 +1,7 @@
+word: earth
+dataset: data/raw/semcor_words/earth.json
+senses:
+  - earth.n.01
+  - earth.n.02
+n_per_sense: 16
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: music
+dataset: data/raw/semcor_words/music.json
+senses:
+  - music.n.01
+  - music.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "ahead",
+ "sentences": [
+  "Example sentence: He turned from the flying trees to look ahead and saw with an inward boy's eye again the great fieldstone house which, built on one of the many acres of ancestral land bordering the west harbor, had been Izaak's bride-gift to his cousin wife as the last century ended.",
+  "Example sentence: Mynheer, Sir Francis, the valley society, the very smell of the river on his right purling along to the bay past fish weirs and rocks, and ahead the sleepy ribbon of moon drenched road.",
+  "Example sentence: They had traveled only a short distance when they spotted five Mexicans riding along a horse-trail across the stream just ahead of them.",
+  "Example sentence: When the sea was visible ahead of them, the relief was as great as if the sun had come out.",
+  "Example sentence: First the Larkins are ahead, then the Jerebohms.",
+  "Example sentence: Are you looking ahead to the exploding market of millions of American boys and girls, who will grow up to enjoy a traditional American way of life - ranging the fields with a fine American gun and uniformly excellent ammunition?",
+  "Example sentence: These contrasting trends in procurement reflect the anticipated changes in the composition and missions of our Armed Forces in the years ahead.",
+  "Example sentence: The evidence suggests that foreign peoples believe the United States is weaker than the Soviet Union, and is bound to fall still further behind in the years ahead.",
+  "Example sentence: Unless we keep our eyes on the horizon ahead, we shall fail to bring ourselves on target with the present.",
+  "Example sentence: Lastly, governmental and private planners will at this stage begin to see large capital requirements looming ahead."
+ ],
+ "labels": [
+  "ahead.r.01",
+  "ahead.r.01",
+  "ahead.r.01",
+  "ahead.r.01",
+  "ahead.r.01",
+  "ahead.r.02",
+  "ahead.r.02",
+  "ahead.r.02",
+  "ahead.r.02",
+  "ahead.r.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

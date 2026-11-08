@@ -1,0 +1,7 @@
+word: please
+dataset: data/raw/semcor_words/please.json
+senses:
+  - please.v.01
+  - please.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

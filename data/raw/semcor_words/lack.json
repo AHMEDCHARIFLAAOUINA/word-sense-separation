@@ -1,0 +1,53 @@
+{
+ "target_word": "lack",
+ "sentences": [
+  "Example sentence: Obviously, very slight changes in p do not change the probabilities much, and a slight lack of independence may not make an appreciable difference.",
+  "Example sentence: We speculate that compulsives in the unstructured schools are under greater strain because of the lack of systemization in their school setting, but that their need to organize (for comfort) is so intense that they struggle to induce the phonic rules and achieve in spite of the lack of direction from the environment.",
+  "Example sentence: One of the obstacles to the easy control of a 2 - year old child is a lack of verbal communication.",
+  "Example sentence: Because of its importance, and because the lack of price competition is well recognized, the industry is under considerable public pressure not to raise its price any more than could be justified by cost increases.",
+  "Example sentence: To interpret, indeed, the era from 1000 to 800 as a period mainly of consolidation may be a necessary but unfortunate defect born of our lack of detailed information; if we could see more deeply, we probably would find many side issues and wrong turnings which came to an end within the period.",
+  "Example sentence: There was the freshness of color, the freedom of perception, the lack of self-consciousness, but with a twist that made the forms leap from the page and smack you in the eye.",
+  "Example sentence: They then point out that with our present lack of knowledge of all the factors concerned in the rise and fall of epidemics, it is unlikely that a planned episode could be initiated.",
+  "Example sentence: The one sure way to tell victim and villain apart is to examine the hind legs which in the case of the idler, Psithyrus, lack the pollen baskets - naturally!",
+  "Example sentence: Excellent in their way, they lack the wide appeal of The Charles Men, and need not detain us here.",
+  "Example sentence: `` We must persuade them to enjoy a way of life which, if not identical, is congenial with ours '', he said but adding that if they do not develop the kind of society they themselves want it will lack ritiuality and loyalty.",
+  "Example sentence: They lack stimulation.",
+  "Example sentence: Our collective policies, group and national, are similarly based on voodoo, but here we often lack even the empirically successful rituals and are still engaged in determining them.",
+  "Example sentence: `` We have a tremendous amount of talent - but we lack cohesion ''.",
+  "Example sentence: Certainly, most continue to lack a certain warmth in communication with other people, but many adjust to school, even college, to jobs and even to marriage and parenthood."
+ ],
+ "labels": [
+  "lack.n.01",
+  "lack.n.01",
+  "lack.n.01",
+  "lack.n.01",
+  "lack.n.01",
+  "lack.n.01",
+  "lack.n.01",
+  "miss.v.06",
+  "miss.v.06",
+  "miss.v.06",
+  "miss.v.06",
+  "miss.v.06",
+  "miss.v.06",
+  "miss.v.06"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

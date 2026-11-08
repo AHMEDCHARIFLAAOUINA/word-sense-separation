@@ -1,0 +1,7 @@
+word: ambiguous
+dataset: data/raw/semcor_words/ambiguous.json
+senses:
+  - equivocal.a.01
+  - ambiguous.a.02
+n_per_sense: 4
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: medical
+dataset: data/raw/semcor_words/medical.json
+senses:
+  - medical.a.01
+  - medical.a.02
+n_per_sense: 4
+prefix: "Example sentence: "

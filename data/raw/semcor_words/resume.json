@@ -1,0 +1,35 @@
+{
+ "target_word": "resume",
+ "sentences": [
+  "Example sentence: Yet when, at war's end, the ex-Tory made the first move to resume correspondence, Jay wrote him from Paris, where he was negotiating the peace settlement:",
+  "Example sentence: A voice on the loudspeaker system announced that if the rain let up the performance would resume in ten minutes.",
+  "Example sentence: Any reputable French interne can supply you with a dozen similar instances, and I'll presently recount a case out of my own personal experience, but, for the moment, let's resume our catalogue.",
+  "Example sentence: He also demanded that Kennedy take additional measures to increase international tension: specifically to crush the Cuban revolution, resume nuclear testing, resist more vigorously admission of China to its lawful seat in the United Nations, and postpone non-military programs at home ''.",
+  "Example sentence: Petitioner was not entitled, either in the administrative hearing at the Department of Justice or at his trial, to inspect the original report of the Federal Bureau of Investigation, since he was furnished a resume of it, did not challenge its accuracy, and showed no particular need for the original report.",
+  "Example sentence: This brief resume hardly does the book justice, but I heartily recommend it to all those who are engages with the major problems of our time.",
+  "Example sentence: He bases his present contention on the general right to explore, indicating that he hopes to find some discrepancy in the resume.",
+  "Example sentence: He did receive a resume of it - the same that was furnished the appeal board - and he made no claim of its inaccuracy."
+ ],
+ "labels": [
+  "resume.v.01",
+  "resume.v.01",
+  "resume.v.01",
+  "resume.v.01",
+  "sketch.n.03",
+  "sketch.n.03",
+  "sketch.n.03",
+  "sketch.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

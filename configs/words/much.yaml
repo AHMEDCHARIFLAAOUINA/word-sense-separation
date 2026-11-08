@@ -1,0 +1,7 @@
+word: much
+dataset: data/raw/semcor_words/much.json
+senses:
+  - much.a.01
+  - much.r.01
+n_per_sense: 20
+prefix: "Example sentence: "

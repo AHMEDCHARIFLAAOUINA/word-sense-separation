@@ -1,0 +1,35 @@
+{
+ "target_word": "economic",
+ "sentences": [
+  "Example sentence: A blow to this phase of the Central's operations would have serious economic consequences not only to the railroad itself, but to the 40000 people per day who are provided with efficient, reasonably priced transportation in and out of the city.",
+  "Example sentence: The men in power are committed in principle to modernization, but economic and social changes are proceeding only erratically.",
+  "Example sentence: They survive only when they can recruit social and economic peers.",
+  "Example sentence: Pope Pius 12, declared in 1951 that it is possible to be exempt from the normal obligation of parenthood for a long time and even for the whole duration of married life, if there are serious reasons, such as those often mentioned in the so-called medical, eugenic, economic and social `` indications ''.",
+  "Example sentence: If we were creating a wholly new society, we could insist that our social, political, economic and philosophic institutions foster rather than hamper man; best growth.",
+  "Example sentence: And the basic character of that liberalism has been spiritual rather than economic.",
+  "Example sentence: Study methods for the recovery and marketing of commercially valuable byproducts resulting from the conversion of saline water; and undertake economic studies and surveys to determine present and prospective costs of producing water for beneficial consumptive purposes in various parts of the United States by the leading saline water processes as compared with other standard methods.",
+  "Example sentence: The Bourbon economic philosophy, moreover, is not very different from that of Northern conservatives."
+ ],
+ "labels": [
+  "economic.a.01",
+  "economic.a.01",
+  "economic.a.01",
+  "economic.a.01",
+  "economic.a.02",
+  "economic.a.02",
+  "economic.a.02",
+  "economic.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

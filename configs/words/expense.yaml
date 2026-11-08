@@ -1,0 +1,7 @@
+word: expense
+dataset: data/raw/semcor_words/expense.json
+senses:
+  - expense.n.01
+  - expense.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

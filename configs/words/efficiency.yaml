@@ -1,0 +1,7 @@
+word: efficiency
+dataset: data/raw/semcor_words/efficiency.json
+senses:
+  - efficiency.n.01
+  - efficiency.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

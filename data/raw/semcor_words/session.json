@@ -1,0 +1,41 @@
+{
+ "target_word": "session",
+ "sentences": [
+  "Example sentence: Dr. A. V. Astin, NBS Director, opened the 5 - day session with introductory remarks, following which a total of twenty-six papers were given throughout the week by NBS scientists, from both the Washington and Boulder Laboratories.",
+  "Example sentence: If Depew had told any academic psychologist that he had a weird feeling of having lived through that identical convention session at some time in the past, he would have been informed that he was a victim of deja vu.",
+  "Example sentence: As a contemporary bonus, the set includes Carl Sandburg's address at a joint session of Congress, delivered on Lincoln's birthday two years ago.",
+  "Example sentence: The Secretary shall make reports to the President and the Congress at the beginning of each regular session of the action taken or instituted by him under the provisions of this Act and of prospective action during the ensuing year.",
+  "Example sentence: Accordingly, if it is not repealed by the Congress at its present session, I shall have no alternative thereafter but to direct the Secretary of Defense to disregard the section unless a court of competent jurisdiction determines otherwise.",
+  "Example sentence: Principals of the 13 schools in the Denton Independent School District have been re-elected for the 1961 - 62 session upon the recommendation of Supt. Chester O. Strickland.",
+  "Example sentence: Vandiver likely will mention the $100 million highway bond issue approved earlier in the session as his first priority item.",
+  "Example sentence: The Georgia Legislature will wind up its 1961 session Monday and head for home - where some of the highway bond money it approved will follow shortly.",
+  "Example sentence: In 1793 the brothers decided to enter the University of Copenhagen (founded in 1479) and the following spring found them at the university preparing to matriculate for the autumn session.",
+  "Example sentence: Perhaps the Jewish students at Brooklyn College - constituting 85 per cent of those who attend the day session - can serve as a paradigm of the urban, lower middle class Jewish student."
+ ],
+ "labels": [
+  "session.n.01",
+  "session.n.01",
+  "session.n.01",
+  "session.n.01",
+  "session.n.01",
+  "school_term.n.01",
+  "school_term.n.01",
+  "school_term.n.01",
+  "school_term.n.01",
+  "school_term.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

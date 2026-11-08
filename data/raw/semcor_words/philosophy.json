@@ -1,0 +1,53 @@
+{
+ "target_word": "philosophy",
+ "sentences": [
+  "Example sentence: Yet, after Rousseau had given the social contract a new twist with his notion of the General Will, the same philosophy, it may be said, became the idea source of the French Revolution also.",
+  "Example sentence: That John Locke's philosophy of the social contract fathered the American Revolution with its Declaration of Independence, I believe, we generally accept.",
+  "Example sentence: The Bourbon economic philosophy, moreover, is not very different from that of Northern conservatives.",
+  "Example sentence: However, it is important to trace the philosophy of the French Revolution to its sources to understand the common democratic origin of individualism and socialism and the influence of the latter on the former.",
+  "Example sentence: But with all the changes in philosophy, dress and terrain - a few things remain constant, including the devotion of Americans to the great field sports, hunting and fishing.",
+  "Example sentence: He says: `` Beside the Protestant philosophy of Progress, as expressed in radical or conservative millenarianism, should be placed the doctrine of the democratic faith which affirmed it to be the duty of the destiny of the United States to assist in the creation of a better world by keeping lighted the beacon of democracy ''.",
+  "Example sentence: Ralph Gabriel gave it the name of Protestant philosophy of Progress.",
+  "Example sentence: Here we may observe that at least one modern philosophy of history is built on the assumption that ideas are the primary objectives of the historian's research.",
+  "Example sentence: It is his relentlessness and unwavering adherence to this revolutionary artistic philosophy that has enabled him to paint such pictures as `` The Invasion of Cuba ''.",
+  "Example sentence: Still, we must remember that we cannot construct and justify generalizations of this sort unless we are ready to consider many special instances of influence moving between such areas as theology, philosophy, political thought, and literature.",
+  "Example sentence: Everything from poetry to phonetics, history to histrionics, philosophy to party games has been adapted to the turntable.",
+  "Example sentence: To appreciate this development, we must relate it to other aspects of nineteenth century philosophy.",
+  "Example sentence: Hegel's profound admiration for the insights of the Greek tragedians indicates a broad channel of classical influence upon nineteenth century philosophy.",
+  "Example sentence: It is through such reflection that literature approaches philosophy."
+ ],
+ "labels": [
+  "doctrine.n.01",
+  "doctrine.n.01",
+  "doctrine.n.01",
+  "doctrine.n.01",
+  "doctrine.n.01",
+  "doctrine.n.01",
+  "doctrine.n.01",
+  "philosophy.n.02",
+  "philosophy.n.02",
+  "philosophy.n.02",
+  "philosophy.n.02",
+  "philosophy.n.02",
+  "philosophy.n.02",
+  "philosophy.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,47 @@
+{
+ "target_word": "message",
+ "sentences": [
+  "Example sentence: This was the message found tacked to the cabin door.",
+  "Example sentence: Of types of message listed in Table 1, commands and statements are the only ones sent through the vertical network shown in Figure 3.",
+  "Example sentence: A message of less than fifteen words to Bennington cost twenty-five cents.",
+  "Example sentence: But in the meantime the beer runner, unhappy with this solution, telephoned Torrio and returned to O ' Banion with the message: `` Say, Dionie, I just been talking to Johnny, and he said to let them cops have the three hundred.",
+  "Example sentence: As such, it was beyond politics and had no need of justification by a `` message ''.",
+  "Example sentence: He was unwilling to rely on Griffith's carrying his message, and he had no confidence the police would act on it.",
+  "Example sentence: All four types of message listed in Table 1 are permitted, although decorum and cocktail tradition require holding the commands to a minimum, while exclamations having complimentary intonations are more than customarily encouraged.",
+  "Example sentence: As a word of caution, we should be aware that in actual practice no message is purely one of the four types, question, command, statement, or exclamation.",
+  "Example sentence: In the budget message for 1959, and again for 1960, I recommended immediate repeal of section 601 of the Act of September 28, 1951 (65 Stat. 365).",
+  "Example sentence: How literature does this, or for whom, is certainly not clear, but the content, form, and language of the `` message '', as well as the source, would all play differentiated parts in giving and molding a sense of purpose.",
+  "Example sentence: However, even if the latent demand for demythologization is not nearly as widespread as we are claiming, at least among the cultured elements of the population there tends to be an almost complete indifference to the church and its traditional message of sin and grace.",
+  "Example sentence: I wouldn't want him to miss the message ''."
+ ],
+ "labels": [
+  "message.n.01",
+  "message.n.01",
+  "message.n.01",
+  "message.n.01",
+  "message.n.01",
+  "message.n.01",
+  "message.n.02",
+  "message.n.02",
+  "message.n.02",
+  "message.n.02",
+  "message.n.02",
+  "message.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

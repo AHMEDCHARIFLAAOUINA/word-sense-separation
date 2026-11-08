@@ -1,0 +1,41 @@
+{
+ "target_word": "located",
+ "sentences": [
+  "Example sentence: The collector enjoys the contact with rural life; he hunts folklore for the very `` field and stream '' reasons that many persons hunt game; and only rarely is he acutely concerned with the meaning of what he has located.",
+  "Example sentence: Arthur Williams had to be located, they agreed.",
+  "Example sentence: He located his man.",
+  "Example sentence: Eighteen errors were located, and then the director asked each individual to vote whether or not they felt that this manager had made the particular errors.",
+  "Example sentence: They had located the runway of a colony of ants and as the ants came out of the ground, the boys picked them up, one at a time, and pinched them dead.",
+  "Example sentence: More than 10 companies maintain facilities in Dallas and one large manufacturer is located to the north at Sherman.",
+  "Example sentence: Curt circled the house and located a barn out back.",
+  "Example sentence: Also the department of justice building is located where J. Edgar Hoover presides over the federal bureau of investigation.",
+  "Example sentence: Houghton said 6 p. m. Friday had been set for a canvass of all 480 homes in the subdivision, which is located northeast of Dequindre and 14 Mile road east.",
+  "Example sentence: Factories are located here and in Prattville, Ala.."
+ ],
+ "labels": [
+  "locate.v.01",
+  "locate.v.01",
+  "locate.v.01",
+  "locate.v.01",
+  "locate.v.01",
+  "situate.v.01",
+  "situate.v.01",
+  "situate.v.01",
+  "situate.v.01",
+  "situate.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

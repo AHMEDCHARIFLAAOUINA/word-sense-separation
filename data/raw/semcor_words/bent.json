@@ -1,0 +1,41 @@
+{
+ "target_word": "bent",
+ "sentences": [
+  "Example sentence: They bent over yellowed prayerbooks and looked up only to watch the teacher.",
+  "Example sentence: They squatted on their heels with their heads bent far forward, their eyes only a few inches from the ground.",
+  "Example sentence: They were all three bent over a shabby riding boot; George had a tack hammer.",
+  "Example sentence: Suddenly one of them shouted, ran a few feet, bent forward and put his mouth to the ground.",
+  "Example sentence: Watson bent awkwardly and lifted the man to his feet.",
+  "Example sentence: She made him sad some days, and he was never sure why; it was something to do with her back, the thinness of it, and the quick, jerky way she bent.",
+  "Example sentence: Rachel came close to the bed, bent as if she would kiss him, then moved away.",
+  "Example sentence: He had style: he held his reins in a loose bunch at the third button of his checked Epsom surtout, and when the horses leaned at a curve, as if bent by the force of a gale, he leaned with them.",
+  "Example sentence: `` He's owly today '', his grand-daughter said wearily, and bent to pick it up.",
+  "Example sentence: Two hours of watching his serenely happy face, listening to his soft humming as he bent over his penciled figures, and Blanche had to leave."
+ ],
+ "labels": [
+  "bend.v.01",
+  "bend.v.01",
+  "bend.v.01",
+  "bend.v.01",
+  "bend.v.01",
+  "bend.v.02",
+  "bend.v.02",
+  "bend.v.02",
+  "bend.v.02",
+  "bend.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,53 @@
+{
+ "target_word": "rural",
+ "sentences": [
+  "Example sentence: If, in Larkin's eyes, they are nothing but Piccadilly farmers, he has as much to learn about them as they have to learn about the ways of truly rural living.",
+  "Example sentence: This has not, however, prevented publishers from labeling him a `` folk poet '', simply because he is a rural one.",
+  "Example sentence: Are you in a rural or urban area?",
+  "Example sentence: The connective system, or network, is tailored to meet the requirements of the objective, and it is therefore not surprising that a military body acting as a single coordinated unit has a different communication network than a factory, a college, or a rural village.",
+  "Example sentence: When Napoleon's ship had borne him to Elba, French wines had started to cross the Channel, the first shipments in a dozen war-ridden years, but the supplies had not yet reached rural hostelries where the sweet wines of the Spanish peninsula still ruled.",
+  "Example sentence: Simultaneously we should be underlining the interrelationships of technical progress in various fields, showing how agricultural training can be introduced into education, how health affects labor productivity, how small business can benefit the rural farm community, and, above all, how progress in each field relates to national progress.",
+  "Example sentence: We consider a rural community as an assemblage of inhabited dwellings whose configuration is determined by the location and size of the arable land sites necessary for family subsistence.",
+  "Example sentence: Negroes, Puerto Ricans, and rural newcomers are slowly making their way into the cities.",
+  "Example sentence: They were increasingly looked upon as a means of establishing the new rural communes as the focus of a new, constructive national effort.",
+  "Example sentence: The chamber of Commerce elections were, of course, an important event in the preparation for rural commune elections.",
+  "Example sentence: Preparation began slightly more than a year after independence with the first steps to organize rural communes.",
+  "Example sentence: John, an engineer and anthropologist with a doctorate from the London School of Economics, headed the rural development division of USOM, the United States Operations Mission administering U. S. aid.",
+  "Example sentence: Vandiver opened his race for governor in 1958 with a battle in the Legislature against the issuance of $50 million worth of additional rural roads bonds proposed by then Gov. Marvin Griffin.",
+  "Example sentence: Voting preparations began in the fall of 1959, although the actual demarcation and planning for the rural communes was completed in 1958."
+ ],
+ "labels": [
+  "rural.a.01",
+  "rural.a.01",
+  "rural.a.01",
+  "rural.a.01",
+  "rural.a.01",
+  "rural.a.01",
+  "rural.a.01",
+  "rural.a.02",
+  "rural.a.02",
+  "rural.a.02",
+  "rural.a.02",
+  "rural.a.02",
+  "rural.a.02",
+  "rural.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

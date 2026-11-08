@@ -1,0 +1,41 @@
+{
+ "target_word": "somehow",
+ "sentences": [
+  "Example sentence: Done by a professional decorator, Madden thought, and somehow as impersonal, as unremarkable as its occupant.",
+  "Example sentence: One learns to become alert to changes in his vocal tone - to his voice's suddenly shifting to a quality not like his usual one, a quality which sounds somehow artificial or, in some instances, parrotlike.",
+  "Example sentence: One hebephrenic woman often became submerged in what felt to me like a somehow phony experience of pseudo emotion, during which, despite her wracking sobs and streaming cheeks, I felt only a cold annoyance with her.",
+  "Example sentence: Yet the violent immediacy of the wallpaper strips pasted to the paper, and the only lesser immediacy of block capitals that simulate window lettering, manage somehow to push the grape cluster back into place on the picture plane so that it does not `` jump ''.",
+  "Example sentence: But one day, she expected, he would somehow discover, without her having to tell him, that there was such a woman in the world; a woman who was willing to give him love, faith, and anything else a woman could give a husband.",
+  "Example sentence: There would be great need soon for his skill as surgeon, but somehow he had not planned to use his knowledge merely for war.",
+  "Example sentence: It wouldn't - wouldn't seem fair, somehow ''.",
+  "Example sentence: `` I'll get my references in order '', Needham said, and though he spoke with a smile, Casey somehow got the idea that he was not particularly amused.",
+  "Example sentence: `` But, well, it just don't seem sportin ' somehow ''!",
+  "Example sentence: `` Somehow I imagine that as you grew up you were alone a lot."
+ ],
+ "labels": [
+  "somehow.r.01",
+  "somehow.r.01",
+  "somehow.r.01",
+  "somehow.r.01",
+  "somehow.r.01",
+  "somehow.r.02",
+  "somehow.r.02",
+  "somehow.r.02",
+  "somehow.r.02",
+  "somehow.r.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,10007 @@
+{
+ "n_words": 1000,
+ "n_sentences": 16046,
+ "min_per_sense": 4,
+ "words": [
+  {
+   "word": "all",
+   "lemma": "all",
+   "senses": [
+    "all.a.01",
+    "wholly.r.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.461980237813106
+  },
+  {
+   "word": "alone",
+   "lemma": "alone",
+   "senses": [
+    "entirely.r.02",
+    "alone.r.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5774782025927336
+  },
+  {
+   "word": "back",
+   "lemma": "back",
+   "senses": [
+    "back.r.01",
+    "back.n.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5293633979450945
+  },
+  {
+   "word": "basis",
+   "lemma": "basis",
+   "senses": [
+    "footing.n.02",
+    "basis.n.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5846187681869279
+  },
+  {
+   "word": "better",
+   "lemma": "better",
+   "senses": [
+    "better.a.01",
+    "better.r.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5208865092778747
+  },
+  {
+   "word": "death",
+   "lemma": "death",
+   "senses": [
+    "death.n.01",
+    "death.n.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4942079922488909
+  },
+  {
+   "word": "down",
+   "lemma": "down",
+   "senses": [
+    "down.r.01",
+    "down.r.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4352082794188717
+  },
+  {
+   "word": "evidence",
+   "lemma": "evidence",
+   "senses": [
+    "evidence.n.01",
+    "evidence.n.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.37052427434004365
+  },
+  {
+   "word": "first",
+   "lemma": "first",
+   "senses": [
+    "first.a.01",
+    "first.r.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.3287907743997708
+  },
+  {
+   "word": "heart",
+   "lemma": "heart",
+   "senses": [
+    "heart.n.01",
+    "heart.n.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4606382586598884
+  },
+  {
+   "word": "here",
+   "lemma": "here",
+   "senses": [
+    "here.r.01",
+    "here.r.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4842234782584782
+  },
+  {
+   "word": "information",
+   "lemma": "information",
+   "senses": [
+    "information.n.01",
+    "information.n.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.47946234167976653
+  },
+  {
+   "word": "just",
+   "lemma": "just",
+   "senses": [
+    "merely.r.01",
+    "precisely.r.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4660397820968134
+  },
+  {
+   "word": "less",
+   "lemma": "less",
+   "senses": [
+    "less.r.01",
+    "less.a.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5235745636582851
+  },
+  {
+   "word": "little",
+   "lemma": "little",
+   "senses": [
+    "small.a.01",
+    "little.a.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5298675581344074
+  },
+  {
+   "word": "major",
+   "lemma": "major",
+   "senses": [
+    "major.a.01",
+    "major.a.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4240953867764377
+  },
+  {
+   "word": "more",
+   "lemma": "more",
+   "senses": [
+    "more.r.01",
+    "more.a.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4400809607029477
+  },
+  {
+   "word": "most",
+   "lemma": "most",
+   "senses": [
+    "most.r.01",
+    "most.a.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5024515815092617
+  },
+  {
+   "word": "much",
+   "lemma": "much",
+   "senses": [
+    "much.a.01",
+    "much.r.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.41265297511964505
+  },
+  {
+   "word": "no",
+   "lemma": "no",
+   "senses": [
+    "no.a.01",
+    "no.r.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.3570332949720719
+  },
+  {
+   "word": "now",
+   "lemma": "now",
+   "senses": [
+    "now.r.01",
+    "nowadays.r.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4836100499886572
+  },
+  {
+   "word": "only",
+   "lemma": "only",
+   "senses": [
+    "merely.r.01",
+    "entirely.r.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5223881016976252
+  },
+  {
+   "word": "past",
+   "lemma": "past",
+   "senses": [
+    "past.n.01",
+    "past.a.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5094258527976161
+  },
+  {
+   "word": "present",
+   "lemma": "present",
+   "senses": [
+    "present.a.01",
+    "present.a.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5398436774294885
+  },
+  {
+   "word": "public",
+   "lemma": "public",
+   "senses": [
+    "public.a.01",
+    "populace.n.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5664792753916222
+  },
+  {
+   "word": "quite",
+   "lemma": "quite",
+   "senses": [
+    "quite.r.01",
+    "quite.r.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.6205204338493582
+  },
+  {
+   "word": "rather",
+   "lemma": "rather",
+   "senses": [
+    "rather.r.01",
+    "rather.r.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4632659351577256
+  },
+  {
+   "word": "really",
+   "lemma": "really",
+   "senses": [
+    "truly.r.01",
+    "actually.r.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5036310277920503
+  },
+  {
+   "word": "same",
+   "lemma": "same",
+   "senses": [
+    "same.a.01",
+    "same.a.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4447837266279988
+  },
+  {
+   "word": "so",
+   "lemma": "so",
+   "senses": [
+    "so.r.01",
+    "so.r.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4764780552381903
+  },
+  {
+   "word": "suddenly",
+   "lemma": "suddenly",
+   "senses": [
+    "abruptly.r.01",
+    "suddenly.r.01"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4304223144940204
+  },
+  {
+   "word": "then",
+   "lemma": "then",
+   "senses": [
+    "then.r.01",
+    "then.r.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.4228546157673064
+  },
+  {
+   "word": "too",
+   "lemma": "too",
+   "senses": [
+    "excessively.r.01",
+    "besides.r.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.536965512309308
+  },
+  {
+   "word": "well",
+   "lemma": "well",
+   "senses": [
+    "well.r.01",
+    "well.r.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.48715328442581074
+  },
+  {
+   "word": "world",
+   "lemma": "world",
+   "senses": [
+    "universe.n.01",
+    "world.n.02"
+   ],
+   "n_per_sense": 20,
+   "mean_target_rel_pos": 0.5776842225946128
+  },
+  {
+   "word": "business",
+   "lemma": "business",
+   "senses": [
+    "business.n.01",
+    "commercial_enterprise.n.02"
+   ],
+   "n_per_sense": 19,
+   "mean_target_rel_pos": 0.4637151603701664
+  },
+  {
+   "word": "designed",
+   "lemma": "design",
+   "senses": [
+    "plan.v.03",
+    "design.v.02"
+   ],
+   "n_per_sense": 19,
+   "mean_target_rel_pos": 0.41772555485745777
+  },
+  {
+   "word": "development",
+   "lemma": "development",
+   "senses": [
+    "development.n.01",
+    "development.n.02"
+   ],
+   "n_per_sense": 19,
+   "mean_target_rel_pos": 0.49986432985820733
+  },
+  {
+   "word": "door",
+   "lemma": "door",
+   "senses": [
+    "door.n.01",
+    "doorway.n.01"
+   ],
+   "n_per_sense": 19,
+   "mean_target_rel_pos": 0.48684731571794093
+  },
+  {
+   "word": "home",
+   "lemma": "home",
+   "senses": [
+    "home.r.01",
+    "home.n.01"
+   ],
+   "n_per_sense": 19,
+   "mean_target_rel_pos": 0.5201859034267393
+  },
+  {
+   "word": "paper",
+   "lemma": "paper",
+   "senses": [
+    "paper.n.01",
+    "composition.n.08"
+   ],
+   "n_per_sense": 19,
+   "mean_target_rel_pos": 0.49915388641929503
+  },
+  {
+   "word": "still",
+   "lemma": "still",
+   "senses": [
+    "still.r.01",
+    "even.r.03"
+   ],
+   "n_per_sense": 19,
+   "mean_target_rel_pos": 0.5201595178056827
+  },
+  {
+   "word": "age",
+   "lemma": "age",
+   "senses": [
+    "age.n.01",
+    "historic_period.n.01"
+   ],
+   "n_per_sense": 18,
+   "mean_target_rel_pos": 0.5263447605586485
+  },
+  {
+   "word": "away",
+   "lemma": "away",
+   "senses": [
+    "away.r.01",
+    "away.r.02"
+   ],
+   "n_per_sense": 18,
+   "mean_target_rel_pos": 0.531582608627803
+  },
+  {
+   "word": "experience",
+   "lemma": "experience",
+   "senses": [
+    "experience.n.01",
+    "experience.n.02"
+   ],
+   "n_per_sense": 18,
+   "mean_target_rel_pos": 0.46260631177302713
+  },
+  {
+   "word": "history",
+   "lemma": "history",
+   "senses": [
+    "history.n.01",
+    "history.n.02"
+   ],
+   "n_per_sense": 18,
+   "mean_target_rel_pos": 0.6203077890420003
+  },
+  {
+   "word": "life",
+   "lemma": "life",
+   "senses": [
+    "life.n.01",
+    "life.n.02"
+   ],
+   "n_per_sense": 18,
+   "mean_target_rel_pos": 0.6142004252513116
+  },
+  {
+   "word": "long",
+   "lemma": "long",
+   "senses": [
+    "long.a.01",
+    "long.a.02"
+   ],
+   "n_per_sense": 18,
+   "mean_target_rel_pos": 0.41082262594951324
+  },
+  {
+   "word": "people",
+   "lemma": "people",
+   "senses": [
+    "people.n.01",
+    "citizenry.n.01"
+   ],
+   "n_per_sense": 18,
+   "mean_target_rel_pos": 0.39977409628289723
+  },
+  {
+   "word": "possible",
+   "lemma": "possible",
+   "senses": [
+    "possible.a.01",
+    "potential.a.01"
+   ],
+   "n_per_sense": 18,
+   "mean_target_rel_pos": 0.4125995622218086
+  },
+  {
+   "word": "war",
+   "lemma": "war",
+   "senses": [
+    "war.n.02",
+    "war.n.01"
+   ],
+   "n_per_sense": 18,
+   "mean_target_rel_pos": 0.5560664787630095
+  },
+  {
+   "word": "way",
+   "lemma": "way",
+   "senses": [
+    "manner.n.01",
+    "means.n.01"
+   ],
+   "n_per_sense": 18,
+   "mean_target_rel_pos": 0.4466235032135571
+  },
+  {
+   "word": "figure",
+   "lemma": "figure",
+   "senses": [
+    "figure.n.01",
+    "human_body.n.01"
+   ],
+   "n_per_sense": 17,
+   "mean_target_rel_pos": 0.376301761166421
+  },
+  {
+   "word": "high",
+   "lemma": "high",
+   "senses": [
+    "high.a.01",
+    "high.a.02"
+   ],
+   "n_per_sense": 17,
+   "mean_target_rel_pos": 0.4971206990363207
+  },
+  {
+   "word": "however",
+   "lemma": "however",
+   "senses": [
+    "however.r.01",
+    "however.r.02"
+   ],
+   "n_per_sense": 17,
+   "mean_target_rel_pos": 0.29052780141593626
+  },
+  {
+   "word": "human",
+   "lemma": "human",
+   "senses": [
+    "human.a.01",
+    "human.a.02"
+   ],
+   "n_per_sense": 17,
+   "mean_target_rel_pos": 0.5466229994841914
+  },
+  {
+   "word": "labor",
+   "lemma": "labor",
+   "senses": [
+    "labor.n.01",
+    "labor.n.02"
+   ],
+   "n_per_sense": 17,
+   "mean_target_rel_pos": 0.5055062619354015
+  },
+  {
+   "word": "moment",
+   "lemma": "moment",
+   "senses": [
+    "moment.n.01",
+    "moment.n.02"
+   ],
+   "n_per_sense": 17,
+   "mean_target_rel_pos": 0.4059399322234953
+  },
+  {
+   "word": "surface",
+   "lemma": "surface",
+   "senses": [
+    "surface.n.02",
+    "surface.n.01"
+   ],
+   "n_per_sense": 17,
+   "mean_target_rel_pos": 0.525221689045632
+  },
+  {
+   "word": "today",
+   "lemma": "today",
+   "senses": [
+    "today.n.01",
+    "nowadays.r.01"
+   ],
+   "n_per_sense": 17,
+   "mean_target_rel_pos": 0.4975644660454801
+  },
+  {
+   "word": "voice",
+   "lemma": "voice",
+   "senses": [
+    "voice.n.01",
+    "voice.n.02"
+   ],
+   "n_per_sense": 17,
+   "mean_target_rel_pos": 0.5024360158427255
+  },
+  {
+   "word": "water",
+   "lemma": "water",
+   "senses": [
+    "water.n.01",
+    "body_of_water.n.01"
+   ],
+   "n_per_sense": 17,
+   "mean_target_rel_pos": 0.48462891175574185
+  },
+  {
+   "word": "earth",
+   "lemma": "earth",
+   "senses": [
+    "earth.n.01",
+    "earth.n.02"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.5875123734451302
+  },
+  {
+   "word": "finally",
+   "lemma": "finally",
+   "senses": [
+    "finally.r.01",
+    "ultimately.r.01"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.3788811721340396
+  },
+  {
+   "word": "growth",
+   "lemma": "growth",
+   "senses": [
+    "growth.n.01",
+    "growth.n.02"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.5608180506528536
+  },
+  {
+   "word": "hit",
+   "lemma": "hit",
+   "senses": [
+    "hit.v.01",
+    "hit.v.02"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.49151048036292494
+  },
+  {
+   "word": "interest",
+   "lemma": "interest",
+   "senses": [
+    "interest.n.01",
+    "sake.n.01"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.5612049606212705
+  },
+  {
+   "word": "later",
+   "lemma": "later",
+   "senses": [
+    "subsequently.r.01",
+    "by_and_by.r.01"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.5099068536684745
+  },
+  {
+   "word": "meaning",
+   "lemma": "meaning",
+   "senses": [
+    "meaning.n.01",
+    "meaning.n.02"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.44252474728938623
+  },
+  {
+   "word": "number",
+   "lemma": "number",
+   "senses": [
+    "number.n.01",
+    "number.n.02"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.4579717115252552
+  },
+  {
+   "word": "old",
+   "lemma": "old",
+   "senses": [
+    "old.a.01",
+    "old.a.02"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.42903274933855046
+  },
+  {
+   "word": "once",
+   "lemma": "once",
+   "senses": [
+    "once.r.01",
+    "once.r.03"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.3584038491364992
+  },
+  {
+   "word": "pressure",
+   "lemma": "pressure",
+   "senses": [
+    "pressure.n.01",
+    "pressure.n.02"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.5097390365029122
+  },
+  {
+   "word": "set",
+   "lemma": "set",
+   "senses": [
+    "put.v.01",
+    "determine.v.03"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.36516748099892926
+  },
+  {
+   "word": "spirit",
+   "lemma": "spirit",
+   "senses": [
+    "spirit.n.01",
+    "spirit.n.02"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.5183533446228861
+  },
+  {
+   "word": "together",
+   "lemma": "together",
+   "senses": [
+    "together.r.01",
+    "together.r.02"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.5412218953747063
+  },
+  {
+   "word": "treatment",
+   "lemma": "treatment",
+   "senses": [
+    "treatment.n.01",
+    "treatment.n.02"
+   ],
+   "n_per_sense": 16,
+   "mean_target_rel_pos": 0.4792644687403654
+  },
+  {
+   "word": "amount",
+   "lemma": "amount",
+   "senses": [
+    "sum.n.01",
+    "amount.n.02"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.38666706462604933
+  },
+  {
+   "word": "cut",
+   "lemma": "cut",
+   "senses": [
+    "reduce.v.01",
+    "cut.v.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.3691269802866307
+  },
+  {
+   "word": "dark",
+   "lemma": "dark",
+   "senses": [
+    "dark.a.01",
+    "dark.a.02"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.47543135294232447
+  },
+  {
+   "word": "degree",
+   "lemma": "degree",
+   "senses": [
+    "degree.n.01",
+    "degree.n.02"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.5773949199700906
+  },
+  {
+   "word": "discussion",
+   "lemma": "discussion",
+   "senses": [
+    "discussion.n.02",
+    "discussion.n.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.395833375673816
+  },
+  {
+   "word": "early",
+   "lemma": "early",
+   "senses": [
+    "early.a.02",
+    "early.a.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.4263120201178871
+  },
+  {
+   "word": "family",
+   "lemma": "family",
+   "senses": [
+    "family.n.02",
+    "family.n.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.5466203889985938
+  },
+  {
+   "word": "job",
+   "lemma": "job",
+   "senses": [
+    "job.n.02",
+    "occupation.n.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.5711929306011692
+  },
+  {
+   "word": "land",
+   "lemma": "land",
+   "senses": [
+    "land.n.02",
+    "land.n.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.32486032766931944
+  },
+  {
+   "word": "late",
+   "lemma": "late",
+   "senses": [
+    "late.a.01",
+    "late.r.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.46207189226641615
+  },
+  {
+   "word": "like",
+   "lemma": "like",
+   "senses": [
+    "wish.v.02",
+    "like.v.02"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.3569104243470874
+  },
+  {
+   "word": "manager",
+   "lemma": "manager",
+   "senses": [
+    "director.n.01",
+    "coach.n.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.46030466699330275
+  },
+  {
+   "word": "material",
+   "lemma": "material",
+   "senses": [
+    "material.n.01",
+    "material.n.02"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.5113559421072497
+  },
+  {
+   "word": "national",
+   "lemma": "national",
+   "senses": [
+    "national.a.01",
+    "national.a.02"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.5649021649214404
+  },
+  {
+   "word": "natural",
+   "lemma": "natural",
+   "senses": [
+    "natural.a.01",
+    "natural.a.02"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.45349633706767223
+  },
+  {
+   "word": "phase",
+   "lemma": "phase",
+   "senses": [
+    "phase.n.02",
+    "phase.n.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.466517337445194
+  },
+  {
+   "word": "reason",
+   "lemma": "reason",
+   "senses": [
+    "reason.n.01",
+    "reason.n.02"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.37103340828704084
+  },
+  {
+   "word": "suppose",
+   "lemma": "suppose",
+   "senses": [
+    "suppose.v.01",
+    "think.v.02"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.29248576872159887
+  },
+  {
+   "word": "table",
+   "lemma": "table",
+   "senses": [
+    "table.n.02",
+    "table.n.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.5548892723924245
+  },
+  {
+   "word": "thus",
+   "lemma": "thus",
+   "senses": [
+    "thus.r.02",
+    "therefore.r.01"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.3952867016096544
+  },
+  {
+   "word": "white",
+   "lemma": "white",
+   "senses": [
+    "white.a.01",
+    "white.a.02"
+   ],
+   "n_per_sense": 15,
+   "mean_target_rel_pos": 0.4901173229896812
+  },
+  {
+   "word": "asked",
+   "lemma": "ask",
+   "senses": [
+    "ask.v.01",
+    "ask.v.02"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.46785696728386333
+  },
+  {
+   "word": "cost",
+   "lemma": "cost",
+   "senses": [
+    "cost.n.01",
+    "cost.v.01"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.45410906684817565
+  },
+  {
+   "word": "english",
+   "lemma": "english",
+   "senses": [
+    "english.a.01",
+    "english.n.01"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.49592019698991435
+  },
+  {
+   "word": "far",
+   "lemma": "far",
+   "senses": [
+    "far.r.01",
+    "far.r.02"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.4633383100966852
+  },
+  {
+   "word": "feeling",
+   "lemma": "feeling",
+   "senses": [
+    "impression.n.01",
+    "feeling.n.01"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.44057297845366816
+  },
+  {
+   "word": "law",
+   "lemma": "law",
+   "senses": [
+    "law.n.01",
+    "law.n.02"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.48454258071917666
+  },
+  {
+   "word": "level",
+   "lemma": "level",
+   "senses": [
+    "degree.n.01",
+    "grade.n.02"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.4743874188141228
+  },
+  {
+   "word": "performance",
+   "lemma": "performance",
+   "senses": [
+    "performance.n.01",
+    "performance.n.02"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.46673245067971836
+  },
+  {
+   "word": "policy",
+   "lemma": "policy",
+   "senses": [
+    "policy.n.02",
+    "policy.n.01"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.5381948061549349
+  },
+  {
+   "word": "program",
+   "lemma": "program",
+   "senses": [
+    "program.n.02",
+    "plan.n.01"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.44505801966060565
+  },
+  {
+   "word": "rate",
+   "lemma": "rate",
+   "senses": [
+    "rate.n.02",
+    "rate.n.01"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.4802500308731685
+  },
+  {
+   "word": "requirements",
+   "lemma": "requirement",
+   "senses": [
+    "necessity.n.02",
+    "requirement.n.01"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.4672163017387813
+  },
+  {
+   "word": "stage",
+   "lemma": "stage",
+   "senses": [
+    "phase.n.01",
+    "stage.n.03"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.5196519442589419
+  },
+  {
+   "word": "system",
+   "lemma": "system",
+   "senses": [
+    "system.n.02",
+    "system.n.01"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.4740293398624753
+  },
+  {
+   "word": "time",
+   "lemma": "time",
+   "senses": [
+    "time.n.02",
+    "time.n.01"
+   ],
+   "n_per_sense": 14,
+   "mean_target_rel_pos": 0.37818518928696554
+  },
+  {
+   "word": "below",
+   "lemma": "below",
+   "senses": [
+    "below.r.01",
+    "below.r.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5735173483806704
+  },
+  {
+   "word": "best",
+   "lemma": "best",
+   "senses": [
+    "best.a.01",
+    "best.r.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.4819711280953815
+  },
+  {
+   "word": "common",
+   "lemma": "common",
+   "senses": [
+    "common.a.01",
+    "common.a.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.46728398487455713
+  },
+  {
+   "word": "day",
+   "lemma": "day",
+   "senses": [
+    "day.n.01",
+    "day.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.41862910147945664
+  },
+  {
+   "word": "developed",
+   "lemma": "develop",
+   "senses": [
+    "develop.v.01",
+    "evolve.v.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.4120245414507563
+  },
+  {
+   "word": "dust",
+   "lemma": "dust",
+   "senses": [
+    "dust.n.01",
+    "debris.n.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5537045143149775
+  },
+  {
+   "word": "fact",
+   "lemma": "fact",
+   "senses": [
+    "fact.n.01",
+    "fact.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.3575267344054245
+  },
+  {
+   "word": "film",
+   "lemma": "film",
+   "senses": [
+    "film.n.02",
+    "movie.n.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5287114179649675
+  },
+  {
+   "word": "floor",
+   "lemma": "floor",
+   "senses": [
+    "floor.n.01",
+    "floor.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.6251560424214087
+  },
+  {
+   "word": "game",
+   "lemma": "game",
+   "senses": [
+    "game.n.02",
+    "game.n.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.4826810287620634
+  },
+  {
+   "word": "half",
+   "lemma": "half",
+   "senses": [
+    "one-half.n.01",
+    "half.r.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.4680495746443015
+  },
+  {
+   "word": "heard",
+   "lemma": "hear",
+   "senses": [
+    "hear.v.01",
+    "learn.v.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.3378186312442321
+  },
+  {
+   "word": "help",
+   "lemma": "help",
+   "senses": [
+    "help.v.01",
+    "help.v.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5597595976456055
+  },
+  {
+   "word": "individual",
+   "lemma": "individual",
+   "senses": [
+    "individual.a.01",
+    "person.n.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5169302046327373
+  },
+  {
+   "word": "low",
+   "lemma": "low",
+   "senses": [
+    "low.a.01",
+    "low.a.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.3992303205241235
+  },
+  {
+   "word": "man",
+   "lemma": "man",
+   "senses": [
+    "man.n.01",
+    "man.n.03"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.36749169983902924
+  },
+  {
+   "word": "mind",
+   "lemma": "mind",
+   "senses": [
+    "mind.n.01",
+    "mind.v.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.4102209554657137
+  },
+  {
+   "word": "money",
+   "lemma": "money",
+   "senses": [
+    "money.n.01",
+    "money.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5182570713504138
+  },
+  {
+   "word": "months",
+   "lemma": "month",
+   "senses": [
+    "calendar_month.n.01",
+    "month.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5454128593684338
+  },
+  {
+   "word": "news",
+   "lemma": "news",
+   "senses": [
+    "news.n.01",
+    "news.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.43574450473888954
+  },
+  {
+   "word": "obtained",
+   "lemma": "obtain",
+   "senses": [
+    "obtain.v.01",
+    "receive.v.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.47861792876233644
+  },
+  {
+   "word": "proposed",
+   "lemma": "propose",
+   "senses": [
+    "propose.v.01",
+    "project.v.08"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.287826776676978
+  },
+  {
+   "word": "quickly",
+   "lemma": "quickly",
+   "senses": [
+    "quickly.r.01",
+    "promptly.r.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.47578912451262967
+  },
+  {
+   "word": "reality",
+   "lemma": "reality",
+   "senses": [
+    "world.n.03",
+    "reality.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5806873713583627
+  },
+  {
+   "word": "reported",
+   "lemma": "report",
+   "senses": [
+    "report.v.01",
+    "report.v.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.39665830322309936
+  },
+  {
+   "word": "right",
+   "lemma": "right",
+   "senses": [
+    "right.a.01",
+    "right.n.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5299208984096401
+  },
+  {
+   "word": "side",
+   "lemma": "side",
+   "senses": [
+    "side.n.01",
+    "side.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5227400258669171
+  },
+  {
+   "word": "south",
+   "lemma": "south",
+   "senses": [
+    "south.n.01",
+    "south.a.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5333590461983099
+  },
+  {
+   "word": "stopped",
+   "lemma": "stop",
+   "senses": [
+    "stop.v.01",
+    "discontinue.v.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.40277922058285365
+  },
+  {
+   "word": "structure",
+   "lemma": "structure",
+   "senses": [
+    "structure.n.01",
+    "structure.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.4956433577084016
+  },
+  {
+   "word": "top",
+   "lemma": "top",
+   "senses": [
+    "top.n.01",
+    "top.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.45519565680891777
+  },
+  {
+   "word": "trouble",
+   "lemma": "trouble",
+   "senses": [
+    "trouble.n.01",
+    "fuss.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.4894174799639251
+  },
+  {
+   "word": "understand",
+   "lemma": "understand",
+   "senses": [
+    "understand.v.02",
+    "understand.v.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.5035523961599527
+  },
+  {
+   "word": "word",
+   "lemma": "word",
+   "senses": [
+    "word.n.01",
+    "word.n.02"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.4702917571038077
+  },
+  {
+   "word": "yet",
+   "lemma": "yet",
+   "senses": [
+    "yet.r.01",
+    "so_far.r.01"
+   ],
+   "n_per_sense": 13,
+   "mean_target_rel_pos": 0.4994168679911307
+  },
+  {
+   "word": "act",
+   "lemma": "act",
+   "senses": [
+    "act.n.01",
+    "act.v.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.5263094598959641
+  },
+  {
+   "word": "action",
+   "lemma": "action",
+   "senses": [
+    "action.n.01",
+    "action.n.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.49780644452730133
+  },
+  {
+   "word": "air",
+   "lemma": "air",
+   "senses": [
+    "air.n.01",
+    "air.n.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.6102372805270343
+  },
+  {
+   "word": "art",
+   "lemma": "art",
+   "senses": [
+    "art.n.01",
+    "art.n.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.6035331012659509
+  },
+  {
+   "word": "case",
+   "lemma": "case",
+   "senses": [
+    "event.n.02",
+    "case.n.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.36362752809924853
+  },
+  {
+   "word": "church",
+   "lemma": "church",
+   "senses": [
+    "church.n.02",
+    "church.n.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.5521986226897501
+  },
+  {
+   "word": "conducted",
+   "lemma": "conduct",
+   "senses": [
+    "conduct.v.01",
+    "conduct.v.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.43244228155076225
+  },
+  {
+   "word": "distribution",
+   "lemma": "distribution",
+   "senses": [
+    "distribution.n.01",
+    "distribution.n.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.5161033935947209
+  },
+  {
+   "word": "dropped",
+   "lemma": "drop",
+   "senses": [
+    "drop.v.01",
+    "drop.v.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.46098884313218685
+  },
+  {
+   "word": "enough",
+   "lemma": "enough",
+   "senses": [
+    "enough.r.01",
+    "enough.n.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.45485947040954083
+  },
+  {
+   "word": "extent",
+   "lemma": "extent",
+   "senses": [
+    "extent.n.01",
+    "extent.n.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.4323053495737273
+  },
+  {
+   "word": "field",
+   "lemma": "field",
+   "senses": [
+    "field.n.03",
+    "discipline.n.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.5177322242646497
+  },
+  {
+   "word": "found",
+   "lemma": "find",
+   "senses": [
+    "detect.v.01",
+    "find.v.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.372730203604704
+  },
+  {
+   "word": "feet",
+   "lemma": "foot",
+   "senses": [
+    "foot.n.02",
+    "foot.n.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.6171803128160744
+  },
+  {
+   "word": "form",
+   "lemma": "form",
+   "senses": [
+    "kind.n.01",
+    "form.n.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.5161949710047911
+  },
+  {
+   "word": "hard",
+   "lemma": "hard",
+   "senses": [
+    "difficult.a.01",
+    "hard.a.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.39414416938751545
+  },
+  {
+   "word": "industry",
+   "lemma": "industry",
+   "senses": [
+    "industry.n.01",
+    "industry.n.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.4435565163378967
+  },
+  {
+   "word": "instead",
+   "lemma": "instead",
+   "senses": [
+    "alternatively.r.01",
+    "rather.r.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.5564603734052793
+  },
+  {
+   "word": "intensity",
+   "lemma": "intensity",
+   "senses": [
+    "intensity.n.01",
+    "intensity.n.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.4505119683959859
+  },
+  {
+   "word": "matter",
+   "lemma": "matter",
+   "senses": [
+    "matter.n.01",
+    "topic.n.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.48688461651627596
+  },
+  {
+   "word": "mentioned",
+   "lemma": "mention",
+   "senses": [
+    "mention.v.01",
+    "note.v.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.51539148734336
+  },
+  {
+   "word": "office",
+   "lemma": "office",
+   "senses": [
+    "office.n.01",
+    "agency.n.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.5090385825466356
+  },
+  {
+   "word": "part",
+   "lemma": "part",
+   "senses": [
+    "part.n.01",
+    "part.n.03"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.4336658537357006
+  },
+  {
+   "word": "party",
+   "lemma": "party",
+   "senses": [
+    "party.n.01",
+    "party.n.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.4981122237130586
+  },
+  {
+   "word": "passed",
+   "lemma": "pass",
+   "senses": [
+    "travel_by.v.01",
+    "legislate.v.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.2882076281786299
+  },
+  {
+   "word": "prevent",
+   "lemma": "prevent",
+   "senses": [
+    "prevent.v.01",
+    "prevent.v.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.4966689666997755
+  },
+  {
+   "word": "quality",
+   "lemma": "quality",
+   "senses": [
+    "quality.n.01",
+    "quality.n.02"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.492744907883708
+  },
+  {
+   "word": "remember",
+   "lemma": "remember",
+   "senses": [
+    "remember.v.02",
+    "remember.v.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.3898771941198305
+  },
+  {
+   "word": "sample",
+   "lemma": "sample",
+   "senses": [
+    "sample.n.01",
+    "sample_distribution.n.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.4588510864623149
+  },
+  {
+   "word": "sent",
+   "lemma": "send",
+   "senses": [
+    "send.v.02",
+    "send.v.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.3751254710087147
+  },
+  {
+   "word": "space",
+   "lemma": "space",
+   "senses": [
+    "space.n.01",
+    "space.n.03"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.46944191588871753
+  },
+  {
+   "word": "success",
+   "lemma": "success",
+   "senses": [
+    "success.n.02",
+    "success.n.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.5586518180136316
+  },
+  {
+   "word": "treated",
+   "lemma": "treat",
+   "senses": [
+    "treat.v.01",
+    "process.v.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.421820052958489
+  },
+  {
+   "word": "work",
+   "lemma": "work",
+   "senses": [
+    "work.n.01",
+    "work.v.01"
+   ],
+   "n_per_sense": 12,
+   "mean_target_rel_pos": 0.6145975876322239
+  },
+  {
+   "word": "avoid",
+   "lemma": "avoid",
+   "senses": [
+    "debar.v.02",
+    "avoid.v.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.45742858134273373
+  },
+  {
+   "word": "captain",
+   "lemma": "captain",
+   "senses": [
+    "captain.n.02",
+    "captain.n.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.42790594250922304
+  },
+  {
+   "word": "caused",
+   "lemma": "cause",
+   "senses": [
+    "cause.v.01",
+    "induce.v.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.3716039194254787
+  },
+  {
+   "word": "character",
+   "lemma": "character",
+   "senses": [
+    "character.n.03",
+    "quality.n.03"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.555621878206361
+  },
+  {
+   "word": "company",
+   "lemma": "company",
+   "senses": [
+    "company.n.01",
+    "company.n.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.49033267316007195
+  },
+  {
+   "word": "covered",
+   "lemma": "cover",
+   "senses": [
+    "cover.v.01",
+    "cover.v.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.4563544498749899
+  },
+  {
+   "word": "declared",
+   "lemma": "declare",
+   "senses": [
+    "declare.v.01",
+    "announce.v.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.4130533526002109
+  },
+  {
+   "word": "deny",
+   "lemma": "deny",
+   "senses": [
+    "deny.v.02",
+    "deny.v.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.45138047161292083
+  },
+  {
+   "word": "discussed",
+   "lemma": "discuss",
+   "senses": [
+    "discourse.v.01",
+    "hash_out.v.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.4858026531065834
+  },
+  {
+   "word": "example",
+   "lemma": "example",
+   "senses": [
+    "example.n.01",
+    "model.n.07"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.3193099961352937
+  },
+  {
+   "word": "feed",
+   "lemma": "feed",
+   "senses": [
+    "feed.n.01",
+    "feed.v.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.42041054852337606
+  },
+  {
+   "word": "followed",
+   "lemma": "follow",
+   "senses": [
+    "follow.v.01",
+    "postdate.v.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.3158118754031301
+  },
+  {
+   "word": "gas",
+   "lemma": "gas",
+   "senses": [
+    "gas.n.02",
+    "gas.n.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.43838621990335047
+  },
+  {
+   "word": "god",
+   "lemma": "god",
+   "senses": [
+    "god.n.01",
+    "deity.n.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.42097172181449805
+  },
+  {
+   "word": "hour",
+   "lemma": "hour",
+   "senses": [
+    "hour.n.02",
+    "hour.n.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.522355698059277
+  },
+  {
+   "word": "military",
+   "lemma": "military",
+   "senses": [
+    "military.a.01",
+    "military.a.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.5266663181396466
+  },
+  {
+   "word": "particles",
+   "lemma": "particle",
+   "senses": [
+    "atom.n.02",
+    "particle.n.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.4285627191349374
+  },
+  {
+   "word": "pattern",
+   "lemma": "pattern",
+   "senses": [
+    "practice.n.01",
+    "form.n.03"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.5069928070281021
+  },
+  {
+   "word": "political",
+   "lemma": "political",
+   "senses": [
+    "political.a.01",
+    "political.a.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.5030938706858191
+  },
+  {
+   "word": "power",
+   "lemma": "power",
+   "senses": [
+    "power.n.01",
+    "power.n.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.37876503710813636
+  },
+  {
+   "word": "problem",
+   "lemma": "problem",
+   "senses": [
+    "problem.n.02",
+    "problem.n.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.5098286873285421
+  },
+  {
+   "word": "products",
+   "lemma": "product",
+   "senses": [
+    "product.n.02",
+    "merchandise.n.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.5403018351065985
+  },
+  {
+   "word": "question",
+   "lemma": "question",
+   "senses": [
+    "question.n.02",
+    "question.n.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.33585074939842124
+  },
+  {
+   "word": "radiation",
+   "lemma": "radiation",
+   "senses": [
+    "radiation.n.01",
+    "radiation.n.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.5190644800776697
+  },
+  {
+   "word": "reached",
+   "lemma": "reach",
+   "senses": [
+    "reach.v.01",
+    "reach.v.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.2882714538643201
+  },
+  {
+   "word": "real",
+   "lemma": "real",
+   "senses": [
+    "real.a.01",
+    "real.a.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.49271068597752465
+  },
+  {
+   "word": "sales",
+   "lemma": "sale",
+   "senses": [
+    "sale.n.02",
+    "sale.n.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.37433335551453123
+  },
+  {
+   "word": "scientific",
+   "lemma": "scientific",
+   "senses": [
+    "scientific.a.01",
+    "scientific.a.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.543829308016035
+  },
+  {
+   "word": "short",
+   "lemma": "short",
+   "senses": [
+    "short.a.01",
+    "short.a.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.41653057841419394
+  },
+  {
+   "word": "supply",
+   "lemma": "supply",
+   "senses": [
+    "supply.n.01",
+    "supply.v.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.4917616766172538
+  },
+  {
+   "word": "sure",
+   "lemma": "sure",
+   "senses": [
+    "certain.a.02",
+    "surely.r.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.28375013242692915
+  },
+  {
+   "word": "task",
+   "lemma": "task",
+   "senses": [
+    "undertaking.n.01",
+    "job.n.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.45934930521882456
+  },
+  {
+   "word": "theory",
+   "lemma": "theory",
+   "senses": [
+    "theory.n.01",
+    "hypothesis.n.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.3779247810813478
+  },
+  {
+   "word": "thin",
+   "lemma": "thin",
+   "senses": [
+    "thin.a.02",
+    "thin.a.01"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.4053311213789819
+  },
+  {
+   "word": "trade",
+   "lemma": "trade",
+   "senses": [
+    "trade.n.01",
+    "trade.n.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.5651902672566695
+  },
+  {
+   "word": "very",
+   "lemma": "very",
+   "senses": [
+    "very.r.01",
+    "very.r.02"
+   ],
+   "n_per_sense": 11,
+   "mean_target_rel_pos": 0.5892521883277798
+  },
+  {
+   "word": "appreciate",
+   "lemma": "appreciate",
+   "senses": [
+    "appreciate.v.01",
+    "appreciate.v.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.4513600723630254
+  },
+  {
+   "word": "argument",
+   "lemma": "argument",
+   "senses": [
+    "argument.n.01",
+    "controversy.n.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5406309188024426
+  },
+  {
+   "word": "believe",
+   "lemma": "believe",
+   "senses": [
+    "believe.v.01",
+    "think.v.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.363191580918602
+  },
+  {
+   "word": "brought",
+   "lemma": "bring",
+   "senses": [
+    "bring.v.01",
+    "bring.v.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.4858013055726943
+  },
+  {
+   "word": "cells",
+   "lemma": "cell",
+   "senses": [
+    "cell.n.02",
+    "cell.n.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.3500396834337146
+  },
+  {
+   "word": "children",
+   "lemma": "child",
+   "senses": [
+    "child.n.02",
+    "child.n.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5224726762611138
+  },
+  {
+   "word": "contrast",
+   "lemma": "contrast",
+   "senses": [
+    "contrast.n.01",
+    "contrast.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.3690988304720046
+  },
+  {
+   "word": "country",
+   "lemma": "country",
+   "senses": [
+    "country.n.02",
+    "state.n.04"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5469004830291347
+  },
+  {
+   "word": "directly",
+   "lemma": "directly",
+   "senses": [
+    "directly.r.01",
+    "directly.r.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5978916904200114
+  },
+  {
+   "word": "downtown",
+   "lemma": "downtown",
+   "senses": [
+    "business_district.n.01",
+    "downtown.a.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.4855398819738827
+  },
+  {
+   "word": "even",
+   "lemma": "even",
+   "senses": [
+    "even.r.01",
+    "even.r.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.42794685632864854
+  },
+  {
+   "word": "failed",
+   "lemma": "fail",
+   "senses": [
+    "fail.v.01",
+    "fail.v.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.4034214768193095
+  },
+  {
+   "word": "female",
+   "lemma": "female",
+   "senses": [
+    "female.a.01",
+    "female.n.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.396701997522037
+  },
+  {
+   "word": "function",
+   "lemma": "function",
+   "senses": [
+    "function.n.01",
+    "function.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.40451633008511634
+  },
+  {
+   "word": "future",
+   "lemma": "future",
+   "senses": [
+    "future.n.01",
+    "future.a.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.6629238388134053
+  },
+  {
+   "word": "generally",
+   "lemma": "generally",
+   "senses": [
+    "by_and_large.r.01",
+    "generally.r.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5062005374227776
+  },
+  {
+   "word": "glass",
+   "lemma": "glass",
+   "senses": [
+    "glass.n.01",
+    "glass.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.601503061927399
+  },
+  {
+   "word": "involved",
+   "lemma": "involve",
+   "senses": [
+    "involve.v.02",
+    "involve.v.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5157520752137106
+  },
+  {
+   "word": "kept",
+   "lemma": "keep",
+   "senses": [
+    "keep.v.01",
+    "continue.v.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.27346292002420747
+  },
+  {
+   "word": "manner",
+   "lemma": "manner",
+   "senses": [
+    "manner.n.01",
+    "manner.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5752821063052895
+  },
+  {
+   "word": "maturity",
+   "lemma": "maturity",
+   "senses": [
+    "adulthood.n.01",
+    "maturity.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.3560692314787111
+  },
+  {
+   "word": "mouth",
+   "lemma": "mouth",
+   "senses": [
+    "mouth.n.01",
+    "mouth.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.519157487455377
+  },
+  {
+   "word": "music",
+   "lemma": "music",
+   "senses": [
+    "music.n.01",
+    "music.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.525418436340493
+  },
+  {
+   "word": "operate",
+   "lemma": "operate",
+   "senses": [
+    "operate.v.01",
+    "function.v.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.4814823347526941
+  },
+  {
+   "word": "pay",
+   "lemma": "pay",
+   "senses": [
+    "pay.v.01",
+    "give.v.05"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5030929733176916
+  },
+  {
+   "word": "permit",
+   "lemma": "permit",
+   "senses": [
+    "let.v.01",
+    "permit.v.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5864007063497687
+  },
+  {
+   "word": "picture",
+   "lemma": "picture",
+   "senses": [
+    "picture.n.01",
+    "painting.n.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.4300516153900005
+  },
+  {
+   "word": "production",
+   "lemma": "production",
+   "senses": [
+    "production.n.01",
+    "production.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.4658130679411051
+  },
+  {
+   "word": "purpose",
+   "lemma": "purpose",
+   "senses": [
+    "purpose.n.01",
+    "function.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.4261190531253664
+  },
+  {
+   "word": "realize",
+   "lemma": "realize",
+   "senses": [
+    "recognize.v.02",
+    "understand.v.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.30947109901843883
+  },
+  {
+   "word": "recognize",
+   "lemma": "recognize",
+   "senses": [
+    "acknowledge.v.06",
+    "spot.v.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.4880239541703899
+  },
+  {
+   "word": "said",
+   "lemma": "say",
+   "senses": [
+    "state.v.01",
+    "allege.v.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.35319553341116666
+  },
+  {
+   "word": "snow",
+   "lemma": "snow",
+   "senses": [
+    "snow.n.01",
+    "snow.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.43798040457217524
+  },
+  {
+   "word": "suggested",
+   "lemma": "suggest",
+   "senses": [
+    "propose.v.01",
+    "hint.v.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5123461448403697
+  },
+  {
+   "word": "sun",
+   "lemma": "sun",
+   "senses": [
+    "sun.n.01",
+    "sunlight.n.01"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5765024385766806
+  },
+  {
+   "word": "technical",
+   "lemma": "technical",
+   "senses": [
+    "technical.a.01",
+    "technical.a.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.29377877875804087
+  },
+  {
+   "word": "told",
+   "lemma": "tell",
+   "senses": [
+    "state.v.01",
+    "tell.v.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.33313935626050856
+  },
+  {
+   "word": "university",
+   "lemma": "university",
+   "senses": [
+    "university.n.01",
+    "university.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5470015941944231
+  },
+  {
+   "word": "west",
+   "lemma": "west",
+   "senses": [
+    "west.n.01",
+    "west.n.02"
+   ],
+   "n_per_sense": 10,
+   "mean_target_rel_pos": 0.5819567549016907
+  },
+  {
+   "word": "accepted",
+   "lemma": "accept",
+   "senses": [
+    "accept.v.01",
+    "accept.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5027097515313336
+  },
+  {
+   "word": "actually",
+   "lemma": "actually",
+   "senses": [
+    "actually.r.01",
+    "actually.r.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4847760960229082
+  },
+  {
+   "word": "added",
+   "lemma": "add",
+   "senses": [
+    "add.v.02",
+    "add.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.39100695390147233
+  },
+  {
+   "word": "aid",
+   "lemma": "aid",
+   "senses": [
+    "help.v.01",
+    "aid.n.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4118807914654573
+  },
+  {
+   "word": "announced",
+   "lemma": "announce",
+   "senses": [
+    "announce.v.01",
+    "announce.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4924704705174989
+  },
+  {
+   "word": "areas",
+   "lemma": "area",
+   "senses": [
+    "area.n.01",
+    "area.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5053044353958865
+  },
+  {
+   "word": "aspects",
+   "lemma": "aspect",
+   "senses": [
+    "aspect.n.01",
+    "aspect.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4549777381549305
+  },
+  {
+   "word": "called",
+   "lemma": "call",
+   "senses": [
+    "name.v.01",
+    "call.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4911565803139968
+  },
+  {
+   "word": "clearly",
+   "lemma": "clearly",
+   "senses": [
+    "clearly.r.01",
+    "intelligibly.r.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5535020264760366
+  },
+  {
+   "word": "cold",
+   "lemma": "cold",
+   "senses": [
+    "cold.a.01",
+    "cold.a.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5711714606677196
+  },
+  {
+   "word": "completely",
+   "lemma": "completely",
+   "senses": [
+    "wholly.r.01",
+    "completely.r.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.45834348633108707
+  },
+  {
+   "word": "continued",
+   "lemma": "continue",
+   "senses": [
+    "continue.v.02",
+    "continue.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.40209020320707883
+  },
+  {
+   "word": "corner",
+   "lemma": "corner",
+   "senses": [
+    "corner.n.01",
+    "corner.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.41745863149187623
+  },
+  {
+   "word": "culture",
+   "lemma": "culture",
+   "senses": [
+    "culture.n.01",
+    "culture.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.540917062199534
+  },
+  {
+   "word": "demonstrated",
+   "lemma": "demonstrate",
+   "senses": [
+    "prove.v.02",
+    "show.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.3851417816935058
+  },
+  {
+   "word": "described",
+   "lemma": "describe",
+   "senses": [
+    "report.v.01",
+    "describe.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.42922532480646003
+  },
+  {
+   "word": "destroy",
+   "lemma": "destroy",
+   "senses": [
+    "destroy.v.01",
+    "destroy.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.44509186978470133
+  },
+  {
+   "word": "direction",
+   "lemma": "direction",
+   "senses": [
+    "direction.n.02",
+    "direction.n.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5661360315856986
+  },
+  {
+   "word": "dirt",
+   "lemma": "dirt",
+   "senses": [
+    "soil.n.02",
+    "dirt.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.525685262148814
+  },
+  {
+   "word": "education",
+   "lemma": "education",
+   "senses": [
+    "education.n.01",
+    "education.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5340339670316574
+  },
+  {
+   "word": "effort",
+   "lemma": "effort",
+   "senses": [
+    "attempt.n.01",
+    "effort.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4641900279204651
+  },
+  {
+   "word": "established",
+   "lemma": "establish",
+   "senses": [
+    "establish.v.02",
+    "establish.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4696225930989708
+  },
+  {
+   "word": "ever",
+   "lemma": "ever",
+   "senses": [
+    "ever.r.01",
+    "always.r.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.565826800400577
+  },
+  {
+   "word": "expected",
+   "lemma": "expect",
+   "senses": [
+    "expect.v.01",
+    "ask.v.04"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.45555269251977937
+  },
+  {
+   "word": "face",
+   "lemma": "face",
+   "senses": [
+    "face.n.01",
+    "confront.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.57681902851859
+  },
+  {
+   "word": "fell",
+   "lemma": "fall",
+   "senses": [
+    "fall.v.01",
+    "fall.v.03"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5355122211431138
+  },
+  {
+   "word": "fear",
+   "lemma": "fear",
+   "senses": [
+    "fear.v.01",
+    "fear.n.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5080689390756172
+  },
+  {
+   "word": "felt",
+   "lemma": "feel",
+   "senses": [
+    "find.v.05",
+    "feel.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4360827783754224
+  },
+  {
+   "word": "finished",
+   "lemma": "finish",
+   "senses": [
+    "complete.v.01",
+    "finish_up.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.27723221525018027
+  },
+  {
+   "word": "foreign",
+   "lemma": "foreign",
+   "senses": [
+    "foreign.a.01",
+    "foreign.a.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4492993205674489
+  },
+  {
+   "word": "girl",
+   "lemma": "girl",
+   "senses": [
+    "female_child.n.01",
+    "girl.n.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.3449633948242976
+  },
+  {
+   "word": "good",
+   "lemma": "good",
+   "senses": [
+    "good.a.01",
+    "good.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5435860768082006
+  },
+  {
+   "word": "hall",
+   "lemma": "hall",
+   "senses": [
+    "hallway.n.01",
+    "anteroom.n.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.6095535041280479
+  },
+  {
+   "word": "hero",
+   "lemma": "hero",
+   "senses": [
+    "hero.n.01",
+    "hero.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4109959591234975
+  },
+  {
+   "word": "held",
+   "lemma": "hold",
+   "senses": [
+    "hold.v.03",
+    "keep.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4623356612245805
+  },
+  {
+   "word": "influence",
+   "lemma": "influence",
+   "senses": [
+    "influence.n.01",
+    "influence.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5783885019506537
+  },
+  {
+   "word": "inside",
+   "lemma": "inside",
+   "senses": [
+    "inside.r.01",
+    "inside.r.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5091584611904456
+  },
+  {
+   "word": "introduced",
+   "lemma": "introduce",
+   "senses": [
+    "introduce.v.01",
+    "introduce.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.41965259538106164
+  },
+  {
+   "word": "know",
+   "lemma": "know",
+   "senses": [
+    "know.v.02",
+    "know.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.3666440174764909
+  },
+  {
+   "word": "last",
+   "lemma": "last",
+   "senses": [
+    "last.a.02",
+    "last.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4848761704771477
+  },
+  {
+   "word": "learned",
+   "lemma": "learn",
+   "senses": [
+    "learn.v.02",
+    "learn.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.44053587439799125
+  },
+  {
+   "word": "lay",
+   "lemma": "lie",
+   "senses": [
+    "lie.v.01",
+    "lie.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.41258531883519417
+  },
+  {
+   "word": "light",
+   "lemma": "light",
+   "senses": [
+    "light.n.01",
+    "light.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.6299590006703383
+  },
+  {
+   "word": "line",
+   "lemma": "line",
+   "senses": [
+    "line.n.02",
+    "line.n.03"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4996110924186879
+  },
+  {
+   "word": "mass",
+   "lemma": "mass",
+   "senses": [
+    "mass.n.01",
+    "mass.n.04"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4468919422609798
+  },
+  {
+   "word": "memory",
+   "lemma": "memory",
+   "senses": [
+    "memory.n.02",
+    "memory.n.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.48766625342442155
+  },
+  {
+   "word": "north",
+   "lemma": "north",
+   "senses": [
+    "north.n.01",
+    "north.r.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.6558864777717253
+  },
+  {
+   "word": "noted",
+   "lemma": "note",
+   "senses": [
+    "note.v.01",
+    "notice.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.29963350673322847
+  },
+  {
+   "word": "noticed",
+   "lemma": "notice",
+   "senses": [
+    "detect.v.01",
+    "notice.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4067820263493905
+  },
+  {
+   "word": "observed",
+   "lemma": "observe",
+   "senses": [
+    "detect.v.01",
+    "note.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.44857537137855413
+  },
+  {
+   "word": "paused",
+   "lemma": "pause",
+   "senses": [
+    "hesitate.v.02",
+    "pause.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.30551022052718013
+  },
+  {
+   "word": "piece",
+   "lemma": "piece",
+   "senses": [
+    "piece.n.01",
+    "piece.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.44039783987483805
+  },
+  {
+   "word": "plane",
+   "lemma": "plane",
+   "senses": [
+    "airplane.n.01",
+    "plane.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5190595284508807
+  },
+  {
+   "word": "position",
+   "lemma": "position",
+   "senses": [
+    "position.n.01",
+    "position.n.03"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5075997500740032
+  },
+  {
+   "word": "prepared",
+   "lemma": "prepare",
+   "senses": [
+    "fix.v.12",
+    "cook.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4020353165565076
+  },
+  {
+   "word": "professional",
+   "lemma": "professional",
+   "senses": [
+    "professional.a.01",
+    "professional.a.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4755974987645631
+  },
+  {
+   "word": "published",
+   "lemma": "publish",
+   "senses": [
+    "print.v.01",
+    "publish.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5075330030493088
+  },
+  {
+   "word": "raised",
+   "lemma": "raise",
+   "senses": [
+    "raise.v.02",
+    "raise.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5162359512534139
+  },
+  {
+   "word": "received",
+   "lemma": "receive",
+   "senses": [
+    "receive.v.01",
+    "receive.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.3165807873380557
+  },
+  {
+   "word": "religion",
+   "lemma": "religion",
+   "senses": [
+    "religion.n.01",
+    "religion.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.47657571457112546
+  },
+  {
+   "word": "result",
+   "lemma": "result",
+   "senses": [
+    "consequence.n.01",
+    "result.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.417944007373279
+  },
+  {
+   "word": "room",
+   "lemma": "room",
+   "senses": [
+    "room.n.01",
+    "room.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.37288902341932995
+  },
+  {
+   "word": "scale",
+   "lemma": "scale",
+   "senses": [
+    "scale.n.02",
+    "scale.n.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.6086752046454161
+  },
+  {
+   "word": "secretary",
+   "lemma": "secretary",
+   "senses": [
+    "secretary.n.02",
+    "secretary.n.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.38981176272801216
+  },
+  {
+   "word": "seek",
+   "lemma": "seek",
+   "senses": [
+    "search.v.01",
+    "seek.v.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4703310124878752
+  },
+  {
+   "word": "shot",
+   "lemma": "shot",
+   "senses": [
+    "shooting.n.01",
+    "shot.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4707899504389068
+  },
+  {
+   "word": "simply",
+   "lemma": "simply",
+   "senses": [
+    "merely.r.01",
+    "just.r.04"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.46290408439798675
+  },
+  {
+   "word": "sat",
+   "lemma": "sit",
+   "senses": [
+    "sit.v.01",
+    "sit.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.312719496340186
+  },
+  {
+   "word": "soil",
+   "lemma": "soil",
+   "senses": [
+    "soil.n.02",
+    "dirt.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4884067416171468
+  },
+  {
+   "word": "staining",
+   "lemma": "staining",
+   "senses": [
+    "staining.n.01",
+    "staining.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4634636426101232
+  },
+  {
+   "word": "started",
+   "lemma": "start",
+   "senses": [
+    "get_down.v.07",
+    "begin.v.03"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.43887665754892446
+  },
+  {
+   "word": "stay",
+   "lemma": "stay",
+   "senses": [
+    "stay.v.01",
+    "stay.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5134450718733578
+  },
+  {
+   "word": "struck",
+   "lemma": "strike",
+   "senses": [
+    "strike.v.01",
+    "affect.v.05"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.4657430533066125
+  },
+  {
+   "word": "things",
+   "lemma": "thing",
+   "senses": [
+    "thing.n.02",
+    "thing.n.01"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5137971205210494
+  },
+  {
+   "word": "tomorrow",
+   "lemma": "tomorrow",
+   "senses": [
+    "tomorrow.n.01",
+    "tomorrow.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5125415004810931
+  },
+  {
+   "word": "volume",
+   "lemma": "volume",
+   "senses": [
+    "volume.n.01",
+    "bulk.n.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.42645606407020586
+  },
+  {
+   "word": "win",
+   "lemma": "win",
+   "senses": [
+    "win.v.01",
+    "acquire.v.05"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.55640967275958
+  },
+  {
+   "word": "wish",
+   "lemma": "wish",
+   "senses": [
+    "wish.v.01",
+    "wish.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.38331319031479233
+  },
+  {
+   "word": "wondered",
+   "lemma": "wonder",
+   "senses": [
+    "wonder.v.01",
+    "wonder.v.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.21589683676896979
+  },
+  {
+   "word": "wrong",
+   "lemma": "wrong",
+   "senses": [
+    "incorrect.a.01",
+    "wrong.a.02"
+   ],
+   "n_per_sense": 9,
+   "mean_target_rel_pos": 0.5217694560215733
+  },
+  {
+   "word": "above",
+   "lemma": "above",
+   "senses": [
+    "above.r.01",
+    "above.r.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5855539801694154
+  },
+  {
+   "word": "appeal",
+   "lemma": "appeal",
+   "senses": [
+    "appeal.n.02",
+    "appeal.n.03"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5273135282786404
+  },
+  {
+   "word": "appeared",
+   "lemma": "appear",
+   "senses": [
+    "appear.v.02",
+    "look.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4034949945424551
+  },
+  {
+   "word": "around",
+   "lemma": "around",
+   "senses": [
+    "about.r.03",
+    "about.r.04"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5018742067138896
+  },
+  {
+   "word": "assigned",
+   "lemma": "assign",
+   "senses": [
+    "delegate.v.02",
+    "assign.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.47196802209964867
+  },
+  {
+   "word": "attention",
+   "lemma": "attention",
+   "senses": [
+    "attention.n.01",
+    "care.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5218960726129689
+  },
+  {
+   "word": "beginning",
+   "lemma": "beginning",
+   "senses": [
+    "beginning.n.01",
+    "beginning.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4862064615288935
+  },
+  {
+   "word": "blame",
+   "lemma": "blame",
+   "senses": [
+    "blame.v.01",
+    "blame.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5448271751529046
+  },
+  {
+   "word": "box",
+   "lemma": "box",
+   "senses": [
+    "box.n.01",
+    "box.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5605348410718703
+  },
+  {
+   "word": "boy",
+   "lemma": "boy",
+   "senses": [
+    "male_child.n.01",
+    "boy.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.434855301107804
+  },
+  {
+   "word": "briefly",
+   "lemma": "briefly",
+   "senses": [
+    "concisely.r.01",
+    "briefly.r.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5909537581393841
+  },
+  {
+   "word": "carried",
+   "lemma": "carry",
+   "senses": [
+    "carry.v.02",
+    "transport.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.45642095200536936
+  },
+  {
+   "word": "changed",
+   "lemma": "change",
+   "senses": [
+    "change.v.02",
+    "change.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5695918468669442
+  },
+  {
+   "word": "check",
+   "lemma": "check",
+   "senses": [
+    "check.n.01",
+    "check.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4436571812449544
+  },
+  {
+   "word": "choice",
+   "lemma": "choice",
+   "senses": [
+    "choice.n.01",
+    "choice.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.488012895010125
+  },
+  {
+   "word": "city",
+   "lemma": "city",
+   "senses": [
+    "city.n.02",
+    "city.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5063261287938114
+  },
+  {
+   "word": "concrete",
+   "lemma": "concrete",
+   "senses": [
+    "concrete.n.01",
+    "concrete.a.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4418602307744495
+  },
+  {
+   "word": "considered",
+   "lemma": "consider",
+   "senses": [
+    "see.v.05",
+    "study.v.03"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.46932254529077566
+  },
+  {
+   "word": "contributed",
+   "lemma": "contribute",
+   "senses": [
+    "contribute.v.02",
+    "lend.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.32174564141776163
+  },
+  {
+   "word": "control",
+   "lemma": "control",
+   "senses": [
+    "control.v.02",
+    "control.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5265159868956119
+  },
+  {
+   "word": "course",
+   "lemma": "course",
+   "senses": [
+    "course.n.03",
+    "course.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4751700810089388
+  },
+  {
+   "word": "created",
+   "lemma": "create",
+   "senses": [
+    "create.v.02",
+    "make.v.03"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.38946657109281924
+  },
+  {
+   "word": "current",
+   "lemma": "current",
+   "senses": [
+    "current.a.01",
+    "current.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5451311843118712
+  },
+  {
+   "word": "deep",
+   "lemma": "deep",
+   "senses": [
+    "deep.a.01",
+    "deep.a.03"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5048971242345945
+  },
+  {
+   "word": "democratic",
+   "lemma": "democratic",
+   "senses": [
+    "democratic.a.01",
+    "democratic.a.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.48368841212052155
+  },
+  {
+   "word": "difference",
+   "lemma": "difference",
+   "senses": [
+    "difference.n.01",
+    "deviation.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.3787986861464066
+  },
+  {
+   "word": "discovered",
+   "lemma": "discover",
+   "senses": [
+    "discover.v.03",
+    "learn.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.3286630497370249
+  },
+  {
+   "word": "domestic",
+   "lemma": "domestic",
+   "senses": [
+    "domestic.a.01",
+    "domestic.a.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.6206852478411399
+  },
+  {
+   "word": "drink",
+   "lemma": "drink",
+   "senses": [
+    "drink.n.01",
+    "drink.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.640420940406651
+  },
+  {
+   "word": "duty",
+   "lemma": "duty",
+   "senses": [
+    "duty.n.01",
+    "duty.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.6364860306158989
+  },
+  {
+   "word": "efficiency",
+   "lemma": "efficiency",
+   "senses": [
+    "efficiency.n.01",
+    "efficiency.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.41033244467360414
+  },
+  {
+   "word": "employed",
+   "lemma": "employ",
+   "senses": [
+    "hire.v.01",
+    "use.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5788531859304298
+  },
+  {
+   "word": "employment",
+   "lemma": "employment",
+   "senses": [
+    "employment.n.02",
+    "employment.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5509127941487733
+  },
+  {
+   "word": "entered",
+   "lemma": "enter",
+   "senses": [
+    "enter.v.02",
+    "enter.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.549137264625488
+  },
+  {
+   "word": "exception",
+   "lemma": "exception",
+   "senses": [
+    "exception.n.01",
+    "exception.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.3804774882776996
+  },
+  {
+   "word": "expressed",
+   "lemma": "express",
+   "senses": [
+    "express.v.02",
+    "express.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.3261744126099105
+  },
+  {
+   "word": "expression",
+   "lemma": "expression",
+   "senses": [
+    "expression.n.03",
+    "expression.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.6268439804257104
+  },
+  {
+   "word": "extension",
+   "lemma": "extension",
+   "senses": [
+    "extension.n.01",
+    "extension.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5198208856696855
+  },
+  {
+   "word": "fast",
+   "lemma": "fast",
+   "senses": [
+    "fast.r.01",
+    "fast.a.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4992426352857011
+  },
+  {
+   "word": "fight",
+   "lemma": "fight",
+   "senses": [
+    "contend.v.06",
+    "fight.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.564565220566306
+  },
+  {
+   "word": "file",
+   "lemma": "file",
+   "senses": [
+    "file.n.01",
+    "file.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5202524002907402
+  },
+  {
+   "word": "filled",
+   "lemma": "fill",
+   "senses": [
+    "fill.v.01",
+    "fill.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.31749035691417865
+  },
+  {
+   "word": "front",
+   "lemma": "front",
+   "senses": [
+    "front.a.01",
+    "front.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.39336408281061624
+  },
+  {
+   "word": "increase",
+   "lemma": "increase",
+   "senses": [
+    "increase.v.02",
+    "increase.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5193510780174155
+  },
+  {
+   "word": "led",
+   "lemma": "lead",
+   "senses": [
+    "lead.v.01",
+    "leave.v.07"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.6031093120726617
+  },
+  {
+   "word": "left",
+   "lemma": "left",
+   "senses": [
+    "left.a.01",
+    "left.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4666596882923803
+  },
+  {
+   "word": "live",
+   "lemma": "live",
+   "senses": [
+    "populate.v.01",
+    "live.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.49680337488580534
+  },
+  {
+   "word": "looked",
+   "lemma": "look",
+   "senses": [
+    "look.v.02",
+    "look.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.3074561753215313
+  },
+  {
+   "word": "lost",
+   "lemma": "lose",
+   "senses": [
+    "lose.v.01",
+    "lose.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5340486247254697
+  },
+  {
+   "word": "loss",
+   "lemma": "loss",
+   "senses": [
+    "loss.n.02",
+    "loss.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.3469749759246463
+  },
+  {
+   "word": "made",
+   "lemma": "make",
+   "senses": [
+    "make.v.01",
+    "make.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4401394341355204
+  },
+  {
+   "word": "management",
+   "lemma": "management",
+   "senses": [
+    "management.n.01",
+    "management.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5044612705724522
+  },
+  {
+   "word": "mean",
+   "lemma": "mean",
+   "senses": [
+    "mean.v.01",
+    "entail.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4047181886800582
+  },
+  {
+   "word": "means",
+   "lemma": "means",
+   "senses": [
+    "means.n.01",
+    "means.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4266207852137991
+  },
+  {
+   "word": "minimum",
+   "lemma": "minimum",
+   "senses": [
+    "minimal.a.01",
+    "minimum.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.49241752071248385
+  },
+  {
+   "word": "model",
+   "lemma": "model",
+   "senses": [
+    "model.n.01",
+    "model.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.36084616980369955
+  },
+  {
+   "word": "nation",
+   "lemma": "nation",
+   "senses": [
+    "state.n.04",
+    "nation.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4468994530596906
+  },
+  {
+   "word": "needed",
+   "lemma": "need",
+   "senses": [
+    "want.v.02",
+    "necessitate.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.52998186998187
+  },
+  {
+   "word": "nodded",
+   "lemma": "nod",
+   "senses": [
+    "nod.v.01",
+    "nod.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.27977685691501486
+  },
+  {
+   "word": "notion",
+   "lemma": "notion",
+   "senses": [
+    "notion.n.02",
+    "impression.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.3716231044574528
+  },
+  {
+   "word": "objective",
+   "lemma": "objective",
+   "senses": [
+    "aim.n.02",
+    "objective.a.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.24968618552938593
+  },
+  {
+   "word": "offer",
+   "lemma": "offer",
+   "senses": [
+    "offer.v.01",
+    "offer.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.42539014745747555
+  },
+  {
+   "word": "officer",
+   "lemma": "officer",
+   "senses": [
+    "military_officer.n.01",
+    "officeholder.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.3049877924150745
+  },
+  {
+   "word": "ordered",
+   "lemma": "order",
+   "senses": [
+    "order.v.01",
+    "order.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4862030155597345
+  },
+  {
+   "word": "organization",
+   "lemma": "organization",
+   "senses": [
+    "arrangement.n.03",
+    "organization.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5174978667288291
+  },
+  {
+   "word": "pain",
+   "lemma": "pain",
+   "senses": [
+    "pain.n.01",
+    "pain.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.46027868434189556
+  },
+  {
+   "word": "point",
+   "lemma": "point",
+   "senses": [
+    "point.n.03",
+    "point.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.33112688824343683
+  },
+  {
+   "word": "possibility",
+   "lemma": "possibility",
+   "senses": [
+    "possibility.n.02",
+    "possibility.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.49011083004746264
+  },
+  {
+   "word": "procedure",
+   "lemma": "procedure",
+   "senses": [
+    "procedure.n.01",
+    "operation.n.07"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4025636027450076
+  },
+  {
+   "word": "promised",
+   "lemma": "promise",
+   "senses": [
+    "promise.v.01",
+    "promise.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4047068739395947
+  },
+  {
+   "word": "read",
+   "lemma": "read",
+   "senses": [
+    "read.v.01",
+    "read.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4921643043295486
+  },
+  {
+   "word": "rejected",
+   "lemma": "reject",
+   "senses": [
+    "refuse.v.02",
+    "reject.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5445857459042458
+  },
+  {
+   "word": "relationship",
+   "lemma": "relationship",
+   "senses": [
+    "relationship.n.01",
+    "relationship.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.524135821948322
+  },
+  {
+   "word": "replaced",
+   "lemma": "replace",
+   "senses": [
+    "replace.v.01",
+    "supplant.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4136924643134485
+  },
+  {
+   "word": "represents",
+   "lemma": "represent",
+   "senses": [
+    "typify.v.02",
+    "represent.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.46102205338940755
+  },
+  {
+   "word": "response",
+   "lemma": "response",
+   "senses": [
+    "response.n.01",
+    "reaction.n.03"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5654089582749122
+  },
+  {
+   "word": "saved",
+   "lemma": "save",
+   "senses": [
+    "salvage.v.01",
+    "save.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.49018280970572436
+  },
+  {
+   "word": "school",
+   "lemma": "school",
+   "senses": [
+    "school.n.01",
+    "school.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5883396571424525
+  },
+  {
+   "word": "season",
+   "lemma": "season",
+   "senses": [
+    "season.n.01",
+    "season.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5193574472058569
+  },
+  {
+   "word": "see",
+   "lemma": "see",
+   "senses": [
+    "understand.v.02",
+    "see.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4672289278536313
+  },
+  {
+   "word": "shook",
+   "lemma": "shake",
+   "senses": [
+    "shake.v.01",
+    "shake.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.26907887383990325
+  },
+  {
+   "word": "silence",
+   "lemma": "silence",
+   "senses": [
+    "silence.n.02",
+    "muteness.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5892101414144253
+  },
+  {
+   "word": "sleep",
+   "lemma": "sleep",
+   "senses": [
+    "sleep.n.01",
+    "sleep.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5320191503084962
+  },
+  {
+   "word": "sound",
+   "lemma": "sound",
+   "senses": [
+    "sound.n.01",
+    "sound.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.4920186683478507
+  },
+  {
+   "word": "stood",
+   "lemma": "stand",
+   "senses": [
+    "stand.v.01",
+    "stand.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.46707524197607403
+  },
+  {
+   "word": "statement",
+   "lemma": "statement",
+   "senses": [
+    "statement.n.01",
+    "argument.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5263818703992228
+  },
+  {
+   "word": "stems",
+   "lemma": "stem",
+   "senses": [
+    "stem.v.01",
+    "root.n.03"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.3819646613991406
+  },
+  {
+   "word": "support",
+   "lemma": "support",
+   "senses": [
+    "support.v.01",
+    "support.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.5521629797667289
+  },
+  {
+   "word": "thought",
+   "lemma": "thought",
+   "senses": [
+    "thinking.n.01",
+    "idea.n.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.3850934605337886
+  },
+  {
+   "word": "tone",
+   "lemma": "tone",
+   "senses": [
+    "tone.n.01",
+    "tone.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.45880259094992715
+  },
+  {
+   "word": "town",
+   "lemma": "town",
+   "senses": [
+    "town.n.01",
+    "town.n.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.42041007449095685
+  },
+  {
+   "word": "turned",
+   "lemma": "turn",
+   "senses": [
+    "turn.v.01",
+    "change_state.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.2939461988686613
+  },
+  {
+   "word": "visit",
+   "lemma": "visit",
+   "senses": [
+    "visit.v.01",
+    "travel_to.v.01"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.465848048902422
+  },
+  {
+   "word": "watching",
+   "lemma": "watch",
+   "senses": [
+    "watch.v.01",
+    "watch.v.02"
+   ],
+   "n_per_sense": 8,
+   "mean_target_rel_pos": 0.49246462626859994
+  },
+  {
+   "word": "admitted",
+   "lemma": "admit",
+   "senses": [
+    "admit.v.01",
+    "admit.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.37847159721906215
+  },
+  {
+   "word": "agreed",
+   "lemma": "agree",
+   "senses": [
+    "agree.v.02",
+    "agree.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.43290508781752435
+  },
+  {
+   "word": "allow",
+   "lemma": "allow",
+   "senses": [
+    "permit.v.01",
+    "let.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5731990195923734
+  },
+  {
+   "word": "along",
+   "lemma": "along",
+   "senses": [
+    "along.r.02",
+    "along.r.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.543985245470208
+  },
+  {
+   "word": "american",
+   "lemma": "american",
+   "senses": [
+    "american.a.01",
+    "american.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.49412321734376213
+  },
+  {
+   "word": "apply",
+   "lemma": "apply",
+   "senses": [
+    "apply.v.02",
+    "use.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5310916239550394
+  },
+  {
+   "word": "assembled",
+   "lemma": "assemble",
+   "senses": [
+    "assemble.v.01",
+    "meet.v.07"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.38699865670441397
+  },
+  {
+   "word": "audience",
+   "lemma": "audience",
+   "senses": [
+    "audience.n.01",
+    "audience.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5113457248542924
+  },
+  {
+   "word": "became",
+   "lemma": "become",
+   "senses": [
+    "become.v.02",
+    "become.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.44975180755061483
+  },
+  {
+   "word": "behavior",
+   "lemma": "behavior",
+   "senses": [
+    "behavior.n.01",
+    "demeanor.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5595351730870178
+  },
+  {
+   "word": "breath",
+   "lemma": "breath",
+   "senses": [
+    "breath.n.01",
+    "breath.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4471376343907457
+  },
+  {
+   "word": "capacity",
+   "lemma": "capacity",
+   "senses": [
+    "capacity.n.01",
+    "capability.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5962287666056894
+  },
+  {
+   "word": "career",
+   "lemma": "career",
+   "senses": [
+    "career.n.01",
+    "career.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4855182891784972
+  },
+  {
+   "word": "collected",
+   "lemma": "collect",
+   "senses": [
+    "roll_up.v.02",
+    "collect.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.36296350959520984
+  },
+  {
+   "word": "confronted",
+   "lemma": "confront",
+   "senses": [
+    "confront.v.01",
+    "confront.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4192638614010253
+  },
+  {
+   "word": "connection",
+   "lemma": "connection",
+   "senses": [
+    "connection.n.01",
+    "connection.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5363728934480038
+  },
+  {
+   "word": "cure",
+   "lemma": "cure",
+   "senses": [
+    "bring_around.v.02",
+    "remedy.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5631524710294294
+  },
+  {
+   "word": "dance",
+   "lemma": "dance",
+   "senses": [
+    "dance.v.01",
+    "dance.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5819996299955389
+  },
+  {
+   "word": "dead",
+   "lemma": "dead",
+   "senses": [
+    "dead.a.01",
+    "dead.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.6593611029635874
+  },
+  {
+   "word": "defined",
+   "lemma": "define",
+   "senses": [
+    "specify.v.03",
+    "define.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.405788784030009
+  },
+  {
+   "word": "definition",
+   "lemma": "definition",
+   "senses": [
+    "definition.n.02",
+    "definition.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4014384553802953
+  },
+  {
+   "word": "desire",
+   "lemma": "desire",
+   "senses": [
+    "desire.n.01",
+    "desire.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.43967773086515066
+  },
+  {
+   "word": "difficulty",
+   "lemma": "difficulty",
+   "senses": [
+    "trouble.n.04",
+    "difficulty.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.45380824046790436
+  },
+  {
+   "word": "earlier",
+   "lemma": "earlier",
+   "senses": [
+    "earlier.r.01",
+    "sooner.r.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.6394700997864179
+  },
+  {
+   "word": "effect",
+   "lemma": "effect",
+   "senses": [
+    "consequence.n.01",
+    "effect.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.7039544693446527
+  },
+  {
+   "word": "emotional",
+   "lemma": "emotional",
+   "senses": [
+    "emotional.a.01",
+    "emotional.a.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5184245478536387
+  },
+  {
+   "word": "encountered",
+   "lemma": "encounter",
+   "senses": [
+    "meet.v.01",
+    "find.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.6353686637471593
+  },
+  {
+   "word": "failure",
+   "lemma": "failure",
+   "senses": [
+    "failure.n.01",
+    "failure.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4794203729264872
+  },
+  {
+   "word": "flow",
+   "lemma": "flow",
+   "senses": [
+    "flow.n.01",
+    "flow.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5055022066986937
+  },
+  {
+   "word": "forget",
+   "lemma": "forget",
+   "senses": [
+    "forget.v.01",
+    "forget.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.29247750309605536
+  },
+  {
+   "word": "hung",
+   "lemma": "hang",
+   "senses": [
+    "hang.v.01",
+    "hang.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5618776315893462
+  },
+  {
+   "word": "happened",
+   "lemma": "happen",
+   "senses": [
+    "happen.v.01",
+    "happen.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.45015112969918464
+  },
+  {
+   "word": "interpreted",
+   "lemma": "interpret",
+   "senses": [
+    "interpret.v.01",
+    "rede.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.546886700974988
+  },
+  {
+   "word": "join",
+   "lemma": "join",
+   "senses": [
+    "join.v.02",
+    "join.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.6931228338277251
+  },
+  {
+   "word": "lack",
+   "lemma": "lack",
+   "senses": [
+    "lack.n.01",
+    "miss.v.06"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4702008900483006
+  },
+  {
+   "word": "length",
+   "lemma": "length",
+   "senses": [
+    "length.n.01",
+    "duration.n.03"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.42656845492878526
+  },
+  {
+   "word": "likely",
+   "lemma": "likely",
+   "senses": [
+    "likely.a.01",
+    "probably.r.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.42494267188816076
+  },
+  {
+   "word": "liquor",
+   "lemma": "liquor",
+   "senses": [
+    "liquor.n.01",
+    "liquor.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4536281321927102
+  },
+  {
+   "word": "marked",
+   "lemma": "mark",
+   "senses": [
+    "distinguish.v.03",
+    "tag.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4066519966515167
+  },
+  {
+   "word": "met",
+   "lemma": "meet",
+   "senses": [
+    "meet.v.01",
+    "meet.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.3933493426059206
+  },
+  {
+   "word": "membership",
+   "lemma": "membership",
+   "senses": [
+    "membership.n.01",
+    "membership.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5705839196003321
+  },
+  {
+   "word": "missed",
+   "lemma": "miss",
+   "senses": [
+    "miss.v.01",
+    "miss.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.41590348913860214
+  },
+  {
+   "word": "movement",
+   "lemma": "movement",
+   "senses": [
+    "motion.n.03",
+    "movement.n.03"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5431367277583241
+  },
+  {
+   "word": "naturally",
+   "lemma": "naturally",
+   "senses": [
+    "naturally.r.01",
+    "naturally.r.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.3830865508146809
+  },
+  {
+   "word": "neighborhood",
+   "lemma": "neighborhood",
+   "senses": [
+    "vicinity.n.01",
+    "neighborhood.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4394502130170284
+  },
+  {
+   "word": "occurred",
+   "lemma": "occur",
+   "senses": [
+    "occur.v.02",
+    "happen.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4999648823145636
+  },
+  {
+   "word": "official",
+   "lemma": "official",
+   "senses": [
+    "official.a.01",
+    "official.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4655465071712795
+  },
+  {
+   "word": "outside",
+   "lemma": "outside",
+   "senses": [
+    "outside.r.01",
+    "outside.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5185666146800602
+  },
+  {
+   "word": "pair",
+   "lemma": "pair",
+   "senses": [
+    "pair.n.01",
+    "couple.n.04"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.514493003532458
+  },
+  {
+   "word": "persuaded",
+   "lemma": "persuade",
+   "senses": [
+    "carry.v.23",
+    "persuade.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.3467555516519594
+  },
+  {
+   "word": "philosophy",
+   "lemma": "philosophy",
+   "senses": [
+    "doctrine.n.01",
+    "philosophy.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4758185684578145
+  },
+  {
+   "word": "potential",
+   "lemma": "potential",
+   "senses": [
+    "potential.n.01",
+    "potential.a.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4985876704425779
+  },
+  {
+   "word": "prefer",
+   "lemma": "prefer",
+   "senses": [
+    "prefer.v.01",
+    "choose.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.47166713976288194
+  },
+  {
+   "word": "price",
+   "lemma": "price",
+   "senses": [
+    "monetary_value.n.01",
+    "price.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4802623904112292
+  },
+  {
+   "word": "proof",
+   "lemma": "proof",
+   "senses": [
+    "proof.n.02",
+    "proof.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5479817507921754
+  },
+  {
+   "word": "proved",
+   "lemma": "prove",
+   "senses": [
+    "prove.v.01",
+    "prove.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.42725570718305467
+  },
+  {
+   "word": "refused",
+   "lemma": "refuse",
+   "senses": [
+    "refuse.v.01",
+    "refuse.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.3854844774745069
+  },
+  {
+   "word": "remained",
+   "lemma": "remain",
+   "senses": [
+    "stay.v.04",
+    "stay.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4499850949094045
+  },
+  {
+   "word": "ran",
+   "lemma": "run",
+   "senses": [
+    "run.v.01",
+    "run.v.03"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.3820704230357486
+  },
+  {
+   "word": "rural",
+   "lemma": "rural",
+   "senses": [
+    "rural.a.01",
+    "rural.a.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.6487048607321715
+  },
+  {
+   "word": "sense",
+   "lemma": "sense",
+   "senses": [
+    "sense.n.01",
+    "feel.v.03"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.3690413413949661
+  },
+  {
+   "word": "series",
+   "lemma": "series",
+   "senses": [
+    "series.n.01",
+    "serial.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4690430464344376
+  },
+  {
+   "word": "shouting",
+   "lemma": "shout",
+   "senses": [
+    "shout.v.02",
+    "shout.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.6126953570807772
+  },
+  {
+   "word": "shut",
+   "lemma": "shut",
+   "senses": [
+    "close.v.01",
+    "shut.a.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5161697558824888
+  },
+  {
+   "word": "situation",
+   "lemma": "situation",
+   "senses": [
+    "situation.n.01",
+    "situation.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5592424861713359
+  },
+  {
+   "word": "social",
+   "lemma": "social",
+   "senses": [
+    "social.a.01",
+    "social.a.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.474365453623847
+  },
+  {
+   "word": "source",
+   "lemma": "source",
+   "senses": [
+    "beginning.n.04",
+    "source.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4511384780113477
+  },
+  {
+   "word": "spent",
+   "lemma": "spend",
+   "senses": [
+    "spend.v.02",
+    "spend.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.46123329490716997
+  },
+  {
+   "word": "step",
+   "lemma": "step",
+   "senses": [
+    "measure.n.01",
+    "step.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4760394755024186
+  },
+  {
+   "word": "straight",
+   "lemma": "straight",
+   "senses": [
+    "directly.r.01",
+    "directly.r.04"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4291431125590333
+  },
+  {
+   "word": "stress",
+   "lemma": "stress",
+   "senses": [
+    "stress.n.01",
+    "stress.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.41049471543625726
+  },
+  {
+   "word": "suffered",
+   "lemma": "suffer",
+   "senses": [
+    "suffer.v.02",
+    "suffer.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4657904393788261
+  },
+  {
+   "word": "swung",
+   "lemma": "swing",
+   "senses": [
+    "swing.v.01",
+    "swing.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.39473544254043136
+  },
+  {
+   "word": "talk",
+   "lemma": "talk",
+   "senses": [
+    "talk.v.02",
+    "talk.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5105559034088107
+  },
+  {
+   "word": "think",
+   "lemma": "think",
+   "senses": [
+    "think.v.02",
+    "think.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.30709781842967876
+  },
+  {
+   "word": "threatened",
+   "lemma": "threaten",
+   "senses": [
+    "endanger.v.01",
+    "threaten.v.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5407805797112474
+  },
+  {
+   "word": "title",
+   "lemma": "title",
+   "senses": [
+    "title.n.01",
+    "title.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4852377674037572
+  },
+  {
+   "word": "touch",
+   "lemma": "touch",
+   "senses": [
+    "touch.v.01",
+    "touch.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5560539713299375
+  },
+  {
+   "word": "tradition",
+   "lemma": "tradition",
+   "senses": [
+    "tradition.n.01",
+    "custom.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5456123309084934
+  },
+  {
+   "word": "truth",
+   "lemma": "truth",
+   "senses": [
+    "truth.n.01",
+    "truth.n.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.5469095474854774
+  },
+  {
+   "word": "value",
+   "lemma": "value",
+   "senses": [
+    "value.n.02",
+    "value.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.3873374030590687
+  },
+  {
+   "word": "variety",
+   "lemma": "variety",
+   "senses": [
+    "assortment.n.01",
+    "diverseness.n.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.4081399830583568
+  },
+  {
+   "word": "vary",
+   "lemma": "vary",
+   "senses": [
+    "deviate.v.02",
+    "change.v.03"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.45545831790875607
+  },
+  {
+   "word": "view",
+   "lemma": "view",
+   "senses": [
+    "position.n.03",
+    "see.v.05"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.37297941646612803
+  },
+  {
+   "word": "warm",
+   "lemma": "warm",
+   "senses": [
+    "warm.a.01",
+    "warm.a.02"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.3503562957864362
+  },
+  {
+   "word": "wrote",
+   "lemma": "write",
+   "senses": [
+    "write.v.02",
+    "write.v.01"
+   ],
+   "n_per_sense": 7,
+   "mean_target_rel_pos": 0.36537406697488806
+  },
+  {
+   "word": "ability",
+   "lemma": "ability",
+   "senses": [
+    "ability.n.01",
+    "ability.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5771874429848568
+  },
+  {
+   "word": "absence",
+   "lemma": "absence",
+   "senses": [
+    "absence.n.01",
+    "absence.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5148226283520402
+  },
+  {
+   "word": "accomplished",
+   "lemma": "accomplish",
+   "senses": [
+    "carry_through.v.01",
+    "achieve.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.44196472889601773
+  },
+  {
+   "word": "activity",
+   "lemma": "activity",
+   "senses": [
+    "action.n.02",
+    "activity.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4974056482964529
+  },
+  {
+   "word": "advertising",
+   "lemma": "advertising",
+   "senses": [
+    "ad.n.01",
+    "advertising.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5522107069661417
+  },
+  {
+   "word": "advised",
+   "lemma": "advise",
+   "senses": [
+    "rede.v.02",
+    "advise.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.34861565316281
+  },
+  {
+   "word": "affect",
+   "lemma": "affect",
+   "senses": [
+    "affect.v.01",
+    "affect.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5287433085289622
+  },
+  {
+   "word": "answer",
+   "lemma": "answer",
+   "senses": [
+    "answer.n.01",
+    "answer.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5398351648351648
+  },
+  {
+   "word": "appointed",
+   "lemma": "appoint",
+   "senses": [
+    "appoint.v.01",
+    "appoint.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.39272033489690766
+  },
+  {
+   "word": "arc",
+   "lemma": "arc",
+   "senses": [
+    "discharge.n.05",
+    "arc.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.45053853212798006
+  },
+  {
+   "word": "assumed",
+   "lemma": "assume",
+   "senses": [
+    "assume.v.02",
+    "assume.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4453421364092096
+  },
+  {
+   "word": "atmosphere",
+   "lemma": "atmosphere",
+   "senses": [
+    "atmosphere.n.01",
+    "atmosphere.n.03"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.46915702640405815
+  },
+  {
+   "word": "attempt",
+   "lemma": "attempt",
+   "senses": [
+    "attempt.n.01",
+    "try.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.39644230073533127
+  },
+  {
+   "word": "author",
+   "lemma": "author",
+   "senses": [
+    "writer.n.01",
+    "generator.n.03"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4673320493979285
+  },
+  {
+   "word": "battle",
+   "lemma": "battle",
+   "senses": [
+    "battle.n.01",
+    "struggle.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.42101937817570806
+  },
+  {
+   "word": "bill",
+   "lemma": "bill",
+   "senses": [
+    "bill.n.01",
+    "bill.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.39451339628015397
+  },
+  {
+   "word": "body",
+   "lemma": "body",
+   "senses": [
+    "body.n.01",
+    "body.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.49713742785253084
+  },
+  {
+   "word": "cast",
+   "lemma": "cast",
+   "senses": [
+    "cast.n.01",
+    "project.v.10"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.48173961840628515
+  },
+  {
+   "word": "certain",
+   "lemma": "certain",
+   "senses": [
+    "certain.a.02",
+    "certain.a.03"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.42839037385728823
+  },
+  {
+   "word": "closed",
+   "lemma": "closed",
+   "senses": [
+    "closed.a.01",
+    "closed.a.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5312537817791441
+  },
+  {
+   "word": "comparison",
+   "lemma": "comparison",
+   "senses": [
+    "comparison.n.01",
+    "comparison.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5322175521121885
+  },
+  {
+   "word": "concluded",
+   "lemma": "conclude",
+   "senses": [
+    "reason.v.01",
+    "conclude.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.2885603301324609
+  },
+  {
+   "word": "conditions",
+   "lemma": "condition",
+   "senses": [
+    "condition.n.01",
+    "condition.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.37321148926428904
+  },
+  {
+   "word": "confidence",
+   "lemma": "confidence",
+   "senses": [
+    "assurance.n.01",
+    "confidence.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5207446465428277
+  },
+  {
+   "word": "confusion",
+   "lemma": "confusion",
+   "senses": [
+    "confusion.n.01",
+    "confusion.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5256194641052957
+  },
+  {
+   "word": "contained",
+   "lemma": "contain",
+   "senses": [
+    "hold.v.11",
+    "incorporate.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.44898181316686214
+  },
+  {
+   "word": "demand",
+   "lemma": "demand",
+   "senses": [
+    "demand.n.01",
+    "demand.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4694162600757696
+  },
+  {
+   "word": "depth",
+   "lemma": "depth",
+   "senses": [
+    "depth.n.01",
+    "depth.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6718428321907317
+  },
+  {
+   "word": "determined",
+   "lemma": "determine",
+   "senses": [
+    "determine.v.02",
+    "determine.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3502204058125111
+  },
+  {
+   "word": "die",
+   "lemma": "die",
+   "senses": [
+    "die.v.01",
+    "die.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5345086930440616
+  },
+  {
+   "word": "director",
+   "lemma": "director",
+   "senses": [
+    "director.n.01",
+    "director.n.03"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4752776053785505
+  },
+  {
+   "word": "dollars",
+   "lemma": "dollar",
+   "senses": [
+    "dollar.n.01",
+    "dollar.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6369092619211485
+  },
+  {
+   "word": "doubt",
+   "lemma": "doubt",
+   "senses": [
+    "doubt.n.01",
+    "doubt.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.35996373928359215
+  },
+  {
+   "word": "dress",
+   "lemma": "dress",
+   "senses": [
+    "dress.n.01",
+    "dress.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5618983949416024
+  },
+  {
+   "word": "dry",
+   "lemma": "dry",
+   "senses": [
+    "dry.a.01",
+    "dry.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.49491598517761304
+  },
+  {
+   "word": "east",
+   "lemma": "east",
+   "senses": [
+    "east.a.01",
+    "east.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4736896047595845
+  },
+  {
+   "word": "enforced",
+   "lemma": "enforce",
+   "senses": [
+    "enforce.v.01",
+    "enforce.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5202702708784355
+  },
+  {
+   "word": "enjoyed",
+   "lemma": "enjoy",
+   "senses": [
+    "enjoy.v.02",
+    "enjoy.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.40777426695644053
+  },
+  {
+   "word": "entitled",
+   "lemma": "entitle",
+   "senses": [
+    "entitle.v.01",
+    "entitle.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4314828806766371
+  },
+  {
+   "word": "equal",
+   "lemma": "equal",
+   "senses": [
+    "equal.a.01",
+    "equal.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.653552410996633
+  },
+  {
+   "word": "estimate",
+   "lemma": "estimate",
+   "senses": [
+    "estimate.v.01",
+    "estimate.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.37105029448236326
+  },
+  {
+   "word": "exercise",
+   "lemma": "exercise",
+   "senses": [
+    "exercise.n.01",
+    "exert.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.44018263919787026
+  },
+  {
+   "word": "experiment",
+   "lemma": "experiment",
+   "senses": [
+    "experiment.n.01",
+    "experiment.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.466900180719166
+  },
+  {
+   "word": "explanation",
+   "lemma": "explanation",
+   "senses": [
+    "explanation.n.01",
+    "explanation.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5308599602631752
+  },
+  {
+   "word": "extremely",
+   "lemma": "extremely",
+   "senses": [
+    "highly.r.01",
+    "extremely.r.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.48444840515659543
+  },
+  {
+   "word": "favor",
+   "lemma": "favor",
+   "senses": [
+    "favor.n.01",
+    "prefer.v.03"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5155590788240726
+  },
+  {
+   "word": "fire",
+   "lemma": "fire",
+   "senses": [
+    "fire.n.01",
+    "open_fire.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4195278305572423
+  },
+  {
+   "word": "fit",
+   "lemma": "fit",
+   "senses": [
+    "suit.v.01",
+    "fit.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5474939113135915
+  },
+  {
+   "word": "fool",
+   "lemma": "fool",
+   "senses": [
+    "fool.n.01",
+    "chump.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5381117724867724
+  },
+  {
+   "word": "forward",
+   "lemma": "forward",
+   "senses": [
+    "forward.r.01",
+    "forward.a.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4478531825695839
+  },
+  {
+   "word": "french",
+   "lemma": "french",
+   "senses": [
+    "french.a.01",
+    "french.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4492606604795957
+  },
+  {
+   "word": "gained",
+   "lemma": "gain",
+   "senses": [
+    "derive.v.02",
+    "acquire.v.05"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6001396722576933
+  },
+  {
+   "word": "gathered",
+   "lemma": "gather",
+   "senses": [
+    "gather.v.01",
+    "meet.v.07"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3201145917652257
+  },
+  {
+   "word": "glance",
+   "lemma": "glance",
+   "senses": [
+    "glance.n.01",
+    "glance.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.36157368734830536
+  },
+  {
+   "word": "handled",
+   "lemma": "handle",
+   "senses": [
+    "treat.v.01",
+    "manage.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.43368280146979615
+  },
+  {
+   "word": "heavy",
+   "lemma": "heavy",
+   "senses": [
+    "heavy.a.01",
+    "heavy.a.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4614416801936818
+  },
+  {
+   "word": "hesitated",
+   "lemma": "hesitate",
+   "senses": [
+    "hesitate.v.02",
+    "hesitate.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3038621007371008
+  },
+  {
+   "word": "hope",
+   "lemma": "hope",
+   "senses": [
+    "hope.v.01",
+    "hope.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3089991536715031
+  },
+  {
+   "word": "humor",
+   "lemma": "humor",
+   "senses": [
+    "humor.n.02",
+    "temper.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6587302583140412
+  },
+  {
+   "word": "ignored",
+   "lemma": "ignore",
+   "senses": [
+    "ignore.v.01",
+    "dismiss.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4721969476739151
+  },
+  {
+   "word": "imagination",
+   "lemma": "imagination",
+   "senses": [
+    "imagination.n.01",
+    "imagination.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6106442322251145
+  },
+  {
+   "word": "impact",
+   "lemma": "impact",
+   "senses": [
+    "impact.n.01",
+    "impact.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3776616294961628
+  },
+  {
+   "word": "incident",
+   "lemma": "incident",
+   "senses": [
+    "incident.n.01",
+    "incident.a.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.49410640524280464
+  },
+  {
+   "word": "included",
+   "lemma": "include",
+   "senses": [
+    "include.v.02",
+    "include.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.582606450178914
+  },
+  {
+   "word": "indicated",
+   "lemma": "indicate",
+   "senses": [
+    "indicate.v.02",
+    "bespeak.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5278553070308029
+  },
+  {
+   "word": "instant",
+   "lemma": "instant",
+   "senses": [
+    "blink_of_an_eye.n.01",
+    "moment.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3702136143559361
+  },
+  {
+   "word": "instructed",
+   "lemma": "instruct",
+   "senses": [
+    "teach.v.01",
+    "instruct.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4187603980986334
+  },
+  {
+   "word": "justify",
+   "lemma": "justify",
+   "senses": [
+    "justify.v.01",
+    "justify.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6465580358311536
+  },
+  {
+   "word": "laid",
+   "lemma": "lay",
+   "senses": [
+    "put.v.01",
+    "lay.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.34916648288019053
+  },
+  {
+   "word": "leadership",
+   "lemma": "leadership",
+   "senses": [
+    "leadership.n.01",
+    "leadership.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6336416834578599
+  },
+  {
+   "word": "lifted",
+   "lemma": "lift",
+   "senses": [
+    "raise.v.02",
+    "lift.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.2967908054182564
+  },
+  {
+   "word": "limit",
+   "lemma": "limit",
+   "senses": [
+    "limit.n.01",
+    "restrict.v.03"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5194134334214467
+  },
+  {
+   "word": "listen",
+   "lemma": "listen",
+   "senses": [
+    "listen.v.02",
+    "listen.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5889437985437286
+  },
+  {
+   "word": "literature",
+   "lemma": "literature",
+   "senses": [
+    "literature.n.01",
+    "literature.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5418680839423593
+  },
+  {
+   "word": "love",
+   "lemma": "love",
+   "senses": [
+    "love.n.01",
+    "love.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4205807645513528
+  },
+  {
+   "word": "maintain",
+   "lemma": "maintain",
+   "senses": [
+    "conserve.v.02",
+    "keep.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4538496416125089
+  },
+  {
+   "word": "market",
+   "lemma": "market",
+   "senses": [
+    "market.n.01",
+    "market.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5243164262545625
+  },
+  {
+   "word": "measured",
+   "lemma": "measure",
+   "senses": [
+    "quantify.v.02",
+    "measure.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3986856602785882
+  },
+  {
+   "word": "message",
+   "lemma": "message",
+   "senses": [
+    "message.n.01",
+    "message.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.41440553059444035
+  },
+  {
+   "word": "moved",
+   "lemma": "move",
+   "senses": [
+    "travel.v.01",
+    "move.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.22688985330289677
+  },
+  {
+   "word": "opened",
+   "lemma": "open",
+   "senses": [
+    "open.v.01",
+    "open.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4482403575555293
+  },
+  {
+   "word": "painting",
+   "lemma": "painting",
+   "senses": [
+    "painting.n.02",
+    "painting.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6515821840123489
+  },
+  {
+   "word": "percentage",
+   "lemma": "percentage",
+   "senses": [
+    "percentage.n.01",
+    "share.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5095132532579716
+  },
+  {
+   "word": "perform",
+   "lemma": "perform",
+   "senses": [
+    "perform.v.02",
+    "perform.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5261675660150646
+  },
+  {
+   "word": "play",
+   "lemma": "play",
+   "senses": [
+    "play.v.02",
+    "play.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4435038164006693
+  },
+  {
+   "word": "please",
+   "lemma": "please",
+   "senses": [
+    "please.v.01",
+    "please.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5553344610636276
+  },
+  {
+   "word": "produced",
+   "lemma": "produce",
+   "senses": [
+    "produce.v.02",
+    "produce.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4366821204002342
+  },
+  {
+   "word": "quiet",
+   "lemma": "quiet",
+   "senses": [
+    "quiet.a.01",
+    "quiet.a.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.532533395033395
+  },
+  {
+   "word": "radio",
+   "lemma": "radio",
+   "senses": [
+    "radio_receiver.n.01",
+    "radio.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.43293624438415274
+  },
+  {
+   "word": "reflected",
+   "lemma": "reflect",
+   "senses": [
+    "reflect.v.01",
+    "reflect.v.03"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5206899512406226
+  },
+  {
+   "word": "relief",
+   "lemma": "relief",
+   "senses": [
+    "relief.n.01",
+    "relief.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.34470861873559794
+  },
+  {
+   "word": "reminded",
+   "lemma": "remind",
+   "senses": [
+    "remind.v.01",
+    "prompt.v.03"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3773775363687644
+  },
+  {
+   "word": "rendered",
+   "lemma": "render",
+   "senses": [
+    "render.v.01",
+    "supply.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5627939817486424
+  },
+  {
+   "word": "require",
+   "lemma": "require",
+   "senses": [
+    "necessitate.v.01",
+    "ask.v.04"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.39994086190164624
+  },
+  {
+   "word": "return",
+   "lemma": "return",
+   "senses": [
+    "tax_return.n.01",
+    "return.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5091871933489126
+  },
+  {
+   "word": "revealed",
+   "lemma": "reveal",
+   "senses": [
+    "uncover.v.01",
+    "unwrap.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3259881529382809
+  },
+  {
+   "word": "rose",
+   "lemma": "rise",
+   "senses": [
+    "rise.v.02",
+    "rise.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.38153032153032157
+  },
+  {
+   "word": "role",
+   "lemma": "role",
+   "senses": [
+    "function.n.03",
+    "character.n.04"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5798686196362358
+  },
+  {
+   "word": "rolled",
+   "lemma": "roll",
+   "senses": [
+    "wheel.v.03",
+    "roll.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.2676633465720153
+  },
+  {
+   "word": "satisfy",
+   "lemma": "satisfy",
+   "senses": [
+    "satisfy.v.01",
+    "meet.v.04"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4678359104084015
+  },
+  {
+   "word": "sensitive",
+   "lemma": "sensitive",
+   "senses": [
+    "sensitive.a.01",
+    "sensitive.a.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.43809844045266444
+  },
+  {
+   "word": "service",
+   "lemma": "service",
+   "senses": [
+    "service.n.01",
+    "service.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6032530471191462
+  },
+  {
+   "word": "share",
+   "lemma": "share",
+   "senses": [
+    "share.n.01",
+    "share.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4758583006451718
+  },
+  {
+   "word": "significance",
+   "lemma": "significance",
+   "senses": [
+    "significance.n.01",
+    "significance.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5316035625870541
+  },
+  {
+   "word": "skill",
+   "lemma": "skill",
+   "senses": [
+    "skill.n.01",
+    "skill.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5331499964408454
+  },
+  {
+   "word": "speak",
+   "lemma": "speak",
+   "senses": [
+    "talk.v.02",
+    "talk.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5735084215347374
+  },
+  {
+   "word": "speech",
+   "lemma": "speech",
+   "senses": [
+    "address.n.03",
+    "speech.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.47794990503323836
+  },
+  {
+   "word": "sponsored",
+   "lemma": "sponsor",
+   "senses": [
+    "sponsor.v.01",
+    "sponsor.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.42328043344061655
+  },
+  {
+   "word": "square",
+   "lemma": "square",
+   "senses": [
+    "square.n.01",
+    "square.a.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4347154051285962
+  },
+  {
+   "word": "stories",
+   "lemma": "story",
+   "senses": [
+    "narrative.n.01",
+    "story.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.39981328869680266
+  },
+  {
+   "word": "strength",
+   "lemma": "strength",
+   "senses": [
+    "strength.n.01",
+    "military_capability.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6783383278388317
+  },
+  {
+   "word": "student",
+   "lemma": "student",
+   "senses": [
+    "scholar.n.01",
+    "student.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3805028055624106
+  },
+  {
+   "word": "subject",
+   "lemma": "subject",
+   "senses": [
+    "subject.n.01",
+    "discipline.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.6567494365165493
+  },
+  {
+   "word": "succeeded",
+   "lemma": "succeed",
+   "senses": [
+    "succeed.v.01",
+    "succeed.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3185441906456399
+  },
+  {
+   "word": "tossed",
+   "lemma": "toss",
+   "senses": [
+    "flip.v.06",
+    "flip.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.3571954272224873
+  },
+  {
+   "word": "travel",
+   "lemma": "travel",
+   "senses": [
+    "travel.v.01",
+    "travel.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4053513770180437
+  },
+  {
+   "word": "tried",
+   "lemma": "try",
+   "senses": [
+    "try.v.01",
+    "test.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4126174445975024
+  },
+  {
+   "word": "units",
+   "lemma": "unit",
+   "senses": [
+    "unit_of_measurement.n.01",
+    "unit.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4550435154394947
+  },
+  {
+   "word": "up",
+   "lemma": "up",
+   "senses": [
+    "up.r.01",
+    "up.a.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4840600679654837
+  },
+  {
+   "word": "variation",
+   "lemma": "variation",
+   "senses": [
+    "variation.n.01",
+    "variation.n.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.5466373996924518
+  },
+  {
+   "word": "vote",
+   "lemma": "vote",
+   "senses": [
+    "vote.n.01",
+    "vote.v.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.4750857856770718
+  },
+  {
+   "word": "want",
+   "lemma": "want",
+   "senses": [
+    "desire.v.01",
+    "want.v.02"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.278035485756074
+  },
+  {
+   "word": "young",
+   "lemma": "young",
+   "senses": [
+    "young.a.01",
+    "young.n.01"
+   ],
+   "n_per_sense": 6,
+   "mean_target_rel_pos": 0.549931337845955
+  },
+  {
+   "word": "about",
+   "lemma": "about",
+   "senses": [
+    "approximately.r.01",
+    "about.r.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4937817365096776
+  },
+  {
+   "word": "accompanied",
+   "lemma": "accompany",
+   "senses": [
+    "attach_to.v.01",
+    "accompany.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.42860786752529034
+  },
+  {
+   "word": "active",
+   "lemma": "active",
+   "senses": [
+    "active.a.01",
+    "active_agent.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6375665074692619
+  },
+  {
+   "word": "aegean",
+   "lemma": "aegean",
+   "senses": [
+    "aegean.n.01",
+    "aegean.a.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.41835248085248083
+  },
+  {
+   "word": "agreement",
+   "lemma": "agreement",
+   "senses": [
+    "agreement.n.02",
+    "agreement.n.03"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6228350902660729
+  },
+  {
+   "word": "ahead",
+   "lemma": "ahead",
+   "senses": [
+    "ahead.r.01",
+    "ahead.r.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5554163566749379
+  },
+  {
+   "word": "apart",
+   "lemma": "apart",
+   "senses": [
+    "apart.r.01",
+    "apart.r.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5775117427321975
+  },
+  {
+   "word": "application",
+   "lemma": "application",
+   "senses": [
+    "application.n.01",
+    "application.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.47968006741402813
+  },
+  {
+   "word": "argued",
+   "lemma": "argue",
+   "senses": [
+    "argue.v.01",
+    "argue.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.3833644817445127
+  },
+  {
+   "word": "asserted",
+   "lemma": "assert",
+   "senses": [
+    "assert.v.01",
+    "affirm.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.3462715062715062
+  },
+  {
+   "word": "assumption",
+   "lemma": "assumption",
+   "senses": [
+    "premise.n.01",
+    "assumption.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.2649527544834053
+  },
+  {
+   "word": "assured",
+   "lemma": "assure",
+   "senses": [
+    "guarantee.v.02",
+    "assure.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.46629693552061974
+  },
+  {
+   "word": "attack",
+   "lemma": "attack",
+   "senses": [
+    "attack.n.01",
+    "attack.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5347659894135867
+  },
+  {
+   "word": "background",
+   "lemma": "background",
+   "senses": [
+    "background.n.01",
+    "background.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.49705760085346185
+  },
+  {
+   "word": "band",
+   "lemma": "band",
+   "senses": [
+    "set.n.05",
+    "band.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5036888292797685
+  },
+  {
+   "word": "begin",
+   "lemma": "begin",
+   "senses": [
+    "get_down.v.07",
+    "begin.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5269176486292075
+  },
+  {
+   "word": "bent",
+   "lemma": "bend",
+   "senses": [
+    "bend.v.01",
+    "bend.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.457247506810032
+  },
+  {
+   "word": "benefit",
+   "lemma": "benefit",
+   "senses": [
+    "profit.v.01",
+    "benefit.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6287893584952408
+  },
+  {
+   "word": "board",
+   "lemma": "board",
+   "senses": [
+    "board.n.01",
+    "board.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6221914705442502
+  },
+  {
+   "word": "books",
+   "lemma": "book",
+   "senses": [
+    "book.n.02",
+    "book.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5282881227389237
+  },
+  {
+   "word": "bother",
+   "lemma": "bother",
+   "senses": [
+    "trouble_oneself.v.01",
+    "annoy.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.3906593833859271
+  },
+  {
+   "word": "bottom",
+   "lemma": "bottom",
+   "senses": [
+    "bottom.n.01",
+    "bottom.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.568017698166107
+  },
+  {
+   "word": "branch",
+   "lemma": "branch",
+   "senses": [
+    "branch.n.01",
+    "branch.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4488177522960132
+  },
+  {
+   "word": "care",
+   "lemma": "care",
+   "senses": [
+    "care.v.01",
+    "care.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5734523809523809
+  },
+  {
+   "word": "caught",
+   "lemma": "catch",
+   "senses": [
+    "catch.v.01",
+    "catch.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4393949325528273
+  },
+  {
+   "word": "chance",
+   "lemma": "chance",
+   "senses": [
+    "opportunity.n.01",
+    "luck.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5977589739354445
+  },
+  {
+   "word": "characteristic",
+   "lemma": "characteristic",
+   "senses": [
+    "characteristic.a.01",
+    "feature.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4729562916139726
+  },
+  {
+   "word": "characterized",
+   "lemma": "characterize",
+   "senses": [
+    "qualify.v.06",
+    "characterize.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.44283030784535554
+  },
+  {
+   "word": "chemical",
+   "lemma": "chemical",
+   "senses": [
+    "chemical.a.01",
+    "chemical.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5326504942311191
+  },
+  {
+   "word": "chose",
+   "lemma": "choose",
+   "senses": [
+    "choose.v.02",
+    "choose.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.41526151899965946
+  },
+  {
+   "word": "circles",
+   "lemma": "circle",
+   "senses": [
+    "set.n.05",
+    "circle.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.7512857650443463
+  },
+  {
+   "word": "class",
+   "lemma": "class",
+   "senses": [
+    "class.n.02",
+    "class.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6662622982208083
+  },
+  {
+   "word": "classification",
+   "lemma": "classification",
+   "senses": [
+    "categorization.n.03",
+    "classification.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5028768608892832
+  },
+  {
+   "word": "close",
+   "lemma": "close",
+   "senses": [
+    "close.a.01",
+    "close.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.43695430222784415
+  },
+  {
+   "word": "communicate",
+   "lemma": "communicate",
+   "senses": [
+    "communicate.v.01",
+    "communicate.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5542247527030135
+  },
+  {
+   "word": "communications",
+   "lemma": "communication",
+   "senses": [
+    "communication.n.01",
+    "communication.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.32764757547412077
+  },
+  {
+   "word": "compared",
+   "lemma": "compare",
+   "senses": [
+    "compare.v.01",
+    "compare.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.357870582594204
+  },
+  {
+   "word": "complex",
+   "lemma": "complex",
+   "senses": [
+    "complex.a.01",
+    "complex.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5652598257551819
+  },
+  {
+   "word": "components",
+   "lemma": "component",
+   "senses": [
+    "component.n.01",
+    "part.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5671976114401743
+  },
+  {
+   "word": "concerned",
+   "lemma": "concern",
+   "senses": [
+    "concern.v.02",
+    "refer.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.536976591302248
+  },
+  {
+   "word": "cool",
+   "lemma": "cool",
+   "senses": [
+    "cool.a.01",
+    "cool.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6485811118705855
+  },
+  {
+   "word": "couple",
+   "lemma": "couple",
+   "senses": [
+    "couple.n.02",
+    "couple.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4075656748977983
+  },
+  {
+   "word": "credit",
+   "lemma": "credit",
+   "senses": [
+    "recognition.n.03",
+    "credit.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.33834063504841494
+  },
+  {
+   "word": "crisis",
+   "lemma": "crisis",
+   "senses": [
+    "crisis.n.01",
+    "crisis.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.3988233283730013
+  },
+  {
+   "word": "critical",
+   "lemma": "critical",
+   "senses": [
+    "critical.a.01",
+    "critical.a.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.44763324255584314
+  },
+  {
+   "word": "cup",
+   "lemma": "cup",
+   "senses": [
+    "cup.n.01",
+    "cup.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5138074888467503
+  },
+  {
+   "word": "curve",
+   "lemma": "curve",
+   "senses": [
+    "curve.n.01",
+    "curve.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.41522484183677894
+  },
+  {
+   "word": "dealing",
+   "lemma": "deal",
+   "senses": [
+    "cover.v.05",
+    "deal.v.03"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5904366359879467
+  },
+  {
+   "word": "debate",
+   "lemma": "debate",
+   "senses": [
+    "argument.n.03",
+    "debate.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5497474502482991
+  },
+  {
+   "word": "decision",
+   "lemma": "decision",
+   "senses": [
+    "decision.n.01",
+    "decision.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5020073487631935
+  },
+  {
+   "word": "defend",
+   "lemma": "defend",
+   "senses": [
+    "defend.v.01",
+    "defend.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.562702638626541
+  },
+  {
+   "word": "destruction",
+   "lemma": "destruction",
+   "senses": [
+    "destruction.n.01",
+    "destruction.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6054799307528043
+  },
+  {
+   "word": "detail",
+   "lemma": "detail",
+   "senses": [
+    "detail.n.03",
+    "detail.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.43016434383160007
+  },
+  {
+   "word": "disaster",
+   "lemma": "disaster",
+   "senses": [
+    "catastrophe.n.02",
+    "calamity.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5410296727538106
+  },
+  {
+   "word": "discrimination",
+   "lemma": "discrimination",
+   "senses": [
+    "discrimination.n.01",
+    "discrimination.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6001286222211271
+  },
+  {
+   "word": "distinction",
+   "lemma": "distinction",
+   "senses": [
+    "differentiation.n.01",
+    "eminence.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.687561125924727
+  },
+  {
+   "word": "drinking",
+   "lemma": "drinking",
+   "senses": [
+    "drinking.n.01",
+    "drink.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.604175210754158
+  },
+  {
+   "word": "drove",
+   "lemma": "drive",
+   "senses": [
+    "drive.v.02",
+    "drive.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.3548895371983233
+  },
+  {
+   "word": "earn",
+   "lemma": "earn",
+   "senses": [
+    "earn.v.02",
+    "gain.v.08"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5535420087696158
+  },
+  {
+   "word": "eat",
+   "lemma": "eat",
+   "senses": [
+    "eat.v.01",
+    "eat.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5213289116599151
+  },
+  {
+   "word": "emerged",
+   "lemma": "emerge",
+   "senses": [
+    "emerge.v.01",
+    "issue.v.04"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4981089218278611
+  },
+  {
+   "word": "evil",
+   "lemma": "evil",
+   "senses": [
+    "evil.a.01",
+    "evil.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.599061262706406
+  },
+  {
+   "word": "examined",
+   "lemma": "examine",
+   "senses": [
+    "examine.v.02",
+    "analyze.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.36164609198277925
+  },
+  {
+   "word": "extended",
+   "lemma": "extend",
+   "senses": [
+    "widen.v.04",
+    "run.v.03"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5866514738573562
+  },
+  {
+   "word": "factor",
+   "lemma": "factor",
+   "senses": [
+    "component.n.01",
+    "factor.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6257093614234719
+  },
+  {
+   "word": "faith",
+   "lemma": "faith",
+   "senses": [
+    "religion.n.01",
+    "religion.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4876842508671001
+  },
+  {
+   "word": "features",
+   "lemma": "feature",
+   "senses": [
+    "feature.n.01",
+    "have.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.26605254064693423
+  },
+  {
+   "word": "feeding",
+   "lemma": "feeding",
+   "senses": [
+    "eating.n.01",
+    "feeding.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6063650642443211
+  },
+  {
+   "word": "flesh",
+   "lemma": "flesh",
+   "senses": [
+    "flesh.n.01",
+    "human_body.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6555823432175277
+  },
+  {
+   "word": "fraction",
+   "lemma": "fraction",
+   "senses": [
+    "fraction.n.01",
+    "fraction.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.442117695825898
+  },
+  {
+   "word": "frequencies",
+   "lemma": "frequency",
+   "senses": [
+    "frequency.n.01",
+    "frequency.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4533285187525532
+  },
+  {
+   "word": "generation",
+   "lemma": "generation",
+   "senses": [
+    "coevals.n.01",
+    "generation.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.7390335968379447
+  },
+  {
+   "word": "government",
+   "lemma": "government",
+   "senses": [
+    "government.n.01",
+    "government.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5105886215067292
+  },
+  {
+   "word": "granted",
+   "lemma": "grant",
+   "senses": [
+    "allow.v.03",
+    "award.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4235817343575964
+  },
+  {
+   "word": "greek",
+   "lemma": "greek",
+   "senses": [
+    "greek.a.01",
+    "greek.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.49860893215468904
+  },
+  {
+   "word": "head",
+   "lemma": "head",
+   "senses": [
+    "head.n.01",
+    "head.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.677657693184009
+  },
+  {
+   "word": "honor",
+   "lemma": "honor",
+   "senses": [
+    "award.n.02",
+    "honor.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4508047596714653
+  },
+  {
+   "word": "horizon",
+   "lemma": "horizon",
+   "senses": [
+    "horizon.n.01",
+    "horizon.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.696793673690957
+  },
+  {
+   "word": "host",
+   "lemma": "host",
+   "senses": [
+    "host.n.01",
+    "horde.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.38260578266407347
+  },
+  {
+   "word": "hurry",
+   "lemma": "hurry",
+   "senses": [
+    "travel_rapidly.v.01",
+    "rush.v.04"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.446414778032425
+  },
+  {
+   "word": "identified",
+   "lemma": "identify",
+   "senses": [
+    "identify.v.01",
+    "name.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.3259131353793293
+  },
+  {
+   "word": "illusion",
+   "lemma": "illusion",
+   "senses": [
+    "illusion.n.01",
+    "illusion.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5954074806974614
+  },
+  {
+   "word": "illustrated",
+   "lemma": "illustrate",
+   "senses": [
+    "exemplify.v.02",
+    "illustrate.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.47917328042328045
+  },
+  {
+   "word": "image",
+   "lemma": "image",
+   "senses": [
+    "image.n.01",
+    "picture.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4535042552591955
+  },
+  {
+   "word": "imagine",
+   "lemma": "imagine",
+   "senses": [
+    "imagine.v.01",
+    "think.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.34178582678543934
+  },
+  {
+   "word": "immediately",
+   "lemma": "immediately",
+   "senses": [
+    "immediately.r.01",
+    "immediately.r.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6397064151747655
+  },
+  {
+   "word": "impressed",
+   "lemma": "impress",
+   "senses": [
+    "impress.v.02",
+    "affect.v.05"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.40001528517435203
+  },
+  {
+   "word": "injury",
+   "lemma": "injury",
+   "senses": [
+    "injury.n.01",
+    "injury.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5517727707212068
+  },
+  {
+   "word": "inspired",
+   "lemma": "inspire",
+   "senses": [
+    "inspire.v.01",
+    "inspire.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.473465363546503
+  },
+  {
+   "word": "issue",
+   "lemma": "issue",
+   "senses": [
+    "issue.n.01",
+    "publish.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5000258578736839
+  },
+  {
+   "word": "jumped",
+   "lemma": "jump",
+   "senses": [
+    "jump.v.01",
+    "startle.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.23408478590375142
+  },
+  {
+   "word": "killing",
+   "lemma": "killing",
+   "senses": [
+    "killing.n.01",
+    "killing.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.620298191881935
+  },
+  {
+   "word": "knife",
+   "lemma": "knife",
+   "senses": [
+    "knife.n.01",
+    "knife.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.49817851359286286
+  },
+  {
+   "word": "legs",
+   "lemma": "leg",
+   "senses": [
+    "leg.n.01",
+    "leg.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5552980820317006
+  },
+  {
+   "word": "located",
+   "lemma": "locate",
+   "senses": [
+    "locate.v.01",
+    "situate.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4158232239336891
+  },
+  {
+   "word": "maximum",
+   "lemma": "maximum",
+   "senses": [
+    "maximal.a.01",
+    "maximum.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5129718937780732
+  },
+  {
+   "word": "metal",
+   "lemma": "metal",
+   "senses": [
+    "metallic_element.n.01",
+    "metallic.a.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.3670838328042105
+  },
+  {
+   "word": "nature",
+   "lemma": "nature",
+   "senses": [
+    "nature.n.01",
+    "nature.n.03"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5176892384435489
+  },
+  {
+   "word": "newspapers",
+   "lemma": "newspaper",
+   "senses": [
+    "newspaper.n.01",
+    "newspaper.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5138902430881463
+  },
+  {
+   "word": "nuclear",
+   "lemma": "nuclear",
+   "senses": [
+    "nuclear.a.01",
+    "nuclear.a.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.533756717998204
+  },
+  {
+   "word": "off",
+   "lemma": "off",
+   "senses": [
+    "away.r.01",
+    "off.r.03"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4849259171627593
+  },
+  {
+   "word": "on",
+   "lemma": "on",
+   "senses": [
+    "along.r.01",
+    "on.a.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5241221072160922
+  },
+  {
+   "word": "operation",
+   "lemma": "operation",
+   "senses": [
+    "operation.n.01",
+    "operation.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5381579480031491
+  },
+  {
+   "word": "oppose",
+   "lemma": "oppose",
+   "senses": [
+    "oppose.v.01",
+    "fight.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5237256403017272
+  },
+  {
+   "word": "otherwise",
+   "lemma": "otherwise",
+   "senses": [
+    "otherwise.r.01",
+    "differently.r.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6586407294061798
+  },
+  {
+   "word": "outlook",
+   "lemma": "outlook",
+   "senses": [
+    "mentality.n.01",
+    "expectation.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.563928617388678
+  },
+  {
+   "word": "path",
+   "lemma": "path",
+   "senses": [
+    "way.n.05",
+    "path.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4903775171221457
+  },
+  {
+   "word": "peace",
+   "lemma": "peace",
+   "senses": [
+    "peace.n.01",
+    "peace.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5099428098069403
+  },
+  {
+   "word": "physical",
+   "lemma": "physical",
+   "senses": [
+    "physical.a.01",
+    "physical.a.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.507700603880777
+  },
+  {
+   "word": "place",
+   "lemma": "place",
+   "senses": [
+    "topographic_point.n.01",
+    "put.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.34645368209796523
+  },
+  {
+   "word": "plans",
+   "lemma": "plan",
+   "senses": [
+    "plan.n.01",
+    "plan.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.43932231477603534
+  },
+  {
+   "word": "plenty",
+   "lemma": "plenty",
+   "senses": [
+    "plenty.n.01",
+    "enough.r.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.3873576902025178
+  },
+  {
+   "word": "preserve",
+   "lemma": "preserve",
+   "senses": [
+    "continue.v.03",
+    "conserve.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5182505606137939
+  },
+  {
+   "word": "president",
+   "lemma": "president",
+   "senses": [
+    "president.n.01",
+    "president.n.03"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5907489049163519
+  },
+  {
+   "word": "pretending",
+   "lemma": "pretend",
+   "senses": [
+    "feign.v.01",
+    "dissemble.v.03"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6007678517877463
+  },
+  {
+   "word": "principles",
+   "lemma": "principle",
+   "senses": [
+    "principle.n.02",
+    "principle.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6175631133460975
+  },
+  {
+   "word": "proceed",
+   "lemma": "proceed",
+   "senses": [
+    "continue.v.02",
+    "proceed.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5689219737928775
+  },
+  {
+   "word": "profession",
+   "lemma": "profession",
+   "senses": [
+    "profession.n.01",
+    "profession.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5186928670458083
+  },
+  {
+   "word": "project",
+   "lemma": "project",
+   "senses": [
+    "undertaking.n.01",
+    "project.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5570644991926457
+  },
+  {
+   "word": "provided",
+   "lemma": "provide",
+   "senses": [
+    "provide.v.02",
+    "supply.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4897044954022557
+  },
+  {
+   "word": "quantity",
+   "lemma": "quantity",
+   "senses": [
+    "measure.n.02",
+    "quantity.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.48917660835333254
+  },
+  {
+   "word": "quietly",
+   "lemma": "quietly",
+   "senses": [
+    "softly.r.01",
+    "quietly.r.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.46658369408369404
+  },
+  {
+   "word": "range",
+   "lemma": "range",
+   "senses": [
+    "scope.n.01",
+    "range.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.2601260999536862
+  },
+  {
+   "word": "reaction",
+   "lemma": "reaction",
+   "senses": [
+    "chemical_reaction.n.01",
+    "reaction.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.42227691035875176
+  },
+  {
+   "word": "recognition",
+   "lemma": "recognition",
+   "senses": [
+    "recognition.n.01",
+    "recognition.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5580725999147051
+  },
+  {
+   "word": "record",
+   "lemma": "record",
+   "senses": [
+    "record.n.01",
+    "record.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4993412606427067
+  },
+  {
+   "word": "recording",
+   "lemma": "recording",
+   "senses": [
+    "recording.n.01",
+    "recording.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5305373368180163
+  },
+  {
+   "word": "research",
+   "lemma": "research",
+   "senses": [
+    "research.n.01",
+    "inquiry.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.509471413316096
+  },
+  {
+   "word": "resist",
+   "lemma": "resist",
+   "senses": [
+    "defy.v.02",
+    "resist.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5320337591521644
+  },
+  {
+   "word": "rest",
+   "lemma": "rest",
+   "senses": [
+    "remainder.n.01",
+    "rest.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5531210313332738
+  },
+  {
+   "word": "reviewed",
+   "lemma": "review",
+   "senses": [
+    "review.v.01",
+    "review.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4629371902073941
+  },
+  {
+   "word": "rode",
+   "lemma": "ride",
+   "senses": [
+    "ride.v.02",
+    "ride.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.29597766580744744
+  },
+  {
+   "word": "rock",
+   "lemma": "rock",
+   "senses": [
+    "rock.n.01",
+    "rock.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.61123334998335
+  },
+  {
+   "word": "safe",
+   "lemma": "safe",
+   "senses": [
+    "safe.a.01",
+    "safe.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5148272808880006
+  },
+  {
+   "word": "salt",
+   "lemma": "salt",
+   "senses": [
+    "salt.n.01",
+    "salt.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6755291262359442
+  },
+  {
+   "word": "scene",
+   "lemma": "scene",
+   "senses": [
+    "scene.n.01",
+    "scene.n.06"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4915113101541138
+  },
+  {
+   "word": "score",
+   "lemma": "score",
+   "senses": [
+    "mark.n.01",
+    "score.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.578533415598929
+  },
+  {
+   "word": "self",
+   "lemma": "self",
+   "senses": [
+    "self.n.01",
+    "self.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5733195141178661
+  },
+  {
+   "word": "separate",
+   "lemma": "separate",
+   "senses": [
+    "separate.a.01",
+    "separate.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5900017983542011
+  },
+  {
+   "word": "session",
+   "lemma": "session",
+   "senses": [
+    "session.n.01",
+    "school_term.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5129520423506967
+  },
+  {
+   "word": "shoot",
+   "lemma": "shoot",
+   "senses": [
+    "shoot.v.02",
+    "blast.v.07"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6065762942829276
+  },
+  {
+   "word": "shop",
+   "lemma": "shop",
+   "senses": [
+    "shop.n.01",
+    "shop.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.49764441382900904
+  },
+  {
+   "word": "sign",
+   "lemma": "sign",
+   "senses": [
+    "sign.n.01",
+    "sign.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.46480270060066325
+  },
+  {
+   "word": "similar",
+   "lemma": "similar",
+   "senses": [
+    "similar.a.01",
+    "alike.a.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6442013813163054
+  },
+  {
+   "word": "sing",
+   "lemma": "sing",
+   "senses": [
+    "sing.v.02",
+    "sing.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5209294333117863
+  },
+  {
+   "word": "slammed",
+   "lemma": "slam",
+   "senses": [
+    "slam.v.02",
+    "slam.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.38486940836940836
+  },
+  {
+   "word": "slid",
+   "lemma": "slide",
+   "senses": [
+    "skid.v.04",
+    "slither.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.3719372144597031
+  },
+  {
+   "word": "smelled",
+   "lemma": "smell",
+   "senses": [
+    "smell.v.02",
+    "smell.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.49260251795706794
+  },
+  {
+   "word": "solution",
+   "lemma": "solution",
+   "senses": [
+    "solution.n.01",
+    "solution.n.03"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5040100614246578
+  },
+  {
+   "word": "somehow",
+   "lemma": "somehow",
+   "senses": [
+    "somehow.r.01",
+    "somehow.r.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5091921890707501
+  },
+  {
+   "word": "species",
+   "lemma": "species",
+   "senses": [
+    "species.n.01",
+    "species.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.538658890820435
+  },
+  {
+   "word": "state",
+   "lemma": "state",
+   "senses": [
+    "state.n.01",
+    "state.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.37172246187490093
+  },
+  {
+   "word": "stretched",
+   "lemma": "stretch",
+   "senses": [
+    "stretch.v.01",
+    "stretch.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.36000698388614916
+  },
+  {
+   "word": "suffering",
+   "lemma": "suffering",
+   "senses": [
+    "agony.n.02",
+    "suffering.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6680171330147727
+  },
+  {
+   "word": "survive",
+   "lemma": "survive",
+   "senses": [
+    "survive.v.01",
+    "survive.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4893009172375268
+  },
+  {
+   "word": "sympathetic",
+   "lemma": "sympathetic",
+   "senses": [
+    "sympathetic.a.01",
+    "sympathetic.a.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5098375226424763
+  },
+  {
+   "word": "sympathy",
+   "lemma": "sympathy",
+   "senses": [
+    "sympathy.n.01",
+    "sympathy.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.515419770598942
+  },
+  {
+   "word": "test",
+   "lemma": "test",
+   "senses": [
+    "test.v.01",
+    "trial.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.3732856810105662
+  },
+  {
+   "word": "theme",
+   "lemma": "theme",
+   "senses": [
+    "subject.n.01",
+    "theme.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4284397185368422
+  },
+  {
+   "word": "thoroughly",
+   "lemma": "thoroughly",
+   "senses": [
+    "thoroughly.r.01",
+    "thoroughly.r.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5081078068340502
+  },
+  {
+   "word": "tube",
+   "lemma": "tube",
+   "senses": [
+    "tube.n.01",
+    "tube.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.49618471963479704
+  },
+  {
+   "word": "urged",
+   "lemma": "urge",
+   "senses": [
+    "urge.v.01",
+    "recommend.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.38669590175746127
+  },
+  {
+   "word": "use",
+   "lemma": "use",
+   "senses": [
+    "use.n.01",
+    "use.v.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6016619236743075
+  },
+  {
+   "word": "wall",
+   "lemma": "wall",
+   "senses": [
+    "wall.n.01",
+    "wall.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5768703476120355
+  },
+  {
+   "word": "warning",
+   "lemma": "warning",
+   "senses": [
+    "warning.n.01",
+    "admonition.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5144901982472652
+  },
+  {
+   "word": "wealth",
+   "lemma": "wealth",
+   "senses": [
+    "wealth.n.01",
+    "wealth.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.45993282422693904
+  },
+  {
+   "word": "wore",
+   "lemma": "wear",
+   "senses": [
+    "wear.v.01",
+    "wear.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.1854732719291293
+  },
+  {
+   "word": "wild",
+   "lemma": "wild",
+   "senses": [
+    "wild.a.01",
+    "wild.a.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.6370835047305635
+  },
+  {
+   "word": "wire",
+   "lemma": "wire",
+   "senses": [
+    "wire.n.01",
+    "wire.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.49922501315641654
+  },
+  {
+   "word": "worry",
+   "lemma": "worry",
+   "senses": [
+    "worry.v.01",
+    "worry.v.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.5247933811337593
+  },
+  {
+   "word": "writer",
+   "lemma": "writer",
+   "senses": [
+    "writer.n.01",
+    "writer.n.02"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.30000496079102396
+  },
+  {
+   "word": "yard",
+   "lemma": "yard",
+   "senses": [
+    "yard.n.02",
+    "yard.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4266727635109988
+  },
+  {
+   "word": "years",
+   "lemma": "years",
+   "senses": [
+    "old_age.n.01",
+    "long_time.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4640434694388481
+  },
+  {
+   "word": "youth",
+   "lemma": "youth",
+   "senses": [
+    "young.n.09",
+    "young_person.n.01"
+   ],
+   "n_per_sense": 5,
+   "mean_target_rel_pos": 0.4761515812553303
+  },
+  {
+   "word": "administered",
+   "lemma": "administer",
+   "senses": [
+    "administer.v.01",
+    "administer.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.38552576936527366
+  },
+  {
+   "word": "affair",
+   "lemma": "affair",
+   "senses": [
+    "matter.n.01",
+    "affair.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6060247166163463
+  },
+  {
+   "word": "agents",
+   "lemma": "agent",
+   "senses": [
+    "agent.n.01",
+    "agent.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4925121104149237
+  },
+  {
+   "word": "alert",
+   "lemma": "alert",
+   "senses": [
+    "alert.a.01",
+    "alarm.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4466063404796958
+  },
+  {
+   "word": "ambiguous",
+   "lemma": "ambiguous",
+   "senses": [
+    "equivocal.a.01",
+    "ambiguous.a.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4653293703674028
+  },
+  {
+   "word": "analysis",
+   "lemma": "analysis",
+   "senses": [
+    "analysis.n.01",
+    "analysis.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.2126171976887921
+  },
+  {
+   "word": "anxiety",
+   "lemma": "anxiety",
+   "senses": [
+    "anxiety.n.01",
+    "anxiety.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4610436438561438
+  },
+  {
+   "word": "appearance",
+   "lemma": "appearance",
+   "senses": [
+    "appearance.n.01",
+    "appearance.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4112400528492855
+  },
+  {
+   "word": "approved",
+   "lemma": "approve",
+   "senses": [
+    "approve.v.01",
+    "approve.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.484446182895947
+  },
+  {
+   "word": "arise",
+   "lemma": "arise",
+   "senses": [
+    "originate.v.01",
+    "arise.v.04"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4465775796520901
+  },
+  {
+   "word": "articles",
+   "lemma": "article",
+   "senses": [
+    "article.n.02",
+    "article.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4708502435064935
+  },
+  {
+   "word": "association",
+   "lemma": "association",
+   "senses": [
+    "association.n.01",
+    "association.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5075381767794158
+  },
+  {
+   "word": "badly",
+   "lemma": "badly",
+   "senses": [
+    "badly.r.01",
+    "ill.r.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.56034677374431
+  },
+  {
+   "word": "balance",
+   "lemma": "balance",
+   "senses": [
+    "balance.n.01",
+    "balance.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5440299736495389
+  },
+  {
+   "word": "beat",
+   "lemma": "beat",
+   "senses": [
+    "beat.v.01",
+    "beat.v.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.44103941046415723
+  },
+  {
+   "word": "black",
+   "lemma": "black",
+   "senses": [
+    "black.a.01",
+    "black.a.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4383410973084886
+  },
+  {
+   "word": "blanket",
+   "lemma": "blanket",
+   "senses": [
+    "blanket.n.01",
+    "blanket.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.44757042758703103
+  },
+  {
+   "word": "bond",
+   "lemma": "bond",
+   "senses": [
+    "chemical_bond.n.01",
+    "bond.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.535036379572436
+  },
+  {
+   "word": "boss",
+   "lemma": "boss",
+   "senses": [
+    "foreman.n.01",
+    "boss.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6553587920675517
+  },
+  {
+   "word": "bounced",
+   "lemma": "bounce",
+   "senses": [
+    "bounce.v.01",
+    "bounce.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5540261229421312
+  },
+  {
+   "word": "break",
+   "lemma": "break",
+   "senses": [
+    "break.v.02",
+    "interrupt.v.04"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5271437812862045
+  },
+  {
+   "word": "burst",
+   "lemma": "burst",
+   "senses": [
+    "burst.v.01",
+    "break.v.09"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4599397454554501
+  },
+  {
+   "word": "campaign",
+   "lemma": "campaign",
+   "senses": [
+    "political_campaign.n.01",
+    "campaign.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3594998610242513
+  },
+  {
+   "word": "catholic",
+   "lemma": "catholic",
+   "senses": [
+    "catholic.a.01",
+    "catholic.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.475324721508932
+  },
+  {
+   "word": "centers",
+   "lemma": "center",
+   "senses": [
+    "center.n.01",
+    "focus_on.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.39150463558148985
+  },
+  {
+   "word": "challenge",
+   "lemma": "challenge",
+   "senses": [
+    "challenge.v.01",
+    "challenge.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5052444083694084
+  },
+  {
+   "word": "chicken",
+   "lemma": "chicken",
+   "senses": [
+    "chicken.n.01",
+    "chicken.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3812502587613965
+  },
+  {
+   "word": "china",
+   "lemma": "china",
+   "senses": [
+    "china.n.01",
+    "china.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6391158391668827
+  },
+  {
+   "word": "circumstances",
+   "lemma": "circumstance",
+   "senses": [
+    "circumstance.n.01",
+    "context.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5748473333196786
+  },
+  {
+   "word": "claim",
+   "lemma": "claim",
+   "senses": [
+    "claim.n.01",
+    "claim.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.32914499271228387
+  },
+  {
+   "word": "clear",
+   "lemma": "clear",
+   "senses": [
+    "clear.a.01",
+    "unclutter.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.33910103461754554
+  },
+  {
+   "word": "collapsed",
+   "lemma": "collapse",
+   "senses": [
+    "break_down.v.08",
+    "collapse.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5067219566335133
+  },
+  {
+   "word": "combat",
+   "lemma": "combat",
+   "senses": [
+    "combat.n.01",
+    "battle.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6641852998163716
+  },
+  {
+   "word": "combined",
+   "lemma": "combine",
+   "senses": [
+    "compound.v.02",
+    "unite.v.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4873956143641038
+  },
+  {
+   "word": "comfort",
+   "lemma": "comfort",
+   "senses": [
+    "comfort.n.02",
+    "consolation.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4092987975521931
+  },
+  {
+   "word": "communism",
+   "lemma": "communism",
+   "senses": [
+    "communism.n.01",
+    "communism.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5553101050669701
+  },
+  {
+   "word": "community",
+   "lemma": "community",
+   "senses": [
+    "community.n.01",
+    "community.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4285187676338083
+  },
+  {
+   "word": "competition",
+   "lemma": "competition",
+   "senses": [
+    "competition.n.01",
+    "contest.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5228163354702059
+  },
+  {
+   "word": "composition",
+   "lemma": "composition",
+   "senses": [
+    "constitution.n.04",
+    "composition.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.7645932680972727
+  },
+  {
+   "word": "concentration",
+   "lemma": "concentration",
+   "senses": [
+    "concentration.n.01",
+    "concentration.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3906946688993166
+  },
+  {
+   "word": "conscience",
+   "lemma": "conscience",
+   "senses": [
+    "conscience.n.01",
+    "conscience.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5102835659852136
+  },
+  {
+   "word": "consideration",
+   "lemma": "consideration",
+   "senses": [
+    "consideration.n.01",
+    "circumstance.n.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6269703554398669
+  },
+  {
+   "word": "context",
+   "lemma": "context",
+   "senses": [
+    "context.n.01",
+    "context.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6032912875654811
+  },
+  {
+   "word": "continuous",
+   "lemma": "continuous",
+   "senses": [
+    "continuous.a.01",
+    "continuous.a.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5997408725533725
+  },
+  {
+   "word": "continuously",
+   "lemma": "continuously",
+   "senses": [
+    "continuously.r.01",
+    "endlessly.r.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5794714932175166
+  },
+  {
+   "word": "contract",
+   "lemma": "contract",
+   "senses": [
+    "contract.n.01",
+    "contract.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.49742710075560775
+  },
+  {
+   "word": "converted",
+   "lemma": "convert",
+   "senses": [
+    "convert.v.01",
+    "convert.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5894129855889725
+  },
+  {
+   "word": "convey",
+   "lemma": "convey",
+   "senses": [
+    "convey.v.01",
+    "carry.v.04"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5969140619934908
+  },
+  {
+   "word": "cook",
+   "lemma": "cook",
+   "senses": [
+    "cook.n.01",
+    "cook.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5062390122132769
+  },
+  {
+   "word": "crew",
+   "lemma": "crew",
+   "senses": [
+    "crew.n.01",
+    "gang.n.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5810254673059552
+  },
+  {
+   "word": "cursed",
+   "lemma": "curse",
+   "senses": [
+    "curse.v.01",
+    "curse.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3209993674889311
+  },
+  {
+   "word": "damage",
+   "lemma": "damage",
+   "senses": [
+    "damage.n.01",
+    "damage.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.48766116352201255
+  },
+  {
+   "word": "danger",
+   "lemma": "danger",
+   "senses": [
+    "danger.n.01",
+    "risk.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6100403065448832
+  },
+  {
+   "word": "decided",
+   "lemma": "decide",
+   "senses": [
+    "decide.v.01",
+    "decide.v.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.47800391987501706
+  },
+  {
+   "word": "decrease",
+   "lemma": "decrease",
+   "senses": [
+    "decrease.v.01",
+    "decrease.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.493463647478374
+  },
+  {
+   "word": "defense",
+   "lemma": "defense",
+   "senses": [
+    "defense.n.01",
+    "defense.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6097767949949334
+  },
+  {
+   "word": "derived",
+   "lemma": "derive",
+   "senses": [
+    "deduce.v.01",
+    "derive.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.2962548401394888
+  },
+  {
+   "word": "devote",
+   "lemma": "devote",
+   "senses": [
+    "give.v.18",
+    "give.v.10"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.34441241942833617
+  },
+  {
+   "word": "discovery",
+   "lemma": "discovery",
+   "senses": [
+    "discovery.n.01",
+    "discovery.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3197876756066412
+  },
+  {
+   "word": "dislike",
+   "lemma": "dislike",
+   "senses": [
+    "dislike.v.01",
+    "disfavor.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5565444645600175
+  },
+  {
+   "word": "distance",
+   "lemma": "distance",
+   "senses": [
+    "distance.n.01",
+    "distance.n.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5553365476992107
+  },
+  {
+   "word": "dragged",
+   "lemma": "drag",
+   "senses": [
+    "haul.v.01",
+    "drag.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4517002605237899
+  },
+  {
+   "word": "ear",
+   "lemma": "ear",
+   "senses": [
+    "ear.n.01",
+    "ear.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5531331626411413
+  },
+  {
+   "word": "economic",
+   "lemma": "economic",
+   "senses": [
+    "economic.a.01",
+    "economic.a.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.55114717941185
+  },
+  {
+   "word": "edge",
+   "lemma": "edge",
+   "senses": [
+    "edge.n.01",
+    "edge.n.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5594814062748845
+  },
+  {
+   "word": "electricity",
+   "lemma": "electricity",
+   "senses": [
+    "electricity.n.01",
+    "electricity.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4548906320287899
+  },
+  {
+   "word": "emphasis",
+   "lemma": "emphasis",
+   "senses": [
+    "emphasis.n.01",
+    "vehemence.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3813646106215766
+  },
+  {
+   "word": "encourage",
+   "lemma": "encourage",
+   "senses": [
+    "promote.v.01",
+    "encourage.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5180011346148957
+  },
+  {
+   "word": "end",
+   "lemma": "end",
+   "senses": [
+    "end.n.01",
+    "end.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4858118426743654
+  },
+  {
+   "word": "energy",
+   "lemma": "energy",
+   "senses": [
+    "energy.n.01",
+    "energy.n.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4385443392701457
+  },
+  {
+   "word": "engaged",
+   "lemma": "engage",
+   "senses": [
+    "prosecute.v.03",
+    "absorb.v.09"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.31645045363874946
+  },
+  {
+   "word": "entry",
+   "lemma": "entry",
+   "senses": [
+    "entry.n.01",
+    "introduction.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3045306421718724
+  },
+  {
+   "word": "exclaimed",
+   "lemma": "exclaim",
+   "senses": [
+    "proclaim.v.02",
+    "exclaim.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4566659035409036
+  },
+  {
+   "word": "expense",
+   "lemma": "expense",
+   "senses": [
+    "expense.n.01",
+    "expense.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5978064293639236
+  },
+  {
+   "word": "explained",
+   "lemma": "explain",
+   "senses": [
+    "explain.v.01",
+    "explain.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5426760392385392
+  },
+  {
+   "word": "firmly",
+   "lemma": "firmly",
+   "senses": [
+    "firm.r.01",
+    "securely.r.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.39577392715979676
+  },
+  {
+   "word": "flight",
+   "lemma": "flight",
+   "senses": [
+    "flight.n.02",
+    "flight.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4419056225048788
+  },
+  {
+   "word": "flew",
+   "lemma": "fly",
+   "senses": [
+    "fly.v.01",
+    "fly.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3795265299008891
+  },
+  {
+   "word": "formation",
+   "lemma": "formation",
+   "senses": [
+    "constitution.n.02",
+    "formation.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4127211418119466
+  },
+  {
+   "word": "formula",
+   "lemma": "formula",
+   "senses": [
+    "formula.n.01",
+    "recipe.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.30069971634872344
+  },
+  {
+   "word": "garden",
+   "lemma": "garden",
+   "senses": [
+    "garden.n.01",
+    "garden.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5276098432348433
+  },
+  {
+   "word": "gaze",
+   "lemma": "gaze",
+   "senses": [
+    "gaze.n.01",
+    "gaze.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6767932918116741
+  },
+  {
+   "word": "general",
+   "lemma": "general",
+   "senses": [
+    "general.a.01",
+    "general.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5009840043950455
+  },
+  {
+   "word": "gesture",
+   "lemma": "gesture",
+   "senses": [
+    "gesture.n.01",
+    "gesture.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.45249143217893223
+  },
+  {
+   "word": "gold",
+   "lemma": "gold",
+   "senses": [
+    "gold.n.01",
+    "amber.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6886602347539849
+  },
+  {
+   "word": "governing",
+   "lemma": "govern",
+   "senses": [
+    "regulate.v.02",
+    "govern.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5898234614925267
+  },
+  {
+   "word": "grounds",
+   "lemma": "grounds",
+   "senses": [
+    "evidence.n.01",
+    "yard.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6497058786121286
+  },
+  {
+   "word": "growing",
+   "lemma": "grow",
+   "senses": [
+    "grow.v.02",
+    "turn.v.07"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4696532889049768
+  },
+  {
+   "word": "house",
+   "lemma": "house",
+   "senses": [
+    "house.n.01",
+    "house.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5627143141945774
+  },
+  {
+   "word": "identity",
+   "lemma": "identity",
+   "senses": [
+    "identity.n.01",
+    "identity.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6001459671878574
+  },
+  {
+   "word": "implications",
+   "lemma": "implication",
+   "senses": [
+    "deduction.n.03",
+    "significance.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5614579404196108
+  },
+  {
+   "word": "imply",
+   "lemma": "imply",
+   "senses": [
+    "imply.v.02",
+    "imply.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3789047381519966
+  },
+  {
+   "word": "importance",
+   "lemma": "importance",
+   "senses": [
+    "importance.n.01",
+    "importance.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6209436566143883
+  },
+  {
+   "word": "important",
+   "lemma": "important",
+   "senses": [
+    "important.a.01",
+    "significant.a.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.35997023809523804
+  },
+  {
+   "word": "impression",
+   "lemma": "impression",
+   "senses": [
+    "impression.n.01",
+    "impression.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.46859083624708625
+  },
+  {
+   "word": "improved",
+   "lemma": "improve",
+   "senses": [
+    "better.v.02",
+    "better.v.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.46307463589252384
+  },
+  {
+   "word": "initiative",
+   "lemma": "initiative",
+   "senses": [
+    "enterprise.n.03",
+    "first_step.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5181212428780246
+  },
+  {
+   "word": "instituted",
+   "lemma": "institute",
+   "senses": [
+    "establish.v.02",
+    "institute.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.44641692179816406
+  },
+  {
+   "word": "insure",
+   "lemma": "insure",
+   "senses": [
+    "see.v.10",
+    "guarantee.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5818072031994063
+  },
+  {
+   "word": "interrupted",
+   "lemma": "interrupt",
+   "senses": [
+    "interrupt.v.01",
+    "interrupt.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3961242027833813
+  },
+  {
+   "word": "interval",
+   "lemma": "interval",
+   "senses": [
+    "interval.n.02",
+    "time_interval.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4790400583736821
+  },
+  {
+   "word": "investment",
+   "lemma": "investment",
+   "senses": [
+    "investing.n.01",
+    "investment.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.34431209428373355
+  },
+  {
+   "word": "item",
+   "lemma": "item",
+   "senses": [
+    "item.n.01",
+    "item.n.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.40626388775275823
+  },
+  {
+   "word": "judgment",
+   "lemma": "judgment",
+   "senses": [
+    "judgment.n.01",
+    "judgment.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4414245775132872
+  },
+  {
+   "word": "justice",
+   "lemma": "justice",
+   "senses": [
+    "justice.n.01",
+    "justice.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5249759310130421
+  },
+  {
+   "word": "key",
+   "lemma": "key",
+   "senses": [
+    "key.n.01",
+    "key.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.26069962921065865
+  },
+  {
+   "word": "kiss",
+   "lemma": "kiss",
+   "senses": [
+    "snog.v.01",
+    "kiss.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.554975773450982
+  },
+  {
+   "word": "laugh",
+   "lemma": "laugh",
+   "senses": [
+    "laugh.n.01",
+    "laugh.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.43341591706679067
+  },
+  {
+   "word": "legal",
+   "lemma": "legal",
+   "senses": [
+    "legal.a.01",
+    "legal.a.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5613496942299186
+  },
+  {
+   "word": "literally",
+   "lemma": "literally",
+   "senses": [
+    "literally.r.02",
+    "literally.r.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5049090529353687
+  },
+  {
+   "word": "luck",
+   "lemma": "luck",
+   "senses": [
+    "fortune.n.04",
+    "luck.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3980213903743316
+  },
+  {
+   "word": "m",
+   "lemma": "m",
+   "senses": [
+    "molarity.n.01",
+    "meter.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4443504859673338
+  },
+  {
+   "word": "manufacturer",
+   "lemma": "manufacturer",
+   "senses": [
+    "manufacturer.n.01",
+    "manufacturer.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.33494001960167374
+  },
+  {
+   "word": "marriage",
+   "lemma": "marriage",
+   "senses": [
+    "marriage.n.01",
+    "marriage.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6537251380425344
+  },
+  {
+   "word": "mate",
+   "lemma": "mate",
+   "senses": [
+    "copulate.v.01",
+    "mate.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.39491189468211524
+  },
+  {
+   "word": "mature",
+   "lemma": "mature",
+   "senses": [
+    "mature.v.01",
+    "mature.a.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4999497651471336
+  },
+  {
+   "word": "medical",
+   "lemma": "medical",
+   "senses": [
+    "medical.a.01",
+    "medical.a.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6673287299689343
+  },
+  {
+   "word": "mexican",
+   "lemma": "mexican",
+   "senses": [
+    "mexican.n.01",
+    "mexican.a.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4119834681415564
+  },
+  {
+   "word": "mississippi",
+   "lemma": "mississippi",
+   "senses": [
+    "mississippi.n.02",
+    "mississippi.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5803217888032406
+  },
+  {
+   "word": "mood",
+   "lemma": "mood",
+   "senses": [
+    "temper.n.02",
+    "climate.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5798658099764318
+  },
+  {
+   "word": "morality",
+   "lemma": "morality",
+   "senses": [
+    "morality.n.01",
+    "ethical_motive.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5762112257575053
+  },
+  {
+   "word": "mounted",
+   "lemma": "mount",
+   "senses": [
+    "mount.v.01",
+    "wax.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3432869835127467
+  },
+  {
+   "word": "net",
+   "lemma": "net",
+   "senses": [
+    "net.a.01",
+    "internet.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4807750067943425
+  },
+  {
+   "word": "observation",
+   "lemma": "observation",
+   "senses": [
+    "observation.n.02",
+    "observation.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5565559663200871
+  },
+  {
+   "word": "observers",
+   "lemma": "observer",
+   "senses": [
+    "observer.n.02",
+    "perceiver.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.40863733072020053
+  },
+  {
+   "word": "oil",
+   "lemma": "oil",
+   "senses": [
+    "oil.n.01",
+    "oil.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3345071825290015
+  },
+  {
+   "word": "opening",
+   "lemma": "opening",
+   "senses": [
+    "opening.a.01",
+    "opening.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4783762791148972
+  },
+  {
+   "word": "operator",
+   "lemma": "operator",
+   "senses": [
+    "operator.n.01",
+    "operator.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.42745324857318545
+  },
+  {
+   "word": "overcome",
+   "lemma": "overcome",
+   "senses": [
+    "overcome.v.02",
+    "get_the_better_of.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6079491695668167
+  },
+  {
+   "word": "owners",
+   "lemma": "owner",
+   "senses": [
+    "owner.n.01",
+    "owner.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5475494600674278
+  },
+  {
+   "word": "paint",
+   "lemma": "paint",
+   "senses": [
+    "paint.v.01",
+    "paint.v.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4080433723196881
+  },
+  {
+   "word": "passage",
+   "lemma": "passage",
+   "senses": [
+    "passage.n.01",
+    "passage.n.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5232675198877155
+  },
+  {
+   "word": "perception",
+   "lemma": "perception",
+   "senses": [
+    "percept.n.01",
+    "perception.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4710499177494586
+  },
+  {
+   "word": "phenomenon",
+   "lemma": "phenomenon",
+   "senses": [
+    "phenomenon.n.01",
+    "phenomenon.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4208134353406691
+  },
+  {
+   "word": "planning",
+   "lemma": "planning",
+   "senses": [
+    "planning.n.01",
+    "planning.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5295164751506664
+  },
+  {
+   "word": "plunged",
+   "lemma": "plunge",
+   "senses": [
+    "immerse.v.01",
+    "dive.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6140021559582292
+  },
+  {
+   "word": "population",
+   "lemma": "population",
+   "senses": [
+    "population.n.01",
+    "population.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.538296299091484
+  },
+  {
+   "word": "portion",
+   "lemma": "portion",
+   "senses": [
+    "part.n.01",
+    "parcel.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.523482245723625
+  },
+  {
+   "word": "possess",
+   "lemma": "possess",
+   "senses": [
+    "possess.v.01",
+    "own.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4939527542557145
+  },
+  {
+   "word": "pot",
+   "lemma": "pot",
+   "senses": [
+    "pot.n.01",
+    "toilet.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5151823870573871
+  },
+  {
+   "word": "poured",
+   "lemma": "pour",
+   "senses": [
+    "pour.v.02",
+    "pour.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.11963226901685979
+  },
+  {
+   "word": "precipitated",
+   "lemma": "precipitate",
+   "senses": [
+    "precipitate.v.02",
+    "precipitate.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4497039270253556
+  },
+  {
+   "word": "presentation",
+   "lemma": "presentation",
+   "senses": [
+    "presentation.n.01",
+    "presentation.n.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4739846340006109
+  },
+  {
+   "word": "press",
+   "lemma": "press",
+   "senses": [
+    "press.v.01",
+    "urge.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.35867738741698607
+  },
+  {
+   "word": "priest",
+   "lemma": "priest",
+   "senses": [
+    "priest.n.01",
+    "priest.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5584976492656843
+  },
+  {
+   "word": "property",
+   "lemma": "property",
+   "senses": [
+    "property.n.01",
+    "property.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.584593186936937
+  },
+  {
+   "word": "queen",
+   "lemma": "queen",
+   "senses": [
+    "queen.n.01",
+    "queen.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4721349362591331
+  },
+  {
+   "word": "recommend",
+   "lemma": "recommend",
+   "senses": [
+    "recommend.v.01",
+    "commend.v.04"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3909444348960478
+  },
+  {
+   "word": "reduced",
+   "lemma": "reduce",
+   "senses": [
+    "reduce.v.01",
+    "reduce.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.522392169534828
+  },
+  {
+   "word": "registered",
+   "lemma": "register",
+   "senses": [
+    "file.v.01",
+    "register.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5503480276578654
+  },
+  {
+   "word": "relating",
+   "lemma": "relate",
+   "senses": [
+    "associate.v.01",
+    "refer.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.43616604936736325
+  },
+  {
+   "word": "related",
+   "lemma": "related",
+   "senses": [
+    "related.a.01",
+    "related.a.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3233005320202901
+  },
+  {
+   "word": "reply",
+   "lemma": "reply",
+   "senses": [
+    "answer.n.01",
+    "answer.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4847464626876392
+  },
+  {
+   "word": "representation",
+   "lemma": "representation",
+   "senses": [
+    "representation.n.02",
+    "representation.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.700239450890537
+  },
+  {
+   "word": "residential",
+   "lemma": "residential",
+   "senses": [
+    "residential.a.01",
+    "residential.a.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.594606101445724
+  },
+  {
+   "word": "resistance",
+   "lemma": "resistance",
+   "senses": [
+    "resistance.n.02",
+    "resistance.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4462326035552522
+  },
+  {
+   "word": "resources",
+   "lemma": "resource",
+   "senses": [
+    "resource.n.01",
+    "resource.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5304304231186064
+  },
+  {
+   "word": "resume",
+   "lemma": "resume",
+   "senses": [
+    "resume.v.01",
+    "sketch.n.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5430858466491516
+  },
+  {
+   "word": "revolution",
+   "lemma": "revolution",
+   "senses": [
+    "revolution.n.01",
+    "revolution.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.43740256642933595
+  },
+  {
+   "word": "rhythm",
+   "lemma": "rhythm",
+   "senses": [
+    "rhythm.n.02",
+    "rhythm.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5753636114843012
+  },
+  {
+   "word": "rice",
+   "lemma": "rice",
+   "senses": [
+    "rice.n.01",
+    "rice.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5526566269987323
+  },
+  {
+   "word": "rushed",
+   "lemma": "rush",
+   "senses": [
+    "rush.v.01",
+    "rush.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4540343915343915
+  },
+  {
+   "word": "scholarship",
+   "lemma": "scholarship",
+   "senses": [
+    "scholarship.n.01",
+    "eruditeness.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5546231713688611
+  },
+  {
+   "word": "scream",
+   "lemma": "scream",
+   "senses": [
+    "scream.n.01",
+    "shout.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5858236592898466
+  },
+  {
+   "word": "seat",
+   "lemma": "seat",
+   "senses": [
+    "seat.n.01",
+    "buttocks.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.48019479262742143
+  },
+  {
+   "word": "security",
+   "lemma": "security",
+   "senses": [
+    "security.n.01",
+    "security.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4843140152922761
+  },
+  {
+   "word": "seem",
+   "lemma": "seem",
+   "senses": [
+    "look.v.02",
+    "appear.v.04"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.34803335925560713
+  },
+  {
+   "word": "seized",
+   "lemma": "seize",
+   "senses": [
+    "seize.v.01",
+    "appropriate.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5053862803862804
+  },
+  {
+   "word": "sell",
+   "lemma": "sell",
+   "senses": [
+    "sell.v.01",
+    "sell.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4657617825205571
+  },
+  {
+   "word": "sensitivity",
+   "lemma": "sensitivity",
+   "senses": [
+    "sensitivity.n.01",
+    "sensitivity.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5289262861159068
+  },
+  {
+   "word": "serve",
+   "lemma": "serve",
+   "senses": [
+    "serve.v.01",
+    "serve.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4479175435274374
+  },
+  {
+   "word": "settled",
+   "lemma": "settle",
+   "senses": [
+    "settle.v.01",
+    "settle.v.03"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3943439662189662
+  },
+  {
+   "word": "shape",
+   "lemma": "shape",
+   "senses": [
+    "shape.n.01",
+    "determine.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5182751899606877
+  },
+  {
+   "word": "shifted",
+   "lemma": "shift",
+   "senses": [
+    "switch.v.04",
+    "shift.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4632128740824394
+  },
+  {
+   "word": "shooting",
+   "lemma": "shooting",
+   "senses": [
+    "shooting.n.01",
+    "shooting.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5209803307287828
+  },
+  {
+   "word": "show",
+   "lemma": "show",
+   "senses": [
+    "prove.v.02",
+    "show.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3923643136116235
+  },
+  {
+   "word": "sight",
+   "lemma": "sight",
+   "senses": [
+    "sight.n.01",
+    "sight.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5396617406397901
+  },
+  {
+   "word": "sin",
+   "lemma": "sin",
+   "senses": [
+    "sin.n.01",
+    "sin.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6489443150448586
+  },
+  {
+   "word": "slipped",
+   "lemma": "slip",
+   "senses": [
+    "steal.v.02",
+    "slip.v.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.3651274883956773
+  },
+  {
+   "word": "slope",
+   "lemma": "slope",
+   "senses": [
+    "slope.n.01",
+    "gradient.n.02"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4777810825921881
+  },
+  {
+   "word": "smoke",
+   "lemma": "smoke",
+   "senses": [
+    "smoke.n.01",
+    "smoke.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6648655492898915
+  },
+  {
+   "word": "souls",
+   "lemma": "soul",
+   "senses": [
+    "soul.n.01",
+    "person.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5291431541431542
+  },
+  {
+   "word": "span",
+   "lemma": "span",
+   "senses": [
+    "span.n.01",
+    "cross.v.05"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.5367396983244481
+  },
+  {
+   "word": "stomach",
+   "lemma": "stomach",
+   "senses": [
+    "stomach.n.01",
+    "abdomen.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6398541542144082
+  },
+  {
+   "word": "stone",
+   "lemma": "stone",
+   "senses": [
+    "stone.n.02",
+    "rock.n.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.4561321038087228
+  },
+  {
+   "word": "store",
+   "lemma": "store",
+   "senses": [
+    "shop.n.01",
+    "store.v.01"
+   ],
+   "n_per_sense": 4,
+   "mean_target_rel_pos": 0.6256450786056049
+  }
+ ]
+}

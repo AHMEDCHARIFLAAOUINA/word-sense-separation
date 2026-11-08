@@ -1,0 +1,7 @@
+word: way
+dataset: data/raw/semcor_words/way.json
+senses:
+  - manner.n.01
+  - means.n.01
+n_per_sense: 18
+prefix: "Example sentence: "

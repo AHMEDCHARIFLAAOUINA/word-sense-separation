@@ -1,0 +1,7 @@
+word: safe
+dataset: data/raw/semcor_words/safe.json
+senses:
+  - safe.a.01
+  - safe.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

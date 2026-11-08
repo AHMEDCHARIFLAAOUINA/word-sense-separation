@@ -1,0 +1,7 @@
+word: property
+dataset: data/raw/semcor_words/property.json
+senses:
+  - property.n.01
+  - property.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

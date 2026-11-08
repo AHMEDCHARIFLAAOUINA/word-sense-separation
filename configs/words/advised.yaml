@@ -1,0 +1,7 @@
+word: advised
+dataset: data/raw/semcor_words/advised.json
+senses:
+  - rede.v.02
+  - advise.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

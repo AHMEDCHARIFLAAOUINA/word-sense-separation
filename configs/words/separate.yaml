@@ -1,0 +1,7 @@
+word: separate
+dataset: data/raw/semcor_words/separate.json
+senses:
+  - separate.a.01
+  - separate.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

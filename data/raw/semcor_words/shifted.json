@@ -1,0 +1,35 @@
+{
+ "target_word": "shifted",
+ "sentences": [
+  "Example sentence: The effect of Chou En-lai's clash with Khrushchev, together with the everlasting attacks on Molotov + Co., has shifted the whole attention of the world, including that of the Soviet people, from the `` epoch-making '' twenty-year program to the present Soviet-Chinese conflict.",
+  "Example sentence: All of the subjects in the Kohnstamm-negative and Kohnstamm-positive groups (as defined for purposes of the personality studies) were compared with those subjects who shifted in Conditions 3, or 4,.",
+  "Example sentence: To make it clearer he shifted to acting out, but with no change of manner, the killing of Rose Mallory.",
+  "Example sentence: One prediction had been made about the difference in security or self-confidence between those subjects who shifted their Kohnstamm reactivity when informed and those who did not.",
+  "Example sentence: (Several times recently I have wondered whether shows were being staged for the sake of the script or just to entertain the audience with the spectacle of scenery being shifted right in front of their eyes.",
+  "Example sentence: With enormous interest, Adam watched his hands as they touched and shifted the objects on the board directly before him.",
+  "Example sentence: Since that time the telegraph office has shifted in location from the railroad station at the Depot and shops at the Center back to the town clerk's office and drugstore at the Village.",
+  "Example sentence: And with passenger weight shifted forward, Hotei levels off for speed under power of a Merc 800."
+ ],
+ "labels": [
+  "switch.v.04",
+  "switch.v.04",
+  "switch.v.04",
+  "switch.v.04",
+  "shift.v.02",
+  "shift.v.02",
+  "shift.v.02",
+  "shift.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

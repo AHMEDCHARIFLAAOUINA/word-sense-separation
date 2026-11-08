@@ -1,0 +1,7 @@
+word: speech
+dataset: data/raw/semcor_words/speech.json
+senses:
+  - address.n.03
+  - speech.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

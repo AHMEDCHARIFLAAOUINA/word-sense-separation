@@ -1,0 +1,7 @@
+word: plane
+dataset: data/raw/semcor_words/plane.json
+senses:
+  - airplane.n.01
+  - plane.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

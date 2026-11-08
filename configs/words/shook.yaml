@@ -1,0 +1,7 @@
+word: shook
+dataset: data/raw/semcor_words/shook.json
+senses:
+  - shake.v.01
+  - shake.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

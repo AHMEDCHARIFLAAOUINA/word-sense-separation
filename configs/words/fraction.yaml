@@ -1,0 +1,7 @@
+word: fraction
+dataset: data/raw/semcor_words/fraction.json
+senses:
+  - fraction.n.01
+  - fraction.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: finally
+dataset: data/raw/semcor_words/finally.json
+senses:
+  - finally.r.01
+  - ultimately.r.01
+n_per_sense: 16
+prefix: "Example sentence: "

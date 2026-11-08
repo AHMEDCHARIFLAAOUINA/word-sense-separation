@@ -1,0 +1,35 @@
+{
+ "target_word": "rushed",
+ "sentences": [
+  "Example sentence: At a very shallow place, two Mexicans rushed into the open for a shot.",
+  "Example sentence: Walls of water rushed down the slopes and filled the hollows like the crests of flash floods.",
+  "Example sentence: When it became obvious that he could stay inside no longer, taking a thousand to one chance Gonzales rushed outside, square against the muzzle of a Winchester.",
+  "Example sentence: Bishop rushed on deck to grab a 20 mm gun, pumping out 400 rounds before sticks of three bombs each crashed into Holds One, Three and Five.",
+  "Example sentence: We are not going to be rushed and murdered '', Alexander said.",
+  "Example sentence: As soon as that one man is appointed by himself or the others or by a signal from Spencer, we are going to be rushed.",
+  "Example sentence: Nothing appalling or horrible rushed upon these men.",
+  "Example sentence: We are going to be rushed and murdered ''."
+ ],
+ "labels": [
+  "rush.v.01",
+  "rush.v.01",
+  "rush.v.01",
+  "rush.v.01",
+  "rush.v.02",
+  "rush.v.02",
+  "rush.v.02",
+  "rush.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

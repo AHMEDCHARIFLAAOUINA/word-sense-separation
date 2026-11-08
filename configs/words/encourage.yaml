@@ -1,0 +1,7 @@
+word: encourage
+dataset: data/raw/semcor_words/encourage.json
+senses:
+  - promote.v.01
+  - encourage.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: instructed
+dataset: data/raw/semcor_words/instructed.json
+senses:
+  - teach.v.01
+  - instruct.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "smelled",
+ "sentences": [
+  "Example sentence: The night we saw it, a rather unpleasant situation arose when the soloist refused to approach the armadillo, complaining - in ad-lib - that `` it smelled ''.",
+  "Example sentence: The air smelled warmish and foul.",
+  "Example sentence: Leaves were burning somewhere and the smoke smelled, for all its ammoniac acidity, of beginnings.",
+  "Example sentence: He was a little more authentic than usual because he smelled slightly of the stables.",
+  "Example sentence: Watson ran up the ladder and stood for a second sucking in the cool air that smelled of mud and river weeds.",
+  "Example sentence: It seemed incredible, as I listened to the monotonous drone of voices and smelled the fetid odors coming from the patients, that technically I was a ward of the state of Illinois, going to a hospital for the mentally ill.",
+  "Example sentence: Then he heard it and smelled it - the steady hissing, the dread, familiar pungency of gas escaping.",
+  "Example sentence: He claimed to be visiting the waterfront saloon at the crossroads to play cards and drink with his cronies, but Kate had not smelled brandy on him since Mrs. Lattimer's funeral.",
+  "Example sentence: Halfway across the house, he could have smelled her morning perfume.",
+  "Example sentence: The stallion had smelled the mare coming into heat and began to paw the turf, shaking his head."
+ ],
+ "labels": [
+  "smell.v.02",
+  "smell.v.02",
+  "smell.v.02",
+  "smell.v.02",
+  "smell.v.02",
+  "smell.v.01",
+  "smell.v.01",
+  "smell.v.01",
+  "smell.v.01",
+  "smell.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

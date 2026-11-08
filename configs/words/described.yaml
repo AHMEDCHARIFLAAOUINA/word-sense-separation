@@ -1,0 +1,7 @@
+word: described
+dataset: data/raw/semcor_words/described.json
+senses:
+  - report.v.01
+  - describe.v.01
+n_per_sense: 9
+prefix: "Example sentence: "

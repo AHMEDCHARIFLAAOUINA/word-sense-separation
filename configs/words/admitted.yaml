@@ -1,0 +1,7 @@
+word: admitted
+dataset: data/raw/semcor_words/admitted.json
+senses:
+  - admit.v.01
+  - admit.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

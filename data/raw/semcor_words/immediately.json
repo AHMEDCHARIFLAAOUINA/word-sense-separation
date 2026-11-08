@@ -1,0 +1,41 @@
+{
+ "target_word": "immediately",
+ "sentences": [
+  "Example sentence: The moment the alarm goes off, information is immediately forwarded to Honolulu, which is the center of the warning system.",
+  "Example sentence: Once again, Tom Horn was the first and most likely suspect, and he was brought in for questioning immediately.",
+  "Example sentence: He had enlisted in the Army straight out of high school and had immediately set about learning his new trade.",
+  "Example sentence: The date, October 8, 1957, immediately caught the inspector's eye.",
+  "Example sentence: Since the Supreme Court's decision of that year this is more doubtful; and if a poll had been taken immediately following the dispatch of troops to Little Rock I believe the majority would have been for the Old South.",
+  "Example sentence: The downtown store continues to offer the great inducement of variety, both within its gates and across the street, where other department stores are immediately convenient for the shopper who wants to see what is available before making up her mind.",
+  "Example sentence: With the first reports, Russell's horse wheeled to the right and ran towards the buildings while Cook, followed by a hail of bullets, raced towards the arroyo of Salyer's Canyon immediately in front of him, just reaching it as his horse fell.",
+  "Example sentence: The figures in the next-to-last column are derived with the assumption of 50 per cent shielding by the Earth; hence, these figures apply immediately above the Earth's atmosphere.",
+  "Example sentence: Onsets, Completions, and Skeletal Ages (Hand) of boy 34 and girl 2 may be directly compared and classified, using only those Skeletal Ages which appear immediately below the Onset Profile and the Completion Profile.",
+  "Example sentence: Thus, a child's Skeletal Age `` dots '' may be classified as `` advanced '' when they appear above the middle curve, `` moderate '' when they appear immediately above or below the middle curve, and `` delayed '' when they appear below the lower curve."
+ ],
+ "labels": [
+  "immediately.r.01",
+  "immediately.r.01",
+  "immediately.r.01",
+  "immediately.r.01",
+  "immediately.r.01",
+  "immediately.r.02",
+  "immediately.r.02",
+  "immediately.r.02",
+  "immediately.r.02",
+  "immediately.r.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

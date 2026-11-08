@@ -1,0 +1,47 @@
+{
+ "target_word": "perform",
+ "sentences": [
+  "Example sentence: The early anchorite masters attracted disciples because of their presumed ability to perform miracles.",
+  "Example sentence: If a union cannot perform this function, then collective bargaining is being palmed off by organizers as a gigantic fraud.",
+  "Example sentence: If they give him advice when he asks it, or if they perform specified duties under his direction, the nature of the U. N. will not of necessity change.",
+  "Example sentence: It could operate under the clouds and perform infrared photography through clouds and at night.",
+  "Example sentence: We perform elaborate international exhortations and ceremonies with virtually no understanding of social cause and effect.",
+  "Example sentence: Here then is our problem: aircraft are vital to winning a war today because they can perform those missions which a missile is totally incapable of performing; but the airfield, on which the aircraft is completely dependent, is doomed by the missile.",
+  "Example sentence: In what has aptly been called a `` constitutional revolution '', the basic nature of government was transformed from one essentially negative in nature (the `` night-watchman state '') to one with affirmative duties to perform.",
+  "Example sentence: While the city council suggested that the Legislative Council might perform the review, Mr. Notte said that instead he will take up the matter with Atty. Gen. J. Joseph Nugent to get `` the benefit of his views ''.",
+  "Example sentence: After you have taken a breather, reverse the position of your legs so that the front thigh of the previous exercise is now to the rear, and the rear thigh now to the front, and perform the same movement in the same manner.",
+  "Example sentence: Early in the war it was not uncommon for planters ' sons to retain in camp Negro `` body servants '' to perform the menial chores such as cooking, foraging, cleaning the quarters, shining shoes, and laundering clothes.",
+  "Example sentence: It was `` Duty '' he said that his parents had given him as a rule - beyond even the love that suffused his being and the sense of humor with which he was largely supplied - and it was duty he would perform, though it cost him acute pain and exhausted him by the age of fifty.",
+  "Example sentence: Then we have informed a large number of our crew that when they reach the United States, they will be punished but that in the meanwhile, they may run loose and are expected to perform their jobs in good order."
+ ],
+ "labels": [
+  "perform.v.02",
+  "perform.v.02",
+  "perform.v.02",
+  "perform.v.02",
+  "perform.v.02",
+  "perform.v.02",
+  "perform.v.01",
+  "perform.v.01",
+  "perform.v.01",
+  "perform.v.01",
+  "perform.v.01",
+  "perform.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: stretched
+dataset: data/raw/semcor_words/stretched.json
+senses:
+  - stretch.v.01
+  - stretch.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

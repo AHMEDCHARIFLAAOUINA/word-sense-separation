@@ -1,0 +1,7 @@
+word: school
+dataset: data/raw/semcor_words/school.json
+senses:
+  - school.n.01
+  - school.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

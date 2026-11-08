@@ -1,0 +1,7 @@
+word: growth
+dataset: data/raw/semcor_words/growth.json
+senses:
+  - growth.n.01
+  - growth.n.02
+n_per_sense: 16
+prefix: "Example sentence: "

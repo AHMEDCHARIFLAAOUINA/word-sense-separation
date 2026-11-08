@@ -1,0 +1,7 @@
+word: evil
+dataset: data/raw/semcor_words/evil.json
+senses:
+  - evil.a.01
+  - evil.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

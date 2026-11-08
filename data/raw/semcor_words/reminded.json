@@ -1,0 +1,47 @@
+{
+ "target_word": "reminded",
+ "sentences": [
+  "Example sentence: We are reminded, however, that freedom of thought and discussion, the unfettered exchange of ideas, is basic under our form of government.",
+  "Example sentence: To be reminded of this we need only glance at the world map and note the extent to which religious divisions have compounded political ones, with a resultant fragmentation of the human race.",
+  "Example sentence: He reminded himself that all eliminations were tentative.",
+  "Example sentence: He also reminded himself that he had an unusual number of possibilities.",
+  "Example sentence: There's no sense in being reminded of times that were.",
+  "Example sentence: When they got home Harold was grateful for the stillness in the apartment, and thought how, under different circumstances, they might have stayed on here, in these old-fashioned, high-ceilinged rooms that reminded him of the Irelands ' apartment in the East Eighties.",
+  "Example sentence: `` Don't forget, there was the hope it would pass for a natural death '', Pauling reminded him.",
+  "Example sentence: `` This is moving day '', Winston reminded her, `` and I bet you left things every which way upstairs, your clothes all over the floor and the bed not made.",
+  "Example sentence: `` There was also Gott strafe Angleterre '', Moreland reminded me, `` and Carthago delenda est, or if you will, Deus strafe Carthage.",
+  "Example sentence: Kate went back and reminded the kitchen women of the supper preparations.",
+  "Example sentence: Their writings assume more than dramatic or patriotic interest because of their conviction that the struggle in which they were involved was neither selfish nor parochial but, rather, as Washington in his last wartime circular reminded his fellow countrymen, that `` with our fate will the destiny of unborn millions be involved ''.",
+  "Example sentence: During the summer he had tried to repair some of his losses at the track, and the bare trees reminded him that his pari-mutuel tickets would still be lying, like leaves, in the gutters near Belmont and Saratoga."
+ ],
+ "labels": [
+  "remind.v.01",
+  "remind.v.01",
+  "remind.v.01",
+  "remind.v.01",
+  "remind.v.01",
+  "remind.v.01",
+  "prompt.v.03",
+  "prompt.v.03",
+  "prompt.v.03",
+  "prompt.v.03",
+  "prompt.v.03",
+  "prompt.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

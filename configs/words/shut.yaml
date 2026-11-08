@@ -1,0 +1,7 @@
+word: shut
+dataset: data/raw/semcor_words/shut.json
+senses:
+  - close.v.01
+  - shut.a.01
+n_per_sense: 7
+prefix: "Example sentence: "

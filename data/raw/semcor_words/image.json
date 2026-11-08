@@ -1,0 +1,41 @@
+{
+ "target_word": "image",
+ "sentences": [
+  "Example sentence: His image of the Virgin had always been that of a young woman, even as had his memory of his mother.",
+  "Example sentence: The image of the world tends to reflect the hostility and indifference of man or else to dissolve into empty spaces and overwhelming mystery.",
+  "Example sentence: But why is it necessary to reproduce the retinal image within the brain?",
+  "Example sentence: A `` mental image '' subconsciously impressing us from beneath its language symbols in wakeful thought, or consciously in light sleep, is actually not an image at all but is comprised of realities, viewed not in the concurrent sensory stream, but within the depths of the fourth dimension.",
+  "Example sentence: Time plays an essential part in our mortality, and suddenly for no reason he could imagine (or admit) the image of Peg laughing filled his mind - so desirable, so lusty, so full of nuances of pleasure and joy.",
+  "Example sentence: Consider a simple, closed, plane curve C which is a real analytic image of the unit circle, and which is given by **f.",
+  "Example sentence: When this linear draft is completed, I dust it down to a faint image.",
+  "Example sentence: When she had wiped some of the lipstick from her mouth, she stared solemnly at her image in the mirror.",
+  "Example sentence: A word taken in its dictionary meaning, a photographic image of a recognizable object, the mere picturing of a `` scene '' tends to lose experiential vividness and to connote such conventional abstractions as to invite neutral reception without the incitement of value feelings.",
+  "Example sentence: If, on the other hand, they opted for representation, it had to be representation per se - representation as image pure and simple, without connotations (at least, without more than schematic ones) of the three-dimensional space in which the objects represented originally existed."
+ ],
+ "labels": [
+  "image.n.01",
+  "image.n.01",
+  "image.n.01",
+  "image.n.01",
+  "image.n.01",
+  "picture.n.01",
+  "picture.n.01",
+  "picture.n.01",
+  "picture.n.01",
+  "picture.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

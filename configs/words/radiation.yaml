@@ -1,0 +1,7 @@
+word: radiation
+dataset: data/raw/semcor_words/radiation.json
+senses:
+  - radiation.n.01
+  - radiation.n.02
+n_per_sense: 11
+prefix: "Example sentence: "

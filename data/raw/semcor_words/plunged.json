@@ -1,0 +1,35 @@
+{
+ "target_word": "plunged",
+ "sentences": [
+  "Example sentence: Like a man making a deep dive, Greg took full breath and plunged back into the valley.",
+  "Example sentence: They lived mainly in the kitchen; they moved Maggie's bed and the baby's basket there, and the rest of them undressed by the stove and ran groaning and shivering to the upper polar regions and plunged into icy beds.",
+  "Example sentence: An open field was better than a building, that was for sure, so he dismounted, turned off the horse, and plunged through the grass.",
+  "Example sentence: I would have stood there and died there if left to myself, but Cousin Simmons grabbed my arm in his viselike grip and fairly plucked me out of there; and then I came to some sanity and plunged away with such extraordinary speed that I outdistanced Cousin Simmons by far.",
+  "Example sentence: But at least the pessimists who believed that the world organization had plunged to its death in that plane crash in the Congo have been proved wrong.",
+  "Example sentence: The straight, black hair flopped in a vigorous nod, the slender nose plunged toward glass teeth and drew safely back.",
+  "Example sentence: They are presumed to have plunged to a common grave in this fatal embrace.",
+  "Example sentence: Shot near the heart, he turned to one side and plunged for a door to another room several feet away, three bullets following him."
+ ],
+ "labels": [
+  "immerse.v.01",
+  "immerse.v.01",
+  "immerse.v.01",
+  "immerse.v.01",
+  "dive.v.01",
+  "dive.v.01",
+  "dive.v.01",
+  "dive.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

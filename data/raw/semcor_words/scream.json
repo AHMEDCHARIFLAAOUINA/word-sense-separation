@@ -1,0 +1,35 @@
+{
+ "target_word": "scream",
+ "sentences": [
+  "Example sentence: He thought of Simms Purdew, who once had risen at the edge of a cornfield, a maniacal scream on his lips, and swung a clubbed musket like a flail to beat down the swirl of Rebel bayonets about him.",
+  "Example sentence: There was no mistaking that scream.",
+  "Example sentence: She stood up, pulled the coat from her shoulders and started to slide it off, then let out a high-pitched scream and I let out a low-pitched, wobbling sound like a muffler blowing out.",
+  "Example sentence: Yet this scream had a different note in it.",
+  "Example sentence: And if I ever hear you say ' Mist Laban ' again I'll scream.",
+  "Example sentence: It was a `` potboiler '' made on a `` shoestring '' and not the sort of film I like, as all I had to do was look blank and scream a great deal.",
+  "Example sentence: She could not scream, for even if a sound could take shape within her parched mouth, who would hear, who would listen?",
+  "Example sentence: When the date would try to bid her good-night at the door, she would tell him, `` If you go home now, I'll scream ''."
+ ],
+ "labels": [
+  "scream.n.01",
+  "scream.n.01",
+  "scream.n.01",
+  "scream.n.01",
+  "shout.v.02",
+  "shout.v.02",
+  "shout.v.02",
+  "shout.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

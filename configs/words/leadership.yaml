@@ -1,0 +1,7 @@
+word: leadership
+dataset: data/raw/semcor_words/leadership.json
+senses:
+  - leadership.n.01
+  - leadership.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

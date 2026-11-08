@@ -1,0 +1,53 @@
+{
+ "target_word": "forget",
+ "sentences": [
+  "Example sentence: Nor can one forget Pope John's unprecedented meeting with the Archbishop of Canterbury.",
+  "Example sentence: `` And don't either of you forget that I'm not any man's property.",
+  "Example sentence: Henry van Dyke said, `` Forgive and forget if you can; but forgive anyway ''.",
+  "Example sentence: I'll never forget one time I struck out three times, dropped a fly ball, and we lost the game.",
+  "Example sentence: We must not forget, to be sure, that free discussion and debate have produced beneficial results.",
+  "Example sentence: Do not forget this possibility.",
+  "Example sentence: Whenever she found time, she went blackberry picking with him, and they would come home together, mouths purple, arms and faces scratched, tired enough to forget grief for another day.",
+  "Example sentence: Don't forget the joys of a meal on the road.",
+  "Example sentence: But we must never forget, most of the appropriate heroes and their legends were created overnight, to answer immediate needs, almost always with conscious aims and ends.",
+  "Example sentence: `` Don't forget to turn it off and close the door good so it'll latch ''.",
+  "Example sentence: `` Johnny insisted on cooking a chicken dinner in my honor - he's always been a good cook - and I'll never forget him cleaning the chicken in the tub ''.",
+  "Example sentence: `` Don't forget whiskey; it's such a big seller ''.",
+  "Example sentence: `` Don't forget, there was the hope it would pass for a natural death '', Pauling reminded him.",
+  "Example sentence: Don't forget - when you take to the hills or the beach - that your cooler, which you might have used for wine - or beer-cooling on your terrace or back yard, is indispensable for carrying liquid refreshments."
+ ],
+ "labels": [
+  "forget.v.01",
+  "forget.v.01",
+  "forget.v.01",
+  "forget.v.01",
+  "forget.v.01",
+  "forget.v.01",
+  "forget.v.01",
+  "forget.v.02",
+  "forget.v.02",
+  "forget.v.02",
+  "forget.v.02",
+  "forget.v.02",
+  "forget.v.02",
+  "forget.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

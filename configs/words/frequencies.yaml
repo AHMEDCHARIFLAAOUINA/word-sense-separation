@@ -1,0 +1,7 @@
+word: frequencies
+dataset: data/raw/semcor_words/frequencies.json
+senses:
+  - frequency.n.01
+  - frequency.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

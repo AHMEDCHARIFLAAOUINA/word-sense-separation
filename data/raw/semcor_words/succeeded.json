@@ -1,0 +1,47 @@
+{
+ "target_word": "succeeded",
+ "sentences": [
+  "Example sentence: A bunch of young buckaroos from out West, who go by the name of Texas Boys Choir, loped into Town Hall last night and succeeded in corralling the hearts of a sizable audience.",
+  "Example sentence: I would turn away from my writing in the hope of getting a good look at them but I never quite succeeded.",
+  "Example sentence: Alcohol ingestion succeeded in changing immobility to mobility quite strikingly in one pilot subject (the only one with whom this technique was tried).",
+  "Example sentence: Presidential coercion had succeeded not only in poisoning the courtiers, `` toadies '' and sycophants of the `` bench '' against me, but it had been so far-reaching as to discourage any lawyer in the nation from representing me!",
+  "Example sentence: The inference has been too widely accepted that because the Communists have succeeded in building barricades across Berlin the free world must acquiesce in dismemberment of that living city.",
+  "Example sentence: Giselle was reluctant but Alex succeeded in persuading her to come back in five minutes and the door was shut again.",
+  "Example sentence: He will be succeeded by Ivan Allen Jr., who became a candidate in the Sept. 13 primary after Mayor Hartsfield announced that he would not run for reelection.",
+  "Example sentence: The Colonial Light and Power Company was succeeded by the Vermont Hydro-Electric Corporation, which in turn was absorbed by the Central Vermont Public Service Corporation.",
+  "Example sentence: She was succeeded by Clarence Goyette.",
+  "Example sentence: He will be succeeded by Rob Ledford of Gainesville, who has been an assistant more than three years.",
+  "Example sentence: For example, a quiet meditative sway of the body succeeded by a violent leap; or it may involve more subtle distinctions:",
+  "Example sentence: In 1927 he succeeded Zemlinsky as opera director of the German Theater at Prague."
+ ],
+ "labels": [
+  "succeed.v.01",
+  "succeed.v.01",
+  "succeed.v.01",
+  "succeed.v.01",
+  "succeed.v.01",
+  "succeed.v.01",
+  "succeed.v.02",
+  "succeed.v.02",
+  "succeed.v.02",
+  "succeed.v.02",
+  "succeed.v.02",
+  "succeed.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

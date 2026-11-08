@@ -1,0 +1,7 @@
+word: democratic
+dataset: data/raw/semcor_words/democratic.json
+senses:
+  - democratic.a.01
+  - democratic.a.02
+n_per_sense: 8
+prefix: "Example sentence: "

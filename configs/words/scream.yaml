@@ -1,0 +1,7 @@
+word: scream
+dataset: data/raw/semcor_words/scream.json
+senses:
+  - scream.n.01
+  - shout.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

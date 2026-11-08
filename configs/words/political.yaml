@@ -1,0 +1,7 @@
+word: political
+dataset: data/raw/semcor_words/political.json
+senses:
+  - political.a.01
+  - political.a.02
+n_per_sense: 11
+prefix: "Example sentence: "

@@ -1,0 +1,47 @@
+{
+ "target_word": "speak",
+ "sentences": [
+  "Example sentence: Hoijer's Athabascan and my Yokuts share 71 identical meanings (with allowance for several near synonyms like stomach belly, big large, long far, many much, die dead, say speak).",
+  "Example sentence: Every eye was on him as he began to speak.",
+  "Example sentence: `` That it had found a planet on which human beings could live and which was already inhabited by sentient beings ''! said Hal, forgetting in his enthusiasm that he had not been asked to speak.",
+  "Example sentence: Again, I at first misconstrued this disconcertingly intense communication, and I quickly cast through my mind to account for her being able to speak, with such utter conviction, of an opinion held by my father, now several years deceased.",
+  "Example sentence: He did not speak.",
+  "Example sentence: Does she often speak of locations, of cause of death?",
+  "Example sentence: He said, `` Captain, may I speak, please?",
+  "Example sentence: We will now speak of the ways in which it helped shape the ideals of the country and of the manner in which it stimulated efforts to attain those ideals through reform movements, through programmes for bringing the collective life to the nation to conformity to Christian standards, and through leaders in the government.",
+  "Example sentence: They did not speak much.",
+  "Example sentence: Some of the people who speak through my pages are famous; others unknown.",
+  "Example sentence: Hesperus, you may speak ''.",
+  "Example sentence: However, an initial perusal and comparison of some of the famous passages with the same parts of other versions seems to speak well of the efforts of the British Biblical scholars."
+ ],
+ "labels": [
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.01",
+  "talk.v.01",
+  "talk.v.01",
+  "talk.v.01",
+  "talk.v.01",
+  "talk.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

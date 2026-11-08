@@ -1,0 +1,7 @@
+word: world
+dataset: data/raw/semcor_words/world.json
+senses:
+  - universe.n.01
+  - world.n.02
+n_per_sense: 20
+prefix: "Example sentence: "

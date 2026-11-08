@@ -1,0 +1,53 @@
+{
+ "target_word": "career",
+ "sentences": [
+  "Example sentence: Chandler had been commissioned in the Medical Service Corps and was serving as a personnel officer for the Kansas City Medical Depot when he decided that if he was going to make the Army his career, he wanted to be in the fighting part of it.",
+  "Example sentence: Skorich, who is 39 years old, played football at Cincinnati University and then had a three year professional career as a lineman under Jock Sutherland with the Pittsburgh Steelers.",
+  "Example sentence: I'm willing to stake my political career on it ''.",
+  "Example sentence: The wife is likely to be young, sophisticated, smart as a whip - often a girl who has sacrificed a promising career for marriage.",
+  "Example sentence: He has also enjoyed a successful career as an entertainer (his records have sold in the millions) and is a sharp businessman.",
+  "Example sentence: `` Dammit, Phil, are you trying to wreck my career?",
+  "Example sentence: Philadelphia permitted him to seek a better connection after he had refused to reconsider his decision to end his career as a player.",
+  "Example sentence: He assumed his academic career with the same intensity and thoroughness that had marked every step in his rise from boyhood.",
+  "Example sentence: The new century opened with Oersted beginning his professional career in charge of an apothecary shop in Copenhagen and as lecturer at the university.",
+  "Example sentence: But he was not bored at all; he had found his style quite early in his career and he thought it quite wonderful that the world admired it, and he could not imagine why he should alter it.",
+  "Example sentence: Mr. Dryfoos ' outstanding career as a journalist guarantees that the high standards which have made the Times one of the world's great newspapers will be maintained.",
+  "Example sentence: The career of Eichmann made the Trial a potential showcase for anti-Semitic demoralization:",
+  "Example sentence: With the first of a group of historical novels, The Charles Men (Karolinerna), published in 1897 - 8, he achieved the masterpiece of his career.",
+  "Example sentence: The career of Charles 12, is obviously very similar to that of Napoleon."
+ ],
+ "labels": [
+  "career.n.01",
+  "career.n.01",
+  "career.n.01",
+  "career.n.01",
+  "career.n.01",
+  "career.n.01",
+  "career.n.01",
+  "career.n.02",
+  "career.n.02",
+  "career.n.02",
+  "career.n.02",
+  "career.n.02",
+  "career.n.02",
+  "career.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

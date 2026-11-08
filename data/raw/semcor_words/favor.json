@@ -1,0 +1,47 @@
+{
+ "target_word": "favor",
+ "sentences": [
+  "Example sentence: They weren't sleeping, of course, but they thought they were doing him a favor by pretending.",
+  "Example sentence: Some telephoned because he had done them a favor in the past.",
+  "Example sentence: `` Big favor I done you.",
+  "Example sentence: Immediately after dinner, however, Rousseau asks for still another favor.",
+  "Example sentence: I tell you, I know how it is with you, my friend, I sympathize, and I'll make it a special point - a special favor - get in touch, and get some stuff just for you.",
+  "Example sentence: `` I'm doing you a favor '', Eddie said quickly.",
+  "Example sentence: Why, for example, does he favor two tempos, rather than one, for the third movement?",
+  "Example sentence: If the German people favor such a settlement we should not oppose Germany following the example of Austria.",
+  "Example sentence: But the Kennedy Administration doesn't favor import quotas.",
+  "Example sentence: `` In view of the current expansion, which promises to be substantial '' he said the odds appear to favor rising interest rates in coming months, but `` there is reason to believe the change will not be as abrupt as in 1958 nor as severe as in late 1959 and 1960 ''.",
+  "Example sentence: The record books, however, would favor the Giants ' ace.",
+  "Example sentence: Indications are that Khrushchev (and, with him, the bulk of the Soviet people) favor peaceful coexistence and (with the exception of Berlin) the maintenance of the status quo in the world."
+ ],
+ "labels": [
+  "favor.n.01",
+  "favor.n.01",
+  "favor.n.01",
+  "favor.n.01",
+  "favor.n.01",
+  "favor.n.01",
+  "prefer.v.03",
+  "prefer.v.03",
+  "prefer.v.03",
+  "prefer.v.03",
+  "prefer.v.03",
+  "prefer.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

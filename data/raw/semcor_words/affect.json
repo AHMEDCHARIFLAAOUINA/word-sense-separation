@@ -1,0 +1,47 @@
+{
+ "target_word": "affect",
+ "sentences": [
+  "Example sentence: (D) Since the shape of the drop conforms to the force field, it does not appreciably affect the distribution of forces in the fluid.",
+  "Example sentence: It does not appear to affect the iodinating mechanism as such.",
+  "Example sentence: These findings, and others which will in time be developed, will affect the method of glottochronological inquiry.",
+  "Example sentence: The social and psychological consequences of this continue to affect the area.",
+  "Example sentence: The meeting will, however, afford a timely and convenient opportunity for the first personal contact between them and a general exchange of views on the major issues which affect the relationships between the two countries ''.",
+  "Example sentence: American and free-world policies can marginally affect the pace of transition; but basically that pace depends on changes in the supply of resources and in the human attitudes, political institutions, and social structure which each society must generate.",
+  "Example sentence: Occasional sucking up to the fifth year may not affect a youngster's teeth; but after that, if thumb-sucking pressure is frequent, it will have an effect.",
+  "Example sentence: `` Moving one or two teeth can affect the whole system, and an ill-conceived plan of treatment can disrupt the growth pattern of a child's face ''.",
+  "Example sentence: `` In the past anyone who said that 90% of all malocclusion is hereditary was scoffed at; now we know that family characteristics do affect tooth formation to a large extent '', he says.",
+  "Example sentence: He looked piously to heaven and said, `` Beer don't affect the tissues none '', and the ingenious hypocrisy of this defense pleased Henrietta so that she forgave him his stint of malevolence.",
+  "Example sentence: The Intermediates in the Class with the Judge were asked to pick 4 winners and give their reasons but their decisions did not affect the choice of the Judge.",
+  "Example sentence: Last week Chicago happily found its top scholar in Caltech's acting dean of the faculty: dynamic Geneticist George Wells Beadle, 57, who shared the 1958 Nobel Prize in medicine and physiology for discovering how genes affect heredity by controlling cell chemistry (Time, Cover, July 14, 1958)."
+ ],
+ "labels": [
+  "affect.v.01",
+  "affect.v.01",
+  "affect.v.01",
+  "affect.v.01",
+  "affect.v.01",
+  "affect.v.01",
+  "affect.v.02",
+  "affect.v.02",
+  "affect.v.02",
+  "affect.v.02",
+  "affect.v.02",
+  "affect.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

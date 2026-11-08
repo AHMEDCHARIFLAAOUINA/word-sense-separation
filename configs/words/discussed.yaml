@@ -1,0 +1,7 @@
+word: discussed
+dataset: data/raw/semcor_words/discussed.json
+senses:
+  - discourse.v.01
+  - hash_out.v.01
+n_per_sense: 11
+prefix: "Example sentence: "

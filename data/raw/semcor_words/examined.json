@@ -1,0 +1,41 @@
+{
+ "target_word": "examined",
+ "sentences": [
+  "Example sentence: The cells were washed three times with saline, anti human serum was added, the cells were resuspended, and the mixture was centrifuged at 1000 rpm for 1 min and examined for agglutination.",
+  "Example sentence: He examined the water marks on the iron tires when the animals were finished.",
+  "Example sentence: Cursing himself for having ridden out the last few days without a rifle in his saddle boot, Russ drew his Colt and examined it briefly.",
+  "Example sentence: Mr. McKinley examined everything with critical care, seeking something material to blame for his son's illness.",
+  "Example sentence: The tubes were then centrifuged at 1000 rpm for 1 min and examined macroscopically for agglutination.",
+  "Example sentence: Have you examined this problem of increasing consumer sophistication from the standpoint of your own company?",
+  "Example sentence: Stained or unstained sections were examined under dark field illumination in a Zeiss fluorescence microscope equipped with a mercury vapor lamp (Osram HBO 200).",
+  "Example sentence: In all of the sections examined, the arterioles and small arteries were essentially normal.",
+  "Example sentence: Have you examined these trends, forecast the effects, and planned your marketing strategy to compete effectively under changing circumstances?",
+  "Example sentence: Beaverton School District No. 48 board members examined blueprints and specifications for two proposed junior high schools at a Monday night workshop session."
+ ],
+ "labels": [
+  "examine.v.02",
+  "examine.v.02",
+  "examine.v.02",
+  "examine.v.02",
+  "examine.v.02",
+  "analyze.v.01",
+  "analyze.v.01",
+  "analyze.v.01",
+  "analyze.v.01",
+  "analyze.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

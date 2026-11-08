@@ -1,0 +1,7 @@
+word: circles
+dataset: data/raw/semcor_words/circles.json
+senses:
+  - set.n.05
+  - circle.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "rhythm",
+ "sentences": [
+  "Example sentence: Moreover, man may not supplant or frustrate the physical arrangements established by God, who through the law of rhythm has provided a natural method for the control of conception.",
+  "Example sentence: Well stretched, trained in posture and coordinated movement, and wedded to rhythm, they presented the audiences in Rome with one of the most beautiful sights ever seen at any Olympic contest.",
+  "Example sentence: Keeping the hands in the starting position, run in place to a quick rhythm.",
+  "Example sentence: The gymnast must develop strength, flexibility, coordination, timing, rhythm, courage, discipline, persistence and the desire for perfection.",
+  "Example sentence: If his scholarship and formal musicianship were not all they might have been, Mercer demonstrated at an early age that he was gifted with a remarkable ear for rhythm and dialect.",
+  "Example sentence: The music drove them off, or away, and he was free to walk on air in a very few moments, humming and jiving within, beating the rhythm within.",
+  "Example sentence: Without losing the distinctive undertow of Brahmsian rhythm, the pacing is firm and the over-all performance has a tightly knit quality that makes for maximum cumulative effect.",
+  "Example sentence: The music arrived, taking him, its rhythm stroked him, snaked all through him, the lyrics lifted him, took him from one magic isle to another, stopping briefly at each."
+ ],
+ "labels": [
+  "rhythm.n.02",
+  "rhythm.n.02",
+  "rhythm.n.02",
+  "rhythm.n.02",
+  "rhythm.n.01",
+  "rhythm.n.01",
+  "rhythm.n.01",
+  "rhythm.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

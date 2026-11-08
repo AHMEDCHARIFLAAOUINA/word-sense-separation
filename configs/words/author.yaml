@@ -1,0 +1,7 @@
+word: author
+dataset: data/raw/semcor_words/author.json
+senses:
+  - writer.n.01
+  - generator.n.03
+n_per_sense: 6
+prefix: "Example sentence: "

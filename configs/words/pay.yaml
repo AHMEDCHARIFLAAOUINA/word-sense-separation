@@ -1,0 +1,7 @@
+word: pay
+dataset: data/raw/semcor_words/pay.json
+senses:
+  - pay.v.01
+  - give.v.05
+n_per_sense: 10
+prefix: "Example sentence: "

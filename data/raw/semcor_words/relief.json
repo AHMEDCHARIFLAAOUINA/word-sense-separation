@@ -1,0 +1,47 @@
+{
+ "target_word": "relief",
+ "sentences": [
+  "Example sentence: The Indian was again raising his bottle, but to my astonished relief - probably only a fraction of Johnson's - the bottle this time went to the Indian's lips.",
+  "Example sentence: Andy felt his heart thud heavily with relief.",
+  "Example sentence: On the theory before us, such relief would be groundless, for in that suffering itself there was nothing bad at all, and hence in its nonoccurrence there would be nothing to be relieved about.",
+  "Example sentence: When the sea was visible ahead of them, the relief was as great as if the sun had come out.",
+  "Example sentence: It was a relief to shift in his mind to technical problems.",
+  "Example sentence: The secretary sighed with relief and then the telephone clicked in Rector's hand.",
+  "Example sentence: He got no relief from drink because, though sometimes Precious would buy himself a drink if he went out with us in the evening, he'd leave it on the table untouched.",
+  "Example sentence: There would still be plenty of moments of regret and sadness and guilty relief.",
+  "Example sentence: People who have not been able to get relief from regular medical doctors are especially apt to be taken in by quacks ''.",
+  "Example sentence: The two men sat for some time, savoring the pleasure of escape from peril and the relief such escape brings, before they got up and left the hotel, the doctor to go to the conference house and Alex to go to the main post office.",
+  "Example sentence: Alex suppressed those expressions of relief which offered to prevail in his face and escape from his throat; unwarranted they were in any case for, as he stood facing the fille de chambre, his ears were assailed by new sounds from the interior of the shower room.",
+  "Example sentence: Though it was a great relief when the big brains on these shows turned out to be frauds and phonies, it did irreparable damage to the ego of the editor and many another intelligent, well-informed American."
+ ],
+ "labels": [
+  "relief.n.01",
+  "relief.n.01",
+  "relief.n.01",
+  "relief.n.01",
+  "relief.n.01",
+  "relief.n.01",
+  "relief.n.02",
+  "relief.n.02",
+  "relief.n.02",
+  "relief.n.02",
+  "relief.n.02",
+  "relief.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

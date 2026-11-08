@@ -1,0 +1,7 @@
+word: people
+dataset: data/raw/semcor_words/people.json
+senses:
+  - people.n.01
+  - citizenry.n.01
+n_per_sense: 18
+prefix: "Example sentence: "

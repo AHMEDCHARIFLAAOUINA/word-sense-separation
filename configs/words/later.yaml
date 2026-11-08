@@ -1,0 +1,7 @@
+word: later
+dataset: data/raw/semcor_words/later.json
+senses:
+  - subsequently.r.01
+  - by_and_by.r.01
+n_per_sense: 16
+prefix: "Example sentence: "

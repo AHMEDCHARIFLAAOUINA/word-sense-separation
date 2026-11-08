@@ -1,0 +1,53 @@
+{
+ "target_word": "flow",
+ "sentences": [
+  "Example sentence: The graphite was National Carbon NC 60, which has a porosity of 50% and an average pore size of 30 This small pore size was required to ensure uniformity of the flow leaving the anode.",
+  "Example sentence: (1) As far down as 400 miles below the surface the material should be hot enough to be plastic and adjust itself to twisting forces by sluggish flow rather than by breaking, as rigid surface rocks do.",
+  "Example sentence: In this case also the design of the thermometer can be modified to reduce the helium film flow.",
+  "Example sentence: The gas flow through a plasma generator will modify these conditions; however, the anode is still the part receiving the largest heat flux.",
+  "Example sentence: This has been attributed to helium film flow in the vapor pressure thermometer.",
+  "Example sentence: The argon flow through the porous anode was varied systematically between **f.",
+  "Example sentence: The dependence of the arc voltage upon the mass flow velocity of the transpirating gas was investigated for various arc lengths and currents between 100 Amp and 200 Amp.",
+  "Example sentence: It was with the assistance of one of the members of this expedition, Lauritz Esmarch, that Oersted succeeded in producing light by creating an electric discharge in mercury vapor through which an electric current was made to flow.",
+  "Example sentence: The melodies flow along pleasantly, as Mr. Coward's songs usually do, but his lyrics have a tired, cut-to-a-familiar-pattern quality.",
+  "Example sentence: This gives a wide flare to the pecs, causing them to flow dramatically upward into deltoids and dramatically downward into the serratus and lats.",
+  "Example sentence: With a Democratic administration, party patronage would normally begin to flow to Mississippi if it had held its Democratic solidarity in the November election.",
+  "Example sentence: `` See, Argiento, if you control the way these folds are bunched, like this, or made to flow, you can enrich the body attitudes.",
+  "Example sentence: Django Reinhardt, the ill-fated gypsy, was a true artist, one who demonstrated conclusively the power of art to renew itself and flow into many channels.",
+  "Example sentence: And as the waves flow back and forth and merge with the waves from the neighboring atoms, you can put on a magic hearing aid and you hear music."
+ ],
+ "labels": [
+  "flow.n.01",
+  "flow.n.01",
+  "flow.n.01",
+  "flow.n.01",
+  "flow.n.01",
+  "flow.n.01",
+  "flow.n.01",
+  "flow.v.01",
+  "flow.v.01",
+  "flow.v.01",
+  "flow.v.01",
+  "flow.v.01",
+  "flow.v.01",
+  "flow.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

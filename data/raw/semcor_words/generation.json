@@ -1,0 +1,41 @@
+{
+ "target_word": "generation",
+ "sentences": [
+  "Example sentence: She was the last living of the older generation.",
+  "Example sentence: What actually occurred in the past is seldom as important as what a given generation feels must have occurred.",
+  "Example sentence: This is especially in evidence among the present generation of the suburban middle class.",
+  "Example sentence: And the rebellion of these third generation Jews is not the traditional conflict of culture but, rather, a protest against a culture that they view as softly and insidiously enveloping.",
+  "Example sentence: In Berlin he published his views of the chemical laws of nature in German and this was issued in French translation (Paris, 1813) under the title Recherches sur l ' identite des forces chimiques et electriques, a work held in very high esteem by the new generation of research chemists.",
+  "Example sentence: It is borne out also by the absence of any developed theory about how sin passes from one generation to the next.",
+  "Example sentence: After another two weeks, the first young emerge, four to eight small daughters that begin to play the role of worker bees, collecting pollen and nectar in the field and caring for the new young generation while the queen retires to a life of egg laying.",
+  "Example sentence: Nature's aim, different from ours, is to provide for the coming generation.",
+  "Example sentence: The cycle of disaster starts the moment they touch any belonging of ours, and dogs them unto the forty-fifth generation.",
+  "Example sentence: In a rapidly changing society congregations will run into difficulties repeatedly, since such nice balances of economic integration are hard to sustain in the metropolis for more than a single generation."
+ ],
+ "labels": [
+  "coevals.n.01",
+  "coevals.n.01",
+  "coevals.n.01",
+  "coevals.n.01",
+  "coevals.n.01",
+  "generation.n.02",
+  "generation.n.02",
+  "generation.n.02",
+  "generation.n.02",
+  "generation.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

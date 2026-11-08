@@ -1,0 +1,7 @@
+word: debate
+dataset: data/raw/semcor_words/debate.json
+senses:
+  - argument.n.03
+  - debate.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

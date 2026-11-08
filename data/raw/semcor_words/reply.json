@@ -1,0 +1,35 @@
+{
+ "target_word": "reply",
+ "sentences": [
+  "Example sentence: `` What was your reply to that ''?",
+  "Example sentence: She opened his reply with trembling fingers.",
+  "Example sentence: Scotty would reply softly and his father, apologetically, would ask him to repeat.",
+  "Example sentence: O ' Banion's reply was a raucous laugh and a flat refusal.",
+  "Example sentence: What, in the secret councils of the Kremlin, Molotov had really proposed, we just don't know, and he has had no chance to reply.",
+  "Example sentence: `` The American press clamored for many days promising President Kennedy would reply to the most vital domestic and foreign problems confronting the United States.",
+  "Example sentence: But why need one reply to everything and everybody?",
+  "Example sentence: But there is a dignity and even a hint of the inspired prophet in his words to one correspondent: `` You ask what I am going to ' reply ' to Bradley."
+ ],
+ "labels": [
+  "answer.n.01",
+  "answer.n.01",
+  "answer.n.01",
+  "answer.n.01",
+  "answer.v.01",
+  "answer.v.01",
+  "answer.v.01",
+  "answer.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

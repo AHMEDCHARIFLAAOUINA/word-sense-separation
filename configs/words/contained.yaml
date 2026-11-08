@@ -1,0 +1,7 @@
+word: contained
+dataset: data/raw/semcor_words/contained.json
+senses:
+  - hold.v.11
+  - incorporate.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: mentioned
+dataset: data/raw/semcor_words/mentioned.json
+senses:
+  - mention.v.01
+  - note.v.01
+n_per_sense: 12
+prefix: "Example sentence: "

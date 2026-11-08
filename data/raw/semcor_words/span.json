@@ -1,0 +1,35 @@
+{
+ "target_word": "span",
+ "sentences": [
+  "Example sentence: The mean onset age was 25.3 months (Table 1), and the average Span of the osseous stage was 133 months.",
+  "Example sentence: Oersted's boyhood represented a minimal chance of either attaining greatness or serving his people so well and over so long a span of life.",
+  "Example sentence: Thus, the Span of its ossification was shortened and the center's ability to `` catch up '' in ossification is demonstrated.",
+  "Example sentence: The correlation (Table 2) between onset age and completion age was +.50, and that between onset age and Span was -.10.",
+  "Example sentence: Accordingly, the ' functions ' * * f span the space of solutions of * * f.",
+  "Example sentence: Second, even if the characteristic polynomial factors completely over F into a product of polynomials of degree 1, there may not be enough characteristic vectors for T to span the space V; this is clearly a deficiency in T.",
+  "Example sentence: One of these days, I'm going to organize a gigantic exhibition that will span everything that's being painted these days, from extreme abstract expressionism to extreme photorealism, and then you'll be able to see at a glance how much artists have in common with each other.",
+  "Example sentence: On the other hand, the null space of * * f and the null space of * * f together span V, the former being the subspace spanned by * * f and the latter the subspace spanned by * * f and * * f."
+ ],
+ "labels": [
+  "span.n.01",
+  "span.n.01",
+  "span.n.01",
+  "span.n.01",
+  "cross.v.05",
+  "cross.v.05",
+  "cross.v.05",
+  "cross.v.05"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

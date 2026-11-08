@@ -1,0 +1,35 @@
+{
+ "target_word": "precipitated",
+ "sentences": [
+  "Example sentence: The insoluble material which precipitated during dialysis against starting buffer always showed intense agglutinin activity, regardless of the blood group of the donor.",
+  "Example sentence: Once again, both anti - A and anti - B activities were found in the insoluble material precipitated during dialysis.",
+  "Example sentence: To prepare the latter, silver chloride was precipitated from a solution containing * * f obtained from the Oak Ridge National Laboratory.",
+  "Example sentence: The small amount of insoluble material which precipitated during dialysis was suspended in approximately 5 ml of starting buffer, centrifuged, resuspended in 2.5 ml of isotonic saline and tested for antibody activity.",
+  "Example sentence: For example, child welfare experience abounds with cases in which the parental request for substitute care is precipitated by a crisis event which is meaningfully linked with a fundamental unresolved problem of family relationships.",
+  "Example sentence: Salinger said the work President Kennedy, advisers, and members of his staff were doing on the address involved composition and wording, rather than last minute decisions on administration plans to meet the latest Berlin crisis precipitated by Russia's demands and proposals for the city.",
+  "Example sentence: He thereby precipitated a bitter controversy involving Protestants, Jews and Roman Catholics that continued for two months, until the city's Board of Hospitals lifted the ban on birth-control therapy.",
+  "Example sentence: Perhaps this is a clue to the amazing variety and power of reactions, attitudes, and emotions precipitated by the nude form."
+ ],
+ "labels": [
+  "precipitate.v.02",
+  "precipitate.v.02",
+  "precipitate.v.02",
+  "precipitate.v.02",
+  "precipitate.v.01",
+  "precipitate.v.01",
+  "precipitate.v.01",
+  "precipitate.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

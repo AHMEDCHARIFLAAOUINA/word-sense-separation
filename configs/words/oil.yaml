@@ -1,0 +1,7 @@
+word: oil
+dataset: data/raw/semcor_words/oil.json
+senses:
+  - oil.n.01
+  - oil.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

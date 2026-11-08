@@ -1,0 +1,7 @@
+word: equal
+dataset: data/raw/semcor_words/equal.json
+senses:
+  - equal.a.01
+  - equal.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

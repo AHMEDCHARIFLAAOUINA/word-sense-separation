@@ -1,0 +1,35 @@
+{
+ "target_word": "dislike",
+ "sentences": [
+  "Example sentence: From the enlisted men he pistol-whipped to the subordinate officer whose wife he tried to rape, a lot of men had plenty of reason heartily to dislike Marcus Reno.",
+  "Example sentence: They dislike dense vegetation.",
+  "Example sentence: The natural and primary aesthetic attitude is to enjoy contemporary art, to despise and dislike the art of the recent past, and wholly to ignore everything else ''.",
+  "Example sentence: No one could dislike them, I thought.",
+  "Example sentence: It appears to be one of intense dislike, which he makes little effort to conceal even in the presence of Southern friends.",
+  "Example sentence: Regardless of rights and wrongs, a population and an area appropriate to a pre World War I, great power have been, following conquest, ruled against their will by a neighboring people, and have had imposed upon them social and economic controls they dislike.",
+  "Example sentence: Lawrence stared a minute at the lighted ribbon of traffic, hoping that a clue to his dislike of the Vice President would appear.",
+  "Example sentence: No doubt many of the citizens of the Third Reich had conceived their anti-Semitism as an `` innocent '' dislike of Jews, as do others like them today."
+ ],
+ "labels": [
+  "dislike.v.01",
+  "dislike.v.01",
+  "dislike.v.01",
+  "dislike.v.01",
+  "disfavor.n.02",
+  "disfavor.n.02",
+  "disfavor.n.02",
+  "disfavor.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

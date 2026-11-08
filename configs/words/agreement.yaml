@@ -1,0 +1,7 @@
+word: agreement
+dataset: data/raw/semcor_words/agreement.json
+senses:
+  - agreement.n.02
+  - agreement.n.03
+n_per_sense: 5
+prefix: "Example sentence: "

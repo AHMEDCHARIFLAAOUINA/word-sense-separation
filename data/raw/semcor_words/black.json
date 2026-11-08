@@ -1,0 +1,35 @@
+{
+ "target_word": "black",
+ "sentences": [
+  "Example sentence: The straight, black hair flopped in a vigorous nod, the slender nose plunged toward glass teeth and drew safely back.",
+  "Example sentence: Calloused fingers, caressed only by the smoothness of polished rosaries, had swayed excitedly beneath puckered chins where tiny black hairs sprouted, never to be tweezed away.",
+  "Example sentence: He brushed back his black hair, shoving it under his pastor's cap to keep it from blowing in his eyes.",
+  "Example sentence: Spectators in white crush textures dip toe and heel in smooth black, navy and taffy tan.",
+  "Example sentence: The colored boy had it, and Trig lunged at him with a knife and said, ' Give that to me, you black bastard.",
+  "Example sentence: The maid was very black and very energetic, trim in a yellow pique uniform.",
+  "Example sentence: It had been there 50 years or more and everybody in town, black and white, knew of it.",
+  "Example sentence: Trig and a very black colored boy from Detroit had killed or put out of action ten guerrillas by grenades and hand-to-hand fighting."
+ ],
+ "labels": [
+  "black.a.01",
+  "black.a.01",
+  "black.a.01",
+  "black.a.01",
+  "black.a.02",
+  "black.a.02",
+  "black.a.02",
+  "black.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

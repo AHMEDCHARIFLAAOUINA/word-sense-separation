@@ -1,0 +1,35 @@
+{
+ "target_word": "paint",
+ "sentences": [
+  "Example sentence: I wanted to paint again.",
+  "Example sentence: In the best tradition, he first taught himself to see, then to draw with accuracy and assurance, and then to paint.",
+  "Example sentence: From this point, I paint in as direct a manner as possible, by flowing on the washes with as pure a color mixture as I can manage.",
+  "Example sentence: But most learn to color and paint as and when they are ready with only a very little demonstration.",
+  "Example sentence: In certain other pictures, however, Braque began to paint areas in exact simulation of wood graining or marbleizing.",
+  "Example sentence: It is his relentlessness and unwavering adherence to this revolutionary artistic philosophy that has enabled him to paint such pictures as `` The Invasion of Cuba ''.",
+  "Example sentence: `` I paint the nothing '', he said once to Franz Kline and myself, `` the nothing that is behind the something, the inexpressible, unpaintable ' tick ' in the unconscious, the ' spirit ' of the moment resting forever, suspended like a huge balloon, in non time ''.",
+  "Example sentence: During all this time Roy continued to paint, first only on weekends, and then, as the family business permitted, for longer periods."
+ ],
+ "labels": [
+  "paint.v.01",
+  "paint.v.01",
+  "paint.v.01",
+  "paint.v.01",
+  "paint.v.03",
+  "paint.v.03",
+  "paint.v.03",
+  "paint.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

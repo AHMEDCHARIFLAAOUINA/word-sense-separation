@@ -1,0 +1,53 @@
+{
+ "target_word": "missed",
+ "sentences": [
+  "Example sentence: It would summon him once; if he missed it, never again.",
+  "Example sentence: Had I been in an all-married section I would have missed this, and I believe that this single aspect has been of great personal value to me ''.",
+  "Example sentence: And even if he'd somehow missed seeing him, he wouldn't have gone off and left the light on and door open in the file room.",
+  "Example sentence: He missed the 1955 season because of an operation on the ailing knee, then played 77 minutes in 1956.",
+  "Example sentence: Unless he was stone-blind, the person who'd just left couldn't have missed seeing Hank through the open door of the brightly lighted room.",
+  "Example sentence: But if there was evidence at the Trial that aimed over Eichmann's head at his collaborators in the societies where he functioned, the press seems to have missed it.",
+  "Example sentence: It also brought home proof of something a casual observer might have missed: that more than half of the U. S. Negroes live outside the southeastern states.",
+  "Example sentence: The one thing he missed from his farm in the Po Valley was the animals; frequently he would take his leave of Michelangelo by announcing:",
+  "Example sentence: These would be his hardest years, she knew, and he missed his father desperately.",
+  "Example sentence: Yes, she had missed it after her talk with Emile, after dinner, just before Emile was shot.",
+  "Example sentence: `` I imagine the old girl hasn't missed us much '', Mark added, his eyes on the road.",
+  "Example sentence: His firm hand will be desperately missed.",
+  "Example sentence: Yet if he were not there, they would have missed him, as they would have missed the sounds of bees buzzing against the screen door in early June; or the smell of thick tomato paste - the ripe smell that was both sweet and sour - rising up from aluminum trays wrapped in fly dotted cheesecloth.",
+  "Example sentence: She loved him and missed his company."
+ ],
+ "labels": [
+  "miss.v.01",
+  "miss.v.01",
+  "miss.v.01",
+  "miss.v.01",
+  "miss.v.01",
+  "miss.v.01",
+  "miss.v.01",
+  "miss.v.02",
+  "miss.v.02",
+  "miss.v.02",
+  "miss.v.02",
+  "miss.v.02",
+  "miss.v.02",
+  "miss.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

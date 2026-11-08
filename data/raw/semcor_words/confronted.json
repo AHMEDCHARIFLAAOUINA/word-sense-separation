@@ -1,0 +1,53 @@
+{
+ "target_word": "confronted",
+ "sentences": [
+  "Example sentence: He is confronted with the recurrent crises, such as great natural catastrophes and the great transitions of life - marriage, incurable disease, widowhood, old age, the certainty of death.",
+  "Example sentence: The Szolds, like the Marches, enjoyed and loved living together, even in troubled times; and, as in the March home, any young man who called on the Szolds found himself confronted with a phalanx of femininity which made it rather difficult to direct his particular attention to any one of them.",
+  "Example sentence: `` So what's this all about ''? he demanded, when Lord confronted him.",
+  "Example sentence: More than once I was confronted by professional gamblers, `` bookies '', loan `` sharks '', gangsters, `` thugs '' and `` finger men '' - people of a class I did not even know existed - to repay my husband's staggering losses, `` or else ''.",
+  "Example sentence: Thus when Premier Khrushchev intimated even before inauguration that he hoped for an early meeting with the new President, Mr. Kennedy was confronted with a delicate problem.",
+  "Example sentence: The Gap looming before him - the place where had confronted Jack English on that day so many years ago - was his exit from all that had meaning to him.",
+  "Example sentence: For all involved in this discussion the devil is a real entity who can really be confronted in the woods on a dark night, the demon world is populated with real creatures, and witches actually can be seen flying through the air.",
+  "Example sentence: When confronted with a drunk or an insane person I have no notion of what any one of them might do to me or to himself or to others.",
+  "Example sentence: Obviously what we are confronted with here is the identification of `` professional '' with narrow skills and specialization, the effective servicing of a client, rather than responsiveness to the wider and deeper meaning and associations of one's work.",
+  "Example sentence: It must be recognized as a slow-acting tool designed to prevent political and military crises such as those recently confronted in Laos and Cuba.",
+  "Example sentence: He, of course, must have been equally unprepared for what confronted him, but, nonetheless, I did find his reaction startling.",
+  "Example sentence: For another second or two he gave in to the annoyance that was directed at himself; then his mind moved on to be confronted by something far more serious, and as the thought expanded, the implications jarred him.",
+  "Example sentence: Men, trees, automobiles, houses, and so on - objects continually confronted in everyday life - had each its characteristic blot appearance and became easily recognizable, at the very beginning of tracing, by an inference as to what each was.",
+  "Example sentence: We were not, however, prepared for anything like the apparition that confronted us as Felix came up the stairs."
+ ],
+ "labels": [
+  "confront.v.01",
+  "confront.v.01",
+  "confront.v.01",
+  "confront.v.01",
+  "confront.v.01",
+  "confront.v.01",
+  "confront.v.01",
+  "confront.v.02",
+  "confront.v.02",
+  "confront.v.02",
+  "confront.v.02",
+  "confront.v.02",
+  "confront.v.02",
+  "confront.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

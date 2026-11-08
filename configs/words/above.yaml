@@ -1,0 +1,7 @@
+word: above
+dataset: data/raw/semcor_words/above.json
+senses:
+  - above.r.01
+  - above.r.02
+n_per_sense: 8
+prefix: "Example sentence: "

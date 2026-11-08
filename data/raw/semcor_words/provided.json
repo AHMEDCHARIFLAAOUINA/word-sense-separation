@@ -1,0 +1,41 @@
+{
+ "target_word": "provided",
+ "sentences": [
+  "Example sentence: The Church considers this to be the method provided by nature and its divine Author: It involves no frustration of nature's laws, but simply an intelligent and disciplined use of them.",
+  "Example sentence: Texts and translations are provided.",
+  "Example sentence: Moreover, man may not supplant or frustrate the physical arrangements established by God, who through the law of rhythm has provided a natural method for the control of conception.",
+  "Example sentence: The higher price supports provided by the new legislation, together with rising prices for farm products, are pushing up farm income, making it possible for farmers to afford the new machinery.",
+  "Example sentence: Up to this time and for the next eight years, the services provided disabled persons consisted mainly of training, counseling, and placement on a job.",
+  "Example sentence: But one wishes, when the appetite is whetted, as it was in the case of the all-too-brief excerpt from the Blomdahl opera, that further opportunity would be provided both for hearing the works in their entirety and for a closer analytical look at the sense and nature of the compositions.",
+  "Example sentence: All these - potboilers or no - provided a welcome breath of fresh air in the form of lively, colorful, unstuffy works well suited for the great out-of-doors.",
+  "Example sentence: It was stated earlier that one purpose of this study was to extend the analysis of variability of Onset and Completion in each of the 21 growth centers somewhat beyond that provided by the data in Tables 1 and 2.",
+  "Example sentence: It must be conceded that his native land provided Prokofieff with many of the necessary conditions for great creative incentive:",
+  "Example sentence: Evidence that other sources of financing are unavailable must be provided."
+ ],
+ "labels": [
+  "provide.v.02",
+  "provide.v.02",
+  "provide.v.02",
+  "provide.v.02",
+  "provide.v.02",
+  "supply.v.01",
+  "supply.v.01",
+  "supply.v.01",
+  "supply.v.01",
+  "supply.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

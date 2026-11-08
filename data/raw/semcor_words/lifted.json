@@ -1,0 +1,47 @@
+{
+ "target_word": "lifted",
+ "sentences": [
+  "Example sentence: Jessica Packard lifted her head and followed the retreating figure, her eyes resting nearly closed on the unself-conscious rise and fall of the rounded hips.",
+  "Example sentence: Dean still hesitated, but Mike lifted him almost bodily into the saddle and thrust the reins in his hand.",
+  "Example sentence: Taking off his hat and signaling the driver with it, Mr. Podger stepped into the road, lifted the surprised turtle and consummated its road-crossing with what must have been a breath-taking suddenness.",
+  "Example sentence: The music arrived, taking him, its rhythm stroked him, snaked all through him, the lyrics lifted him, took him from one magic isle to another, stopping briefly at each.",
+  "Example sentence: The murderer lifted his head.",
+  "Example sentence: She put a strong hand under the old man's arm and lifted him up, patiently, with the gentle cruelty and necessary tyranny that the young show toward the very old.",
+  "Example sentence: After pushing an accumulation of vines and weeds from the moldboard, I lifted the lines from the dust and found hitched to that plow the finest team I ever held a rein on.",
+  "Example sentence: Once more he lifted Jess's gun from its holster, only this time he tossed it into the stall with the frightened buckskin.",
+  "Example sentence: `` I leave this church with a feeling that a great weight has been lifted off my heart, I have left my grudge at the altar and forgiven my neighbor ''.",
+  "Example sentence: He adjusted the hat, lifted the horn to his lips as though it were a flute, and fell in alongside our fingerprint expert to cavort with him.",
+  "Example sentence: Clayton lifted him gently into the saddle, like a child.",
+  "Example sentence: He moved up and lifted Jess's pistol out of its holster."
+ ],
+ "labels": [
+  "raise.v.02",
+  "raise.v.02",
+  "raise.v.02",
+  "raise.v.02",
+  "raise.v.02",
+  "raise.v.02",
+  "lift.v.02",
+  "lift.v.02",
+  "lift.v.02",
+  "lift.v.02",
+  "lift.v.02",
+  "lift.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

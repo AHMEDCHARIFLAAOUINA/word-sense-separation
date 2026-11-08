@@ -1,0 +1,7 @@
+word: top
+dataset: data/raw/semcor_words/top.json
+senses:
+  - top.n.01
+  - top.n.02
+n_per_sense: 13
+prefix: "Example sentence: "

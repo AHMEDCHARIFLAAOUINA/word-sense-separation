@@ -1,0 +1,41 @@
+{
+ "target_word": "score",
+ "sentences": [
+  "Example sentence: A child with an I. Q. of 98 would be expected to earn an achievement test score of 3.5.",
+  "Example sentence: If a child with an I. Q. of 120 scored 5.5 in achievement, his discrepancy score would be +.7, representing.7 of one year of over-achievement.",
+  "Example sentence: If such a child scored 3.0, his discrepancy score would be -.5, representing.5 of one year of under-achievement.",
+  "Example sentence: For example, on the basis of the regression equation, a child with an I. Q. of 120 in this sample would be expected to earn an achievement test score of 4.8 (grade equivalent).",
+  "Example sentence: For example, the marksman gets 5 shots, but we take his score to be the number of shots before his first bull's-eye, that is, 0, 1, 2, 3, 4 (or 5, if he gets no bull's-eye).",
+  "Example sentence: It was a dismal, drizzly day but a good one on which to score over the Augusta National course.",
+  "Example sentence: First of all, as we had surmised, the highly compulsive children in the structured setting score significantly better (* * f) on achievement than do similar children in the unstructured schools.",
+  "Example sentence: Most Juniors who were entered in the Finals are seasoned campaigners and not only show and win in Junior Classes but score in the Breed Classes as well.",
+  "Example sentence: Then Robinson slammed a long double to left center to score both runners.",
+  "Example sentence: As predicted, the highly anxious children in the unstructured schools score more poorly (* * f) than those in the structured schools."
+ ],
+ "labels": [
+  "mark.n.01",
+  "mark.n.01",
+  "mark.n.01",
+  "mark.n.01",
+  "mark.n.01",
+  "score.v.01",
+  "score.v.01",
+  "score.v.01",
+  "score.v.01",
+  "score.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

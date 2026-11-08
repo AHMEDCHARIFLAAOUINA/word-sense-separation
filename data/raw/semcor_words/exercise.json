@@ -1,0 +1,47 @@
+{
+ "target_word": "exercise",
+ "sentences": [
+  "Example sentence: Really there is no reason why this fine exercise should not find its way into your leg program at all times, for the following suggestions show why it is so effective:",
+  "Example sentence: Of course he did some exercising - he's crazy about water skiing and swimming and this vigorous exercise in conjunction with the added food supplements packed pounds of solid muscle on his skinny frame.",
+  "Example sentence: You'll need your Weider Power Stands for this fine exercise and here's the way it's done:",
+  "Example sentence: The `` pull '' exercise in this Super-Set is the one dumbbell Bent-Arm Pullover.",
+  "Example sentence: Or: `` Does he get exercise ''?",
+  "Example sentence: In the third Push-Pull Super-Set the `` push '' exercise is the wide grip Pushup Between Bars, while the `` pull '' exercise is the Moon Bench Lateral Raise with bent arms.",
+  "Example sentence: Most Jewish mothers are determined to exercise vigilance over the social and sexual lives of their daughters by keeping them home.",
+  "Example sentence: These forty-seven special purpose governments have the authority to levy taxes, to borrow money, own property, sue and be sued, and in general to exercise normal corporate powers.",
+  "Example sentence: The Angels in turn would exercise similar restraints in respect for the natural preferences and natures of the Earthmen - but they had no faintest notion of man's perverse habit of passing and enforcing laws which were contrary to his own preferences and violations of his nature.",
+  "Example sentence: The tortured reasoning that unions use to deny their ambition to exercise monopoly power over the supply and price of labor is one of the things that create a legal profession.",
+  "Example sentence: Encourage them to exercise their benefits.",
+  "Example sentence: But more important, and the thing which the casual traveler and the blind sojourner often do not see, is that these places and activities are often the settings in which Persians exercise their extraordinary aesthetic sensibilities."
+ ],
+ "labels": [
+  "exercise.n.01",
+  "exercise.n.01",
+  "exercise.n.01",
+  "exercise.n.01",
+  "exercise.n.01",
+  "exercise.n.01",
+  "exert.v.01",
+  "exert.v.01",
+  "exert.v.01",
+  "exert.v.01",
+  "exert.v.01",
+  "exert.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

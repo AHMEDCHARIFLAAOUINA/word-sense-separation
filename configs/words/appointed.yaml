@@ -1,0 +1,7 @@
+word: appointed
+dataset: data/raw/semcor_words/appointed.json
+senses:
+  - appoint.v.01
+  - appoint.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: amount
+dataset: data/raw/semcor_words/amount.json
+senses:
+  - sum.n.01
+  - amount.n.02
+n_per_sense: 15
+prefix: "Example sentence: "

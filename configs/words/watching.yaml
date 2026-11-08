@@ -1,0 +1,7 @@
+word: watching
+dataset: data/raw/semcor_words/watching.json
+senses:
+  - watch.v.01
+  - watch.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

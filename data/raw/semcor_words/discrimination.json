@@ -1,0 +1,41 @@
+{
+ "target_word": "discrimination",
+ "sentences": [
+  "Example sentence: It is these other differences between North and South - other, that is, than those which concern discrimination or social welfare - which I chiefly discuss herein.",
+  "Example sentence: Three requirements go with a blockade: It must be proclaimed; the blockading force must be powerful enough to enforce it; and it must be enforced without discrimination.",
+  "Example sentence: State and federal legislation against racial discrimination in employment was called for yesterday in a report of a `` blue ribbon '' citizens committee on the aid to dependent children program.",
+  "Example sentence: The volume of ADC cases will decrease, Martin reported, when the community is able to deal effectively with two problems: Relatively limited skills and discrimination in employment because of color.",
+  "Example sentence: The report called racial discrimination in employment `` one of the most serious causes of family breakdown, desertion, and ADC dependency ''.",
+  "Example sentence: The child with high anxiety may first direct his anxiety released energy toward achievement, but because his distress severely reduces the abilities of discrimination and memorization of complex symbols, the child may fail in his initial attempts to master the problem.",
+  "Example sentence: Among other things it means perception, discrimination, sensitivity to subtle differences.",
+  "Example sentence: Success reduces the prospect of threat and his powers of discrimination are improved.",
+  "Example sentence: The individual with high anxiety in the structured classroom may approach the learning task with the same increased energy and lowered powers of discrimination.",
+  "Example sentence: Freeman, Cameron and McGhie, in their description of the disturbances of thinking found in chronic schizophrenic patients, say, in regard to condensation, that `` the lack of adequate discrimination between the self and the environment, and the objects contained therein in itself is the prototypical condensation ''."
+ ],
+ "labels": [
+  "discrimination.n.01",
+  "discrimination.n.01",
+  "discrimination.n.01",
+  "discrimination.n.01",
+  "discrimination.n.01",
+  "discrimination.n.02",
+  "discrimination.n.02",
+  "discrimination.n.02",
+  "discrimination.n.02",
+  "discrimination.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

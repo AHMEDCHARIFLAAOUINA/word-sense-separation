@@ -1,0 +1,53 @@
+{
+ "target_word": "outside",
+ "sentences": [
+  "Example sentence: Then she fell asleep again as suddenly as a person with fever, and when she awoke it was dark outside and the clarity was back in her eyes.",
+  "Example sentence: Andy had no desire to linger himself but Hub reported that the mob outside was still large despite the efforts of the police to disperse them.",
+  "Example sentence: On the ground floor the radiation would be about half what it is outside.",
+  "Example sentence: When it became obvious that he could stay inside no longer, taking a thousand to one chance Gonzales rushed outside, square against the muzzle of a Winchester.",
+  "Example sentence: Wait ''! cried the guard who ran from the hut to shout to other men standing about outside.",
+  "Example sentence: He paused only long enough to ascertain that Jess's buckskin was still missing and that his own gray was all right, then climbed through a back window and dropped to the ground outside.",
+  "Example sentence: `` Let's take it outside.",
+  "Example sentence: On the street outside, Hieronymus envisions a holocaust of the vanities of this world, such a burning of artistic and erotic productions as his namesake actually brought to pass in Florence, and prophetically he issues his curse: `` Gladius Dei super terram cito et velociter ''.",
+  "Example sentence: Regarded from the outside, an action is an event or series of events occurring in the physical world; regarded from the inside, it is the carrying into action of a certain thought.",
+  "Example sentence: Perhaps if Felix had first come upon us when this boy was not cavorting so gaily up and down the hall outside the murdered woman's apartment, we might have had less trouble convincing Felix of our seriousness.",
+  "Example sentence: From the outside it was an ordinary enough house of the gentry.",
+  "Example sentence: From the outside, it seemed no more than a low drumlin, a lump on the dark earth.",
+  "Example sentence: Those modern scholars who urge that we must keep in mind the fundamental continuity of Aegean development from earliest times - granted occasional irruptions of peoples and ideas from outside - are correct; but all too many observers have been misled by this fact into minimizing the degree of change which took place in the early first millennium.",
+  "Example sentence: First of all, no unit likes to have a new CO brought in from the outside, especially when he's an armchair trooper."
+ ],
+ "labels": [
+  "outside.r.01",
+  "outside.r.01",
+  "outside.r.01",
+  "outside.r.01",
+  "outside.r.01",
+  "outside.r.01",
+  "outside.r.01",
+  "outside.n.01",
+  "outside.n.01",
+  "outside.n.01",
+  "outside.n.01",
+  "outside.n.01",
+  "outside.n.01",
+  "outside.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

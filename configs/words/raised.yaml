@@ -1,0 +1,7 @@
+word: raised
+dataset: data/raw/semcor_words/raised.json
+senses:
+  - raise.v.02
+  - raise.v.01
+n_per_sense: 9
+prefix: "Example sentence: "

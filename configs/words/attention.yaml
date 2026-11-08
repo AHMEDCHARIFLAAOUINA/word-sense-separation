@@ -1,0 +1,7 @@
+word: attention
+dataset: data/raw/semcor_words/attention.json
+senses:
+  - attention.n.01
+  - care.n.01
+n_per_sense: 8
+prefix: "Example sentence: "

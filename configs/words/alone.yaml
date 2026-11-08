@@ -1,0 +1,7 @@
+word: alone
+dataset: data/raw/semcor_words/alone.json
+senses:
+  - entirely.r.02
+  - alone.r.02
+n_per_sense: 20
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: eat
+dataset: data/raw/semcor_words/eat.json
+senses:
+  - eat.v.01
+  - eat.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

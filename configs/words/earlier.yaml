@@ -1,0 +1,7 @@
+word: earlier
+dataset: data/raw/semcor_words/earlier.json
+senses:
+  - earlier.r.01
+  - sooner.r.01
+n_per_sense: 7
+prefix: "Example sentence: "

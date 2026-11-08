@@ -1,0 +1,7 @@
+word: low
+dataset: data/raw/semcor_words/low.json
+senses:
+  - low.a.01
+  - low.a.02
+n_per_sense: 13
+prefix: "Example sentence: "

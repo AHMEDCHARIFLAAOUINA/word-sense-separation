@@ -1,0 +1,47 @@
+{
+ "target_word": "skill",
+ "sentences": [
+  "Example sentence: The limits are suggested by an imaginary experiment: contrast the perceptual skill of English professors with that of their colleagues in discriminating among motor cars, political candidates, or female beauty.",
+  "Example sentence: Both the extent to which this is true and the limits of the field of perceptual skill involved should be acknowledged.",
+  "Example sentence: The ninth century was in its artistic work `` the spiritually freest and most self-sufficient between past and future '', and the loving skill spent by its artists upon their products is a testimonial to their sense that what they were doing was important and was appreciated.",
+  "Example sentence: Sensibility is a vague word, covering an area of meaning rather than any precise talent, quality, or skill.",
+  "Example sentence: Vocational training which holds no hope that the skill developed will be in fact a marketable skill becomes just another school `` chore '' for those whose interest in their studies has begun to falter.",
+  "Example sentence: Today many college bound students try to take a course in personal typing, as they feel a certain degree of mastery of this skill is almost essential for one who proposes to do academic work in college and a professional school.",
+  "Example sentence: He was a fine and showy rider, but his skill was wasted on us.",
+  "Example sentence: The control tower gave him immediate take-off permission, and the clean roar of the engine that took him off the rough strip spoke well of the skill of Donovan.",
+  "Example sentence: It gives him aid, comfort, even solace, in meeting mundane life situations where his own unassisted practical knowledge and skill are felt by him to be inadequate.",
+  "Example sentence: These are, if the research is done with subtlety and skill, researchable topics, but the research is missing.",
+  "Example sentence: Considerable technical skill was used and the administration of the elections was generally above reproach.",
+  "Example sentence: There would be great need soon for his skill as surgeon, but somehow he had not planned to use his knowledge merely for war."
+ ],
+ "labels": [
+  "skill.n.01",
+  "skill.n.01",
+  "skill.n.01",
+  "skill.n.01",
+  "skill.n.01",
+  "skill.n.01",
+  "skill.n.02",
+  "skill.n.02",
+  "skill.n.02",
+  "skill.n.02",
+  "skill.n.02",
+  "skill.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

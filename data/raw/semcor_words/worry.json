@@ -1,0 +1,41 @@
+{
+ "target_word": "worry",
+ "sentences": [
+  "Example sentence: Is it after all possible that no matter how the liberals trumpet their confidence in human dignity they are exposed to a contagion of fear more insidious than any conservative has ever to worry about?",
+  "Example sentence: `` We wonn't live long enough if I wait for you, besides which you don't need to worry - there'll be plenty more ''.",
+  "Example sentence: We'd be losing at halftime to a good team and Hartweger would say, ' Don't worry, Coach - we'll get 'em all right '' '.",
+  "Example sentence: `` Don't worry '', Frankie said.",
+  "Example sentence: Don't you worry, chief '', Greg replied, wondering if he himself believed it.",
+  "Example sentence: I have no one but myself to worry about ''.",
+  "Example sentence: It was too late to worry about that.",
+  "Example sentence: Alexander the Great, who used runners as message carriers, did not have to worry about having every officer in his command hear what he said and having hundreds of them comment at once.",
+  "Example sentence: When they learn you're in the hills though, they'll rally, don't worry about that ''.",
+  "Example sentence: Man had enough to worry about managing to get up there and stay without being burdened with rules once aloft."
+ ],
+ "labels": [
+  "worry.v.01",
+  "worry.v.01",
+  "worry.v.01",
+  "worry.v.01",
+  "worry.v.01",
+  "worry.v.02",
+  "worry.v.02",
+  "worry.v.02",
+  "worry.v.02",
+  "worry.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

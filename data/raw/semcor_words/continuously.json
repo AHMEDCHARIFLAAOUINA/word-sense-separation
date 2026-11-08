@@ -1,0 +1,35 @@
+{
+ "target_word": "continuously",
+ "sentences": [
+  "Example sentence: This region which had a higher temperature than the rest of the anode surface changed size and location continuously.",
+  "Example sentence: The sewage flow into the treatment plant was metered and continuously recorded on 24 - hr charts.",
+  "Example sentence: Then, for the above parasites, feed continuously at these levels:",
+  "Example sentence: Let n be a positive integer and let V be the space of all n times continuously differentiable functions f on the real line which satisfy the differential equation * * f where * * f are some fixed constants.",
+  "Example sentence: George W. Cable (naturalized New Englander), writing in 1889 from `` Paradise Road, Northampton '' (lovely symbolic name), agitated continuously the `` Southern question ''.",
+  "Example sentence: Tests have shown that such a device, with a fresh battery, will furnish light continuously for at least 10 days.",
+  "Example sentence: Men continuously at the head of growing enterprises can acquire experiences of the most varied, complicated and trying type so that at maturation they have developed the competence and willingness to accept the personal responsibility so sorely needed now.",
+  "Example sentence: The use of bulk handling is continuously growing."
+ ],
+ "labels": [
+  "continuously.r.01",
+  "continuously.r.01",
+  "continuously.r.01",
+  "continuously.r.01",
+  "endlessly.r.02",
+  "endlessly.r.02",
+  "endlessly.r.02",
+  "endlessly.r.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

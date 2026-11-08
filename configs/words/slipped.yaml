@@ -1,0 +1,7 @@
+word: slipped
+dataset: data/raw/semcor_words/slipped.json
+senses:
+  - steal.v.02
+  - slip.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

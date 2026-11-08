@@ -1,0 +1,7 @@
+word: even
+dataset: data/raw/semcor_words/even.json
+senses:
+  - even.r.01
+  - even.r.02
+n_per_sense: 10
+prefix: "Example sentence: "

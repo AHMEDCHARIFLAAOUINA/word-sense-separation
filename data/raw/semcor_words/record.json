@@ -1,0 +1,41 @@
+{
+ "target_word": "record",
+ "sentences": [
+  "Example sentence: You may think we didn't need Nancy and Jean, but you always get what you can when you can, and we had no guarantee that a fingerprint record on them couldn't be useful before we were through with this case.",
+  "Example sentence: One of the most damaging tsunami on record followed the famous Lisbon earthquake of November 1, 1755; its waves persisted for a week and were felt as far away as the English coast.",
+  "Example sentence: In the light of these circumstances, as well as the fact that the issue at trial in this respect centered entirely on the Department's recommendation, which petitioner repudiated but which both the appeal board and the courts below found supported by the record, we find no relevancy in the hearing officer's report and notes.",
+  "Example sentence: The effort produced a valuable record of stage techniques in the early years of the century and some interesting records of great theater figures who would otherwise be only names.",
+  "Example sentence: For display, Dr. Baum uses a portion of an * * f, an airborne radar indicator, and then photographs the screen to obtain a permanent record.",
+  "Example sentence: The interviewers were instructed not to suggest answers and, as much as possible, to record the parents ' actual words as they described the child's behavior in home situations.",
+  "Example sentence: It truly relives another age for the inhabitants use carriages rather than autos and old British and French forts are left intact for tourists to visit and record.",
+  "Example sentence: Just after sunset is a good time to record the city lights in color since you get a `` fill-in '' light from the sky.",
+  "Example sentence: Promoters of Zen to the West record its ancestry, and recognize that Zen grew out of a combination of Taoism and Indian Mahayana Buddhism.",
+  "Example sentence: But before discussing it, I should like to record one vote of thanks to them for the clarity with which they have stated their case."
+ ],
+ "labels": [
+  "record.n.01",
+  "record.n.01",
+  "record.n.01",
+  "record.n.01",
+  "record.n.01",
+  "record.v.01",
+  "record.v.01",
+  "record.v.01",
+  "record.v.01",
+  "record.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: price
+dataset: data/raw/semcor_words/price.json
+senses:
+  - monetary_value.n.01
+  - price.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

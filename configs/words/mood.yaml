@@ -1,0 +1,7 @@
+word: mood
+dataset: data/raw/semcor_words/mood.json
+senses:
+  - temper.n.02
+  - climate.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

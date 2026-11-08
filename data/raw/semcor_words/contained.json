@@ -1,0 +1,47 @@
+{
+ "target_word": "contained",
+ "sentences": [
+  "Example sentence: Some liver cord cells contained vacuolated cytoplasm, while others had small amounts of brown hemosiderin pigment.",
+  "Example sentence: The endothelial cells lining the sinusoids were prominent, and many contained large quantities of hemosiderin.",
+  "Example sentence: The gallbladder contained about 40 cc. of green brown bile and 3 smooth, dark-green calculi measuring up to 1 cm. in diameter.",
+  "Example sentence: The small intestine and colon contained approximately 300 cc. of foul-smelling, sanguineous material, and the mucosa throughout was hyperemic and mottled green brown.",
+  "Example sentence: Occasional tubules contained hyaline casts admixed with neutrophils.",
+  "Example sentence: Surface temperature gradients have been found to exist in liquid helium baths contained in 15 - and 25 - liter metallic storage dewars.",
+  "Example sentence: If each text form is marked when matched with a dictionary form, the text forms not contained in the dictionary can be identified when all dictionary forms have been read.",
+  "Example sentence: In May, 1803, Ritter, in another flight of fancy, wrote to Oersted a letter that contained a remarkable prophecy.",
+  "Example sentence: These were increased both in number and in size, contained prominent nucleoli, and were distributed throughout the fiber (Figs. 2 - 5).",
+  "Example sentence: A couple of years back, I occupied a Village apartment whose outer staircase contained the type of niche called a `` coffin turn ''.",
+  "Example sentence: Much new equipment and many unique techniques have been developed for the quantitative exposure of experimental animals to aerosols of infectious agents contained in particles of specified dimensional characteristics.",
+  "Example sentence: An excellent summary of advantages concerning the uniform fiscal year and coordinated fiscal calendars was contained in a paper presented by a public finance authority recently."
+ ],
+ "labels": [
+  "hold.v.11",
+  "hold.v.11",
+  "hold.v.11",
+  "hold.v.11",
+  "hold.v.11",
+  "hold.v.11",
+  "incorporate.v.02",
+  "incorporate.v.02",
+  "incorporate.v.02",
+  "incorporate.v.02",
+  "incorporate.v.02",
+  "incorporate.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

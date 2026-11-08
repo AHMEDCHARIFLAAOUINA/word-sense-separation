@@ -1,0 +1,7 @@
+word: begin
+dataset: data/raw/semcor_words/begin.json
+senses:
+  - get_down.v.07
+  - begin.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,53 @@
+{
+ "target_word": "tradition",
+ "sentences": [
+  "Example sentence: Nor have we remembered that in the melting pot of America the hundreds of isolated and semi isolated ethnic, regional and occupational groups did not fuse into a homogeneous national unit until long after education and industrialization had caused them to cast oral tradition aside as a means of carrying culturally significant material.",
+  "Example sentence: Though it is not easy to apply the evidence of the Iliad to any specific era, this marvelous product of the epic tradition had certainly taken definitive shape by 750.",
+  "Example sentence: They have indicated the direction but they have not been explicit enough, I believe, in pointing out Faulkner's independence, his questioning if not indeed challenging the Southern tradition.",
+  "Example sentence: Although they have also been concerned to stand squarely within the tradition of the apostolic church, they have exhibited no willingness whatever to sacrifice their modernity to their Christianity.",
+  "Example sentence: Steinberg seems to have gone directly back to the score, discounting tradition, and has built his performance on the intention to reproduce as faithfully as possible exactly what Brahms set down on paper.",
+  "Example sentence: What makes this long and diverse tradition essentially one is that those who have belonged to it have been profoundly in earnest about being modern men in a distinctively modern world.",
+  "Example sentence: Enthusiastically, Americans have swept subliterary and bogus materials like Paul Bunyan tales, Abe Lincoln anecdotes and labor union songs up as true products of our American oral tradition.",
+  "Example sentence: Although Faulkner was the heir in his own family to this tradition, he did not have Stark Young's inclination to romanticize and sentimentalize the planter society.",
+  "Example sentence: All four types of message listed in Table 1 are permitted, although decorum and cocktail tradition require holding the commands to a minimum, while exclamations having complimentary intonations are more than customarily encouraged.",
+  "Example sentence: He may respect too much the Italian tradition of letting singers hold on to their notes, but to restrain them in a singers ' opera may be quite difficult.",
+  "Example sentence: The planter aristocracy has appeared in literature at least since John Pendleton Kennedy published Swallow-Barn in 1832 and in his genial portrait of Frank Meriwether presiding over his plantation dominion initiated the most persistent tradition of Southern literature.",
+  "Example sentence: The tradition reached its apex, perhaps, in the works of Thomas Nelson Page toward the end of the century, and reappeared undiminished as late as 1934 in the best-selling novel So Red the Rose, by Stark Young.",
+  "Example sentence: It didn't take Captain Chandler long to realize that he had to carry a heavy load of tradition on his shoulders as commander of Troop H.",
+  "Example sentence: My heartiest congratulations go to their successors, Orvil E. Dryfoos and John B. Oakes, who can be counted upon to sustain the illustrious tradition of the New York Times."
+ ],
+ "labels": [
+  "tradition.n.01",
+  "tradition.n.01",
+  "tradition.n.01",
+  "tradition.n.01",
+  "tradition.n.01",
+  "tradition.n.01",
+  "tradition.n.01",
+  "custom.n.02",
+  "custom.n.02",
+  "custom.n.02",
+  "custom.n.02",
+  "custom.n.02",
+  "custom.n.02",
+  "custom.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

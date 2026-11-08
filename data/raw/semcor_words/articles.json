@@ -1,0 +1,35 @@
+{
+ "target_word": "articles",
+ "sentences": [
+  "Example sentence: `` And also, sir, two articles which were considered souvenirs now must be regarded in another light entirely.",
+  "Example sentence: This is best demonstrated by practical washing tests in which cloth articles are repeatedly washed with the same detergent formulation.",
+  "Example sentence: The company grew out of efforts by two completely inexperienced men in their late twenties, neither having a formal education applicable to, or experience in, manufacturing or selling our type of articles.",
+  "Example sentence: Alexander McDonnell, governor of Red River, and James Bird, a chief factor of the Hudson's Bay Company, ordered such `` sundry articles '' to a value of 4500.",
+  "Example sentence: On successive Sundays during October, 1960, Paul Ferris (a non-Catholic) wrote articles in the Observer depicting clergymen of the Church of England, the Church of Rome and the Nonconformist Church.",
+  "Example sentence: The exercise I shall discuss in this - the first of a new series of articles on muscle definition specialization of a particular body part - is the One Leg Lunge.",
+  "Example sentence: The general tone of articles appearing in such important newspapers as the Manchester Guardian and the Sunday Observer implies a kindly recognition that the Catholic Church is now at least of equal stature in England with the Protestant churches.",
+  "Example sentence: Such a series of articles was certainly never printed in the public press of mid Victorian England."
+ ],
+ "labels": [
+  "article.n.02",
+  "article.n.02",
+  "article.n.02",
+  "article.n.02",
+  "article.n.01",
+  "article.n.01",
+  "article.n.01",
+  "article.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

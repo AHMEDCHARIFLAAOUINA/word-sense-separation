@@ -1,0 +1,7 @@
+word: administered
+dataset: data/raw/semcor_words/administered.json
+senses:
+  - administer.v.01
+  - administer.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

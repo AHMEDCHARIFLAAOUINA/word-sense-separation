@@ -1,0 +1,53 @@
+{
+ "target_word": "length",
+ "sentences": [
+  "Example sentence: William Beebe reports 26 inches and 2.4 ounces (this snake must have been emaciated) for the length and the weight of a young anaconda from British Guiana.",
+  "Example sentence: In contrast, Ditmars recorded the average length of seventy-two young of a 19 - foot female as 38 inches, and four young were born in London at a length of 35 or 36 inches and a weight of from 14 to 16 ounces.",
+  "Example sentence: A number of semiempirical estimates by various workers lead to the conclusion that the **f bond becomes symmetric when the **f bond length is about 2.4 to 2.5 A, but aside from the possible example of nickel dimethylglyoxime there have been no convincing reports of symmetric **f bonds.",
+  "Example sentence: Tsunami are so shallow in comparison with their length that in the open ocean they are hardly detectable.",
+  "Example sentence: The length of the arrow indicates amount of slowing or acceleration at Completion over that at Onset, and the difference in months can be read roughly by referring the arrow to the age scale along the base of each figure, or more precisely by referring to the original data in the appropriate tables.",
+  "Example sentence: Data on the former are scanty, but there can be little doubt that the latter is sometimes born at a length greater than that of any of the others, thereby lending support to the belief that the anaconda does, indeed, attain the greatest length.",
+  "Example sentence: Oh, he was being queer and careful, pawing about in the drawer and holding the bottle like a snake at the length of his arm.",
+  "Example sentence: From maturity one looks back at the succession of years, counts them and makes them many, yet cannot feel length in the number, however large.",
+  "Example sentence: One reel - from eight to twelve minutes - became the standard length from the year of Robbery, 1903, until Griffith shattered that limit forever with Birth of a Nation in 1915.",
+  "Example sentence: His objective is merely to determine `` what distinctions of length and syllabicity it may be desirable to make explicit in a Kikuyu orthography '' (59).",
+  "Example sentence: Between the telephone and the wall plug there was sixty feet of cord, and when the conversation came to an end, Eugene carried the instrument with him the whole length of the apartment, to his bathroom, where it rang three more times while he was shaving and in the tub.",
+  "Example sentence: Although the play does show a certain structural amateurishness (there are eleven acts varying in length from twenty-five seconds to an hour and a half), the statement it makes concerning the ceaseless yearning and searching of youth is profound and worthy of our attention.",
+  "Example sentence: Date of laying, length of incubation period, number of chicks reaching the first week, second week, fifth week, weight of hen, size of rooster's wattles and so on, all scrawled out in a hand that looked more Chinese than English, the most jagged and sprawling Alex had ever seen.",
+  "Example sentence: A Virginia judge a while back cited a Roman jurist to the effect that ten years might be a reasonable length of time for such a change."
+ ],
+ "labels": [
+  "length.n.01",
+  "length.n.01",
+  "length.n.01",
+  "length.n.01",
+  "length.n.01",
+  "length.n.01",
+  "length.n.01",
+  "duration.n.03",
+  "duration.n.03",
+  "duration.n.03",
+  "duration.n.03",
+  "duration.n.03",
+  "duration.n.03",
+  "duration.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

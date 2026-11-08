@@ -1,0 +1,7 @@
+word: path
+dataset: data/raw/semcor_words/path.json
+senses:
+  - way.n.05
+  - path.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

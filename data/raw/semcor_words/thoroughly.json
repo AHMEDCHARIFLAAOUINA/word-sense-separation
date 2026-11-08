@@ -1,0 +1,41 @@
+{
+ "target_word": "thoroughly",
+ "sentences": [
+  "Example sentence: If the artist would study his work more thoroughly and move certain units in his design, often only slightly, finer pictures would result.",
+  "Example sentence: If there had been, he would have found a loophole, because Arnold is one golfer who knows the code as thoroughly as the man who wrote the book.",
+  "Example sentence: There was little enough time to contemplate them, however; in an instant the doctor was stalking across the room with an antique ledger in his hands, thoroughly eared and big as a table top.",
+  "Example sentence: To do so, he finds it necessary to examine the relevant parts of the phonology thoroughly and in detail.",
+  "Example sentence: After selecting a sheet and inspecting it for flaws (even the best sometimes has foreign ' nubbins ' on its surface), I sponge it thoroughly on both sides with clean, cold water.",
+  "Example sentence: A naval blockade would be thoroughly in line with the Monroe Doctrine, would be a relatively simple operation to carry out, and would bring an abrupt end to Soviet penetration of our hemisphere ``.",
+  "Example sentence: `` I am thoroughly convinced that most watercolors suffer because the artist expects nature will do his composing for him; as a result, such pictures are only a literal translation of what the artist finds in the scene before him.",
+  "Example sentence: He put the basket down distastefully, muttering softly and thoroughly disgusted with himself and his plan that had seemed so foolproof.",
+  "Example sentence: Brian Thayer was a thoroughly honest and competent administrator.",
+  "Example sentence: The importance of particle size in such aerosols has been thoroughly demonstrated."
+ ],
+ "labels": [
+  "thoroughly.r.01",
+  "thoroughly.r.01",
+  "thoroughly.r.01",
+  "thoroughly.r.01",
+  "thoroughly.r.01",
+  "thoroughly.r.02",
+  "thoroughly.r.02",
+  "thoroughly.r.02",
+  "thoroughly.r.02",
+  "thoroughly.r.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

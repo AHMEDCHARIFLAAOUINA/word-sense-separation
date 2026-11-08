@@ -1,0 +1,47 @@
+{
+ "target_word": "dry",
+ "sentences": [
+  "Example sentence: All he cares about is his whisky and that dry crack in his face.",
+  "Example sentence: Then he noticed that the dry wood of the wheels had swollen.",
+  "Example sentence: They could hear the pony's feet on the dry leaves for a while, then the sound faded out.",
+  "Example sentence: The best chance, of course, is offered by gently sloping terrain where the water remains close to the surface and where the air is dry, so that a high evaporation leaves salty deposits which permit only sparse plant growth.",
+  "Example sentence: He doubted if a man could wade as far as the desolate, dry hills that rimmed the valley.",
+  "Example sentence: He tilted his homely face toward the dry bed of the river.",
+  "Example sentence: Set aside to dry with lid on sugar bowl.",
+  "Example sentence: Leave the clay on plaster board to dry slowly, covered lightly with a loose piece of plastic or cloth to prevent warping.",
+  "Example sentence: Set aside to dry thoroughly.",
+  "Example sentence: Let all projects dry slowly for several days.",
+  "Example sentence: Place jar on plaster board with lid in place to dry slowly.",
+  "Example sentence: Put cut pieces on plaster board to dry to firm leather-hard state."
+ ],
+ "labels": [
+  "dry.a.01",
+  "dry.a.01",
+  "dry.a.01",
+  "dry.a.01",
+  "dry.a.01",
+  "dry.a.01",
+  "dry.v.02",
+  "dry.v.02",
+  "dry.v.02",
+  "dry.v.02",
+  "dry.v.02",
+  "dry.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

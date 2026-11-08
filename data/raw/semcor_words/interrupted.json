@@ -1,0 +1,35 @@
+{
+ "target_word": "interrupted",
+ "sentences": [
+  "Example sentence: A time plan is a mere convenience, you understand, and when '' - He interrupted himself, smiling.",
+  "Example sentence: The slow tapping of a cane on the stone steps coming up to the tower interrupted his reverie.",
+  "Example sentence: She was interrupted.",
+  "Example sentence: The telephone interrupted him.",
+  "Example sentence: The clapping they made on the concrete interrupted him in the ecstatic pleasure he knew, so that he quickly released his hold on the goat and pretended to be examining its haunches for ticks.",
+  "Example sentence: Tommy interrupted furiously.",
+  "Example sentence: Suddenly he was interrupted in his daydreaming by a warm wetness lapping against his chin, and his eyes opened wide and long at the sight of a goat's claret tongue, feasting against the salt taste of him.",
+  "Example sentence: The Man from Mars had interrupted him with his work half finished - and that stupid jackass Short was certain to louse it up."
+ ],
+ "labels": [
+  "interrupt.v.01",
+  "interrupt.v.01",
+  "interrupt.v.01",
+  "interrupt.v.01",
+  "interrupt.v.02",
+  "interrupt.v.02",
+  "interrupt.v.02",
+  "interrupt.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

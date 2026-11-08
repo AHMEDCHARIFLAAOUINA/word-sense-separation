@@ -1,0 +1,41 @@
+{
+ "target_word": "oppose",
+ "sentences": [
+  "Example sentence: The acceptance of collective bargaining as a national policy in 1934, implicit in the writing of Section 7 A of the National Industrial Recovery Act, has made it impolitic to oppose collective bargaining in principle.",
+  "Example sentence: Mr. Nixon, for his part, would oppose intervention in Cuba without specific provocation.",
+  "Example sentence: Using a Batista man to screen refugees represented a total misunderstanding of the democratic forces which alone can effectively oppose Castro.",
+  "Example sentence: If the German people favor such a settlement we should not oppose Germany following the example of Austria.",
+  "Example sentence: The arguments advanced by those individuals and groups who oppose the system in force and who would drastically curtail or do away entirely with hospital care for the non-service-connected case, seem to be coldly impractical and out-of-step with the wishes of the general public.",
+  "Example sentence: For internal political reasons, the union asks for (and accepts) increases in the basic wage rate, and would vigorously oppose a reduction in this rate, but the adjustment of the basic wage rate upwards is essentially up to the discretion of the companies of the industry.",
+  "Example sentence: `` But I believe if people were better informed on this question, most of them would oppose it also.",
+  "Example sentence: Some Democratic district and county leaders are reported trying to induce State Controller Arthur Levitt of Brooklyn to oppose Mr. Wagner for the Mayoral nomination in the Sept. 7 Democratic primary.",
+  "Example sentence: To try to oppose the general religious and moral conviction of such a majority by a legislative fiat would be to invite the same breakdown of law and order that was occasioned by the ill-starred Prohibition experiment.",
+  "Example sentence: And Hamilton, who felt it `` a religious duty '' to oppose Aaron Burr's political ambitions, would have been a better actuarial risk had he shown more literary restraint."
+ ],
+ "labels": [
+  "oppose.v.01",
+  "oppose.v.01",
+  "oppose.v.01",
+  "oppose.v.01",
+  "oppose.v.01",
+  "fight.v.02",
+  "fight.v.02",
+  "fight.v.02",
+  "fight.v.02",
+  "fight.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

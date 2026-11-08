@@ -1,0 +1,7 @@
+word: ability
+dataset: data/raw/semcor_words/ability.json
+senses:
+  - ability.n.01
+  - ability.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

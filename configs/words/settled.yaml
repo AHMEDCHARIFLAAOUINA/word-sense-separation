@@ -1,0 +1,7 @@
+word: settled
+dataset: data/raw/semcor_words/settled.json
+senses:
+  - settle.v.01
+  - settle.v.03
+n_per_sense: 4
+prefix: "Example sentence: "

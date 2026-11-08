@@ -1,0 +1,53 @@
+{
+ "target_word": "agreed",
+ "sentences": [
+  "Example sentence: Mr. Blatz agreed that this would be pretty.",
+  "Example sentence: At Geneva in 1954, to get the war in Indo-China settled, the British and French gave in to Russian and Communist Chinese demands and agreed to the setting up of a Communist state, North Viet Nam - which then, predictably, became a base for Communist operations against neighboring South Viet Nam and Laos.",
+  "Example sentence: B ' dikkat grudgingly agreed, but he did not come out of the doorway.",
+  "Example sentence: Managing Director Donald C. Wagner has agreed to cooperate fully with Hemphill after a period of sharp disagreement on the matter.",
+  "Example sentence: He no longer sought to find the law; he made it; he could be subjected to law only because he agreed to be.",
+  "Example sentence: Three agreed, but four declined and were suspended.",
+  "Example sentence: `` For instance, Hesperus agreed to help me find my property, and I agreed to take him to Earth.",
+  "Example sentence: Once in a while they said what a shame it was, with Granny dying, but they all agreed she wouldn't have wanted it any other way.",
+  "Example sentence: He had only agreed with Miss Ada about getting the valet, but he had actually suggested the photograph to Mr. Jack.",
+  "Example sentence: `` A fine idea '', Mike agreed.",
+  "Example sentence: The council agreed it should more firmly state its belief in and dependence on the Bible.",
+  "Example sentence: But since the gourmet insisted that it is done that way at the most fashionable dinners, the girl reluctantly agreed.",
+  "Example sentence: Arthur Williams had to be located, they agreed.",
+  "Example sentence: Rousseau agreed."
+ ],
+ "labels": [
+  "agree.v.02",
+  "agree.v.02",
+  "agree.v.02",
+  "agree.v.02",
+  "agree.v.02",
+  "agree.v.02",
+  "agree.v.02",
+  "agree.v.01",
+  "agree.v.01",
+  "agree.v.01",
+  "agree.v.01",
+  "agree.v.01",
+  "agree.v.01",
+  "agree.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

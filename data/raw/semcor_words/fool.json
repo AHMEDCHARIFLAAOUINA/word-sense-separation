@@ -1,0 +1,47 @@
+{
+ "target_word": "fool",
+ "sentences": [
+  "Example sentence: Docherty was damned if he would make a fool of himself again the way he had earlier over the laundry truck.",
+  "Example sentence: The teacher was a pliant fool.",
+  "Example sentence: It wouldn't matter to a fool like you.",
+  "Example sentence: He said: `` The crazy fool '', half aloud.",
+  "Example sentence: We are worried about what people may do with them - that some crazy fool may `` push the button ''.",
+  "Example sentence: Oh, you can submit a requisition for a miracle if you want to make a fool of yourself.",
+  "Example sentence: And he certainly couldn't have guessed that she would resist his demand for the gold or that she was not the yielding - yes, and credible fool he had every right to expect.",
+  "Example sentence: A fool could see what was going on.",
+  "Example sentence: He's an even bigger fool than you are.",
+  "Example sentence: You're a fool.",
+  "Example sentence: There was no point either in telling herself again what a fool she'd been.",
+  "Example sentence: What a fool he had been to think of his brother!"
+ ],
+ "labels": [
+  "fool.n.01",
+  "fool.n.01",
+  "fool.n.01",
+  "fool.n.01",
+  "fool.n.01",
+  "fool.n.01",
+  "chump.n.01",
+  "chump.n.01",
+  "chump.n.01",
+  "chump.n.01",
+  "chump.n.01",
+  "chump.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

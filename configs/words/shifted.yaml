@@ -1,0 +1,7 @@
+word: shifted
+dataset: data/raw/semcor_words/shifted.json
+senses:
+  - switch.v.04
+  - shift.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

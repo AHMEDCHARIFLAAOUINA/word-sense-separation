@@ -1,0 +1,53 @@
+{
+ "target_word": "sense",
+ "sentences": [
+  "Example sentence: She dressed and the accustomed routine restored to her a sense of normal everyday life.",
+  "Example sentence: The previous night's horror - the absolute failure, overcast with the intrusions of the press, had left them all with a wan sense of uselessness, of play-acting.",
+  "Example sentence: In upper teen Jewish life, the non college group tends to have a sense of marginality.",
+  "Example sentence: He was told he displayed, for example, a sense of superiority - and he answered: `` Well, I am supposed to know all the answers, aren't I ''?",
+  "Example sentence: Third, the significance of the vocational courses is that those enrolled are keenly interested in the work; they realize the relevance of what they are learning to their future careers, and this sense of purpose is carried over to the academic courses which they are studying at the same time.",
+  "Example sentence: They have a sense of marginality at being denied that special badge of status, the out-of-town school.",
+  "Example sentence: The innocent malfeasant, filled with that supreme sense of honor found in bars, insisted upon replacing the destroyed monocle - and did, over the protests of the former owner - with a square monocle.",
+  "Example sentence: They should sense the tremendous significance of joining the spiritual succession reaching back to Christ our Lord and forward to an eternal fellowship with the saints of the ages.",
+  "Example sentence: The process stipulates that the choreographer sense the quality of the initial movement he has discovered and that he feel the rightness of the quality that is to follow it.",
+  "Example sentence: But it is true that the therapist can sense, when he hears this stereotype, that there are at this moment many emotional determinants at work in it, a blurred babel of indistinct voices which have yet to become clearly delineated from one another.",
+  "Example sentence: Sometimes such people sense that they are being used; sometimes not.",
+  "Example sentence: On the basis of what they give us we can know how the young Caruso sang, appreciate the distinctive qualities of Parsifal under Karl Muck's baton, or sense the type of ensemble Toscanini created in his years with the New York Philharmonic.",
+  "Example sentence: The feeling was that he would sense an inner core of toughness and determination in the President and that plain talk by Mr. Kennedy would give him pause.",
+  "Example sentence: For he seemed to sense at once that before him was no South Sea, but the solid bulk of the North American continent."
+ ],
+ "labels": [
+  "sense.n.01",
+  "sense.n.01",
+  "sense.n.01",
+  "sense.n.01",
+  "sense.n.01",
+  "sense.n.01",
+  "sense.n.01",
+  "feel.v.03",
+  "feel.v.03",
+  "feel.v.03",
+  "feel.v.03",
+  "feel.v.03",
+  "feel.v.03",
+  "feel.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

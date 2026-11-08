@@ -1,0 +1,7 @@
+word: encountered
+dataset: data/raw/semcor_words/encountered.json
+senses:
+  - meet.v.01
+  - find.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

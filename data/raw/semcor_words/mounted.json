@@ -1,0 +1,35 @@
+{
+ "target_word": "mounted",
+ "sentences": [
+  "Example sentence: I had mounted it on velvet and hung it over my desk to remind me always to use the power of the paper in a Christian manner.",
+  "Example sentence: The girls, very fetching in their uniforms, are shown firing rockets from a launcher mounted on a dump truck; they are also trained with carbines, automatic weapons, pistols, rifles and other such ladies ' accessories.",
+  "Example sentence: The anode in figure 2 was mounted by means of the anode holder which was attached to a steel plug and disk.",
+  "Example sentence: The sink in the hinged panel above the bunk drains into the head and a five-gallon water tank is mounted on the bulkhead above the sink.",
+  "Example sentence: The movement to end Negro slavery began before 1815 and mounted after that year until, as a result of the Civil War, emancipation was achieved.",
+  "Example sentence: After 1815 anti-slavery sentiment mounted, chiefly among Protestants and those of Protestant background of the older stock.",
+  "Example sentence: The temptation is to say that, as the percentage of church members mounted, the degree of discipline exercised by the churches lessened and the trend was towards conformity to the general level.",
+  "Example sentence: This desire, I went on, growing voluble as my conviction was aroused, had mounted at such a rate recently that I now found its realization necessary not only to my physical but also to my spiritual wellbeing."
+ ],
+ "labels": [
+  "mount.v.01",
+  "mount.v.01",
+  "mount.v.01",
+  "mount.v.01",
+  "wax.v.02",
+  "wax.v.02",
+  "wax.v.02",
+  "wax.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

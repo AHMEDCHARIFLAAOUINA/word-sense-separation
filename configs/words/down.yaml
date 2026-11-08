@@ -1,0 +1,7 @@
+word: down
+dataset: data/raw/semcor_words/down.json
+senses:
+  - down.r.01
+  - down.r.02
+n_per_sense: 20
+prefix: "Example sentence: "

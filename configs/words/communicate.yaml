@@ -1,0 +1,7 @@
+word: communicate
+dataset: data/raw/semcor_words/communicate.json
+senses:
+  - communicate.v.01
+  - communicate.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

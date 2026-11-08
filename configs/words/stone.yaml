@@ -1,0 +1,7 @@
+word: stone
+dataset: data/raw/semcor_words/stone.json
+senses:
+  - stone.n.02
+  - rock.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

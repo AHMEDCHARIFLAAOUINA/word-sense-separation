@@ -1,0 +1,47 @@
+{
+ "target_word": "cast",
+ "sentences": [
+  "Example sentence: The cast:",
+  "Example sentence: The cast:",
+  "Example sentence: It is a tremendous book, lively, constantly moving, and the Matunuck cast does well by it.",
+  "Example sentence: The remainder of the cast fulfilled its assignments no more than satisfactorily just as the old production and limited stage direction proved only serviceable.",
+  "Example sentence: The cast:",
+  "Example sentence: The cast:",
+  "Example sentence: The vivacity of the masquers ' party at Leonato's palace, with the Spanish motif in the music and dancing in honor of the visiting Prince of Arragon, cast a spell of delight.",
+  "Example sentence: The sun was not yet high and all of them were in the small area of shade cast by the boulder.",
+  "Example sentence: The fact that he has cast over those materials the light of a skeptical mind does not make him any the less Southern, I rather think, for the South has been no more solid than other regions except in the political and related areas where patronage and force and intimidation and fear may produce a surface uniformity.",
+  "Example sentence: His claim was therefore `` so highly exaggerated '', the Department concluded, that it `` cast doubt upon his veracity and, consequently, upon his sincerity and good faith ''.",
+  "Example sentence: The glorious news had been held up pending Heavenly confirmation of the elevation of a new Supreme Bishop, Huey Short - a candidate accepted by the Boone faction after lots had been cast repeatedly.",
+  "Example sentence: The two horses broke from the yard, from the circle of light cast by the lamp still burning in the house, into the darkness."
+ ],
+ "labels": [
+  "cast.n.01",
+  "cast.n.01",
+  "cast.n.01",
+  "cast.n.01",
+  "cast.n.01",
+  "cast.n.01",
+  "project.v.10",
+  "project.v.10",
+  "project.v.10",
+  "project.v.10",
+  "project.v.10",
+  "project.v.10"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

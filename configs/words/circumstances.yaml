@@ -1,0 +1,7 @@
+word: circumstances
+dataset: data/raw/semcor_words/circumstances.json
+senses:
+  - circumstance.n.01
+  - context.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

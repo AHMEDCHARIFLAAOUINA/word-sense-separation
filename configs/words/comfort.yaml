@@ -1,0 +1,7 @@
+word: comfort
+dataset: data/raw/semcor_words/comfort.json
+senses:
+  - comfort.n.02
+  - consolation.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

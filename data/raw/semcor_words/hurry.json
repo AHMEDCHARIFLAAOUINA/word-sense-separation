@@ -1,0 +1,41 @@
+{
+ "target_word": "hurry",
+ "sentences": [
+  "Example sentence: I didn't hurry though it was cold and the Pedersen kid was in the kitchen.",
+  "Example sentence: `` Come on, let's hurry down before they lock up for the day ''.",
+  "Example sentence: His energy was prodigious; sometimes he would be up before dawn, clad as a garbage collector and hurling pails into areaways to exasperate us, and thereafter would hurry to the Bronx Zoo to grimace at the lions and press cigar butts against their paws.",
+  "Example sentence: Then Little Billy began shouting orders to round up the ponies and fill the water buckets and for the cooks to hurry up with the meal.",
+  "Example sentence: If you hurry you might beat the headquarters boys ''.",
+  "Example sentence: The future would happen; he did not have to hurry it by thinking too much.",
+  "Example sentence: `` Hurry!",
+  "Example sentence: Tell her to hurry ''.",
+  "Example sentence: `` Don't hurry too much.",
+  "Example sentence: You'd better hurry ''."
+ ],
+ "labels": [
+  "travel_rapidly.v.01",
+  "travel_rapidly.v.01",
+  "travel_rapidly.v.01",
+  "travel_rapidly.v.01",
+  "travel_rapidly.v.01",
+  "rush.v.04",
+  "rush.v.04",
+  "rush.v.04",
+  "rush.v.04",
+  "rush.v.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

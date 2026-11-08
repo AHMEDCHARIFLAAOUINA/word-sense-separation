@@ -1,0 +1,7 @@
+word: most
+dataset: data/raw/semcor_words/most.json
+senses:
+  - most.r.01
+  - most.a.01
+n_per_sense: 20
+prefix: "Example sentence: "

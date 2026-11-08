@@ -1,0 +1,47 @@
+{
+ "target_word": "accomplished",
+ "sentences": [
+  "Example sentence: `` I rather resent '', she said, `` you speaking to those groups in Portland as though just the move accomplished this.",
+  "Example sentence: But this was only accomplished by excessive cruelty and extremes of totalitarian despotism.",
+  "Example sentence: This reduction has been accomplished by the general methods of linear algebra, i.e., by the primary decomposition theorem.",
+  "Example sentence: It will be accomplished in two ways:",
+  "Example sentence: Soon after the method changed, visitors began asking how he managed to irrigate his soil to keep it looking moist, when in reality, it was the soil treatment alone that accomplished this.",
+  "Example sentence: Much of the older experimental work on respiratory infections was accomplished by very artificial procedures.",
+  "Example sentence: I asked Quasimodo recently how he accomplished this, and he replied that he had painted his model `` a beautiful shade of red and then had her breathe on the canvas '', which was his typical tongue-in-cheek way of chiding me for my lack of sensitivity.",
+  "Example sentence: How this was accomplished may be described, since this sometimes is a crucial problem.",
+  "Example sentence: `` Litigants and witnesses were put to the expense and inconvenience of going long distances to transact business; public money spent; justice delayed; nothing accomplished, and the whole distribution of justice in this county seems to be an absolute farce ''.",
+  "Example sentence: The most that was accomplished was adding Mrs. Beige's tray to the dish pile, and by means of repeated threats, on an ascending scale, seeing that the girls dressed themselves, after a fashion.",
+  "Example sentence: Faith Constable had accomplished much in a quarter of a century.",
+  "Example sentence: It recognizes the fact that what helps one county helps its neighbors and that by banding together in an area-wide effort better results can be accomplished than through the go-it-alone approach."
+ ],
+ "labels": [
+  "carry_through.v.01",
+  "carry_through.v.01",
+  "carry_through.v.01",
+  "carry_through.v.01",
+  "carry_through.v.01",
+  "carry_through.v.01",
+  "achieve.v.01",
+  "achieve.v.01",
+  "achieve.v.01",
+  "achieve.v.01",
+  "achieve.v.01",
+  "achieve.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

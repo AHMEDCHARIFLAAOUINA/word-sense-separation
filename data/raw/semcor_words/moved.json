@@ -1,0 +1,47 @@
+{
+ "target_word": "moved",
+ "sentences": [
+  "Example sentence: He moved back to the wheel and stood there blowing, grasping the top of a spoke to still the trembling of his played-out limbs.",
+  "Example sentence: Phil Rossoff, seated next to Deegan, got up and moved to the other end of the bench.",
+  "Example sentence: It was not until he moved across the porch that he became aware of them, and then it was too late.",
+  "Example sentence: They moved toward the skiffs with shocking eagerness, elbowing and shoving.",
+  "Example sentence: They moved slowly, toward the main gate, following the wall.",
+  "Example sentence: Then Kerr, a graduate student from Illinois, moved past him on a straightaway and held off Mills's challenge on the final turn.",
+  "Example sentence: After the judge moved all the dogs individually, she selected several from the group and placed them in the center of the ring.",
+  "Example sentence: But at the same time he moved his helicopter-borne marines to within an hour of the fighting.",
+  "Example sentence: Alusik then moved Cooke across with a line drive to left.",
+  "Example sentence: The situation already was bad because the Legislature moved the governor's race forward a few months, causing the campaigning to get started earlier than usual.",
+  "Example sentence: He moved the flights over against one wall.",
+  "Example sentence: Part of his house had been moved to the other side of the road."
+ ],
+ "labels": [
+  "travel.v.01",
+  "travel.v.01",
+  "travel.v.01",
+  "travel.v.01",
+  "travel.v.01",
+  "travel.v.01",
+  "move.v.02",
+  "move.v.02",
+  "move.v.02",
+  "move.v.02",
+  "move.v.02",
+  "move.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

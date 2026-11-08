@@ -1,0 +1,7 @@
+word: conditions
+dataset: data/raw/semcor_words/conditions.json
+senses:
+  - condition.n.01
+  - condition.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

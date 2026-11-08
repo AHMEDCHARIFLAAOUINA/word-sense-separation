@@ -1,0 +1,7 @@
+word: fell
+dataset: data/raw/semcor_words/fell.json
+senses:
+  - fall.v.01
+  - fall.v.03
+n_per_sense: 9
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "assured",
+ "sentences": [
+  "Example sentence: He assured Mr. Martinelli and the council that he would study the correct method and report back to the council as soon as possible.",
+  "Example sentence: In conferences with Nationalist China's dapper, diminutive Vice President Chen Cheng, Mr. Kennedy assured Chiang Kai-shek's emissary that the U. S. is as firmly opposed as ever to the admission of Red China to the United Nations.",
+  "Example sentence: Peace Corps volunteers are assured a tax benefit under the law creating the agency.",
+  "Example sentence: Whether the pair of Sudanese ivory carvings you lifted really possess the juju to turn your livers to lead, as a dealer in Khartoum assured me, I am not competent to say.",
+  "Example sentence: With a spare battery, a source of light for 2 weeks or more would be assured.",
+  "Example sentence: Officers who participate in the continual practice drills assured me that the President's decision could be made and announced on the gold circuit within minutes after the first flash from BMEWS.",
+  "Example sentence: Mr. Mills had done some figuring on a scrap of paper and given him the various kinds of boards and two-by-fours which, properly handled, would, he had assured him, turn into a workbench.",
+  "Example sentence: Seemingly, with an unrestricted flow of ideas, all will be well, and we are even assured that `` an idea a day will keep the sheriff away ''.",
+  "Example sentence: The latter in turn assured him that `` were I arraigned at the bar, and you my judge, I should expect to stand or fall only by the merits of my cause ''.",
+  "Example sentence: But it seems that pressures against him are coming from somewhere - in the first place from China, but perhaps also from that `` China Lobby '' which, I was assured in Moscow nearly two years ago, exists on the quiet inside the party."
+ ],
+ "labels": [
+  "guarantee.v.02",
+  "guarantee.v.02",
+  "guarantee.v.02",
+  "guarantee.v.02",
+  "guarantee.v.02",
+  "assure.v.02",
+  "assure.v.02",
+  "assure.v.02",
+  "assure.v.02",
+  "assure.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,35 @@
+{
+ "target_word": "identity",
+ "sentences": [
+  "Example sentence: The perplexing question still remains as to why the middle classes turn to the churches as a vehicle of social identity when their clubs and charities should fill the same need.",
+  "Example sentence: National leaders will have to display the highest skills of statesmanship to guide their people through times of uncertainty and confusion which destroy men's sense of identity.",
+  "Example sentence: Nevertheless, most of the teen-agers I interviewed believed in maintaining their Jewish identity and even envisioned joining a synagogue or temple.",
+  "Example sentence: Moreover, if the critic instructs his audience in what to see in a work, he is contributing to this pseudo thinking; if he instructs them in how to evaluate a work, he is helping them to achieve their own identity.",
+  "Example sentence: An elephant or a fox or a swan or a cocopalm or a banana possess in unusually high degree this quality of obvious, common-sense, indubitable identity, as do an eye or tooth or nail.",
+  "Example sentence: Jewish identity was often confused with social and economic strivings.",
+  "Example sentence: The vulnerability of Protestantism to social differences stems from the peculiar role of the new religious style in middle-class life, where the congregation is a vehicle of social and economic group identity and must conform, therefore, to the principle of economic integration.",
+  "Example sentence: Proprietorships can establish a meaningful identity, representing a human personality, and thus establish sincere relationships with customers and community."
+ ],
+ "labels": [
+  "identity.n.01",
+  "identity.n.01",
+  "identity.n.01",
+  "identity.n.01",
+  "identity.n.02",
+  "identity.n.02",
+  "identity.n.02",
+  "identity.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

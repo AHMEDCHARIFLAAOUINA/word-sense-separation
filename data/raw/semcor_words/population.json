@@ -1,0 +1,35 @@
+{
+ "target_word": "population",
+ "sentences": [
+  "Example sentence: However, even if the latent demand for demythologization is not nearly as widespread as we are claiming, at least among the cultured elements of the population there tends to be an almost complete indifference to the church and its traditional message of sin and grace.",
+  "Example sentence: Children whose reading scores were at least one standard deviation below the regression line of each total third grade school population were considered under-achievers for the purposes of sample selection.",
+  "Example sentence: Determine each State's population.",
+  "Example sentence: Only a radical change in the nature of the population in the central city would be likely to destroy this preference - and we must now turn our attention to the question of whether such a change, gloomily foreseen by so many urban diagnosticians, is actually upon us.",
+  "Example sentence: This means that such factors as the health of the parents, particularly the mother, their ability to provide their children with the necessities of life, the degree of population density of a country and the shortage of housing facilities may legitimately be taken into consideration in determining the number of offspring.",
+  "Example sentence: Apparently the population as a whole eventually acquires enough confidence in the explanations of the scientists to modify its procedures and its fears.",
+  "Example sentence: The predomination of free swimming ciliated protozoa is indicative of a high bacterial population.",
+  "Example sentence: It was possible to maintain aerobic conditions in the pond by regular additions of sodium nitrate until the temperature decreased and the algae population changed from blue-green to green algae."
+ ],
+ "labels": [
+  "population.n.01",
+  "population.n.01",
+  "population.n.01",
+  "population.n.01",
+  "population.n.02",
+  "population.n.02",
+  "population.n.02",
+  "population.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

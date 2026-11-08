@@ -1,0 +1,35 @@
+{
+ "target_word": "danger",
+ "sentences": [
+  "Example sentence: They would attempt to bring supplies from St. Louis or Prairie du Chien at `` great expense as well as danger ''.",
+  "Example sentence: The following morning, as John entered the Place Molard on his way to visit a sick refugee, he had a premonition of danger.",
+  "Example sentence: He had never seen clouds like them before, but he had the primitive feel of danger that gripped a man before a hurricane in Carolina.",
+  "Example sentence: A Mexican justice of the peace had issue a writ against Chavez for taking part in the `` murder '' of Manuel Gonzales so he and his father were anxious to be taken out of danger.",
+  "Example sentence: Another great danger is that the emerging middle class will feel itself increasingly alienated from the political leaders who still justify their dominance by reference to the struggle for independence or the early phase of nationalism.",
+  "Example sentence: The addition of endurance training later, when the body is mature enough to benefit from it without danger of injury, provides that final quality that makes the top athlete, soldier or citizen.",
+  "Example sentence: Despite this danger, however, we are informed on every hand that ideas, not machines, are our finest tools; they are priceless even though they cannot be recorded on a ledger page; they are the most valuable of commodities - and the most salable, for their demand far exceeds supply.",
+  "Example sentence: His religious beliefs provide him with plausible explanations for many conditions which cause him great concern, and his religious faith makes possible fortitude, equanimity, and consolation, enabling him to endure colossal misfortune, fear, frustration, uncertainty, suffering, evil, and danger."
+ ],
+ "labels": [
+  "danger.n.01",
+  "danger.n.01",
+  "danger.n.01",
+  "danger.n.01",
+  "risk.n.02",
+  "risk.n.02",
+  "risk.n.02",
+  "risk.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

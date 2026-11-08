@@ -1,0 +1,7 @@
+word: reminded
+dataset: data/raw/semcor_words/reminded.json
+senses:
+  - remind.v.01
+  - prompt.v.03
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,53 @@
+{
+ "target_word": "ran",
+ "sentences": [
+  "Example sentence: Donovan snatched Greg's chute from him with a belligerent motion and almost ran to the plane with it.",
+  "Example sentence: The man shoved him into the water, then ran past the cabana.",
+  "Example sentence: Watson ran up the ladder and stood for a second sucking in the cool air that smelled of mud and river weeds.",
+  "Example sentence: Eddie Lee, Riverside's redheaded playing manager, ran after the ball but it rolled past him.",
+  "Example sentence: Mike ran down the line, slashing picket ropes with the bayonet.",
+  "Example sentence: It ran, this apocalyptic beast, on two thin legs, and its wings - were they feathered arms?",
+  "Example sentence: They ran for three hours.",
+  "Example sentence: The Catholics had the largest cemetery, near the Neversink River where Main Street ran south; Stevie whistled when he passed these alien grounds.",
+  "Example sentence: And the stiffly regal look of them, she saw grimly, lacked the quaver of age which, thwarting the efforts of her amazing will, ran through her spoken words like a thin ragged string.",
+  "Example sentence: The first sentence, with its platitudinous irony, announces an emblematic intent: `` The way to the churchyard ran along beside the highroad, ran beside it all the way to the end; that is to say, to the churchyard ''.",
+  "Example sentence: The narrow fringe of sadness that ran around it only emphasized the pleasure.",
+  "Example sentence: Narrow four story buildings ran the length of the block like books tightly packed on a shelf.",
+  "Example sentence: A crude ladder ran down to a wooden floor.",
+  "Example sentence: The Boulevard de la Madeleine, the Boulevard Malesherbes, and the Rue Royale ran to it with graceful flattery, bearing tidings of the Age of Reason."
+ ],
+ "labels": [
+  "run.v.01",
+  "run.v.01",
+  "run.v.01",
+  "run.v.01",
+  "run.v.01",
+  "run.v.01",
+  "run.v.01",
+  "run.v.03",
+  "run.v.03",
+  "run.v.03",
+  "run.v.03",
+  "run.v.03",
+  "run.v.03",
+  "run.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

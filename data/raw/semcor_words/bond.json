@@ -1,0 +1,35 @@
+{
+ "target_word": "bond",
+ "sentences": [
+  "Example sentence: He finds the structure contains an **f bond with the **f distance of **f.",
+  "Example sentence: **f appeared to be well suited for the study of these matters, since it is a normal paramagnet, with three unpaired electrons on the chromium, its crystal structure is very simple, and the unknown position of the hydrogen in the strong **f bond provides structural interest.",
+  "Example sentence: We first discuss the **f bond in **f.",
+  "Example sentence: It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical reactions in both the liquid and gas phases and to determine values for activation energies of some of the intermediate reactions of atoms and free radicals, as well as information on the heat of dissociation of the carbon halogen bond.",
+  "Example sentence: The Georgia Legislature will wind up its 1961 session Monday and head for home - where some of the highway bond money it approved will follow shortly.",
+  "Example sentence: The final step was a vote for a $230000 bond issue for the construction of a sewage system by the 1959 town meeting, later confirmed by a two-thirds vote at a special town meeting June 21, 1960.",
+  "Example sentence: Vandiver likely will mention the $100 million highway bond issue approved earlier in the session as his first priority item.",
+  "Example sentence: The bond issue will go to the state courts for a friendly test suit to test the validity of the act, and then the sales will begin and contracts let for repair work on some of Georgia's most heavily traveled highways."
+ ],
+ "labels": [
+  "chemical_bond.n.01",
+  "chemical_bond.n.01",
+  "chemical_bond.n.01",
+  "chemical_bond.n.01",
+  "bond.n.02",
+  "bond.n.02",
+  "bond.n.02",
+  "bond.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

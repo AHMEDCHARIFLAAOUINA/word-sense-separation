@@ -1,0 +1,7 @@
+word: confronted
+dataset: data/raw/semcor_words/confronted.json
+senses:
+  - confront.v.01
+  - confront.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

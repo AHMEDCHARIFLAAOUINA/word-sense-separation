@@ -1,0 +1,7 @@
+word: point
+dataset: data/raw/semcor_words/point.json
+senses:
+  - point.n.03
+  - point.n.01
+n_per_sense: 8
+prefix: "Example sentence: "

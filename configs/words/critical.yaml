@@ -1,0 +1,7 @@
+word: critical
+dataset: data/raw/semcor_words/critical.json
+senses:
+  - critical.a.01
+  - critical.a.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: touch
+dataset: data/raw/semcor_words/touch.json
+senses:
+  - touch.v.01
+  - touch.n.01
+n_per_sense: 7
+prefix: "Example sentence: "

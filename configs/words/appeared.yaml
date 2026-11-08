@@ -1,0 +1,7 @@
+word: appeared
+dataset: data/raw/semcor_words/appeared.json
+senses:
+  - appear.v.02
+  - look.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

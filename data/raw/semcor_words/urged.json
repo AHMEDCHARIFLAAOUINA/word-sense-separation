@@ -1,0 +1,41 @@
+{
+ "target_word": "urged",
+ "sentences": [
+  "Example sentence: It urged that the next Legislature `` provide enabling funds and re-set the effective date so that an orderly implementation of the law may be effected ''.",
+  "Example sentence: In his opening address Wednesday the Rev. Mr. Zimmerman, urged the delegates to consider a 10 - year expansion program, with `` Breakthrough '' the theme for the first two years.",
+  "Example sentence: In today's `` Voice '', the CTA is urged to reduce fares for senior citizens.",
+  "Example sentence: He earnestly urged a cease-fire.",
+  "Example sentence: And to an industry that prides itself on authenticity, he urged greater realism.",
+  "Example sentence: Recounting personal observations of clearance work, the Councilman cited instances of inefficient use of equipment or supplies by poorly trained workers and urged that plow blades be set so they do not leave behind a thin layer of snow which eventually freezes.",
+  "Example sentence: Mr. Speaker, in my latest newsletter to my constituents I urged the imposition of a naval blockade of Cuba as the only effective method of preventing continued Soviet armaments from coming into the Western Hemisphere in violation of the Monroe Doctrine.",
+  "Example sentence: President Kennedy has urged a peace race on disarmament that might be called `` Operation Survival '' which has many facets.",
+  "Example sentence: In all other areas, private initiative of the `` proprietorship '' type should be urged to produce the desired goods and services.",
+  "Example sentence: The Government, deeming these suggestions inadequate, had urged that any judgment include divestiture of du Pont's shares of General Motors."
+ ],
+ "labels": [
+  "urge.v.01",
+  "urge.v.01",
+  "urge.v.01",
+  "urge.v.01",
+  "urge.v.01",
+  "recommend.v.01",
+  "recommend.v.01",
+  "recommend.v.01",
+  "recommend.v.01",
+  "recommend.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

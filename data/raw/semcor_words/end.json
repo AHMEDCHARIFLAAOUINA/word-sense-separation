@@ -1,0 +1,35 @@
+{
+ "target_word": "end",
+ "sentences": [
+  "Example sentence: At the pool's far end was the little cabana Joyce had mentioned, and on the water's surface floated scattered lavender patches of limp looking lather.",
+  "Example sentence: The physical film is cut with a knife at the end of one complete sequence, and the cut edge is joined physically, by cement, to the cut edge of the beginning of the next sequence.",
+  "Example sentence: He spotted Docherty coming out of a room at the far end of the corridor and called to him.",
+  "Example sentence: He thought he saw - it awakened and, for a moment, interested him - that Elizabeth held a leash in her hand and that a round fuzzy puppy was on the end of the leash.",
+  "Example sentence: A philosopher may point out that the troubles of the Congo began with the old Adam and consequently will never end.",
+  "Example sentence: The other four states end on varying dates: Alabama (Sept. 30), New York (March 31), Pennsylvania (May 31), and Texas (August 31).",
+  "Example sentence: The reasons for this enchantment are numerous, but most of them end in `` ova '', `` eva '', or `` aya ''.",
+  "Example sentence: The remaining twenty-three towns have fiscal years which end prior to June 30."
+ ],
+ "labels": [
+  "end.n.01",
+  "end.n.01",
+  "end.n.01",
+  "end.n.01",
+  "end.v.01",
+  "end.v.01",
+  "end.v.01",
+  "end.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,47 @@
+{
+ "target_word": "instructed",
+ "sentences": [
+  "Example sentence: It is unfair and unchristian to ask a person to take the sacred vows of Church membership before he has been carefully instructed concerning their implications.",
+  "Example sentence: On these excursions, Papa instructed him on man's chief end, which was his duty to God and his own salvation.",
+  "Example sentence: Press clay into mold as instructed in General Directions.",
+  "Example sentence: Those who join the Church need to be instructed in the faith and the meaning of Christian discipleship before they take the sacred vows.",
+  "Example sentence: At the home of a gourmet the new maid was instructed in the fine points of serving.",
+  "Example sentence: The Minutemen were instructed in the use of terrain for concealment.",
+  "Example sentence: The board said it thought it had gone as far as instructed so far and asked for more information to be brought at the next meeting.",
+  "Example sentence: Judges under the jurisdiction of the Chicago board of election commissioners are instructed to do this.",
+  "Example sentence: I did exactly as instructed.",
+  "Example sentence: The interviewers were instructed not to suggest answers and, as much as possible, to record the parents ' actual words as they described the child's behavior in home situations.",
+  "Example sentence: `` I might point out that your inability to report to my office this morning when you were instructed to do so has not, ah, limited my knowledge of your activities as you may have hoped ''.",
+  "Example sentence: He instructed Shirl Winter to compose a note of thanks to be posted on the call board."
+ ],
+ "labels": [
+  "teach.v.01",
+  "teach.v.01",
+  "teach.v.01",
+  "teach.v.01",
+  "teach.v.01",
+  "teach.v.01",
+  "instruct.v.02",
+  "instruct.v.02",
+  "instruct.v.02",
+  "instruct.v.02",
+  "instruct.v.02",
+  "instruct.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

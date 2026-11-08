@@ -1,0 +1,47 @@
+{
+ "target_word": "tried",
+ "sentences": [
+  "Example sentence: Willie's partner was Long Jim Barnes, who tried to keep count.",
+  "Example sentence: Warren tried to shake off the jumble of his fears by looking at the sky.",
+  "Example sentence: I tried my hardest, with little help, may I say, from my husband and leading man, but somehow the outside pressures were too severe.",
+  "Example sentence: He wanted to show the town what happened to anyone who tried to start trouble ''.",
+  "Example sentence: Mickey tried to flatten against the banister, gripped it with one hand, but Roberts ' full weight struck him at that moment in the groin.",
+  "Example sentence: He considered them with brooding eyes, brows bunched as his brain grappled with the problem and tried to find some solution.",
+  "Example sentence: Alcohol ingestion succeeded in changing immobility to mobility quite strikingly in one pilot subject (the only one with whom this technique was tried).",
+  "Example sentence: As a matter of fact, this latter approach has already been tried, and with pleasing results.",
+  "Example sentence: She dreamed up the cooky recipe, tried it, liked it and entered it in the contest.",
+  "Example sentence: I heard of some that tried it back in the States, and he'd knock them clear across the room.",
+  "Example sentence: It's extremely accurate for an auto, and the test rifle I tried was completely trouble-free in functioning.",
+  "Example sentence: He tried defiance and openly flaunted his devotion to his half sister, but he soon saw, as did she, that this course if persisted in would involve them in a common ruin."
+ ],
+ "labels": [
+  "try.v.01",
+  "try.v.01",
+  "try.v.01",
+  "try.v.01",
+  "try.v.01",
+  "try.v.01",
+  "test.v.01",
+  "test.v.01",
+  "test.v.01",
+  "test.v.01",
+  "test.v.01",
+  "test.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

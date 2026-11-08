@@ -1,0 +1,53 @@
+{
+ "target_word": "earlier",
+ "sentences": [
+  "Example sentence: Cook had discovered a beef in his possession a few days earlier and, when he could not show the hide, arrested him.",
+  "Example sentence: This damage had been done in the battle of Vientiane, fought less than three months earlier when four successive governments had ruled here in three days (December 9 - 11, 1960).",
+  "Example sentence: Heydrich, in opening the Conference, followed the reasoning and even the phraseology of the order issued earlier by Goering which authorized the Final Solution as `` a complement to '' previous `` solutions '' for eliminating the Jews from German living space through violence, economic strangulation, forced emigration, and evacuation.",
+  "Example sentence: Docherty was damned if he would make a fool of himself again the way he had earlier over the laundry truck.",
+  "Example sentence: The crowd at the twenty-first annual K. of C. Games, final indoor meet of the season, got a thrill a few minutes earlier when a slender, bespectacled woman broke the one week old world record in the half-mile run.",
+  "Example sentence: At that moment Kipling was overwhelmed with awed amazement, suddenly recalling that these identical details of scene, action and word had occurred to him in a dream six weeks earlier.",
+  "Example sentence: But to the cattlemen who had been facing bankruptcy from rustling losses and to the cowboys who had been faced with lay-offs a few years earlier, he was becoming a vastly different type of legendary figure.",
+  "Example sentence: 1.0 gram premix per head per day for promoting growth, feed conversion, and getting lambs on full feed earlier.",
+  "Example sentence: 0.2 gram Dynafac per head daily (1 gram of premix per head daily) for promoting growth, feed conversion, bloom, and full feed earlier.",
+  "Example sentence: This may be because the Athabascan divergence began earlier; or again because the Athabascan languages spread over a very much larger territory (including three wholly separated areas); or both.",
+  "Example sentence: The route which he had traveled and which he believed might develop into a trade route was followed by his settlers earlier than he might have expected.",
+  "Example sentence: Second, vocational courses should be provided in grades 11 and 12 and not require more than half the student's time in those years; however, for slow learners and prospective dropouts these courses ought to begin earlier.",
+  "Example sentence: This aircraft, which was planned for initial operational use about 1965, would be complementary to but likewise competitive with the four strategic ballistic missile systems, all of which are scheduled to become available earlier.",
+  "Example sentence: The consciousness it mirrors may have come earlier to Europe than to America, but it is the consciousness that most `` mature '' societies arrive at when their successes in technological and economic systematization propel them into a time of examining the not strictly practical ends of culture."
+ ],
+ "labels": [
+  "earlier.r.01",
+  "earlier.r.01",
+  "earlier.r.01",
+  "earlier.r.01",
+  "earlier.r.01",
+  "earlier.r.01",
+  "earlier.r.01",
+  "sooner.r.01",
+  "sooner.r.01",
+  "sooner.r.01",
+  "sooner.r.01",
+  "sooner.r.01",
+  "sooner.r.01",
+  "sooner.r.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

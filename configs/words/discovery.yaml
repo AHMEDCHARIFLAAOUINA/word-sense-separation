@@ -1,0 +1,7 @@
+word: discovery
+dataset: data/raw/semcor_words/discovery.json
+senses:
+  - discovery.n.01
+  - discovery.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

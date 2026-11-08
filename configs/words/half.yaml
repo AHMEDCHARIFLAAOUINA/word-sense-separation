@@ -1,0 +1,7 @@
+word: half
+dataset: data/raw/semcor_words/half.json
+senses:
+  - one-half.n.01
+  - half.r.01
+n_per_sense: 13
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: discussion
+dataset: data/raw/semcor_words/discussion.json
+senses:
+  - discussion.n.02
+  - discussion.n.01
+n_per_sense: 15
+prefix: "Example sentence: "

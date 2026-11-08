@@ -1,0 +1,53 @@
+{
+ "target_word": "value",
+ "sentences": [
+  "Example sentence: As in experience one is seized by given entities and their interrelations and is forced to respond in value feelings to them, so one is similarly seized in the mimetic presentation of images.",
+  "Example sentence: The real question that follows is - how are those four years used and what is their value as training?",
+  "Example sentence: At the same time that religion binds the individual helpfully to the supernatural and gives him cosmic peace and a sense of supreme fulfillment, it also has great therapeutic value for him.",
+  "Example sentence: Some of those who question the value of BW have assumed that the only potential would be in the establishment of epidemics.",
+  "Example sentence: Furthermore, the problems and solutions devised in the electoral experiences of the rapidly changing countries are often of comparative value and essential to evaluating election results.",
+  "Example sentence: Seeing so many illustrations and reading so many testimonials to the value of Quick-Wate and Super-Protein, those two wonder-working Weider food supplements, he decided to try them and see what they could do for him.",
+  "Example sentence: One of the most salient features of literary value has been deemed to be its influence upon and organization of emotion.",
+  "Example sentence: Direct proportionality of the rate to the incident intensity has also been assumed in obtaining the value in the last column for the fourth sample of series /2, where the light intensity was reduced by use of a screen.",
+  "Example sentence: First, T may not have a single characteristic value; this is really a deficiency in the scalar field, namely, that it is not algebraically closed.",
+  "Example sentence: Therefore each binomial trial can be thought of as producing a value of a random variable associated with that trial and taking the values 0 and 1, with probabilities q and p respectively.",
+  "Example sentence: Its value was * * f from the above data.",
+  "Example sentence: The temperature dependent value of |e was taken from Ref. 7.",
+  "Example sentence: The value derived was 16 microseconds.",
+  "Example sentence: A single value of the thermal relaxation time **f at room temperature was measured by the progressive saturation method."
+ ],
+ "labels": [
+  "value.n.02",
+  "value.n.02",
+  "value.n.02",
+  "value.n.02",
+  "value.n.02",
+  "value.n.02",
+  "value.n.02",
+  "value.n.01",
+  "value.n.01",
+  "value.n.01",
+  "value.n.01",
+  "value.n.01",
+  "value.n.01",
+  "value.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

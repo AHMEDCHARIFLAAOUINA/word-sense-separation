@@ -1,0 +1,7 @@
+word: continued
+dataset: data/raw/semcor_words/continued.json
+senses:
+  - continue.v.02
+  - continue.v.01
+n_per_sense: 9
+prefix: "Example sentence: "

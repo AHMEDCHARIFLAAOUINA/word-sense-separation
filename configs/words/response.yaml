@@ -1,0 +1,7 @@
+word: response
+dataset: data/raw/semcor_words/response.json
+senses:
+  - response.n.01
+  - reaction.n.03
+n_per_sense: 8
+prefix: "Example sentence: "

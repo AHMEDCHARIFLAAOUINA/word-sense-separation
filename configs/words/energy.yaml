@@ -1,0 +1,7 @@
+word: energy
+dataset: data/raw/semcor_words/energy.json
+senses:
+  - energy.n.01
+  - energy.n.03
+n_per_sense: 4
+prefix: "Example sentence: "

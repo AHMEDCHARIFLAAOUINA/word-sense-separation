@@ -1,0 +1,47 @@
+{
+ "target_word": "appointed",
+ "sentences": [
+  "Example sentence: Her husband recently was appointed vice president of the university, bringing them back here from the east.",
+  "Example sentence: Vincent G. Ierulli has been appointed temporary assistant district attorney, it was announced Monday by Charles E. Raymond, District Attorney.",
+  "Example sentence: Governor Tawes today appointed Lloyd L. Simpkins, his administrative assistant, as Maryland's Secretary of State.",
+  "Example sentence: I am also pleased to note that Mr. John B. Oakes, a member of the Times staff since 1946, has been appointed as editorial page editor.",
+  "Example sentence: Sen. Case R-N. J., has received a nice `` thank you '' note from a youngster he appointed to the Air Force Academy in Colorado.",
+  "Example sentence: Regional representatives appointed to serve from each section of the country include Frank E. Barnes of Boston.",
+  "Example sentence: He asked to be appointed a preacher.",
+  "Example sentence: In a course for supermarket operators, a district manager who had been recently appointed to his position after being outstandingly successful as a store manager, found that in supervising other managers he was having a difficult time.",
+  "Example sentence: Apart from some areas of recurring trouble, like Bani Mellal, where inexperienced officials had been appointed, there is little evidence that local officials intervened in the electoral process.",
+  "Example sentence: As soon as that one man is appointed by himself or the others or by a signal from Spencer, we are going to be rushed.",
+  "Example sentence: In 1800, Manthey went abroad and Oersted was appointed manager of the Lion Pharmacy.",
+  "Example sentence: In October 1944, he was appointed state warden and chief of the Forest Fire Section."
+ ],
+ "labels": [
+  "appoint.v.01",
+  "appoint.v.01",
+  "appoint.v.01",
+  "appoint.v.01",
+  "appoint.v.01",
+  "appoint.v.01",
+  "appoint.v.02",
+  "appoint.v.02",
+  "appoint.v.02",
+  "appoint.v.02",
+  "appoint.v.02",
+  "appoint.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

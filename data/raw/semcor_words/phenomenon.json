@@ -1,0 +1,35 @@
+{
+ "target_word": "phenomenon",
+ "sentences": [
+  "Example sentence: The concept of unity, in which positive and negative are attributes of the same force, in which good and evil are relative, ever-changing, and always joined to the same phenomenon - such a concept is still reserved to the physical sciences and to the few who have grasped the history of ideas.",
+  "Example sentence: The paper has a certain value as a comparatively easy introduction to this approach, particularly since it treats a fairly simple and straightforward phenomenon where it is possible to compare it with a more traditional (though not structural) statement.",
+  "Example sentence: This phenomenon raises the question whether the guidance of the emotions for therapeutic ends may not have an even wider application in the area of the neuroses.",
+  "Example sentence: Now, with virtually every writer, not only was the European origin of public law acknowledged as a historical phenomenon, but the rules thus established by the advanced civilizations of Europe were to be imposed on others.",
+  "Example sentence: In most discussions of this phenomenon, the figures are substantially inflated.",
+  "Example sentence: While it must be said that these same Protestants have built some new churches during this period, and that religious population shifts have emptied churches, a principal reason for this phenomenon of redundancy is that fewer Protestants are going to church.",
+  "Example sentence: One, a reservation on the point I have just made, is the phenomenon of pseudo thinking, pseudo feeling, and pseudo willing, which Fromm discussed in The Escape from Freedom.",
+  "Example sentence: The `` leapfrog '' was a phenomenon of the railroad and the steam turbine, and the time when the belts of residence surrounding the old factory area were not yet blighted."
+ ],
+ "labels": [
+  "phenomenon.n.01",
+  "phenomenon.n.01",
+  "phenomenon.n.01",
+  "phenomenon.n.01",
+  "phenomenon.n.02",
+  "phenomenon.n.02",
+  "phenomenon.n.02",
+  "phenomenon.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

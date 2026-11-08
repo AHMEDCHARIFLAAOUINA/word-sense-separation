@@ -1,0 +1,7 @@
+word: looked
+dataset: data/raw/semcor_words/looked.json
+senses:
+  - look.v.02
+  - look.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: agreed
+dataset: data/raw/semcor_words/agreed.json
+senses:
+  - agree.v.02
+  - agree.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "slope",
+ "sentences": [
+  "Example sentence: On the forward slope in front of his own post stretched two rows of barbed wire.",
+  "Example sentence: Soil type, drainage, or degree of slope can make the difference between good crops and poor ones.",
+  "Example sentence: They crept down the muddy slope toward the waiting boats.",
+  "Example sentence: At the slope's base coils of concertina stretched out of eye range like a wild tangle of children's hoops, stopped simultaneously, weirdly poised as if awaiting the magic of the child's touch to start them all rolling again.",
+  "Example sentence: It was that oddly shaped space at the very top of the house, where ceiling heights had to accommodate themselves to the varying angles of roof slope.",
+  "Example sentence: Hence, the electron paramagnetic effects (slope) can be separated from the nuclear effects (intercept).",
+  "Example sentence: The roots of this equation are just the ordinates of the intersections of the graph of b with a straight line of unit slope through **f in the b-plane (the plane of the graph of b).",
+  "Example sentence: In the C-plane we construct a set of rectangular Cartesian coordinates u, v with the origin at Q and such that both C and **f have finite slope at Q."
+ ],
+ "labels": [
+  "slope.n.01",
+  "slope.n.01",
+  "slope.n.01",
+  "slope.n.01",
+  "gradient.n.02",
+  "gradient.n.02",
+  "gradient.n.02",
+  "gradient.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

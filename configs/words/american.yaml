@@ -1,0 +1,7 @@
+word: american
+dataset: data/raw/semcor_words/american.json
+senses:
+  - american.a.01
+  - american.n.01
+n_per_sense: 7
+prefix: "Example sentence: "

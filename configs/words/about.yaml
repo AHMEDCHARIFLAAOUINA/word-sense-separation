@@ -1,0 +1,7 @@
+word: about
+dataset: data/raw/semcor_words/about.json
+senses:
+  - approximately.r.01
+  - about.r.02
+n_per_sense: 5
+prefix: "Example sentence: "

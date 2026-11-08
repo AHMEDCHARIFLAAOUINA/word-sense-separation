@@ -1,0 +1,7 @@
+word: inside
+dataset: data/raw/semcor_words/inside.json
+senses:
+  - inside.r.01
+  - inside.r.02
+n_per_sense: 9
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "cursed",
+ "sentences": [
+  "Example sentence: Jess cursed again, and entered the barn.",
+  "Example sentence: Vince cursed steadily.",
+  "Example sentence: Bake cursed.",
+  "Example sentence: He was promised that no harm would befall him if he would come out, but he cursed and replied that he would shoot any man coming near the door.",
+  "Example sentence: They cursed Him.",
+  "Example sentence: When the inning was over he cursed the Anniston catcher all the way into the dugout.",
+  "Example sentence: When he was going to town, nothing was good enough - he had cursed at Winston once for leaving a fleck of polish on his shoelace.",
+  "Example sentence: He had cursed at them and threatened them."
+ ],
+ "labels": [
+  "curse.v.01",
+  "curse.v.01",
+  "curse.v.01",
+  "curse.v.01",
+  "curse.v.02",
+  "curse.v.02",
+  "curse.v.02",
+  "curse.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

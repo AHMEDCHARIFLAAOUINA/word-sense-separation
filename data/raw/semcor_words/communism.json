@@ -1,0 +1,35 @@
+{
+ "target_word": "communism",
+ "sentences": [
+  "Example sentence: In all the respects just indicated Utopian communism differs from previous conceptions in which community of possessions and living plays a role.",
+  "Example sentence: But although the idea of communism is very old even in More's day and did not spring full-clad from his imagination in 1515, it is not communism as such that we are concerned with.",
+  "Example sentence: The success of Communism's war against the West does not depend on such spectacular and definitive conquests.",
+  "Example sentence: To that question the answer is simple; it can be made in two words, Utopian communism.",
+  "Example sentence: The Lenin tomb is obviously adequate for double occupancy, Moscow is a crowded city, and the creed of communism deplores waste.",
+  "Example sentence: This is demonstrated especially when there is awareness of radically different value orientation elsewhere; for example Americans rally to Christian values vis-a-vis those of atheistic communism.",
+  "Example sentence: In each of the last, the trial marked the beginning of a new course: in Moscow the liquidation of the Old Bolsheviks and the tightening of Stalin's dictatorship; in the United States the initiation of militant anti Communism, with the repentant ex Communist in the vanguard.",
+  "Example sentence: So it is too with many other spirits which we all know: the spirit of Nazism or Communism, school spirit, the spirit of a street corner gang or a football team, the spirit of Rotary or the Ku Klux Klan."
+ ],
+ "labels": [
+  "communism.n.01",
+  "communism.n.01",
+  "communism.n.01",
+  "communism.n.01",
+  "communism.n.02",
+  "communism.n.02",
+  "communism.n.02",
+  "communism.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: combined
+dataset: data/raw/semcor_words/combined.json
+senses:
+  - compound.v.02
+  - unite.v.03
+n_per_sense: 4
+prefix: "Example sentence: "

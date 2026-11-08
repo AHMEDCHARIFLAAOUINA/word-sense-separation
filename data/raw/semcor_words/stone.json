@@ -1,0 +1,35 @@
+{
+ "target_word": "stone",
+ "sentences": [
+  "Example sentence: The curb was a line of stone laid edgewise in the dirt and tilted this way and that by frost in the ground or the roots of trees.",
+  "Example sentence: The slow tapping of a cane on the stone steps coming up to the tower interrupted his reverie.",
+  "Example sentence: John leaned upon the stone balustrade.",
+  "Example sentence: How did one attach anything to a stone wall, for that matter?",
+  "Example sentence: Before he could duck, another stone struck him.",
+  "Example sentence: They followed him into the rain and across to the squat stone building fifty feet to the rear.",
+  "Example sentence: Squatting on our haunches beside the flat stone we broke them on, we were safe behind the high closed gates at the end of the drive: safe from interruption and the observation and possible amusement of the passers-by.",
+  "Example sentence: Somebody heaved a stone."
+ ],
+ "labels": [
+  "stone.n.02",
+  "stone.n.02",
+  "stone.n.02",
+  "stone.n.02",
+  "rock.n.01",
+  "rock.n.01",
+  "rock.n.01",
+  "rock.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

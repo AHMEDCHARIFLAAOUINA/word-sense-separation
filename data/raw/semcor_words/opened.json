@@ -1,0 +1,47 @@
+{
+ "target_word": "opened",
+ "sentences": [
+  "Example sentence: She was told by the manservant who opened the door that his lordship was engaged on work from which he had left strict orders he was not to be disturbed.",
+  "Example sentence: Shayne opened the door on his side and stepped out.",
+  "Example sentence: The box is internally wired so the door can never be opened without setting off a screeching klaxon (`` It's real obnoxious '').",
+  "Example sentence: When he opened the door, there stood Eugene, on his way out of the apartment.",
+  "Example sentence: In their search for what turned out to be the right breakfast china but the wrong table silver, they opened every cupboard door in the kitchen and pantry.",
+  "Example sentence: The old man opened the door and stepped out into the sunlight.",
+  "Example sentence: On November 26 of that year the bridge was completed and opened.",
+  "Example sentence: Hardly a window has been broken since Dunbar first was opened (and vandalism in schools is a major problem in many slum areas).",
+  "Example sentence: This was just Richard's way of saying that last year the Birds opened spring training with a lot of jobs wide open.",
+  "Example sentence: `` In 35 years we have opened 7000 churches '', the Rev. Mr. Brandt said, adding that the denomination had a national goal of one church for every 10000 persons.",
+  "Example sentence: Then, when the case went to the jury, the judge excused one of the jurors, saying the juror had told him he had been accosted by masked men at his motel the night before the trial opened.",
+  "Example sentence: The angriest young man in Newport last night was at the Playhouse, where `` Epitaph for George Dillon '' opened as the jazz festival closed."
+ ],
+ "labels": [
+  "open.v.01",
+  "open.v.01",
+  "open.v.01",
+  "open.v.01",
+  "open.v.01",
+  "open.v.01",
+  "open.v.02",
+  "open.v.02",
+  "open.v.02",
+  "open.v.02",
+  "open.v.02",
+  "open.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

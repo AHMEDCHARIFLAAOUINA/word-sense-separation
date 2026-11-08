@@ -1,0 +1,7 @@
+word: view
+dataset: data/raw/semcor_words/view.json
+senses:
+  - position.n.03
+  - see.v.05
+n_per_sense: 7
+prefix: "Example sentence: "

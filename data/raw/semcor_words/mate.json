@@ -1,0 +1,35 @@
+{
+ "target_word": "mate",
+ "sentences": [
+  "Example sentence: He concluded that in the southern species, which are rapidly growing types, females mate at the age of two and a half and bear the first young when they are three.",
+  "Example sentence: The first worker bees do not mate or lay eggs; males and mating females do not emerge until later in the season.",
+  "Example sentence: The young queens and drones leave the nest and mate, and after a short period of freedom, the fertilized young queens will begin to dig in for the winter.",
+  "Example sentence: There have been cooing doves, chattering magpies, thieving jackdaws, a proud peacock, a silly goose, and a harpy eagle - whom I was silly enough to mate with and who is now busy tearing at my vitals ''.",
+  "Example sentence: The mate, Robert Juet, who had kept the journal on the half Moon, was experienced - but he was a bitter old man, ready to complain or desert at any opportunity.",
+  "Example sentence: The new mate was Robert Bylot, talented but inexperienced.",
+  "Example sentence: Hudson's reply was to accuse the mate of disloyalty.",
+  "Example sentence: The captain was gone, and the mate was gone."
+ ],
+ "labels": [
+  "copulate.v.01",
+  "copulate.v.01",
+  "copulate.v.01",
+  "copulate.v.01",
+  "mate.n.01",
+  "mate.n.01",
+  "mate.n.01",
+  "mate.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

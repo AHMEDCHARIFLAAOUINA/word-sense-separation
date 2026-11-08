@@ -1,0 +1,53 @@
+{
+ "target_word": "potential",
+ "sentences": [
+  "Example sentence: Considering that the current school age potential is 23 million youths, the project and its message on hunting and shooting education have many more to reach.",
+  "Example sentence: When we consider the electronic industry potential for human betterment, the prospect is staggering.",
+  "Example sentence: The remote, cloudy, possible has values of its own - values of scope, stimulus, potential, and imagination.",
+  "Example sentence: Some of those who question the value of BW have assumed that the only potential would be in the establishment of epidemics.",
+  "Example sentence: There still remained the need for one great film artist to explore the full potential of the new form and to make it an art.",
+  "Example sentence: It is the exploitation of the inherent potential of infectious disease agents by scientific research and development, resulting in the production of BW weapons systems.",
+  "Example sentence: Guidance and advice are available on new product research and development; new product potential; processing methods; product and market developments; new industrial uses for raw, semi-processed and waste materials; and industrial uses for agricultural products.",
+  "Example sentence: The entry limiting price will also be raised for potential domestic competition, but unless general inflation permits profit margins to increase proportionately throughout the economy, we might expect the public limit price to approach the entry limit price.",
+  "Example sentence: Just as Holmes the eccentric stands behind Holmes the detective, so Holmes the potential criminal lurks behind both.",
+  "Example sentence: Indeed, in some periods of our history and in some neighborhoods the job opportunities have been so good that undoubtedly a great many boys who were potential members of the professions quit school at an early age and went to work.",
+  "Example sentence: This was no man's land, disputed by the Haijac Union and the Israeli Republic, a potential source of war for the last two hundred years.",
+  "Example sentence: Not in Eichmann's anti-Semitism but in the anti-Semitism of the sober German man of affairs lay the potential warning of the Trial.",
+  "Example sentence: In this respect experience is broader and full of a richer variety of potential meanings than the mind of man or any of his arts or culture are capable of making clear and distinct.",
+  "Example sentence: Within certain wide limits anatomy dictates function and, if one is permitted to speculate, potential pathology should be included in this statement as well."
+ ],
+ "labels": [
+  "potential.n.01",
+  "potential.n.01",
+  "potential.n.01",
+  "potential.n.01",
+  "potential.n.01",
+  "potential.n.01",
+  "potential.n.01",
+  "potential.a.01",
+  "potential.a.01",
+  "potential.a.01",
+  "potential.a.01",
+  "potential.a.01",
+  "potential.a.01",
+  "potential.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,53 @@
+{
+ "target_word": "allow",
+ "sentences": [
+  "Example sentence: There ought to be a point beyond which we will not allow ourselves to go regardless of what Russia does.",
+  "Example sentence: Libertines recalled the heroism of the past and demanded: `` Are we going to allow the Protestant Pope, Master Calvin, to curtail our liberty?",
+  "Example sentence: The results are too varied to allow generalization.",
+  "Example sentence: Principal Clayton W. Pohly said he would allow a further collection between classes today, and revealed that Y-Teen Club past surpluses had been used to provide a private hospital nurse Monday for Mrs. Kowalski.",
+  "Example sentence: Mr. Clark still has to use rotenone with potatoes grown on the least fertile fields, but he has watched the insect damage decrease steadily and hopes that continued use of compost and leaf mulch will allow him to do without it in the future.",
+  "Example sentence: But, even if Mr. Sansom labors too hard to extract more refinements of meaning and feeling from his travel experiences than the limits of language allow, he still can charm and astound.",
+  "Example sentence: That wasn't too far from Fifth Street, and should allow him to make Scotty's Bar by midnight.",
+  "Example sentence: Not possible, he thought; the prime minister knew who his enemy was here; he wasn't going to allow himself to be led meekly to the slaughter.",
+  "Example sentence: He suggested that a regrouping of forces might allow the average voter a better pull at the right lever for him on election day.",
+  "Example sentence: Simms admired the raucous tales emanating from the backwoods, but he had himself social affiliations which would not allow him to approve them fully.",
+  "Example sentence: The use of 100 instead of 140 substance paper plus the adoption of side stapling beginning with the May 1960 issue reduced costs sufficiently to allow completion of the fiscal year with nearly $4000 in unexpended funds.",
+  "Example sentence: Pre-attack reconnaissance is vital but only post-attack reconnaissance will allow us to terminate the war favorably.",
+  "Example sentence: It is curious that even centuries of repetition of the yearly cycle did not induce a sufficient degree of confidence to allow people to abandon the ceremonies of the winter solstice.",
+  "Example sentence: 1) The regular sections do not allow freshmen; this one did."
+ ],
+ "labels": [
+  "permit.v.01",
+  "permit.v.01",
+  "permit.v.01",
+  "permit.v.01",
+  "permit.v.01",
+  "permit.v.01",
+  "permit.v.01",
+  "let.v.01",
+  "let.v.01",
+  "let.v.01",
+  "let.v.01",
+  "let.v.01",
+  "let.v.01",
+  "let.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

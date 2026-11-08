@@ -1,0 +1,41 @@
+{
+ "target_word": "otherwise",
+ "sentences": [
+  "Example sentence: For it is clear that the total number of ordinary intersections of C and **f must be even (otherwise, starting in the interior of C, **f could not finally return to the interior), and the center of rotation at t is the argument of the function, not a value.",
+  "Example sentence: Upon the expiration of a period deemed adequate for demonstration purposes for each plant, but not to exceed such twelve year period, the Secretary shall proceed as promptly as practicable to dispose of any plants so constructed by sale to the highest bidder, or as may otherwise be directed by Act of Congress.",
+  "Example sentence: Observations of the radio emission of a planet which has an extensive atmosphere will probe the atmosphere to a greater extent than those using shorter wave lengths and should in some cases give otherwise unobtainable information about the characteristics of the solid surface.",
+  "Example sentence: We note that two such curves C and **f, cannot coincide at more than a finite number of points; otherwise, being analytic, they would coincide at all points, which is impossible since they do not coincide near **f.",
+  "Example sentence: The effort produced a valuable record of stage techniques in the early years of the century and some interesting records of great theater figures who would otherwise be only names.",
+  "Example sentence: Accordingly, if it is not repealed by the Congress at its present session, I shall have no alternative thereafter but to direct the Secretary of Defense to disregard the section unless a court of competent jurisdiction determines otherwise.",
+  "Example sentence: Now the thing for us to do is to find ourselves a couple of those wonderful flowering currants such as the red Ribes sanguineum of our Pacific Northwest, or otherwise a good sloe tree, or perhaps some nice pussy willow in bloom, preferably one with male or staminate catkins.",
+  "Example sentence: Acquire the services of chemists, physicists, engineers, and other personnel by contract or otherwise;",
+  "Example sentence: To believe otherwise would be unrealistic.",
+  "Example sentence: SBA makes loans to individual small business firms, providing them with financing when it is not otherwise available through private lending sources on reasonable terms."
+ ],
+ "labels": [
+  "otherwise.r.01",
+  "otherwise.r.01",
+  "otherwise.r.01",
+  "otherwise.r.01",
+  "otherwise.r.01",
+  "differently.r.01",
+  "differently.r.01",
+  "differently.r.01",
+  "differently.r.01",
+  "differently.r.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

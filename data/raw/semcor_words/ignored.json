@@ -1,0 +1,47 @@
+{
+ "target_word": "ignored",
+ "sentences": [
+  "Example sentence: The P.D.I. and later the Popular Movement protected the Istiqlal's `` privileged position '' until the fall of Balafrej, and then the Istiqlal used the same argument, which it had previously ignored, against the pro U.N.F.P. tendencies of the Ibrahim government.",
+  "Example sentence: L'Unita and Hoy published identical denunciations of Short's elevation, l'Osservatore Romano and the Christian Science Monitor ignored it, Times of India snickered at it, and the Manchester Guardian simply reported it - the Fosterites in England were few but extremely militant.",
+  "Example sentence: I grinned, but ignored the question.",
+  "Example sentence: After the first two murders, the warning notes were rarely ignored.",
+  "Example sentence: Abel ignored the half expressed bid for confirmation.",
+  "Example sentence: For less than a dozen miles from the unplowed land of the dead man lived another settler who had ignored the warnings that his existence might be foreclosed on - a blatant and defiant rustler named Fred Powell.",
+  "Example sentence: They ignored the ladder down to the planet surface and, with only a glance at the seismological gauge to judge surface resistance, dropped to the ground.",
+  "Example sentence: Although a skillful politician and a courageous and honest man, Mr. Nixon, Mr. White believes, ignored his own top-level planners, wasted time and effort in the wrong regions, missed opportunities through indecision and damaged his chances on television.",
+  "Example sentence: This second conclusion, independently arrived at by independent study of material from two pairs of language families as different and remote from one another as these four are, cannot be ignored.",
+  "Example sentence: In many of the syllables, intonation can be safely ignored, and much of the tonal analysis can be done without any study of intonation.",
+  "Example sentence: The former President blithely ignored recent history in speaking of `` dollarette '' dollars under Kennedy Administration fiscal policies.",
+  "Example sentence: The question, however, cannot be ignored for long."
+ ],
+ "labels": [
+  "ignore.v.01",
+  "ignore.v.01",
+  "ignore.v.01",
+  "ignore.v.01",
+  "ignore.v.01",
+  "ignore.v.01",
+  "dismiss.v.01",
+  "dismiss.v.01",
+  "dismiss.v.01",
+  "dismiss.v.01",
+  "dismiss.v.01",
+  "dismiss.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

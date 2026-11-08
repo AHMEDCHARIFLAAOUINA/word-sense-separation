@@ -1,0 +1,47 @@
+{
+ "target_word": "satisfy",
+ "sentences": [
+  "Example sentence: Let n be a positive integer and let V be the space of all n times continuously differentiable functions f on the real line which satisfy the differential equation * * f where * * f are some fixed constants.",
+  "Example sentence: A number of religions also satisfy for many the need of being linked with the ultimate and eternal.",
+  "Example sentence: They must continue to satisfy basic capital needs; and there persists the dual problem of maintaining operational unity around a national program of modernization while simultaneously decentralizing participation in the program to wider and wider groups.",
+  "Example sentence: Religion seeks to satisfy human needs of great pertinence.",
+  "Example sentence: Moreover, an eventual meeting was desirable if for no other reason than to satisfy world opinion that the U. S. was not inflexible and was sparing no effort to ease international tensions.",
+  "Example sentence: All expressed interest in world affairs but no one offered to make any sacrifices to satisfy this interest.",
+  "Example sentence: Only He can satisfy the deepest longings.",
+  "Example sentence: Merely to satisfy the author's curiosity.",
+  "Example sentence: In B. M. Spinley's portrayal of the underprivileged and undereducated youth of London, a salient finding was the inability to postpone gratification, a need to satisfy impulses immediately without the pleasure of anticipation or of savoring the experience.",
+  "Example sentence: Most marketing people agree it is going to take redoubled efforts to satisfy future requirements.",
+  "Example sentence: Ordinarily, the human liver synthesizes only enough cholesterol to satisfy the body's needs - for transportation of fats and for production of bile.",
+  "Example sentence: The need is for reference works of a more specialized nature than individual libraries, adequate to satisfy everyday needs, could afford."
+ ],
+ "labels": [
+  "satisfy.v.01",
+  "satisfy.v.01",
+  "satisfy.v.01",
+  "satisfy.v.01",
+  "satisfy.v.01",
+  "satisfy.v.01",
+  "meet.v.04",
+  "meet.v.04",
+  "meet.v.04",
+  "meet.v.04",
+  "meet.v.04",
+  "meet.v.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

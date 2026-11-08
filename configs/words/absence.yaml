@@ -1,0 +1,7 @@
+word: absence
+dataset: data/raw/semcor_words/absence.json
+senses:
+  - absence.n.01
+  - absence.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

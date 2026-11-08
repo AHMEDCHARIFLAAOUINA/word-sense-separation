@@ -1,0 +1,41 @@
+{
+ "target_word": "fraction",
+ "sentences": [
+  "Example sentence: A sample of Fraction * * f from group O plasma was dissolved in starting buffer, dialyzed against this buffer and subjected to chromatography using the gradient shown in Fig. 2.",
+  "Example sentence: It was then distilled at least three times from a trap at - 78 ` to a liquid air trap with only a small middle fraction being retained in each distillation.",
+  "Example sentence: When paper electrophoresis was to be used for preparation, eight strips of a whole serum sample or a chromatographic fraction concentrated by negative pressure dialysis were run / chamber under the conditions described above.",
+  "Example sentence: After passing * * f through DEAE-cellulose, the titer of antibodies to WTV in the specific fraction was 1: 4 of the titer before such passage (precipitin ring tests by R. F. Whitcomb); but mere dilution of the conjugate to 1: 4 did not satisfactorily remove nonspecific staining.",
+  "Example sentence: As expected, most of the activity was found in Fraction * * f, with slight activity seen in Fraction 4, - 1.",
+  "Example sentence: The mean temperature of the surface was then computed according to the following relation: **f where x is the fraction of the plug area covered by the hot spot.",
+  "Example sentence: The Russian experimenters claim that only a small fraction of the impulse from the sensors is caused by the incident momentum with the remainder being momentum of ejected material from the sensor.",
+  "Example sentence: The velocity value used is also open to some question; if a substantial fraction of the dust is orbiting about the Earth, only about one third the above mentioned average velocity should be used in deriving the mass.",
+  "Example sentence: The Indian was again raising his bottle, but to my astonished relief - probably only a fraction of Johnson's - the bottle this time went to the Indian's lips.",
+  "Example sentence: Further, the gland is able to re-use a larger fraction of the thyroid hormone de-iodinated peripherally."
+ ],
+ "labels": [
+  "fraction.n.01",
+  "fraction.n.01",
+  "fraction.n.01",
+  "fraction.n.01",
+  "fraction.n.01",
+  "fraction.n.02",
+  "fraction.n.02",
+  "fraction.n.02",
+  "fraction.n.02",
+  "fraction.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

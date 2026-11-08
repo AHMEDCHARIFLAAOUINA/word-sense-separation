@@ -1,0 +1,7 @@
+word: allow
+dataset: data/raw/semcor_words/allow.json
+senses:
+  - permit.v.01
+  - let.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

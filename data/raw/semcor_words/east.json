@@ -1,0 +1,47 @@
+{
+ "target_word": "east",
+ "sentences": [
+  "Example sentence: In November 1900 surveying was done under John Marsden on the east mountains to ascertain if it would be possible to get sufficient water and fall to operate an electric power plant.",
+  "Example sentence: Hudson pointed the Discovery down the east coast of the newly discovered sea (now called Hudson Bay), confident he was on his way to the warm waters of the Pacific.",
+  "Example sentence: We ran east for about half a mile before we turned back to the road, panting from the effort and soaked with sweat.",
+  "Example sentence: Service running through Barnumville and to Bennington County towns east of the mountains was in the hands of the `` Gleason Telephone Company '' in 1925, but major supervision of telephone lines in Manchester was with the New England Telephone and Telegraph Company, which eventually gained all control.",
+  "Example sentence: Along Wappinger Creek in Dutchess County, past the white church at Fishkill, past Verplanck's Point on the east bank of the Hudson, to the white salt crusted roads of the Long Island Rockaways there was a watching and an activity of preparing for something explosive to happen.",
+  "Example sentence: Greg himself took two flights, with Todman leading the second, to patrol and look for targets of opportunities around Ormoc on the east coast of Leyte.",
+  "Example sentence: The peddler came bawling his wares and told them of the convention in Wheeling, Which had formed a new state government by declaring the government at Richmond in the east illegal because they were traitors.",
+  "Example sentence: From the east to the west coast of the Korean peninsula was a strip of land in which fear filled men were at that same moment furtively crawling through the night, sitting in sweaty anticipation of any movement or sound, or shouting amidst confused rifle flashes and muzzle blasts.",
+  "Example sentence: But they could turn and escape to the east.",
+  "Example sentence: Within about an hour with the help of reports from seismic stations in Alaska, Arizona and California, the quake's epicenter was placed at 51 degrees North latitude and 158 degrees East longitude.",
+  "Example sentence: He'd come East for the christening, by God he would.",
+  "Example sentence: During much of the fifteen mile ride they had watched a lurid display of lightning in the sky to the east."
+ ],
+ "labels": [
+  "east.a.01",
+  "east.a.01",
+  "east.a.01",
+  "east.a.01",
+  "east.a.01",
+  "east.a.01",
+  "east.n.01",
+  "east.n.01",
+  "east.n.01",
+  "east.n.01",
+  "east.n.01",
+  "east.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

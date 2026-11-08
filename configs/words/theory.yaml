@@ -1,0 +1,7 @@
+word: theory
+dataset: data/raw/semcor_words/theory.json
+senses:
+  - theory.n.01
+  - hypothesis.n.02
+n_per_sense: 11
+prefix: "Example sentence: "

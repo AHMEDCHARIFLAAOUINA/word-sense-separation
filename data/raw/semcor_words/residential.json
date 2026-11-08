@@ -1,0 +1,35 @@
+{
+ "target_word": "residential",
+ "sentences": [
+  "Example sentence: When surplus land is not expensive to buy or to keep up, it is usually better to buy it than to buy so small an acreage that the development of adjoining properties might impair the residential value of the farm.",
+  "Example sentence: The location of the oxidation pond in a high value residential area makes odor nuisances a sensitive problem for the developer.",
+  "Example sentence: The Federal Government is aiding local governments in several places to survey residential, commercial and industrial buildings to determine what fallout protection they would provide, and for how many people.",
+  "Example sentence: The structured schools were in an industrial city, with three family tenement houses typical of the residential areas, but with one rather sizable section of middle-class homes.",
+  "Example sentence: As Rector was walking back toward the residential hall, Johnson came out of the basement and bounded up to him.",
+  "Example sentence: It would authorize the Texas Education Agency to establish county-wide day schools for the deaf in counties of 300000 or more population, require deaf children between 6 and 13 years of age to attend the day schools, permitting older ones to attend the residential Texas School for the Deaf here.",
+  "Example sentence: Rector was warming to his over-all strategy by the time he got back to the residential hall.",
+  "Example sentence: He found Elizabeth in the parlor and asked her to make sure everything was in order in the residential hall, and then to take charge of the office while the party was here."
+ ],
+ "labels": [
+  "residential.a.01",
+  "residential.a.01",
+  "residential.a.01",
+  "residential.a.01",
+  "residential.a.02",
+  "residential.a.02",
+  "residential.a.02",
+  "residential.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

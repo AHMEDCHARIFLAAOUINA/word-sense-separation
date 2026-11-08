@@ -1,0 +1,47 @@
+{
+ "target_word": "listen",
+ "sentences": [
+  "Example sentence: There are, after all, fortunate souls who hear everything, but only know how to listen to what is good for them, and Stowey was, as things go, a fortunate man.",
+  "Example sentence: As one of them expressed it, `` It has done me a world of good to listen to the nai ^ ve questions and comments of these not-yet-married people.",
+  "Example sentence: `` Listen, Ekstrohm, I want to give you the benefit of every doubt.",
+  "Example sentence: The impression has nevertheless been given during these three days, despite Mr. Rusk's personal popularity, that the United States delegation came to Oslo in a somewhat tentative and exploratory frame of mind, more ready to listen and learn than to enunciate firm policy on a global scale with detailed application to individual danger spots.",
+  "Example sentence: We cannot listen to a conversation for five minutes without being acutely aware of the confusion.",
+  "Example sentence: She could not scream, for even if a sound could take shape within her parched mouth, who would hear, who would listen?",
+  "Example sentence: I had to shake her to make her listen.",
+  "Example sentence: He said he wanted very much to listen.",
+  "Example sentence: I've got something to say to you, and by God you're going to listen.",
+  "Example sentence: She just wouldn't listen.",
+  "Example sentence: The Command technique invites you to listen to the depth of the orchestration.",
+  "Example sentence: He was to get involved in no arguments; he was to try to make no converts; he was simply to listen and report back what he heard."
+ ],
+ "labels": [
+  "listen.v.02",
+  "listen.v.02",
+  "listen.v.02",
+  "listen.v.02",
+  "listen.v.02",
+  "listen.v.02",
+  "listen.v.01",
+  "listen.v.01",
+  "listen.v.01",
+  "listen.v.01",
+  "listen.v.01",
+  "listen.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

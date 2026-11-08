@@ -1,0 +1,7 @@
+word: sensitive
+dataset: data/raw/semcor_words/sensitive.json
+senses:
+  - sensitive.a.01
+  - sensitive.a.02
+n_per_sense: 6
+prefix: "Example sentence: "

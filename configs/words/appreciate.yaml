@@ -1,0 +1,7 @@
+word: appreciate
+dataset: data/raw/semcor_words/appreciate.json
+senses:
+  - appreciate.v.01
+  - appreciate.v.02
+n_per_sense: 10
+prefix: "Example sentence: "

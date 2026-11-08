@@ -1,0 +1,7 @@
+word: generation
+dataset: data/raw/semcor_words/generation.json
+senses:
+  - coevals.n.01
+  - generation.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: town
+dataset: data/raw/semcor_words/town.json
+senses:
+  - town.n.01
+  - town.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

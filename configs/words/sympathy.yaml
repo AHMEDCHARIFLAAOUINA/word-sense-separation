@@ -1,0 +1,7 @@
+word: sympathy
+dataset: data/raw/semcor_words/sympathy.json
+senses:
+  - sympathy.n.01
+  - sympathy.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

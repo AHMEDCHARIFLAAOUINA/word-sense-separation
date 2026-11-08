@@ -1,0 +1,47 @@
+{
+ "target_word": "atmosphere",
+ "sentences": [
+  "Example sentence: Motion-picture exhibitions took place in stores in a general atmosphere like that of the penny arcade which can still be found in such urban areas as Times Square.",
+  "Example sentence: There is a new atmosphere of urgency in Washington this week.",
+  "Example sentence: Besides, it's important to the way a painter thinks that he should move in a certain atmosphere, an atmosphere in which he may absorb the ideas of other masters, as Durer went to Italy to meet Bellini and Mantegna ''.",
+  "Example sentence: The giant electric signs and marquees were lit up for the first time since blackout regulations had been instituted, and the atmosphere was alive with the feeling that victory was just around the corner.",
+  "Example sentence: These proposals would go far toward creating the economic atmosphere favoring growth of the individual, who, in turn, would help us to cope with runaway technology.",
+  "Example sentence: George poised with the tack hammer, the homely, everyday atmosphere, all denied an attempt at murder.",
+  "Example sentence: One sample, which had been exposed to the atmosphere after evacuation at 375 ` C, showed the presence of adsorbed water (about 0.3 wt%) as evidenced by a weak resonance line which was very narrow at room temperature and which disappeared, due to broadening, at low temperature.",
+  "Example sentence: Most meteoritic material, by the time it reaches the Earth's surface, has been reduced to dust or to spherules of ablated material in its passage through the atmosphere.",
+  "Example sentence: The figures in the next-to-last column are derived with the assumption of 50 per cent shielding by the Earth; hence, these figures apply immediately above the Earth's atmosphere.",
+  "Example sentence: These gentlemen are calling for a resumption of testing - in the atmosphere - on the greatest possible scale, all in the name of national security.",
+  "Example sentence: However, **f adsorbs water from the atmosphere and this may account for the low chromium analysis and high total weight loss.",
+  "Example sentence: De Jager (1955) has calculated the times required for these particles to reach the atmosphere under the influence of the Poynting-Robertson effect, which in this case causes the orbits to become more and more eccentric without changing the semi major axis."
+ ],
+ "labels": [
+  "atmosphere.n.01",
+  "atmosphere.n.01",
+  "atmosphere.n.01",
+  "atmosphere.n.01",
+  "atmosphere.n.01",
+  "atmosphere.n.01",
+  "atmosphere.n.03",
+  "atmosphere.n.03",
+  "atmosphere.n.03",
+  "atmosphere.n.03",
+  "atmosphere.n.03",
+  "atmosphere.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

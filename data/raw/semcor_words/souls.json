@@ -1,0 +1,35 @@
+{
+ "target_word": "souls",
+ "sentences": [
+  "Example sentence: Those souls like to wander off, and must be called back.",
+  "Example sentence: These were to be kept on, to hold in the 32 souls.",
+  "Example sentence: Next he addressed himself to our souls.",
+  "Example sentence: A man has 32 souls, one for each part of the body.",
+  "Example sentence: `` There can be no compromise when souls are in jeopardy ''.",
+  "Example sentence: And John's reply was always the same: `` Anything that affects souls is the concern of the Church!",
+  "Example sentence: They look after their fields and children and water buffaloes in ten or eleven thousand villages, with an average of 200 souls.",
+  "Example sentence: There are, after all, fortunate souls who hear everything, but only know how to listen to what is good for them, and Stowey was, as things go, a fortunate man."
+ ],
+ "labels": [
+  "soul.n.01",
+  "soul.n.01",
+  "soul.n.01",
+  "soul.n.01",
+  "person.n.01",
+  "person.n.01",
+  "person.n.01",
+  "person.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

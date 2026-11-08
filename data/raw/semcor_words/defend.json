@@ -1,0 +1,41 @@
+{
+ "target_word": "defend",
+ "sentences": [
+  "Example sentence: The thoroughgoing idealization of the planter society did not come, however, until after the Civil War when Southern writers were eager to defend a way of life which had been destroyed.",
+  "Example sentence: The calmness and detachment of his tone suggested unawareness of how implicit was his own guilt in the words he had used to defend Cromwell.",
+  "Example sentence: `` You'd be the one to say '', he observed, and she found herself liking his approval none too well, but she could not defend herself and say that her actions were `` different '', since all actions had their own laws.",
+  "Example sentence: The United States and the U. N. denounce their own principles when they defend the Communist oppressors and refuse to acknowledge the right of self-determination of the Katangans.",
+  "Example sentence: Sir Robert Watson-Watt's `` rebuttal '' of Sir Charles Snow's Godkin Lectures is marred throughout by too forceful a desire to defend Lindemann and apparently himself from Sir Charles ' supposed falsehoods while stating those `` falsehoods '' in an unclear incoherent argument.",
+  "Example sentence: Mike was of legal age and presumed able to defend himself in the clinches.",
+  "Example sentence: No more could he defend himself against them.",
+  "Example sentence: `` Leading Nations of the West and of the East keep busy making newer nuclear weapons to defend themselves in the event the constantly threatening nuclear war should break out.",
+  "Example sentence: Wildly bucking horses would make the position difficult to defend against charging warriors.",
+  "Example sentence: He hit the theme about dying to defend your country, and you were ready to do it right then, without a second thought."
+ ],
+ "labels": [
+  "defend.v.01",
+  "defend.v.01",
+  "defend.v.01",
+  "defend.v.01",
+  "defend.v.01",
+  "defend.v.02",
+  "defend.v.02",
+  "defend.v.02",
+  "defend.v.02",
+  "defend.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

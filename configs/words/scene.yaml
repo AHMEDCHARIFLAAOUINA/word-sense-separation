@@ -1,0 +1,7 @@
+word: scene
+dataset: data/raw/semcor_words/scene.json
+senses:
+  - scene.n.01
+  - scene.n.06
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "decrease",
+ "sentences": [
+  "Example sentence: Mr. Clark still has to use rotenone with potatoes grown on the least fertile fields, but he has watched the insect damage decrease steadily and hopes that continued use of compost and leaf mulch will allow him to do without it in the future.",
+  "Example sentence: Microscopic examination of the effluent showed that minimum BOD occurred when the algae began to decrease with cold weather.",
+  "Example sentence: Will the danger increase or decrease?",
+  "Example sentence: She can decrease the number of temptations.",
+  "Example sentence: From an estimated mass of 25 g for a zero magnitude meteorite, the other masses are derived with the assumption of a mass decrease by a factor of 2.512 for each unit increase in magnitude.",
+  "Example sentence: The pressure gradient producing the jet is due to the nature of the magnetic field in the arc (rapid decrease of current density from cathode to the anode).",
+  "Example sentence: Pioneer 1, recorded a decrease in flux with distance from the Earth on the basis of 11 counts in 9 hours.",
+  "Example sentence: These increased costs are partially offset by a decrease of $56 million in expenditures for the reserve forces, largely because of the planned reduction in strength of the Army Reserve components during 1961."
+ ],
+ "labels": [
+  "decrease.v.01",
+  "decrease.v.01",
+  "decrease.v.01",
+  "decrease.v.01",
+  "decrease.n.01",
+  "decrease.n.01",
+  "decrease.n.01",
+  "decrease.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

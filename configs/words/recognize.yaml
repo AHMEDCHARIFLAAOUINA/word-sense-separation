@@ -1,0 +1,7 @@
+word: recognize
+dataset: data/raw/semcor_words/recognize.json
+senses:
+  - acknowledge.v.06
+  - spot.v.02
+n_per_sense: 10
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "flight",
+ "sentences": [
+  "Example sentence: It was only a fifteen minute flight, but before it was through Greg felt himself developing a case of claustrophobia.",
+  "Example sentence: She grasped the chair arms and brought her thin body upright, like a bird alert for flight.",
+  "Example sentence: It is expected that in 1963 two prototype aircraft will be available for flight testing.",
+  "Example sentence: And so, after a flight southeast to Savannakhet, we found ourselves bouncing along in a Jeep right behind the Land-Rover of Prince Boun Oum of Champassak, a tall man of Churchillian mien in a bush jacket and a ten-gallon hat from Texas.",
+  "Example sentence: He spread the flight out and led them across a point of land and then down the coast.",
+  "Example sentence: Only one of the flight scored a direct hit and the rest blew up jungle.",
+  "Example sentence: He was about to make a gas check on his flight when Todman's voice broke in: `` Sweeneys!",
+  "Example sentence: Water splashed against his windshield as he led the flight in and out of showers."
+ ],
+ "labels": [
+  "flight.n.02",
+  "flight.n.02",
+  "flight.n.02",
+  "flight.n.02",
+  "flight.n.01",
+  "flight.n.01",
+  "flight.n.01",
+  "flight.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

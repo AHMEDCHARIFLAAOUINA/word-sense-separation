@@ -1,0 +1,7 @@
+word: provided
+dataset: data/raw/semcor_words/provided.json
+senses:
+  - provide.v.02
+  - supply.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

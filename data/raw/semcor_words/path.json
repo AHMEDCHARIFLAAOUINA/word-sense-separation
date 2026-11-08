@@ -1,0 +1,41 @@
+{
+ "target_word": "path",
+ "sentences": [
+  "Example sentence: She soared over the new pastor like an avenging angel lest he stray from the path and not know all the truth and gossip of which she was chief repository.",
+  "Example sentence: I followed a shrubbery lined gravel path alongside the house to the pool.",
+  "Example sentence: He feels, therefore, that to seek a discontinuity in the arms policy of the United States is the least risky path our government can take.",
+  "Example sentence: `` I do not care if your beliefs take you along a path of religion or a path of labor or a path of activism.",
+  "Example sentence: For, if so, the path leads through a complex process of parliamentary diplomacy which adds still another dimension to the problem.",
+  "Example sentence: `` Life '' points out that `` everybody uses this path '', and starts to ride on.",
+  "Example sentence: Every path from back door to barn was covered by a grape-arbor, and every yard had its fruit trees.",
+  "Example sentence: And he ignored him, skirting the parked cars and walking up the path to the Skopas house.",
+  "Example sentence: This strange person quarrels with a cyclist because the latter is using the path rather than the highroad.",
+  "Example sentence: From above one could only occasionally catch a glimpse of life on the floor of this green sea: a neighbor's gingham skirt flashing into sight for an instant on the path beneath her grape-arbor, or the movement of hands above a clothesline and the flutter of garments hung there, half-way down the block."
+ ],
+ "labels": [
+  "way.n.05",
+  "way.n.05",
+  "way.n.05",
+  "way.n.05",
+  "way.n.05",
+  "path.n.02",
+  "path.n.02",
+  "path.n.02",
+  "path.n.02",
+  "path.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

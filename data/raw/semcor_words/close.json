@@ -1,0 +1,41 @@
+{
+ "target_word": "close",
+ "sentences": [
+  "Example sentence: When a dot appears close to the end of the transverse line, the `` moderate '' rating may be further classified according to the position of the dot with respect to the vertical marking denoting the mean age.",
+  "Example sentence: Many years later, the photon counting apparatus in the nose of the ship would determine that the star was close enough to actuate deceleration.",
+  "Example sentence: He stood flat-footed in the box, but not very close to the plate now.",
+  "Example sentence: Start by falling forward to a point close to the feet, and, as strength improves, fall farther and farther out.",
+  "Example sentence: That after all his years of effort to become a composer, he should now, now when he was still stoutly replying to the critics of his Discourse on the Arts and Sciences, be so close to a success in music and have to reject it.",
+  "Example sentence: If you are dreaming of a blue, shimmering pool right outside your living room windows, close your eyes firmly and fill in the picture with lots and lots of children, damp towels, squashed tubes of suntan oil and semi-inflated plastic toys.",
+  "Example sentence: Washington County's 36 th annual fair will close Saturday evening with 4 - H and FFA awards program at 7, public dance at 8 and variety show at 8: 30.",
+  "Example sentence: `` Don't forget to turn it off and close the door good so it'll latch ''.",
+  "Example sentence: It latches when you close it, so stay as long as you like ''.",
+  "Example sentence: But I don't believe we should close the door on nonservice-connected patients."
+ ],
+ "labels": [
+  "close.a.01",
+  "close.a.01",
+  "close.a.01",
+  "close.a.01",
+  "close.a.01",
+  "close.v.01",
+  "close.v.01",
+  "close.v.01",
+  "close.v.01",
+  "close.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

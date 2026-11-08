@@ -1,0 +1,7 @@
+word: morality
+dataset: data/raw/semcor_words/morality.json
+senses:
+  - morality.n.01
+  - ethical_motive.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

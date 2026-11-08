@@ -1,0 +1,7 @@
+word: interpreted
+dataset: data/raw/semcor_words/interpreted.json
+senses:
+  - interpret.v.01
+  - rede.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

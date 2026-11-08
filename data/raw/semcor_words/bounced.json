@@ -1,0 +1,35 @@
+{
+ "target_word": "bounced",
+ "sentences": [
+  "Example sentence: It took me a moment to realize what was odd about that panel: there was a gimbaled compass welded to it, which rocked gently back and forth as the Land Rover bounced about.",
+  "Example sentence: Prevot had said that the searchlights would be bounced off the clouds at 2230 hours, `` which gives us time to get settled in position ''.",
+  "Example sentence: His hands snatched at an imaginary bucket, swooping down hard to grab it and coming away with equal snap like a ball that's been bounced hard.",
+  "Example sentence: Thunder crashed; barrels tumbled down the mountainsides, and bounced and bounced till their own fury split them open.",
+  "Example sentence: `` Take a ride on this one '', Brooks Robinson greeted Hansen as the Bird third sacker grabbed a bat, headed for the plate and bounced a third inning two run double off the left centerfield wall tonight.",
+  "Example sentence: Jim Gentile bounced a hard shot off Kunkel's glove and beat it out for a single, and when Lumpe grabbed the ball and threw it over first baseman Throneberry's head Brandt took third and Gentile second on the error.",
+  "Example sentence: In trying to hit it out with a sand wedge Palmer bounced the ball over the green, past spectators and down the slope toward a TV tower.",
+  "Example sentence: Watching her, he felt like a spectator at a tennis game, with the ball being bounced back and forth."
+ ],
+ "labels": [
+  "bounce.v.01",
+  "bounce.v.01",
+  "bounce.v.01",
+  "bounce.v.01",
+  "bounce.v.02",
+  "bounce.v.02",
+  "bounce.v.02",
+  "bounce.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

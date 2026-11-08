@@ -1,0 +1,7 @@
+word: humor
+dataset: data/raw/semcor_words/humor.json
+senses:
+  - humor.n.02
+  - temper.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

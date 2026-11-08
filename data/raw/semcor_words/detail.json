@@ -1,0 +1,41 @@
+{
+ "target_word": "detail",
+ "sentences": [
+  "Example sentence: From the resulting data the doctor can determine lung defects with hitherto unknown accuracy and detail.",
+  "Example sentence: Where the microscope under visible light may show only vague shadows or nothing at all, ultraviolet illumination and subsequent translation into a color TV picture reveal a wealth of detail.",
+  "Example sentence: When irregularity and variation prevent summarizing, information is written in complete detail.",
+  "Example sentence: The entire group of managers explained, in great detail, a number of human relations errors that he made.",
+  "Example sentence: Done in the modern style of a `` confession '', Fink tells in exquisite detail how he came to know, and, more important, love his mother's pet salamander, Alicia.",
+  "Example sentence: The mechanism of this coupling has been studied in some detail with non-enzymatic systems in vitro and can be simulated by certain di-iodotyrosine analogues (Pitt-Rivers and James, 1958).",
+  "Example sentence: Yet no detail was too small to receive attention from this master, and as a result the playing here has humor, delicacy, and radiant humanity.",
+  "Example sentence: Every detail in his interpretation has been beautifully thought out, and of these I would especially cite the delicious landler touch the pianist brings to the fifth variation (an obvious indication that he is playing with Viennese musicians), and the gossamer shading throughout.",
+  "Example sentence: It is worth dwelling in some detail on the crisis of this story, because it brings together a number of characteristic elements and makes of them a curious, riddling compound obscurely but centrally significant for Mann's work.",
+  "Example sentence: Dreams that display events of the future with photographic detail call for a theory explaining their basic mystery and all its components, including that weird feeling of deja vu, inevitably fantastic though that theory must seem."
+ ],
+ "labels": [
+  "detail.n.03",
+  "detail.n.03",
+  "detail.n.03",
+  "detail.n.03",
+  "detail.n.03",
+  "detail.n.01",
+  "detail.n.01",
+  "detail.n.01",
+  "detail.n.01",
+  "detail.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

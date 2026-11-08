@@ -1,0 +1,7 @@
+word: present
+dataset: data/raw/semcor_words/present.json
+senses:
+  - present.a.01
+  - present.a.02
+n_per_sense: 20
+prefix: "Example sentence: "

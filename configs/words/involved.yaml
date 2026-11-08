@@ -1,0 +1,7 @@
+word: involved
+dataset: data/raw/semcor_words/involved.json
+senses:
+  - involve.v.02
+  - involve.v.01
+n_per_sense: 10
+prefix: "Example sentence: "

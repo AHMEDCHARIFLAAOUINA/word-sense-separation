@@ -1,0 +1,41 @@
+{
+ "target_word": "use",
+ "sentences": [
+  "Example sentence: An area sheltered from strong winds may be highly desirable for recreation use.",
+  "Example sentence: Electricity plays such an important part in community life today that it is difficult to envision a time when current was not available for daily use.",
+  "Example sentence: In recent years many counties and the U. S. Forest Service have taken aerial photos which show features in detail and are very good for planning use.",
+  "Example sentence: Figure the cost of providing water to the use areas.",
+  "Example sentence: Castaneda, et al. revised the Taylor Anxiety Scale for use with children.",
+  "Example sentence: The Board of County Commissioners, the Sanitary Commission, the Planning and Zoning Board and other county official bodies use recording machines for all public business in order to prevent law suits and other misunderstandings about what actually happened at their meetings.",
+  "Example sentence: Enough daylight is usually available from the windows, but if you have synchronized flash - use it.",
+  "Example sentence: Then he asked to use the phone and called Brian Thayer, who said that he was just leaving to keep a lunch date but would be home by two o ' clock.",
+  "Example sentence: Washington apparently decided to use an old formula, by injecting large military appropriations to speed the slow revival of the U. S. economy after a prolonged slump ''.",
+  "Example sentence: But apart from racial problems, the old unreconstructed South - to use the moderate words favored by Mr. Thomas Griffith - finds itself unsympathetic to most of what is different about the civilization of the North."
+ ],
+ "labels": [
+  "use.n.01",
+  "use.n.01",
+  "use.n.01",
+  "use.n.01",
+  "use.n.01",
+  "use.v.01",
+  "use.v.01",
+  "use.v.01",
+  "use.v.01",
+  "use.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

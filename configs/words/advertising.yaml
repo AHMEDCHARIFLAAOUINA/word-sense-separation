@@ -1,0 +1,7 @@
+word: advertising
+dataset: data/raw/semcor_words/advertising.json
+senses:
+  - ad.n.01
+  - advertising.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

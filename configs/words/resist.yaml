@@ -1,0 +1,7 @@
+word: resist
+dataset: data/raw/semcor_words/resist.json
+senses:
+  - defy.v.02
+  - resist.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

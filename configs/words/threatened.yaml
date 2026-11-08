@@ -1,0 +1,7 @@
+word: threatened
+dataset: data/raw/semcor_words/threatened.json
+senses:
+  - endanger.v.01
+  - threaten.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

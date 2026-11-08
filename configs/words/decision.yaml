@@ -1,0 +1,7 @@
+word: decision
+dataset: data/raw/semcor_words/decision.json
+senses:
+  - decision.n.01
+  - decision.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

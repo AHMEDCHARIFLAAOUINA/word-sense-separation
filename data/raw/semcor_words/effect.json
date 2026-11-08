@@ -1,0 +1,53 @@
+{
+ "target_word": "effect",
+ "sentences": [
+  "Example sentence: Without losing the distinctive undertow of Brahmsian rhythm, the pacing is firm and the over-all performance has a tightly knit quality that makes for maximum cumulative effect.",
+  "Example sentence: The major reason for this is that it has no quick kill effect.",
+  "Example sentence: We perform elaborate international exhortations and ceremonies with virtually no understanding of social cause and effect.",
+  "Example sentence: In order to focus clearly upon the operation of this one force, which we may call the effect of `` public limit pricing '' on `` key '' wage bargains, we deliberately simplify the model by abstracting from other forces, such as union power, which may be relevant in an actual situation.",
+  "Example sentence: Another effect discovered is the large coefficient of thermal diffusion tending to separate nitrogen from the oxygen when temperature differences straddling the nitrogen dissociation region are present.",
+  "Example sentence: The purpose of the present study is to study the thermal conditions and to establish an energy balance for a transpiration cooled anode as well as the effect of blowing on the arc voltage.",
+  "Example sentence: It is not enough in accounting for this feeling to analyze it into the wickedness of individual people added together to produce a cumulative effect.",
+  "Example sentence: However, because this vulnerability is mutual, it is to the advantage of neither side to destroy the opponent's cities, at least so long as the opponent has nuclear weapons with which to effect reprisal.",
+  "Example sentence: Davis may use the tax bill as a means to effect a transition from special sessions of the Legislature to normalcy.",
+  "Example sentence: And contrary to what has been said recently, we did not wait for `` outside pressures '' and `` world opinion '' to bring down that Communist government; we moved decisively to effect an anti Communist coup d ' etat.",
+  "Example sentence: Passage of the sales tax measure would also give Davis the means to effect a transition.",
+  "Example sentence: Alex told her that there was no hurry for their breakfasts, trying at the same time to effect a speedy separation of the persons before and behind him.",
+  "Example sentence: It had drawn them together, and since his release from prison Dill had worked tirelessly to effect this night's escape.",
+  "Example sentence: He concludes that some changes can made in the current orthography which will appreciably improve its usefulness, but hesitates to suggest precise graphic devices to effect these changes."
+ ],
+ "labels": [
+  "consequence.n.01",
+  "consequence.n.01",
+  "consequence.n.01",
+  "consequence.n.01",
+  "consequence.n.01",
+  "consequence.n.01",
+  "consequence.n.01",
+  "effect.v.01",
+  "effect.v.01",
+  "effect.v.01",
+  "effect.v.01",
+  "effect.v.01",
+  "effect.v.01",
+  "effect.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

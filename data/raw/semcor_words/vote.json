@@ -1,0 +1,47 @@
+{
+ "target_word": "vote",
+ "sentences": [
+  "Example sentence: Pelham pointed out that Georgia voters last November rejected a constitutional amendment to allow legislators to vote on pay raises for future Legislature sessions.",
+  "Example sentence: But before discussing it, I should like to record one vote of thanks to them for the clarity with which they have stated their case.",
+  "Example sentence: An adverse vote of 81 to 65 kept in the State Affairs Committee a bill which would order the referendum on the April 4 ballot, when Texas votes on a U.S. senator.",
+  "Example sentence: The final step was a vote for a $230000 bond issue for the construction of a sewage system by the 1959 town meeting, later confirmed by a two-thirds vote at a special town meeting June 21, 1960.",
+  "Example sentence: Pelham said Sunday night there was research being done on whether the `` quickie '' vote on the increase can be repealed outright or whether notice would have to first be given that reconsideration of the action would be sought.",
+  "Example sentence: Despite the warning, there was a unanimous vote to enter a candidate, according to Republicans who attended.",
+  "Example sentence: The qualifications to vote were kept very simple.",
+  "Example sentence: But the internationalists have taken over the governing body of the bar, and when the lads met in St. Louis, it was not to grumble about the humidity but to vote unanimously that the United Nations was scarcely less than wonderful, despite an imperfection here and there.",
+  "Example sentence: Both men and women of twenty-one years of age could register and vote upon presenting proof of residence and identification.",
+  "Example sentence: In their book American Skyline, Christopher Tunnard and Henry Hope Reed argue that Franklin Roosevelt's New Deal was what made the modern suburb a possibility - a fine ironical argument, when you consider how suburbanites tend to vote.",
+  "Example sentence: Two members of the Democratic-endorsed majority on the school board said they probably would vote to appeal a ruling by the state Board of Education, which said yesterday that the school committee acted improperly in its appointment of the coordinator, Francis P. Nolan 3 rd, the Democratic-endorsed committee chairman, could not be reached for comment.",
+  "Example sentence: Mr. Delaney and Mr. O ' Neill are not willing to vote on the public-school measure until the defense education bill clears the House Education and Labor Committee."
+ ],
+ "labels": [
+  "vote.n.01",
+  "vote.n.01",
+  "vote.n.01",
+  "vote.n.01",
+  "vote.n.01",
+  "vote.n.01",
+  "vote.v.01",
+  "vote.v.01",
+  "vote.v.01",
+  "vote.v.01",
+  "vote.v.01",
+  "vote.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

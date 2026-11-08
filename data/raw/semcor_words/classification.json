@@ -1,0 +1,41 @@
+{
+ "target_word": "classification",
+ "sentences": [
+  "Example sentence: As a matter of fact, the incorrect classification, the result of many weeks of labor by Dr. Hilprecht, was about to be published by him the following day.",
+  "Example sentence: On March 21, 1957, however, the Department recommended approval of the 1, - A classification.",
+  "Example sentence: On November 22, 1952, he wrote the Board, protesting this classification.",
+  "Example sentence: His answers to the classification questionnaire reflected that he was a minister of Jehovah's Witnesses, employed at night by a sugar producer.",
+  "Example sentence: In a periodic review, the local board on July 30, 1953, reclassified him 1, - A and upheld this classification after a personal appearance by petitioner, because of his willingness to kill in defense of his church and home.",
+  "Example sentence: He has announced results on Hokan, Penutian, Uto-Aztecan, and almost all other American families and phyla, and has diagrammed their degree of interrelation; but he has not worked out by lexicostatistics one comprehensively complete classification of even a single family other than Salish.",
+  "Example sentence: The second stage is to retain the nominal classification of `` neutralist '', while in fact turning the country into an active advocate and adherent of Soviet policy.",
+  "Example sentence: He claimed 4, - D classification as a minister of religion, devoting a minimum of 100 hours a month to preaching.",
+  "Example sentence: Applying the techniques developed at Harvard for generating a paradigm from a representative form and its classification, we can add all forms of a word to the dictionary at once.",
+  "Example sentence: When the `` dot '' and `` tip '' coincide, the classification used in this paper is `` same schedule ''."
+ ],
+ "labels": [
+  "categorization.n.03",
+  "categorization.n.03",
+  "categorization.n.03",
+  "categorization.n.03",
+  "categorization.n.03",
+  "classification.n.02",
+  "classification.n.02",
+  "classification.n.02",
+  "classification.n.02",
+  "classification.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

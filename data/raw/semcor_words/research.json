@@ -1,0 +1,41 @@
+{
+ "target_word": "research",
+ "sentences": [
+  "Example sentence: The American firearms and ammunition manufacturers through diligent research and technical development have replaced the muzzle loader and slow firing single shot arms with modern fast firing autoloaders, extremely accurate bolt, lever, and slide action firearms.",
+  "Example sentence: These are, if the research is done with subtlety and skill, researchable topics, but the research is missing.",
+  "Example sentence: Conduct, encourage, and promote fundamental scientific research and basic studies to develop the best and most economical processes and methods for converting saline water into water suitable for beneficial consumptive purposes;",
+  "Example sentence: There is much research evidence to validate the use of the instrument in differentiating individuals who are likely to manifest anxiety in varying degrees.",
+  "Example sentence: The Small Business Administration (SBA) provides guidance and advice on sources of technical information relating to small business management and research and development of products.",
+  "Example sentence: In plasma generators as currently commercially available for industrial use or as high temperature research tools often more than 50% of the total energy input is being transferred to the cooling medium of the anode.",
+  "Example sentence: We use the term `` bio-medicine '' because of the close interrelation between biology and medical research.",
+  "Example sentence: Here we may observe that at least one modern philosophy of history is built on the assumption that ideas are the primary objectives of the historian's research.",
+  "Example sentence: It is obvious that the historian who seeks to recapture the ideas that have motivated human behavior throughout a given period will find the art and literature of that age one of his central and major concerns, by no means a mere supplement or adjunct of significant historical research.",
+  "Example sentence: On the one side we have the university professors and their students, trained in Teutonic methods of research, who have sought out, collected and studied the true products of the oral traditions of the ethnic, regional and occupational groups that make up this nation."
+ ],
+ "labels": [
+  "research.n.01",
+  "research.n.01",
+  "research.n.01",
+  "research.n.01",
+  "research.n.01",
+  "inquiry.n.01",
+  "inquiry.n.01",
+  "inquiry.n.01",
+  "inquiry.n.01",
+  "inquiry.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

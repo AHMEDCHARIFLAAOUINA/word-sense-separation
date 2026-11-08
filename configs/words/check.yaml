@@ -1,0 +1,7 @@
+word: check
+dataset: data/raw/semcor_words/check.json
+senses:
+  - check.n.01
+  - check.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

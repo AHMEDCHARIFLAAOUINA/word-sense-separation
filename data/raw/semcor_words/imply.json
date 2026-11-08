@@ -1,0 +1,35 @@
+{
+ "target_word": "imply",
+ "sentences": [
+  "Example sentence: The foregoing remarks imply that the hypothalamic balance plays a crucial role at the crossroads between physiological and pathological forms of emotion.",
+  "Example sentence: The above discussion does not mean to imply that control factors were completely in abeyance in the Kohnstamm-positive subjects; but rather that they could be diminished sufficiently not to interfere with arm-levitation.",
+  "Example sentence: These trumps were more touching than they were anything else, and seemed to imply that the nights were long, her children ungrateful, and her marriage bewilderingly threadbare.",
+  "Example sentence: `` They cannot do otherwise than live in dread of each other since these weapons imply the possibility of such grisly surprise attack.",
+  "Example sentence: In mentioning this under `` salvation reconsidered '' I do not mean to imply that Roman Catholic doctrine has changed in this area but rather that it has become clearer to the world community what that doctrine is.",
+  "Example sentence: We are left helpless to cope with it because we do not dare speak of it as anything real for fear that to do so would imply a commitment to that which has already been discredited and proved false.",
+  "Example sentence: I do not mean to imply that Christians have adopted the liberal assumption, so prevalent in Hinduism, that all religions are merely different paths to the same summit.",
+  "Example sentence: Those who favor placing trade unions under anti-trust laws imply that they are advocating a brand new reform."
+ ],
+ "labels": [
+  "imply.v.02",
+  "imply.v.02",
+  "imply.v.02",
+  "imply.v.02",
+  "imply.v.01",
+  "imply.v.01",
+  "imply.v.01",
+  "imply.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: operator
+dataset: data/raw/semcor_words/operator.json
+senses:
+  - operator.n.01
+  - operator.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

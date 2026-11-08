@@ -1,0 +1,7 @@
+word: work
+dataset: data/raw/semcor_words/work.json
+senses:
+  - work.n.01
+  - work.v.01
+n_per_sense: 12
+prefix: "Example sentence: "

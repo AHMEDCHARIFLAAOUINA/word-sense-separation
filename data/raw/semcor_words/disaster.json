@@ -1,0 +1,41 @@
+{
+ "target_word": "disaster",
+ "sentences": [
+  "Example sentence: In agriculture, for example, despite the advances in biology, elaborate rituals tend to persist along with a continued sense of the imminence of some natural disaster.",
+  "Example sentence: And yet we obviously also believe that the avoidance of the disaster depends in some obscure or at least uncertain way on the details of how we behave.",
+  "Example sentence: The cycle of disaster starts the moment they touch any belonging of ours, and dogs them unto the forty-fifth generation.",
+  "Example sentence: She had caught him off guard, no preparation, nothing certain but that ahead lay some kind of disaster.",
+  "Example sentence: For three years, since the liquor territorial conference, Torrio had, with his elastic patience, and because he knew that retaliation could cause only violent warfare and disaster to business, tolerated O ' Banion's impudent double-crossing.",
+  "Example sentence: Since the 1946 disaster there have been 15 tsunami in the Pacific, but only one was of any consequence.",
+  "Example sentence: The role of an earthquake in starting the destruction of whole cities is tremendously frightening, but fire may actually be the principal agent in a particular disaster.",
+  "Example sentence: What disaster struck the Discovery during those seventeen months?",
+  "Example sentence: The tsunami warning system developed since the 1946 disaster in Hawaii relies mainly on a simple and ingenious instrument devised by Commander C. K. Green of the Coast and Geodetic Survey staff.",
+  "Example sentence: The release, the freedom, involved in loving another is either terribly difficult or else absolutely impossible; and the motion toward it brings disaster."
+ ],
+ "labels": [
+  "catastrophe.n.02",
+  "catastrophe.n.02",
+  "catastrophe.n.02",
+  "catastrophe.n.02",
+  "catastrophe.n.02",
+  "calamity.n.01",
+  "calamity.n.01",
+  "calamity.n.01",
+  "calamity.n.01",
+  "calamity.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: self
+dataset: data/raw/semcor_words/self.json
+senses:
+  - self.n.01
+  - self.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

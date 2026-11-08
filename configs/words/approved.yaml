@@ -1,0 +1,7 @@
+word: approved
+dataset: data/raw/semcor_words/approved.json
+senses:
+  - approve.v.01
+  - approve.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

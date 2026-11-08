@@ -1,0 +1,7 @@
+word: expected
+dataset: data/raw/semcor_words/expected.json
+senses:
+  - expect.v.01
+  - ask.v.04
+n_per_sense: 9
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "newspapers",
+ "sentences": [
+  "Example sentence: It has flared up periodically on the front pages of newspapers in communities divided over birth prevention regulations in municipal hospitals and health and family welfare agencies.",
+  "Example sentence: Mr. Dryfoos ' outstanding career as a journalist guarantees that the high standards which have made the Times one of the world's great newspapers will be maintained.",
+  "Example sentence: These narratives of coarse action and crude language appeared first in local newspapers, as a rule, and later found their way between book covers, though rarely into the planters ' libraries beside the morocco bound volumes of Horace, Mr. Addison, Mr. Pope, and Sir Walter Scott.",
+  "Example sentence: Andy did not see the newspapers the next day.",
+  "Example sentence: A couple of days later a balletomane told me he had telephoned Allied Arts for ticket information and was told `` the newspapers had made a mistake ''.",
+  "Example sentence: The general tone of articles appearing in such important newspapers as the Manchester Guardian and the Sunday Observer implies a kindly recognition that the Catholic Church is now at least of equal stature in England with the Protestant churches.",
+  "Example sentence: Davis commenced his remarks by an allusion to the general feeling of opposition which the meeting had encountered from many of the citizens and all the newspapers of the city.",
+  "Example sentence: New Yorkers were kept informed of scores by reporters who telegraphed fifteen to twenty thousand words daily to the metropolitan newspapers.",
+  "Example sentence: The two major newspapers in Providence continued, throughout the crisis, to accuse each other of misrepresenting the facts and attempting to falsify history.",
+  "Example sentence: In the eastern section of the state the newspapers ' reaction to Brown's trial and sentence were basically identical."
+ ],
+ "labels": [
+  "newspaper.n.01",
+  "newspaper.n.01",
+  "newspaper.n.01",
+  "newspaper.n.01",
+  "newspaper.n.01",
+  "newspaper.n.02",
+  "newspaper.n.02",
+  "newspaper.n.02",
+  "newspaper.n.02",
+  "newspaper.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

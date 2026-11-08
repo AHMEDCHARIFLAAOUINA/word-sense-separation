@@ -1,0 +1,7 @@
+word: covered
+dataset: data/raw/semcor_words/covered.json
+senses:
+  - cover.v.01
+  - cover.v.02
+n_per_sense: 11
+prefix: "Example sentence: "

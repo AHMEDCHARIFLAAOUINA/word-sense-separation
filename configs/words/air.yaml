@@ -1,0 +1,7 @@
+word: air
+dataset: data/raw/semcor_words/air.json
+senses:
+  - air.n.01
+  - air.n.02
+n_per_sense: 12
+prefix: "Example sentence: "

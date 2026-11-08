@@ -1,0 +1,47 @@
+{
+ "target_word": "certain",
+ "sentences": [
+  "Example sentence: In your opinion, who is this E. Andrews on the ' certain ' list ``?",
+  "Example sentence: Kayabashi must feel fairly certain of his victory in order to make a visit like this, a trip which could be so easily misinterpreted by the people in the village.",
+  "Example sentence: There had been a good second or two during which my muffler had been blowing out, and now I was certain I'd seen her somewhere before.",
+  "Example sentence: She may not have been exact on this number, but others here feel quite certain that the percentage would be less than ten.",
+  "Example sentence: Are you carefully policing wash-up time and rest periods to be certain that all other time is productive?",
+  "Example sentence: Nor can anyone be certain that Prokofieff would have done better, or even as well, under different circumstances.",
+  "Example sentence: It is almost certain that some of these, usually a trifle smaller than the honeybees, are andrenas or mining bees.",
+  "Example sentence: One thing was certain - his method was effective, so effective that after a time even the warning notices were often unnecessary.",
+  "Example sentence: We should encourage the governments to develop their own technical assistance to communities, state and provincial governments, rural communities, and other smaller groups, making certain that no important segment of the economy is neglected.",
+  "Example sentence: At greater distances from the sun, the situation is still less certain.",
+  "Example sentence: It was not even certain the shot had been fired from either hotel.",
+  "Example sentence: It was certain now that Jess was in the house, but also, presumably, was Stacey Black."
+ ],
+ "labels": [
+  "certain.a.02",
+  "certain.a.02",
+  "certain.a.02",
+  "certain.a.02",
+  "certain.a.02",
+  "certain.a.02",
+  "certain.a.03",
+  "certain.a.03",
+  "certain.a.03",
+  "certain.a.03",
+  "certain.a.03",
+  "certain.a.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

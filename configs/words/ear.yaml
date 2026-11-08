@@ -1,0 +1,7 @@
+word: ear
+dataset: data/raw/semcor_words/ear.json
+senses:
+  - ear.n.01
+  - ear.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

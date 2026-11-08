@@ -1,0 +1,7 @@
+word: room
+dataset: data/raw/semcor_words/room.json
+senses:
+  - room.n.01
+  - room.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "aegean",
+ "sentences": [
+  "Example sentence: Though the spread of this type of decoration in the Aegean has not yet been precisely determined, it seems to appear first in the Cyclades, which were among the leading exporters of pottery throughout the century.",
+  "Example sentence: The pace could now be accelerated, for the inhabitants of the Aegean stood on firm ground.",
+  "Example sentence: The focus of novelty in this world now lay in the south-eastern districts of the Greek mainland, and by 800 virtually the entire Aegean, always excepting its northern shores, had accepted the Geometric style of pottery.",
+  "Example sentence: By 800 B.C. the Aegean was an area of common tongue and of common culture.",
+  "Example sentence: The growing contacts between Aegean and Orient are also a phase which should be linked primarily to the remarkable broadening of Hellenic culture after 750.",
+  "Example sentence: These are the centuries in which the inhabitants of the Aegean world settled firmly into their minds and into their institutions the foundations of the Hellenic outlook, independent of outside forces.",
+  "Example sentence: The antecedents of Dipylon vases and of the Iliad lie in the Aegean past.",
+  "Example sentence: Those modern scholars who urge that we must keep in mind the fundamental continuity of Aegean development from earliest times - granted occasional irruptions of peoples and ideas from outside - are correct; but all too many observers have been misled by this fact into minimizing the degree of change which took place in the early first millennium.",
+  "Example sentence: In this process the Minoan Mycenaean inheritance had been transmuted or finally rejected; the Aegean world which had existed before 1000 differed from that which rises more clearly in our vision after 800.",
+  "Example sentence: The first slanting rays of the new day cannot yet dispel all the dark shadows which lie across the Aegean world; but our evidence grows considerably in variety and shows more unmistakably some of the lines of change."
+ ],
+ "labels": [
+  "aegean.n.01",
+  "aegean.n.01",
+  "aegean.n.01",
+  "aegean.n.01",
+  "aegean.n.01",
+  "aegean.a.01",
+  "aegean.a.01",
+  "aegean.a.01",
+  "aegean.a.01",
+  "aegean.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

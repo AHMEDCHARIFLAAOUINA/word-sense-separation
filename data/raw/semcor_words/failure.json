@@ -1,0 +1,53 @@
+{
+ "target_word": "failure",
+ "sentences": [
+  "Example sentence: Only confusion, failure and anarchy result when the effort is made to impose upon the civil authority the impossible task of policing private homes to preclude the possibility of sin.",
+  "Example sentence: If it failed on occasion to elect its candidates for general state offices by majorities, the failure was due to a lingering remnant of the Know-Nothing party, which called itself the American Republican party.",
+  "Example sentence: This was the bitter end, and Hudson seemed to know he was destined to failure.",
+  "Example sentence: Any failure to file timely returns or make estimated tax payments when due must be fully explained.",
+  "Example sentence: Progress is impeded by psychological inhibitions to effective action among those in power and by a failure on their part to understand how local resources, human and material, can be mobilized to achieve the national goals of modernization already symbolically accepted.",
+  "Example sentence: Skeptics may deny the more startling phenomena of dreams as things they have never personally observed, but failure to wonder at their basic mystery is outright avoidance of routine evidence.",
+  "Example sentence: In fact, one of the major reasons for the failure of the ill-starred expedition appears to have been a lack of full information on the extent to which Cuba has been getting this Russian military equipment.",
+  "Example sentence: Voting for one picture may be called `` success '', for the other `` failure ''.",
+  "Example sentence: And I suggest further that the main cause of the trouble we are in has been the failure of American policy-makers, ever since we assumed free world leadership in 1945, to deal with this problem realistically and seriously.",
+  "Example sentence: In the marksmanship example, a trial consists of `` one round shot at a target '' with outcome either one bull's-eye (success) or none (failure).",
+  "Example sentence: Each of the n trials is either a success or a failure.",
+  "Example sentence: `` Success '' and `` failure '' are just convenient labels for the two categories of outcomes when we talk about binomial trials in general.",
+  "Example sentence: More generally, suppose that an experiment consists of a number of independent trials, that each trial results in either a `` success '' or a `` non success '' (`` failure ''), and that the probability of success remains constant from trial to trial.",
+  "Example sentence: The reason for the failure of these treatments to eliminate nonspecific staining in the conjugates in our system is not known."
+ ],
+ "labels": [
+  "failure.n.01",
+  "failure.n.01",
+  "failure.n.01",
+  "failure.n.01",
+  "failure.n.01",
+  "failure.n.01",
+  "failure.n.01",
+  "failure.n.02",
+  "failure.n.02",
+  "failure.n.02",
+  "failure.n.02",
+  "failure.n.02",
+  "failure.n.02",
+  "failure.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

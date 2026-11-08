@@ -1,0 +1,7 @@
+word: limit
+dataset: data/raw/semcor_words/limit.json
+senses:
+  - limit.n.01
+  - restrict.v.03
+n_per_sense: 6
+prefix: "Example sentence: "

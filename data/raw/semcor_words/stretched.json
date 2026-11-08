@@ -1,0 +1,41 @@
+{
+ "target_word": "stretched",
+ "sentences": [
+  "Example sentence: Their wires stretched out into infinity.",
+  "Example sentence: At the slope's base coils of concertina stretched out of eye range like a wild tangle of children's hoops, stopped simultaneously, weirdly poised as if awaiting the magic of the child's touch to start them all rolling again.",
+  "Example sentence: What did it matter to him that the park at the foot of Ash Road stretched beneath elevated trains that roared from the stucco station into the city's center at half-hour intervals?",
+  "Example sentence: On the forward slope in front of his own post stretched two rows of barbed wire.",
+  "Example sentence: The grant, which stretched southward to Lake Traverse - the headwaters of the Red - was made in May, 1811, and by October of that year a small group of Scots was settling for the winter at York Factory on Hudson Bay.",
+  "Example sentence: The way his red rubber lips were stretched across his pearly little teeth I though he was only having a little joke, but, no, he wanted me to bend down from the roar of wind so he could roar something into my ear.",
+  "Example sentence: `` Gyp'll be holdin ' forth in some bar if he's here at all '', Cobb declared, glancing along the street as they stretched their legs.",
+  "Example sentence: She rubbed her eyes and stretched, then sat up, her hands going to her hair.",
+  "Example sentence: He stretched a pale hand out to the scattered papers on his desk.",
+  "Example sentence: He found an empty bench, opened a newspaper, and stretched his legs before him."
+ ],
+ "labels": [
+  "stretch.v.01",
+  "stretch.v.01",
+  "stretch.v.01",
+  "stretch.v.01",
+  "stretch.v.01",
+  "stretch.v.02",
+  "stretch.v.02",
+  "stretch.v.02",
+  "stretch.v.02",
+  "stretch.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

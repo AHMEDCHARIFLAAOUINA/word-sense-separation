@@ -1,0 +1,7 @@
+word: enough
+dataset: data/raw/semcor_words/enough.json
+senses:
+  - enough.r.01
+  - enough.n.01
+n_per_sense: 12
+prefix: "Example sentence: "

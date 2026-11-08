@@ -1,0 +1,7 @@
+word: dance
+dataset: data/raw/semcor_words/dance.json
+senses:
+  - dance.v.01
+  - dance.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

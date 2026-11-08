@@ -1,0 +1,7 @@
+word: souls
+dataset: data/raw/semcor_words/souls.json
+senses:
+  - soul.n.01
+  - person.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

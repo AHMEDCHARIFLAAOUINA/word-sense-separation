@@ -1,0 +1,47 @@
+{
+ "target_word": "measured",
+ "sentences": [
+  "Example sentence: Relative incident light intensities were measured with a thermopile potentiometer system.",
+  "Example sentence: Space in any form is completely measured by the three dimensions.",
+  "Example sentence: In any case, Dr. Calderone remarks, such problems are a couple's own affair, and cann't always be measured by a general yardstick.",
+  "Example sentence: The serum was measured volumetrically and subsequently dialyzed in the cold for at least 24 hr against three to four changes, approximately 750 ml each, of `` starting buffer ''.",
+  "Example sentence: Improvement can be measured by the lessening distance between toes and head.",
+  "Example sentence: But to the families it serves, their help cannot be measured.",
+  "Example sentence: The arc voltage was measured with a voltmeter whose terminals were connected to the anode and cathode holders.",
+  "Example sentence: The mean temperature of this region was approximated by the temperature measured halfways between the edge of the hot spot and the rim of the plug.",
+  "Example sentence: For each mass flow rate the arc voltage was measured.",
+  "Example sentence: He has measured the skinfolds (the fleshy areas under the shoulder blades) of Neapolitan firemen, studied the metabolism of Finnish woodcutters, analyzed the `` mealie-meal '' eaten by Capetown coloreds, and experimented on Minneapolis businessmen.",
+  "Example sentence: Outputs of the two systems are measured by a pulse timing circuit and a resistance bridge, followed by a simple analogue computer which feeds a multichannel recorder.",
+  "Example sentence: When tire size is measured in this manner a constant of 168 is used in the formula."
+ ],
+ "labels": [
+  "quantify.v.02",
+  "quantify.v.02",
+  "quantify.v.02",
+  "quantify.v.02",
+  "quantify.v.02",
+  "quantify.v.02",
+  "measure.v.01",
+  "measure.v.01",
+  "measure.v.01",
+  "measure.v.01",
+  "measure.v.01",
+  "measure.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

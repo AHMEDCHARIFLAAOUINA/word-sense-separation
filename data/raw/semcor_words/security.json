@@ -1,0 +1,35 @@
+{
+ "target_word": "security",
+ "sentences": [
+  "Example sentence: These gentlemen are calling for a resumption of testing - in the atmosphere - on the greatest possible scale, all in the name of national security.",
+  "Example sentence: The country is committed to the doctrine of security by military means.",
+  "Example sentence: Capable as their minds may be in some directions, these guardians of the nation's security are incapable of learning, or even of observing.",
+  "Example sentence: These strengths are considered adequate to meet the essential roles and missions of the reserves in support of our national security objectives.",
+  "Example sentence: Economic security and cultural opportunities, incisive idioms, social fermentations for a new national ideology - a sympathetic public and a large body of performers especially trained to fulfill his purpose.",
+  "Example sentence: Of course, it must not be forgotten that in achieving this historical feat, Prokofieff had the vast resources of his people behind him; time and economic security; symphony orchestras, opera and ballet companies; choruses, chamber music ensembles; soloists; recordings; broadcastings; television; large and eager audiences.",
+  "Example sentence: Bankers who had been reluctant to lend without better security than the house itself got that security from the U. S. government; householders who had been unable to pick up the burden of short-term high interest mortgages found they could borrow for twenty-five years at 4 per cent, under government aegis.",
+  "Example sentence: Part-time farming gives a measure of security if the regular job is lost, provided the farm is owned free of debt and furnishes enough income to meet fixed expenses and minimum living costs."
+ ],
+ "labels": [
+  "security.n.01",
+  "security.n.01",
+  "security.n.01",
+  "security.n.01",
+  "security.n.02",
+  "security.n.02",
+  "security.n.02",
+  "security.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

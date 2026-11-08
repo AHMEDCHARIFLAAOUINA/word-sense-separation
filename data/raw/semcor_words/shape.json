@@ -1,0 +1,35 @@
+{
+ "target_word": "shape",
+ "sentences": [
+  "Example sentence: Some time in 1912, Picasso cut out and folded a piece of paper in the shape of a guitar; to this he glued and fitted other pieces of paper and four taut strings, thus creating a sequence of flat surfaces in real and sculptural space to which there clung only the vestige of a picture plane.",
+  "Example sentence: There are no data published in the literature on the shape of low viscosity drops to confirm the above formulas.",
+  "Example sentence: He was oblivious of the form of the object actually being viewed, precisely because he could not assign it to a visual shape, already learned and held in visual memory, as persons of normal vision do.",
+  "Example sentence: Spectra were obtained from a powdered sample having the shape of a right circular cylinder with a height to diameter ratio of 4: 1.",
+  "Example sentence: But her conscious need was to break away from constricting patterns of form, a need to let the experience shape itself.",
+  "Example sentence: We will now speak of the ways in which it helped shape the ideals of the country and of the manner in which it stimulated efforts to attain those ideals through reform movements, through programmes for bringing the collective life to the nation to conformity to Christian standards, and through leaders in the government.",
+  "Example sentence: Their meditations were approaching a violent cusp that would shape Martian art for many millennia.",
+  "Example sentence: Until professional planners meet this situation squarely and update the concepts of zoning in a manner acceptable to the courts, I hope we in East Greenwich can continue to shape our own destiny."
+ ],
+ "labels": [
+  "shape.n.01",
+  "shape.n.01",
+  "shape.n.01",
+  "shape.n.01",
+  "determine.v.02",
+  "determine.v.02",
+  "determine.v.02",
+  "determine.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

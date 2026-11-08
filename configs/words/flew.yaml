@@ -1,0 +1,7 @@
+word: flew
+dataset: data/raw/semcor_words/flew.json
+senses:
+  - fly.v.01
+  - fly.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

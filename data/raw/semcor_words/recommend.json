@@ -1,0 +1,35 @@
+{
+ "target_word": "recommend",
+ "sentences": [
+  "Example sentence: But he did recommend that President Kennedy state clearly that if Communist countries shipped any further arms to Cuba that it would not be tolerated.",
+  "Example sentence: I recommend it ''.",
+  "Example sentence: But questions with which committee members taunted bankers appearing as witnesses left little doubt that they will recommend passage of it.",
+  "Example sentence: (We do, however, recommend those patented covers to prevent both people and junk - flora and fauna generally - from accidentally wintering in the pool.)",
+  "Example sentence: This brief resume hardly does the book justice, but I heartily recommend it to all those who are engages with the major problems of our time.",
+  "Example sentence: It has a great many assets to recommend it and if you haven't made avocado a part of your diet yet, you really should.",
+  "Example sentence: Good taste and versatility, plus safety from spray poisons would be enough to recommend the frequent use of such a fruit, even if its nutritional values were limited.",
+  "Example sentence: It would be hard to find anything more equivocal than: `` I cannot recommend him too highly ''."
+ ],
+ "labels": [
+  "recommend.v.01",
+  "recommend.v.01",
+  "recommend.v.01",
+  "recommend.v.01",
+  "commend.v.04",
+  "commend.v.04",
+  "commend.v.04",
+  "commend.v.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

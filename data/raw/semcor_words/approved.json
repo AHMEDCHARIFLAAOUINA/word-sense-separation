@@ -1,0 +1,35 @@
+{
+ "target_word": "approved",
+ "sentences": [
+  "Example sentence: The commission, meeting for the first time with both of its newly-appointed commissioners, Roy Webster, of Hood River, and Dr. Ennis Keizer, of North Bend, approved a year's contract for a consultant in the data processing department who has been the center of considerable controversy in the past.",
+  "Example sentence: The payroll tax would actually rise to 7.5 per cent starting Jan. 1, 1963, if the plan is approved, because the levy is already scheduled to go up by 1 per cent on that date to pay for other social security costs.",
+  "Example sentence: Senators unanimously approved Thursday the bill of Sen. George Parkhouse of Dallas authorizing establishment of day schools for the deaf in Dallas and the four other largest counties.",
+  "Example sentence: The authority of the Secretary of the Interior under this joint resolution to construct, operate, and maintain demonstration plants shall terminate upon the expiration of twelve years after the date on which this joint resolution is approved.",
+  "Example sentence: It is not through space nor time that the time machine most approved by science fiction must travel for a visit to the permanent prehistoric past, or the ever existent past fantasy future.",
+  "Example sentence: John Templeman `` Approved, Timothy Palmer '' This chain bridge proved less durable than the wooden arch on the Salisbury end.",
+  "Example sentence: Whereas persons of eighth grade education or less were more apt to avoid or be shocked by nudity, those educated beyond the eighth grade increasingly welcomed and approved nudity in sexual relations.",
+  "Example sentence: `` Your voice is delightful '', he approved with a warm smile."
+ ],
+ "labels": [
+  "approve.v.01",
+  "approve.v.01",
+  "approve.v.01",
+  "approve.v.01",
+  "approve.v.02",
+  "approve.v.02",
+  "approve.v.02",
+  "approve.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

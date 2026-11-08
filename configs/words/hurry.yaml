@@ -1,0 +1,7 @@
+word: hurry
+dataset: data/raw/semcor_words/hurry.json
+senses:
+  - travel_rapidly.v.01
+  - rush.v.04
+n_per_sense: 5
+prefix: "Example sentence: "

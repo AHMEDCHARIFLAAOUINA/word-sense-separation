@@ -1,0 +1,35 @@
+{
+ "target_word": "perception",
+ "sentences": [
+  "Example sentence: What Hume calls `` sensation '' is what Whitehead calls `` perception in the mode of presentational immediacy '' which is a sophisticated abstraction from perception in the mode of causal efficacy.",
+  "Example sentence: As long as perception is seen as composed only of isolated sense data, most of the quality and interconnectedness of existence loses its objectivity, becomes an invention of consciousness, and the result is a philosophical scepticism.",
+  "Example sentence: The opening paragraph of the chapter titled The Theory Of Representative Perception, in the book Philosophies Of Science by Albert G. Ramsperger says, `` passed on to the brain, and there, by some unexplained process, it causes the mind to have a perception ''.",
+  "Example sentence: As in the theory of perception, established in psycho-physiology, the eye is recognized as an integral part of the brain.",
+  "Example sentence: But to say that at a moment in history something is new is not necessarily to say that it is modern; and for this statement the best evidence comes within the five years following the publication of Utopia, when Martin Luther elaborates a new perception of the nature of the Divine's encounter with man.",
+  "Example sentence: Father Murray goes back to the Declaration of Independence, too, though I may add, with considerably more historical perception.",
+  "Example sentence: There was the freshness of color, the freedom of perception, the lack of self-consciousness, but with a twist that made the forms leap from the page and smack you in the eye.",
+  "Example sentence: New, indeed, is Luther's perception, but not modern, as anyone knows who has ever tried to make intelligible to modern students what Luther was getting at."
+ ],
+ "labels": [
+  "percept.n.01",
+  "percept.n.01",
+  "percept.n.01",
+  "percept.n.01",
+  "perception.n.02",
+  "perception.n.02",
+  "perception.n.02",
+  "perception.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

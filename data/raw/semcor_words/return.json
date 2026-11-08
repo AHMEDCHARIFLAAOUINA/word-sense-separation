@@ -1,0 +1,47 @@
+{
+ "target_word": "return",
+ "sentences": [
+  "Example sentence: Since you contributed more than half of his support, you may also claim an exemption for him on your return.",
+  "Example sentence: If your computation on Form 1040 or Form 1040 A shows you owe additional tax, it should be remitted with your return unless you owe less than $1, in which case it is forgiven.",
+  "Example sentence: Since he had gross income of $600 or more, he must file a return in which he may claim an exemption deduction of $600.",
+  "Example sentence: You must attach a statement to your return, if you take advantage of this automatic extension, showing that you were in Alaska or were outside the United States or Puerto Rico on April 15 or other due date.",
+  "Example sentence: Stanley had filled out the return and because, when he was finished, it was close to the lunch hour, he had politely asked Kitti to join him, never expecting her to accept.",
+  "Example sentence: You should make any request for an extension early so that if it is refused, your return may still be on time.",
+  "Example sentence: The Jews had been banished from England in 1290 and were not permitted to return before 1655, when Shakespeare had been dead for thirty-nine years.",
+  "Example sentence: For it is clear that the total number of ordinary intersections of C and **f must be even (otherwise, starting in the interior of C, **f could not finally return to the interior), and the center of rotation at t is the argument of the function, not a value.",
+  "Example sentence: The bridegroom's children were here for the Christmas holidays and cann't return.",
+  "Example sentence: She wasn't quite sure that I felt enough remorse about my drinking, or that I would not return to it once I was out and on my own again.",
+  "Example sentence: The government forbade Hudson to return to Amsterdam with his ship.",
+  "Example sentence: We shall return to these statements and deal with them more fully as the evidence for them accumulates."
+ ],
+ "labels": [
+  "tax_return.n.01",
+  "tax_return.n.01",
+  "tax_return.n.01",
+  "tax_return.n.01",
+  "tax_return.n.01",
+  "tax_return.n.01",
+  "return.v.01",
+  "return.v.01",
+  "return.v.01",
+  "return.v.01",
+  "return.v.01",
+  "return.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

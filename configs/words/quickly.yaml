@@ -1,0 +1,7 @@
+word: quickly
+dataset: data/raw/semcor_words/quickly.json
+senses:
+  - quickly.r.01
+  - promptly.r.01
+n_per_sense: 13
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: happened
+dataset: data/raw/semcor_words/happened.json
+senses:
+  - happen.v.01
+  - happen.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

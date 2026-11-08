@@ -1,0 +1,53 @@
+{
+ "target_word": "threatened",
+ "sentences": [
+  "Example sentence: But what the elements could not do was seriously threatened when Brigadier General William E. (Grumble) Jones reached Philippi while on the famous Jones-Imboden raid in May, 1863.",
+  "Example sentence: Hardly had Mrs. Roebuck driven off when a rusty pick-up truck, father or grandfather of Senor `` Moriarty's '' Ford sedan, came screeching to a dust swirling stop, and a brown face appeared, its nose threatened by shards of what had once been the side window.",
+  "Example sentence: As the historic processes of modernization gradually gain momentum, their cohesion will be threatened by divisive forces, the gaps between rulers and subjects, town and country, will widen; new aspirants for power will emerge whose ambitions far exceed their competence; old rulers may lose their nerve and their sense of direction.",
+  "Example sentence: We were there at a moment when the situation in Laos threatened to ignite another war among the world's giants.",
+  "Example sentence: I have done all this for the freedom of the individuals concerned and also for the states which have been threatened by Communist domination '.",
+  "Example sentence: With world peace constantly being threatened, most of us regard the future skeptically, and even with fear.",
+  "Example sentence: The fact is incontestable: that liberal world of Unitarian Boston was narrow-minded, intellectually sterile, smug, afraid of the logical consequences of its own mild ventures into iconoclasm, and quite prepared to resort to hysterical repressions when its brittle foundations were threatened.",
+  "Example sentence: There was a brief interruption while one of O ' Banion's men jerked out both his guns and threatened to shoot a waiter who was pestering him for a tip.",
+  "Example sentence: The army leaders threatened to form a new military government if the parties failed to sign an eight point protocol agreeing on Gen. Gursel as president.",
+  "Example sentence: The Atlanta Negro student movement renewed its demands for movie theater integration Friday and threatened picketing and `` stand-ins '' if negotiations failed.",
+  "Example sentence: (In the heat of the anti-Colmer drive last week, Judge Smith threatened reprisal against Powell.",
+  "Example sentence: He had cursed at them and threatened them.",
+  "Example sentence: William Lewis made the rounds of all who lived near him again, that August morning after a bullet landed at his feet, and once more he accused and threatened everyone.",
+  "Example sentence: Both Cook's and Russell's lives were threatened by the Mexicans following the killing, but the company officers felt that in the end, it would serve to quiet them despite their immediate emotion."
+ ],
+ "labels": [
+  "endanger.v.01",
+  "endanger.v.01",
+  "endanger.v.01",
+  "endanger.v.01",
+  "endanger.v.01",
+  "endanger.v.01",
+  "endanger.v.01",
+  "threaten.v.02",
+  "threaten.v.02",
+  "threaten.v.02",
+  "threaten.v.02",
+  "threaten.v.02",
+  "threaten.v.02",
+  "threaten.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "years",
+ "sentences": [
+  "Example sentence: Mark easily looked years older than himself, settled, his world comfortably categorized.",
+  "Example sentence: Another veteran telephone operator was Edith Fleming Blackmer, who had been in the office forty years at the time of her death in 1960.",
+  "Example sentence: Though this sculpture must take place thirty-three years after her moment of decision, he could not conceive of her as a woman in her mid-fifties, old, wrinkled, broken in body and face by labor or worry.",
+  "Example sentence: William Hitchcock, who retired in 1938, was a veteran of thirty-four years ' local service.",
+  "Example sentence: There I was a retired wobbly and structural iron worker who'd never gouged a cent off a fellow worker in my thirty years in the movement.",
+  "Example sentence: `` I've been after her for years '', Needham said, `` but I've never been able to get anywhere until the last few days ''.",
+  "Example sentence: For years the United States had been trying to get these countries to exclude Castro's representative from secret military talks.",
+  "Example sentence: The other charge was that America's political position in the world has progressively deteriorated in recent years.",
+  "Example sentence: The toilet hadn't had a sincere scrubbing in years and there were things written on the walls of the little boxed in place because you couldn't keep the public out - entirely.",
+  "Example sentence: This favorable image of America in the minds of Russian men and women is still there despite years of energetic anti American propaganda ''."
+ ],
+ "labels": [
+  "old_age.n.01",
+  "old_age.n.01",
+  "old_age.n.01",
+  "old_age.n.01",
+  "old_age.n.01",
+  "long_time.n.01",
+  "long_time.n.01",
+  "long_time.n.01",
+  "long_time.n.01",
+  "long_time.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "class",
+ "sentences": [
+  "Example sentence: Do this exercise six times each class period.",
+  "Example sentence: I've always admired him, and when I heard he was taking a few pupils, I went to him and joined his class ''.",
+  "Example sentence: Then epistolatory me was a foreign correspondent dispatching exciting cables and communiques, full of dash and wit and glamor, quoting from the books I read, imitating the grand styles of the authors recommended by a teacher in whose special, after school class I was enrolled.",
+  "Example sentence: It was fantastic to turn from the seven men in shackles to the wardroom, where a class of apprentices awaited him.",
+  "Example sentence: Consultation with architects, clients, real estate men, fabric houses and furniture companies is essential to the proper development of class problems just as in actual work.",
+  "Example sentence: On November 13, 1952, he was classified in Class 1, - A.",
+  "Example sentence: This is particularly true of highly charged ions, especially those ions which fall into the class of polyelectrolytes.",
+  "Example sentence: He was elected to the National Academy of Design as an Associate in the oil class in 1931 (after receiving his first Ranger Fund Purchase Prize at the Academy in 1930), and elevated to Academicianship in 1940.",
+  "Example sentence: The comic indefinite comprises an extensive class of comedy.",
+  "Example sentence: As is well known, detergent actives belong to the chemical class consisting of moderately high molecular weight and highly polar molecules which exhibit the property of forming micelles in solution."
+ ],
+ "labels": [
+  "class.n.02",
+  "class.n.02",
+  "class.n.02",
+  "class.n.02",
+  "class.n.02",
+  "class.n.01",
+  "class.n.01",
+  "class.n.01",
+  "class.n.01",
+  "class.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

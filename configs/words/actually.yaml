@@ -1,0 +1,7 @@
+word: actually
+dataset: data/raw/semcor_words/actually.json
+senses:
+  - actually.r.01
+  - actually.r.02
+n_per_sense: 9
+prefix: "Example sentence: "

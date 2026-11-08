@@ -1,0 +1,7 @@
+word: ahead
+dataset: data/raw/semcor_words/ahead.json
+senses:
+  - ahead.r.01
+  - ahead.r.02
+n_per_sense: 5
+prefix: "Example sentence: "

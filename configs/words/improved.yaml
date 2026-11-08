@@ -1,0 +1,7 @@
+word: improved
+dataset: data/raw/semcor_words/improved.json
+senses:
+  - better.v.02
+  - better.v.03
+n_per_sense: 4
+prefix: "Example sentence: "

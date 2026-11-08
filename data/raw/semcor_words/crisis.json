@@ -1,0 +1,41 @@
+{
+ "target_word": "crisis",
+ "sentences": [
+  "Example sentence: The two major newspapers in Providence continued, throughout the crisis, to accuse each other of misrepresenting the facts and attempting to falsify history.",
+  "Example sentence: Such identification comes for each group in each crisis by rewriting history into legend and developing appropriate national heroes.",
+  "Example sentence: At this time of crisis in our Nation's commuter railroads, a new threat to the continued operations of the New York Central has appeared in the form of the Chesapeake + Ohio Railroad's proposal for control of the Baltimore + Ohio railroads.",
+  "Example sentence: A dead armadillo, the sole occupant of the stage, symbolizes the crisis and destruction of the Old Order.",
+  "Example sentence: Arnold Lodley and Michael Perse were like the rest - lukewarm, ready to swing against Hudson in a crisis.",
+  "Example sentence: Piepsam calls the cyclist `` cur '' and `` puppy '' among other things, and at the crisis of his fit a little fox-terrier stands before him and howls into his face.",
+  "Example sentence: At the moment of crisis it had no more depth than an old school tie.",
+  "Example sentence: It is worth dwelling in some detail on the crisis of this story, because it brings together a number of characteristic elements and makes of them a curious, riddling compound obscurely but centrally significant for Mann's work.",
+  "Example sentence: The Ifni crisis in the fall of 1957 postponed further consideration of elections, but French consultants were called in and notices of further investigation appeared from time to time.",
+  "Example sentence: It had just suffered a calamity, the final crisis in a long series of calamities."
+ ],
+ "labels": [
+  "crisis.n.01",
+  "crisis.n.01",
+  "crisis.n.01",
+  "crisis.n.01",
+  "crisis.n.01",
+  "crisis.n.02",
+  "crisis.n.02",
+  "crisis.n.02",
+  "crisis.n.02",
+  "crisis.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

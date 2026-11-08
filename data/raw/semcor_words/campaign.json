@@ -1,0 +1,35 @@
+{
+ "target_word": "campaign",
+ "sentences": [
+  "Example sentence: As part of the same arrangement, Torrio had, in the spirit of peace and good will, and in exchange for armed support in the April election campaign, bestowed upon O ' Banion a third share in the Hawthorne Smoke Shop proceeds and a cut in the Cicero beer trade.",
+  "Example sentence: The campaign leading to the election was not so quiet, however.",
+  "Example sentence: The contention needs to be formulated with much greater precision than it ever was during the campaign, but once that has been done, I fail to see how any serious student of world affairs can quarrel with it.",
+  "Example sentence: During the election campaign, both candidates, Davis and Bush, reportedly received anonymous telephone calls.",
+  "Example sentence: The Mayor is finding it awkward to campaign against his own record.",
+  "Example sentence: Hughes said Monday, `` It is the apparent intention of the Republican Party to campaign on the carcass of what they call Eisenhower Republicanism, but the heart stopped beating and the lifeblood congealed after Eisenhower retired.",
+  "Example sentence: The local Istiqlal and U.M.C.I.A. offices did not campaign and lost heavily.",
+  "Example sentence: But I shall campaign on the Meyner record to meet the needs of the years ahead ''."
+ ],
+ "labels": [
+  "political_campaign.n.01",
+  "political_campaign.n.01",
+  "political_campaign.n.01",
+  "political_campaign.n.01",
+  "campaign.v.01",
+  "campaign.v.01",
+  "campaign.v.01",
+  "campaign.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

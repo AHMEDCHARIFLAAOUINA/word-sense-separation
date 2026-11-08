@@ -1,0 +1,7 @@
+word: impact
+dataset: data/raw/semcor_words/impact.json
+senses:
+  - impact.n.01
+  - impact.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

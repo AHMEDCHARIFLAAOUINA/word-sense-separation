@@ -1,0 +1,7 @@
+word: engaged
+dataset: data/raw/semcor_words/engaged.json
+senses:
+  - prosecute.v.03
+  - absorb.v.09
+n_per_sense: 4
+prefix: "Example sentence: "

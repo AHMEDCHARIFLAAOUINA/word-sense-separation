@@ -1,0 +1,7 @@
+word: gathered
+dataset: data/raw/semcor_words/gathered.json
+senses:
+  - gather.v.01
+  - meet.v.07
+n_per_sense: 6
+prefix: "Example sentence: "

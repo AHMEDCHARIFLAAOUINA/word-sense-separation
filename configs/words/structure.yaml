@@ -1,0 +1,7 @@
+word: structure
+dataset: data/raw/semcor_words/structure.json
+senses:
+  - structure.n.01
+  - structure.n.02
+n_per_sense: 13
+prefix: "Example sentence: "

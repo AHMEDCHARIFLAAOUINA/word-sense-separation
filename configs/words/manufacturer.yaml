@@ -1,0 +1,7 @@
+word: manufacturer
+dataset: data/raw/semcor_words/manufacturer.json
+senses:
+  - manufacturer.n.01
+  - manufacturer.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

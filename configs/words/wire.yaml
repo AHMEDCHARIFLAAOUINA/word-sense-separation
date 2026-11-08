@@ -1,0 +1,7 @@
+word: wire
+dataset: data/raw/semcor_words/wire.json
+senses:
+  - wire.n.01
+  - wire.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

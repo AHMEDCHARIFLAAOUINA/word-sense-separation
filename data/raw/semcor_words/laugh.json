@@ -1,0 +1,35 @@
+{
+ "target_word": "laugh",
+ "sentences": [
+  "Example sentence: `` Oh he's just an international spy '', Eileen would shout with her screechy laugh.",
+  "Example sentence: He had a deep voice which was full of good food she had cooked, and good humor; an explosive laugh which always carried everything before it.",
+  "Example sentence: Her laugh was hard.",
+  "Example sentence: And the old man had given a sly and wicked laugh and said, `` Hell, yes!",
+  "Example sentence: She began to laugh.",
+  "Example sentence: Amy did not laugh - this was work, concentration, achievement.",
+  "Example sentence: Now she kept herself protectively ready to laugh again and sure enough he pointed at her with his index finger and said `` Toot ''! once more and roared off into the fog, his foot evidently surprising him with the suddenness with which it pressed the accelerator, just as his hand did when he worked.",
+  "Example sentence: `` Imagine being able to laugh and wink when you're like the top part of that picture frame at home '', one of them said."
+ ],
+ "labels": [
+  "laugh.n.01",
+  "laugh.n.01",
+  "laugh.n.01",
+  "laugh.n.01",
+  "laugh.v.01",
+  "laugh.v.01",
+  "laugh.v.01",
+  "laugh.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

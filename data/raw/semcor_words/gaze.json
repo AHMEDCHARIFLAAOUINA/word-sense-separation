@@ -1,0 +1,35 @@
+{
+ "target_word": "gaze",
+ "sentences": [
+  "Example sentence: Alexander shifted his gaze to Spencer.",
+  "Example sentence: Even as she called to the children, Conchita let her gaze seek Tom Brannon.",
+  "Example sentence: He saw no life, but still stood there for a time peering at the unlovely hills, his gaze continually returning to Papa-san.",
+  "Example sentence: Wavy lines, feather like patterns, rosettes of indefinitely floral nature, birds either singly or in stylized rows, animals in solemn frieze bands (see Plates 11 - 12) - all these turned up in the more developed fabrics as preliminary signs that the potters were broadening their gaze.",
+  "Example sentence: At the same time another child - this one of Shelley's brain - was given to the world: Alastor, a poem of pervading beauty in which the reader may gaze into the still depths of a fine mind's musings.",
+  "Example sentence: There is a pause in the merriment as your friends gaze at you, wondering why you are staring, open-mouthed in amazement.",
+  "Example sentence: Then, when he had it pointed down the hill, he stopped to gaze at her through the window.",
+  "Example sentence: `` Well, that's your business, Mr. Skyros '', said Angie, and his dreamy eyes moved past Mr. Skyros ' shoulder to gaze vaguely out the ground glass window."
+ ],
+ "labels": [
+  "gaze.n.01",
+  "gaze.n.01",
+  "gaze.n.01",
+  "gaze.n.01",
+  "gaze.v.01",
+  "gaze.v.01",
+  "gaze.v.01",
+  "gaze.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,47 @@
+{
+ "target_word": "rose",
+ "sentences": [
+  "Example sentence: The Government reported last week that the index of prices received by farmers rose in the month ended at mid-September for the third consecutive month, reaching 242% of the 1910 - 14 average compared with 237% at mid-July.",
+  "Example sentence: The street was unpaved and rose steeply toward the center; it was mud in wet weather and dust, ankle-deep, in dry, and could be crossed only at the corner where there were stepping stones.",
+  "Example sentence: When the stock exchange opened this morning, many dealers were quick to purchase shares in Douglas, Lockheed and United Aircraft and prices rose substantially.",
+  "Example sentence: The temperature rose to 105 `.",
+  "Example sentence: Tractor production at Massey-Ferguson, Ltd., of Toronto in July and August rose to 2418 units from 869 in the like period a year earlier, says John Staiger, vice president.",
+  "Example sentence: Net earnings of that road rose from 62 per cent of interest requirements in calendar 1957 to 86 per cent in the 12 months ended Feb. 28, 1961.",
+  "Example sentence: When the algae began to build up again, the effluent BOD rose.",
+  "Example sentence: With the spring rains the flow rose rapidly due to infiltration in open sewers.",
+  "Example sentence: A plume of smoke rose from a Central Vermont locomotive which idled behind a string of gravel cars, and little figures that were workmen labored to set the ruptured roadbed to rights.",
+  "Example sentence: When he turned into the highway that led to the outskirts of the city and then rose toward home, he had to pull over to the curb and wait for a few minutes, sucking in air and squinting and blinking his eyes to clear them of tears.",
+  "Example sentence: In the cold dawn the mist swirled low to the ground, then rose with a gust of sudden wind to leave the valley clear.",
+  "Example sentence: Turbulent tides rose as much as fifty feet."
+ ],
+ "labels": [
+  "rise.v.02",
+  "rise.v.02",
+  "rise.v.02",
+  "rise.v.02",
+  "rise.v.02",
+  "rise.v.02",
+  "rise.v.01",
+  "rise.v.01",
+  "rise.v.01",
+  "rise.v.01",
+  "rise.v.01",
+  "rise.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

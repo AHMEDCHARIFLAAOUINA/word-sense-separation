@@ -1,0 +1,47 @@
+{
+ "target_word": "painting",
+ "sentences": [
+  "Example sentence: `` Painting isn't this big, you know.",
+  "Example sentence: We hold safe little jobs illustrating tooth-paste ads or the salacious incidents in trivial novels, and most of our easel painting is nothing but picking the fluff out of the navel so it can be contemplated in greater purity.",
+  "Example sentence: Except for a rich friendship with the painter, Chauncey Ryder who gave him the only professional instruction he ever had - and this was limited to a few lessons, though the two artists often went on painting trips together - Roy developed his art by himself.",
+  "Example sentence: Like many others, he had to work hard, long hours in a struggling family business which, though it was allied to art of a kind - the design and production of engraved seals - bore no relation to the painting of pictures.",
+  "Example sentence: That is why our creative people give their time to literature, not to painting or sculpture ''.",
+  "Example sentence: He observed the Florentine vase in the hall, the Renoir painting in the library, as well as the long shelves of well-bound volumes; the pattern of the Oriental rug, the delicate cut-glass chandelier.",
+  "Example sentence: Just because a tree or other object appears in a certain spot is absolutely no reason to place it in the same position in the painting, unless the position serves the design of the whole composition.",
+  "Example sentence: The `` projection '' time of painting and sculpture is highly subjective, varying from person to person and even varying for a given person on different occasions.",
+  "Example sentence: Trial and error are better placed in the preliminary sketch than in hoping for miracles in the final painting.",
+  "Example sentence: Mrs. Monmouth thought of him as her discovery, and she paid two to three hundred dollars for a painting.",
+  "Example sentence: More often than not I have found easy excuse to leave my own work and stand at a respectable distance where I could watch this man transform raw nature into a composed, not imitative, painting.",
+  "Example sentence: Picasso says that he himself had already made his first collage toward the end of 1911, when he glued a piece of imitation caning oilcloth to a painting on canvas."
+ ],
+ "labels": [
+  "painting.n.02",
+  "painting.n.02",
+  "painting.n.02",
+  "painting.n.02",
+  "painting.n.02",
+  "painting.n.02",
+  "painting.n.01",
+  "painting.n.01",
+  "painting.n.01",
+  "painting.n.01",
+  "painting.n.01",
+  "painting.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

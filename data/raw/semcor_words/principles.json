@@ -1,0 +1,41 @@
+{
+ "target_word": "principles",
+ "sentences": [
+  "Example sentence: He recalled that in Rhode Island a party opposed to the state's condemnation of a man (Thomas W. Dorr) proclaimed the state's action as a violation of the law of the land and the principles of human liberty.",
+  "Example sentence: The Providence Daily Journal answered the Daily Post by stating that the raid of John Brown was characteristic of Democratic acts of violence and that `` He was acting in direct opposition to the Republican Party, who proclaim as one of their cardinal principles that they do not interfere with slavery in the states ''.",
+  "Example sentence: In matters of exact information, that kept her one step behind developments; and so they were consistently true to their principles.",
+  "Example sentence: During the Dorr trial the Democratic press condemned the proceedings and heralded Dorr as a martyr to the principles of the Declaration of Independence.",
+  "Example sentence: The principles used in making each arrow for Figures 3 and 4 were applied to the construction of Figures 5 and 6 as well as all figures in the Appendix.",
+  "Example sentence: At the least, however, one may conclude that Geometric potters sensed a logical order; their principles of composition stand very close to those which appear in the Homeric epics and the hexameter line.",
+  "Example sentence: Through the SBA's Management Counseling Program, practical, personalized advice on sound management principles is available upon request to both prospective and established businessmen in a community.",
+  "Example sentence: The severe yet harmonious vases of the previous fifty years, the Strong Geometric style of the late ninth century, display as firm a mastery of the principles underlying Geometric pottery; but artists now were ready to refine and elaborate their inheritance.",
+  "Example sentence: The architects do not believe that the education of the interior designer is sufficiently good or sufficiently extended to compare with that of the architect and that, therefore, the interior designer is incapable of understanding the architectural principles involved in planning the interior of a building.",
+  "Example sentence: First I make preliminary watercolor sketches in quarter scale (approximately * * f inches) in which I pay particular attention to the design principles of three simple values - the lightest light, the middle tone, and the darkest dark - by reducing the forms of my subject to these large patterns."
+ ],
+ "labels": [
+  "principle.n.02",
+  "principle.n.02",
+  "principle.n.02",
+  "principle.n.02",
+  "principle.n.02",
+  "principle.n.01",
+  "principle.n.01",
+  "principle.n.01",
+  "principle.n.01",
+  "principle.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

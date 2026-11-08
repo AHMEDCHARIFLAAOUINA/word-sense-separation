@@ -1,0 +1,7 @@
+word: attack
+dataset: data/raw/semcor_words/attack.json
+senses:
+  - attack.n.01
+  - attack.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

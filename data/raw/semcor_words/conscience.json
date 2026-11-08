@@ -1,0 +1,35 @@
+{
+ "target_word": "conscience",
+ "sentences": [
+  "Example sentence: The Utopians brace conscience with legal sanctions.",
+  "Example sentence: During this precarious period of development the mother should continue to influence the growth of the child's conscience.",
+  "Example sentence: The conscience is non-existent in the 2 - year old.",
+  "Example sentence: Immediately, the religious groups of the city were embroiled in an angry dispute over the alleged invasion of a man's right to freedom of religious belief and conscience.",
+  "Example sentence: I do not know that this is true; both Flugel and Ranyard West deal with the development and nature of conscience, as do such theologians as Niebuhr and Buber.",
+  "Example sentence: I am not aware of great attention by any of these authors or by the psychotherapeutic profession to the role of literary study in the development of conscience - most of their attention is to a pre-literate period of life, or, for the theologians of course, to the influence of religion.",
+  "Example sentence: It is possible that the study of literature affects the conscience, the morality, the sensitivity to some code of `` right '' and `` wrong ''.",
+  "Example sentence: Probably the most important thing to focus on is not the development of conscience, which may well be almost beyond the reach of literature, but the contents of conscience, the code which is imparted to the developed or immature conscience available."
+ ],
+ "labels": [
+  "conscience.n.01",
+  "conscience.n.01",
+  "conscience.n.01",
+  "conscience.n.01",
+  "conscience.n.02",
+  "conscience.n.02",
+  "conscience.n.02",
+  "conscience.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

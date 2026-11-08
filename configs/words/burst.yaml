@@ -1,0 +1,7 @@
+word: burst
+dataset: data/raw/semcor_words/burst.json
+senses:
+  - burst.v.01
+  - break.v.09
+n_per_sense: 4
+prefix: "Example sentence: "

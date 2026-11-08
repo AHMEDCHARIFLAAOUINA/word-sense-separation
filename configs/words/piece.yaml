@@ -1,0 +1,7 @@
+word: piece
+dataset: data/raw/semcor_words/piece.json
+senses:
+  - piece.n.01
+  - piece.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

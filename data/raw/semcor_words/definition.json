@@ -1,0 +1,53 @@
+{
+ "target_word": "definition",
+ "sentences": [
+  "Example sentence: Used in several sets of high reps once or twice each week it will not be long before your entire upper leg takes on a razor-sharp definition in which the muscles look like wire cables writhing and twisting under the skin!",
+  "Example sentence: The exercise I shall discuss in this - the first of a new series of articles on muscle definition specialization of a particular body part - is the One Leg Lunge.",
+  "Example sentence: No matter how devoted a man was, no matter how fully he gave his life to the Lord, he could never extinguish that one spark of pride that gave him definition as an individual.",
+  "Example sentence: But contest definition - that dramatic muscular separation of every muscle group that seems as though it must have been carved by a sculptor's chisel - is something quite different.",
+  "Example sentence: Now good definition is one thing that all of us can acquire with occasional high-set, high-rep, light weight workouts.",
+  "Example sentence: It is the one exercise that drastically influences the definition of the thighs at the hipline - that mark of the champion that sets him apart from all other bodybuilders - a criterion of muscle `` drama '' that is unforgettable to judges and audiences alike - the facet of muscular development that wins prizes.",
+  "Example sentence: This comes not alone from high-set, high-rep training, but from certain definition specialization exercises which the champion selects for himself with the knowledge of exactly what works best for him.",
+  "Example sentence: If Bultmann's own definition of myth is strictly adhered to (and it is interesting that this is almost never done by those who make such pronouncements), the evidence is overwhelming that he does not at all exaggerate the extent to which the mythological concepts of traditional theology have become incredible and irrelevant.",
+  "Example sentence: When I pressed for a purely religious definition, I encountered the familiar blend of liberal piety, interfaith good will, and a small residue of ethnic loyalty.",
+  "Example sentence: It was my initiation to war and the insane symphony war plays; for what had happened on the common was only terror and flight; but this grinning, broken head, not ten feet away from me, was the sharp definition of what my reality had become.",
+  "Example sentence: My definition of this much abused adjective is that a reconstructed rebel is one who is glad that the North won the War.",
+  "Example sentence: At this point a working definition of idea is in order, although our first definition will have to be qualified somewhat as we proceed.",
+  "Example sentence: If * * f is the operator induced on * * f by T, then evidently * * f, because by definition * * f is 0 on the subspace * * f.",
+  "Example sentence: It might be contended, of course, that Eichmann in stubbornly denying anti-Semitic feelings was lying or insisting on a private definition of anti-Semitism."
+ ],
+ "labels": [
+  "definition.n.02",
+  "definition.n.02",
+  "definition.n.02",
+  "definition.n.02",
+  "definition.n.02",
+  "definition.n.02",
+  "definition.n.02",
+  "definition.n.01",
+  "definition.n.01",
+  "definition.n.01",
+  "definition.n.01",
+  "definition.n.01",
+  "definition.n.01",
+  "definition.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "apart",
+ "sentences": [
+  "Example sentence: The rating scale of compulsivity was constructed by first perusing the interview records, categorizing all evidence related to compulsivity, then arranging a distribution of such information apart from the case records.",
+  "Example sentence: A small pressure unbalance displaces the diaphragm and changes the capacitance between the diaphragm and an electrically insulated plate spaced 0.001 in. apart (for * * f).",
+  "Example sentence: It consists of two blocks with flat surfaces held apart by shims.",
+  "Example sentence: Have the class lie supine with knees apart and bent.",
+  "Example sentence: You will need a stereo music system, with speakers preferably placed at least seven or eight feet apart, and one or more of the new London `` Phase 4 '' records.",
+  "Example sentence: Can we continue to alienate precisely those whose gifts we so desperately need and apart from whose co-operation our mission in the world must become increasingly precarious?",
+  "Example sentence: In spite of the shading of one type of course into another, I believe it is useful to talk about vocational courses as apart from academic courses.",
+  "Example sentence: The latter plays a prominent role in Roman Catholic theology and is considered decisive, entirely apart from Scripture, in determining the ethical character of birth-prevention methods.",
+  "Example sentence: Would applause, for example, be fitting if, apart from the applause, there were nothing good to applaud?",
+  "Example sentence: But apart from racial problems, the old unreconstructed South - to use the moderate words favored by Mr. Thomas Griffith - finds itself unsympathetic to most of what is different about the civilization of the North."
+ ],
+ "labels": [
+  "apart.r.01",
+  "apart.r.01",
+  "apart.r.01",
+  "apart.r.01",
+  "apart.r.01",
+  "apart.r.02",
+  "apart.r.02",
+  "apart.r.02",
+  "apart.r.02",
+  "apart.r.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: nuclear
+dataset: data/raw/semcor_words/nuclear.json
+senses:
+  - nuclear.a.01
+  - nuclear.a.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: hung
+dataset: data/raw/semcor_words/hung.json
+senses:
+  - hang.v.01
+  - hang.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

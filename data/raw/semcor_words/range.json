@@ -1,0 +1,41 @@
+{
+ "target_word": "range",
+ "sentences": [
+  "Example sentence: In the relatively short time since these early observations, Venus has been observed at additional wave lengths in the range from 0.8 to 10.2 cm, and Jupiter has been observed over the wave-length range from 3.03 to 68 cm.",
+  "Example sentence: In the wide range of experiences common to our earth-bound race none is more difficult to manage, more troublesome, and more enduring in its effects than the control of love and hate.",
+  "Example sentence: For Athabascan, with a greater range of stems, the first two of five corresponding columns were identical, 1 and 2 stems; the three others had to be spread somewhat, and are headed respectively * * f; * * f; and * * f stems.",
+  "Example sentence: The Bureau is pursuing an active program to provide a temperature scale and thermometer calibration services in the range 1.5 to 20 * * f.",
+  "Example sentence: Some 80 reaction tubes from 13 manifold fillings were illuminated in the temperature range from 40 to 85 ` in a further endeavor to determine the cause of the irreproducibility and to obtain information on the activation energy and the effect of light intensity.",
+  "Example sentence: The figures range as high as 15 million families.",
+  "Example sentence: Suitable plans range from those that are very easy to develop to those that are difficult to formulate and require borrowing ranging from short-term serial notes to long-term bonds.",
+  "Example sentence: The inventory of tones is much smaller, and commonly the contrasts range along one single dimension, pitch level.",
+  "Example sentence: They usually range from 20 to 60 feet in height, but when they pour into a V shaped inlet or harbor they may rise to mountainous proportions.",
+  "Example sentence: They range from an eight-foot pram, which you can build yourself for less than $50, to auxiliary sailboats which can cost over $100000."
+ ],
+ "labels": [
+  "scope.n.01",
+  "scope.n.01",
+  "scope.n.01",
+  "scope.n.01",
+  "scope.n.01",
+  "range.v.01",
+  "range.v.01",
+  "range.v.01",
+  "range.v.01",
+  "range.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

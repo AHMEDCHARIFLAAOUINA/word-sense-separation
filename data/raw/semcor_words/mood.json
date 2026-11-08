@@ -1,0 +1,35 @@
+{
+ "target_word": "mood",
+ "sentences": [
+  "Example sentence: He'd been in an angry mood: Conchita had thought his face almost ugly with the anger in him.",
+  "Example sentence: It was the first of two doubles by Robinson, who was in a mood to celebrate.",
+  "Example sentence: In his mood, it was the best way to handle him; that is, to show no curiosity whatsoever.",
+  "Example sentence: Alex returned to the hotel, rather weary and with no new prospects of a role, in the late afternoon, but found the doctor in an ebullient mood.",
+  "Example sentence: The program had been arranged to permit the establishment of a mood of intense concentration on the music.",
+  "Example sentence: He knew that in this mood he could not be stopped.",
+  "Example sentence: Samples zoomed into closeup range in regular succession, like telephone poles passing on the highway, while representative music reinforced the mood of the late teens and 1920's.",
+  "Example sentence: Even so astute a commentator as Harold Clurman of The Nation has said that `` Waiting for Godot '' is `` the concentrate of the contemporary European mood of despair ''."
+ ],
+ "labels": [
+  "temper.n.02",
+  "temper.n.02",
+  "temper.n.02",
+  "temper.n.02",
+  "climate.n.02",
+  "climate.n.02",
+  "climate.n.02",
+  "climate.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

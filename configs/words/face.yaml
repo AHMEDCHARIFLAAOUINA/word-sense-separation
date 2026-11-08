@@ -1,0 +1,7 @@
+word: face
+dataset: data/raw/semcor_words/face.json
+senses:
+  - face.n.01
+  - confront.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

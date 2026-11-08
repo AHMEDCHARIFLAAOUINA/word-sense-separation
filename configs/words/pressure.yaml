@@ -1,0 +1,7 @@
+word: pressure
+dataset: data/raw/semcor_words/pressure.json
+senses:
+  - pressure.n.01
+  - pressure.n.02
+n_per_sense: 16
+prefix: "Example sentence: "

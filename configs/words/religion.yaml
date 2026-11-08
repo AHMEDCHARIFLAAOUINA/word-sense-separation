@@ -1,0 +1,7 @@
+word: religion
+dataset: data/raw/semcor_words/religion.json
+senses:
+  - religion.n.01
+  - religion.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

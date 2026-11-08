@@ -1,0 +1,7 @@
+word: designed
+dataset: data/raw/semcor_words/designed.json
+senses:
+  - plan.v.03
+  - design.v.02
+n_per_sense: 19
+prefix: "Example sentence: "

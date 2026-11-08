@@ -1,0 +1,7 @@
+word: background
+dataset: data/raw/semcor_words/background.json
+senses:
+  - background.n.01
+  - background.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

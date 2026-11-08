@@ -1,0 +1,47 @@
+{
+ "target_word": "subject",
+ "sentences": [
+  "Example sentence: The Charles Men consists not of a connected narrative but of a group of short stories, each depicting a special phase of the general subject.",
+  "Example sentence: It was hardly possible to get any argument on the subject.",
+  "Example sentence: For one thing, this is not a subject often discussed or analyzed.",
+  "Example sentence: And she wrote the libretto for an oratorio on the subject of Judas Maccabeus performed at the Hanukkah festival which came in December.",
+  "Example sentence: Although a somewhat technical subject, it has important political implications as the above discussion of the voting system indicated.",
+  "Example sentence: For our present purposes we assume that the sole subject of bargaining is the basic wage rate (not including productivity improvement factors or cost-of-living adjustments), and it is this basic wage rate which determines the level of costs.",
+  "Example sentence: It will occur to anyone that the teacher must have adequate education, a depth and breadth of knowledge far beyond the immediate necessities of his course plus complete dedication to his subject and to his students.",
+  "Example sentence: In spite of this, many universities offer adequate and even distinguished courses in the subject.",
+  "Example sentence: Grover also would require junior senior high teachers to have at least 24 semester hours credit in the subject they are teaching.",
+  "Example sentence: Not only should every educator above the rank of instructor be expected to be a member of one of the professional organizations, but his first qualification for membership as an educator should be so sharply scrutinized that membership would be equivalent to certification to teach the subject.",
+  "Example sentence: Beyond any question of curriculum and approach to subject must be the quality of the teachers themselves.",
+  "Example sentence: There are three levels on which to treat the subject."
+ ],
+ "labels": [
+  "subject.n.01",
+  "subject.n.01",
+  "subject.n.01",
+  "subject.n.01",
+  "subject.n.01",
+  "subject.n.01",
+  "discipline.n.01",
+  "discipline.n.01",
+  "discipline.n.01",
+  "discipline.n.01",
+  "discipline.n.01",
+  "discipline.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: changed
+dataset: data/raw/semcor_words/changed.json
+senses:
+  - change.v.02
+  - change.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

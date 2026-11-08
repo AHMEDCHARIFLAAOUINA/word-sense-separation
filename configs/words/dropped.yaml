@@ -1,0 +1,7 @@
+word: dropped
+dataset: data/raw/semcor_words/dropped.json
+senses:
+  - drop.v.01
+  - drop.v.02
+n_per_sense: 12
+prefix: "Example sentence: "

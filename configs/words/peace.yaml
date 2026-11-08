@@ -1,0 +1,7 @@
+word: peace
+dataset: data/raw/semcor_words/peace.json
+senses:
+  - peace.n.01
+  - peace.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

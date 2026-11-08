@@ -1,0 +1,7 @@
+word: wore
+dataset: data/raw/semcor_words/wore.json
+senses:
+  - wear.v.01
+  - wear.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

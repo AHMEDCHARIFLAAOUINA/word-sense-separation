@@ -1,0 +1,41 @@
+{
+ "target_word": "features",
+ "sentences": [
+  "Example sentence: Most counties also have maps available from the county engineer showing roads and other features and from the assessor's office showing ownerships of land.",
+  "Example sentence: Although Miller noted in 1907 that a difference in the pleural blood supply existed between animals, nowhere in his published works is it found that he did a comparative study of the intrapulmonary features of various mammalian lungs other than in the dog and cat (Miller, ' 13; ' 25).",
+  "Example sentence: Some of the features of the top portions of Figure 1 and Figure 2 were mentioned in discussing Table 1.",
+  "Example sentence: But in general the individual variation is a small thing added onto basic linguistic features of greater magnitude.",
+  "Example sentence: Some phonetic features, for example glottal catch or murmur, are sometimes to be assigned to segmental phonemics and sometimes to accentual systems.",
+  "Example sentence: Silver Springs features glass-bottom boat rides and in Everglades National Park there are opportunities to photograph rare wildlife.",
+  "Example sentence: Bandstand features Hal DeCicco, pianist, for both dinner hour and the late trade.",
+  "Example sentence: `` How the Kooks Crumble '' features an amusingly accurate take-off on sneaky announcers who attempt to homogenize radio - TV commercials, and `` The Watchers of the Night '' is a veritable waking nightmare.",
+  "Example sentence: This features the marching songs of several nations, recorded as though the various national bands were marching by your reviewing stand.",
+  "Example sentence: KQED Summer Music Festival features a live concert by the Capello de Musica (Channel 9 at 8: 30)."
+ ],
+ "labels": [
+  "feature.n.01",
+  "feature.n.01",
+  "feature.n.01",
+  "feature.n.01",
+  "feature.n.01",
+  "have.v.02",
+  "have.v.02",
+  "have.v.02",
+  "have.v.02",
+  "have.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

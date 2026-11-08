@@ -1,0 +1,41 @@
+{
+ "target_word": "communicate",
+ "sentences": [
+  "Example sentence: Various methods of pulsing, scanning, and displaying these sound waves are used to detect submarines, map ocean floors, and even communicate under water.",
+  "Example sentence: It should attempt to communicate both an appreciation of professional standards and an understanding of the tremendous powers and potentialities of genuinely open and pluralistic societies.",
+  "Example sentence: In this relationship-building stage the worker must communicate confidence in the client's ability to deal with the problem.",
+  "Example sentence: First, it does not communicate.",
+  "Example sentence: A Peace Corps official described the editorial as `` precisely the message we need to communicate to the men and women who will soon be Peace Corps volunteers ''.",
+  "Example sentence: But I think a man needs at least one intimate friend to communicate with ''.",
+  "Example sentence: As Loomis remarks, `` In the internal pattern the chief reason for interacting is to communicate liking, friendship, and love among those who stand in supporting relations to one another and corresponding negative sentiments to those who stand in antagonistic relations ''.",
+  "Example sentence: You can communicate in your own way.",
+  "Example sentence: Those named in the Greek paper were manufacturing reasons to steal aft under pretence of some call of duty, so as to be near Spencer, watching an opportunity to communicate with him.",
+  "Example sentence: We have every obligation to take seriously their claims to being democratic and free countries; we also have, in consequence, the duty to appraise realistically and honestly their performance and to communicate our judgments to their leaders in frank but friendly ways."
+ ],
+ "labels": [
+  "communicate.v.01",
+  "communicate.v.01",
+  "communicate.v.01",
+  "communicate.v.01",
+  "communicate.v.01",
+  "communicate.v.02",
+  "communicate.v.02",
+  "communicate.v.02",
+  "communicate.v.02",
+  "communicate.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

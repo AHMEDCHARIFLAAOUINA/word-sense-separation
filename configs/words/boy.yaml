@@ -1,0 +1,7 @@
+word: boy
+dataset: data/raw/semcor_words/boy.json
+senses:
+  - male_child.n.01
+  - boy.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "m",
+ "sentences": [
+  "Example sentence: This buffer, pH 8.6, was 0.005 M in * * f and 0.039 M in tris (hydroxymethyl) - aminomethane (Tris).",
+  "Example sentence: The precipitate was washed twice with an 80% saturated solution of * * f, dissolved in a small quantity of 0.1 M neutral phosphate buffer, dialyzed against cold distilled water till free from ammonium ions, and lyophilized using liquid nitrogen.",
+  "Example sentence: 500 ml of 1 M aqueous **f with 1 g **f added are heated in a bomb at 170 ` C for 48 hours.",
+  "Example sentence: Each initially contained 1700 ml of buffer; in the sphere was starting buffer and in the cone was final buffer, 0.50 M in both * * f and Tris, pH 4.1.",
+  "Example sentence: These were read at 280 m | m in a Beckman model DU spectrophotometer and tested for antibody activity as described above.",
+  "Example sentence: Root and stem tumors from sweet clover plants infected with WTV were quick-frozen in liquid nitrogen, embedded in ice, and cut at 3 - 6 | m in a cryostat maintained at - 16 ` to - 20 `.",
+  "Example sentence: The radial velocity varies inversely as the particle size - a 1000 - | m diameter particle near the orbit of Mars would reach the sun in about 60 million years.",
+  "Example sentence: The threshold mass of about * * f corresponds to a 10 - | m diameter sphere of density * * f."
+ ],
+ "labels": [
+  "molarity.n.01",
+  "molarity.n.01",
+  "molarity.n.01",
+  "molarity.n.01",
+  "meter.n.01",
+  "meter.n.01",
+  "meter.n.01",
+  "meter.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

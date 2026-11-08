@@ -1,0 +1,7 @@
+word: stems
+dataset: data/raw/semcor_words/stems.json
+senses:
+  - stem.v.01
+  - root.n.03
+n_per_sense: 8
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: phenomenon
+dataset: data/raw/semcor_words/phenomenon.json
+senses:
+  - phenomenon.n.01
+  - phenomenon.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: sleep
+dataset: data/raw/semcor_words/sleep.json
+senses:
+  - sleep.n.01
+  - sleep.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

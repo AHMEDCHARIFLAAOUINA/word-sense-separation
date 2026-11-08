@@ -1,0 +1,7 @@
+word: breath
+dataset: data/raw/semcor_words/breath.json
+senses:
+  - breath.n.01
+  - breath.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

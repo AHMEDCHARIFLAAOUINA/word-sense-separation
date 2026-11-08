@@ -1,0 +1,7 @@
+word: sound
+dataset: data/raw/semcor_words/sound.json
+senses:
+  - sound.n.01
+  - sound.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

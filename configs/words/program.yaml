@@ -1,0 +1,7 @@
+word: program
+dataset: data/raw/semcor_words/program.json
+senses:
+  - program.n.02
+  - plan.n.01
+n_per_sense: 14
+prefix: "Example sentence: "

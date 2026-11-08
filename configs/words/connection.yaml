@@ -1,0 +1,7 @@
+word: connection
+dataset: data/raw/semcor_words/connection.json
+senses:
+  - connection.n.01
+  - connection.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

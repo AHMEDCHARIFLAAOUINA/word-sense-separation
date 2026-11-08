@@ -1,0 +1,14 @@
+family,model,ceval,cmmlu,gsm8k,peak_sep,peak_hidden_state,n_blocks
+LLaMA,llama-7b,27.29,27.02,9.86,0.066,8,32
+LLaMA,llama-2-7b,32.21,31.89,16.68,0.0663,9,32
+LLaMA,llama-3-8b,50.02,50.81,56.1,0.073,6,32
+LLaMA,llama-3.1-8b,51.47,52.54,56.48,0.0706,6,32
+Qwen,qwen-7b,63.36,62.66,54.13,0.0504,32,32
+Qwen,qwen1.5-7b,73.62,71.8,54.44,0.0656,32,32
+Qwen,qwen2-7b,76.75,83.79,79.61,0.0648,28,28
+Qwen,qwen2.5-7b,81.27,81.76,79.68,0.0567,10,28
+Qwen,qwen3-8b,79.44,77.31,87.79,0.0549,10,36
+BERT-family,bert-base,23.09,24.89,36.0,0.0773,9,12
+BERT-family,roberta-base,26.72,25.17,23.8,0.0258,9,12
+BERT-family,spanbert-base-cased,26.16,24.94,26.4,0.0702,5,12
+BERT-family,xlm-roberta-base,22.35,25.64,36.2,0.0183,6,12

@@ -1,0 +1,7 @@
+word: complex
+dataset: data/raw/semcor_words/complex.json
+senses:
+  - complex.a.01
+  - complex.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

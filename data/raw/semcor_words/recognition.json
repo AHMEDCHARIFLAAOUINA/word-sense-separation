@@ -1,0 +1,41 @@
+{
+ "target_word": "recognition",
+ "sentences": [
+  "Example sentence: Increased participation in politics and the demands of various groups for status and recognition had dramatic effects upon law institutions.",
+  "Example sentence: Particularly hard for the therapist to grasp are those instances in which the patient is manifesting an introject traceable to something in the therapist, some aspect of the therapist of which the latter is himself only poorly aware, and the recognition of which, as a part of himself, he finds distinctly unwelcome.",
+  "Example sentence: The central concern of Erich Auerbach's impressive volume called Mimesis is to describe the shift from a classic theory of imitation (based upon a recognition of levels of truth) to a Christian theory of imitation in which the levels are dissolved.",
+  "Example sentence: Understanding a work of art involves recognition of the ideas that it reflects or embodies.",
+  "Example sentence: Very likely it will also include a recognition that the work we are reading reflects or `` belongs to '' some way of thought labelled as a `` school '' or an `` - ism '', i. e. a complex or `` syndrome '' of ideas occurring together with sufficient prominence to warrant identification.",
+  "Example sentence: The positivist theory would here distort our meaning beyond recognition.",
+  "Example sentence: It is for this reason that Roy avoids selecting subjects that require specific recognition of place for their enjoyment.",
+  "Example sentence: But the famous orator felt more than vague recognition for the scene.",
+  "Example sentence: Nevertheless, there are notably frequent instances of deja vu, in which our recognition of an entirely novel event is a feeling of having lived through it before, a feeling which, though vague, withstands the verbal barrage from the most impressive corps of psychologists.",
+  "Example sentence: Modern times have changed the world beyond recognition."
+ ],
+ "labels": [
+  "recognition.n.01",
+  "recognition.n.01",
+  "recognition.n.01",
+  "recognition.n.01",
+  "recognition.n.01",
+  "recognition.n.02",
+  "recognition.n.02",
+  "recognition.n.02",
+  "recognition.n.02",
+  "recognition.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

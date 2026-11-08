@@ -1,0 +1,7 @@
+word: analysis
+dataset: data/raw/semcor_words/analysis.json
+senses:
+  - analysis.n.01
+  - analysis.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

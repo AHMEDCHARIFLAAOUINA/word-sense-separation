@@ -1,0 +1,7 @@
+word: briefly
+dataset: data/raw/semcor_words/briefly.json
+senses:
+  - concisely.r.01
+  - briefly.r.01
+n_per_sense: 8
+prefix: "Example sentence: "

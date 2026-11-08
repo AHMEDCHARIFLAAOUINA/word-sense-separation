@@ -1,0 +1,7 @@
+word: revolution
+dataset: data/raw/semcor_words/revolution.json
+senses:
+  - revolution.n.01
+  - revolution.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

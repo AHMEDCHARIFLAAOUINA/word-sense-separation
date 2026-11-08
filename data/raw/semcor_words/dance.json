@@ -1,0 +1,53 @@
+{
+ "target_word": "dance",
+ "sentences": [
+  "Example sentence: Above, in the tiled prosceniums of the alcoves, boys sing the ghazals of Hafiz and Saadi, while at the very bottom, in the vaults, the toughs and blades of the city hoot and bang their drums, drink arak, play dice, and dance.",
+  "Example sentence: Diane loved to dance in the nude, something she was to demonstrate time and again.",
+  "Example sentence: After a few minutes he said, `` I cann't use you if you dance like that.",
+  "Example sentence: She thought she had great possibilities in the ballet and wanted to show the eminent producer how well she could dance.",
+  "Example sentence: This scene is a `` white ballet '' in which a lovelorn hero searches for his departed love's spirit among twenty-eight extraordinarily beautiful `` shadows '' who can all dance like nothing human - which, of course, is altogether fitting.",
+  "Example sentence: Sometimes they get their initial experience in church haflis, conducted by Lebanese and Syrians in the U. S., where they dance with just as few veils across their bodies as in nightclubs.",
+  "Example sentence: I'd like to see you dance nude ''.",
+  "Example sentence: Martha picked up the hem of her gown and with eyes closed she slowly began to dance a stately minuet around the ballroom.",
+  "Example sentence: `` Do you like to dance?",
+  "Example sentence: Daughter of a gypsy mother who taught her to dance, she is one of the few really beautiful girls in the New York casbah, with dark eyes and dark, waist-length hair, the face of an adolescent patrician and a lithe, glimmering body.",
+  "Example sentence: I'll make them dance the tango.",
+  "Example sentence: The singular uncompromising force of their revolt against the cult of restraint is illustrated by their refusal to dance in a public place.",
+  "Example sentence: `` I like to dance '', she said, then turned and walked away.",
+  "Example sentence: He wouldn't even dance with her at Gavin's party."
+ ],
+ "labels": [
+  "dance.v.01",
+  "dance.v.01",
+  "dance.v.01",
+  "dance.v.01",
+  "dance.v.01",
+  "dance.v.01",
+  "dance.v.01",
+  "dance.v.02",
+  "dance.v.02",
+  "dance.v.02",
+  "dance.v.02",
+  "dance.v.02",
+  "dance.v.02",
+  "dance.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

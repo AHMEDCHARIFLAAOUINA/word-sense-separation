@@ -1,0 +1,53 @@
+{
+ "target_word": "desire",
+ "sentences": [
+  "Example sentence: He was not sure how much of this desire was due to his devotion to the church and how much was his own ego, demanding to be satisfied, for the two were intertwined and could not be separated.",
+  "Example sentence: The desire to give Broglio as many starts as possible; 3.",
+  "Example sentence: Now when Henri was just 12 he was only 4 ' 10 '' tall and weighed an astounding 72 pounds, and his greatest desire was to pack on some weight.",
+  "Example sentence: They were poems in a strange language, of which he could barely touch a meaning - enough to make his being ache with the desire for the fullness he sensed there.",
+  "Example sentence: His first desire was to create a mother and son alone in the universe.",
+  "Example sentence: And if the affection for the suburban branch reflects a desire to shop with `` nice people '', rather than with the indiscriminate urban mass which supports the downtown department store, the central location may be in serious trouble.",
+  "Example sentence: The gymnast must develop strength, flexibility, coordination, timing, rhythm, courage, discipline, persistence and the desire for perfection.",
+  "Example sentence: Now while he uses talk, caresses or requires caresses from her, his bride will sympathetically understand the situation and eagerly help him restore his physical situation so they can have the consummation they both so eagerly desire.",
+  "Example sentence: It also weakened our diplomatic stance, because Russia could easily guess we did not desire a nuclear war except in the ultimate extremity.",
+  "Example sentence: Mr. Speaker, I ask unanimous consent that all Members who desire to do so may extend their remarks at this point in the Record; and also that they may have 5 legislative days in which to extend their remarks.",
+  "Example sentence: They earnestly desire to do the will of God.",
+  "Example sentence: To encourage exploration for domestic sources of minerals, the Office of Minerals Exploration (OME) of the U.S. Department of the Interior offers financial assistance to firms and individuals who desire to explore their properties or claims for 1 or more of the 32 mineral commodities listed in the OME regulations.",
+  "Example sentence: It should also make him desire to participate actively in civic, school and religious life of the community so that that phase of Newark will live up to the challenge presented by this exhibit.",
+  "Example sentence: `` Is this the type of citizen you desire ''? the Trial should have asked the nations."
+ ],
+ "labels": [
+  "desire.n.01",
+  "desire.n.01",
+  "desire.n.01",
+  "desire.n.01",
+  "desire.n.01",
+  "desire.n.01",
+  "desire.n.01",
+  "desire.v.01",
+  "desire.v.01",
+  "desire.v.01",
+  "desire.v.01",
+  "desire.v.01",
+  "desire.v.01",
+  "desire.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

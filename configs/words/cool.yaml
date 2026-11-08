@@ -1,0 +1,7 @@
+word: cool
+dataset: data/raw/semcor_words/cool.json
+senses:
+  - cool.a.01
+  - cool.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

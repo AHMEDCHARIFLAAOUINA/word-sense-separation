@@ -1,0 +1,53 @@
+{
+ "target_word": "variety",
+ "sentences": [
+  "Example sentence: Even beginning students in linguistics are made familiar with an appreciable variety of consonant systems, both in their general outlines and in many specific details.",
+  "Example sentence: A variety of techniques have been directed toward the isolation and study of blood group antibodies.",
+  "Example sentence: Apart from misplaced modifiers and headlinese, journalism contributes a wide variety of comic ambiguities in both editorial and advertising matter.",
+  "Example sentence: From the wealth of material and the wide variety of different electronic techniques perfected in the past few years we have selected a few examples which appear to be headed for use in the immediate future and which offer completely new tools in medical research.",
+  "Example sentence: Earlier, this woman had been so filled with a chaotic variety of introjects that at times, when she was in her room alone, it would sound to a passerby as though there were several different persons in the room, as she would vocalize in various kinds of voice.",
+  "Example sentence: Here a variety of meanings and emotions are concentrated, or reduced, in their communicative expression, to some comparatively simple seeming verbal or nonverbal statement.",
+  "Example sentence: There are a great number and variety of private commercial schools, trade schools and technical schools.",
+  "Example sentence: They run their show their way - the Universe has variety, something for everybody - a fact you field workers often miss ''.",
+  "Example sentence: The first slanting rays of the new day cannot yet dispel all the dark shadows which lie across the Aegean world; but our evidence grows considerably in variety and shows more unmistakably some of the lines of change.",
+  "Example sentence: No suburban shopping-center branch - not even Hudson's vast Northland outside Detroit - does anything like the unit volume of business or carries anything like the variety of merchandise to be found in the home store.",
+  "Example sentence: In the range and variety of characters who, in their literary lives, get along all right with life styles one never imagined possible, there is an implicit lesson in differentiation.",
+  "Example sentence: On the whole they maintain much the same high standard, but they are much more difficult to discuss in detail because of their wider variety of subject matter.",
+  "Example sentence: It's somewhat off the beaten track, to be sure, but therein lies its variety and charm.",
+  "Example sentence: His sense for rhythmic variety and timing is impeccable."
+ ],
+ "labels": [
+  "assortment.n.01",
+  "assortment.n.01",
+  "assortment.n.01",
+  "assortment.n.01",
+  "assortment.n.01",
+  "assortment.n.01",
+  "assortment.n.01",
+  "diverseness.n.01",
+  "diverseness.n.01",
+  "diverseness.n.01",
+  "diverseness.n.01",
+  "diverseness.n.01",
+  "diverseness.n.01",
+  "diverseness.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

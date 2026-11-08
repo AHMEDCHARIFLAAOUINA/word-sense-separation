@@ -1,0 +1,53 @@
+{
+ "target_word": "price",
+ "sentences": [
+  "Example sentence: We assume further that the union recognizes the possibility that price level increases may offset wage rate increases, and it does not entirely disregard the effect of price increases arising from its own wage increases upon the `` real '' wage rate.",
+  "Example sentence: They become increasingly willing to accept the price increase that the industry claims the wage bargain would entail.",
+  "Example sentence: If a concessionaire runs the cafeteria, keep an eye out for quality and price.",
+  "Example sentence: For such an industry, it is only `` safe '' to raise its price if such an increase is manifestly `` justified '' by rising costs (due to rising wages, etc.).",
+  "Example sentence: The purpose of this paper is to analyze one possible force which has not been treated in the literature, but which we believe makes a significant contribution to explaining the wage price behavior of a few very important industries.",
+  "Example sentence: Since marginal costs rise when the wage rate rises, the profit maximizing price also rises when the public limit price is elevated, and is likely to remain well above the latter.",
+  "Example sentence: Wage price policies of industry are the result of a complex of forces - no single explanation has been found which applies to all cases.",
+  "Example sentence: Despite generally good levels of income, we see greater price pressures than ever before - traveling back along the chain from consumer to distributor to manufacturer.",
+  "Example sentence: If not, how long to order and what is the price ''?",
+  "Example sentence: Has the probable price situation in your field been forecast as a basis for future planning?",
+  "Example sentence: Have you actually checked out (not just mentally tested) different selling approaches designed to counter the price competition problem?",
+  "Example sentence: It was as though he had made a pact with the devil himself, but it was not yet time to pay the price.",
+  "Example sentence: There has been an intensification of price consciousness in recent years; there is every indication it will continue.",
+  "Example sentence: Frequently, wittingly or unwittingly, price consciousness has been fostered by manufacturers, distributors, and dealers."
+ ],
+ "labels": [
+  "monetary_value.n.01",
+  "monetary_value.n.01",
+  "monetary_value.n.01",
+  "monetary_value.n.01",
+  "monetary_value.n.01",
+  "monetary_value.n.01",
+  "monetary_value.n.01",
+  "price.n.02",
+  "price.n.02",
+  "price.n.02",
+  "price.n.02",
+  "price.n.02",
+  "price.n.02",
+  "price.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

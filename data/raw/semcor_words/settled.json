@@ -1,0 +1,35 @@
+{
+ "target_word": "settled",
+ "sentences": [
+  "Example sentence: But by the end of the three-month period, in October 1960, something approaching calm settled on the Congo.",
+  "Example sentence: Her voice was ripe and full and her teeth flashed again in Sicilian brilliance before the warm curved lips met and her mouth settled in repose.",
+  "Example sentence: Not a breeze exactly, but a pocket of icy air that settled with a loathsome familiarity upon the deep confines of the grove, catching Pamela in a leering embrace.",
+  "Example sentence: When the dust settled, he went back to the Jeep and carefully worked Roberts ' body onto his shoulder.",
+  "Example sentence: After every money argument, she rebuffed her husband's overtures until the matter was settled in her favor.",
+  "Example sentence: Once settled, we're careful to walk the dogs in an out of the way spot, keep them under control in the room, and feed and bench them where they cann't do any harm to the furnishings or the furniture.",
+  "Example sentence: That settled it, and we broke into parties of two and three.",
+  "Example sentence: Since the details of the elections were settled the change of government had no direct effect on the technical aspects of the elections, and may have been more important as an indication of royal displeasure with the U.N.F.P."
+ ],
+ "labels": [
+  "settle.v.01",
+  "settle.v.01",
+  "settle.v.01",
+  "settle.v.01",
+  "settle.v.03",
+  "settle.v.03",
+  "settle.v.03",
+  "settle.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

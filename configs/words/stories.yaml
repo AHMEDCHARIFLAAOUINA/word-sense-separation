@@ -1,0 +1,7 @@
+word: stories
+dataset: data/raw/semcor_words/stories.json
+senses:
+  - narrative.n.01
+  - story.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

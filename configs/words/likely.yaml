@@ -1,0 +1,7 @@
+word: likely
+dataset: data/raw/semcor_words/likely.json
+senses:
+  - likely.a.01
+  - probably.r.01
+n_per_sense: 7
+prefix: "Example sentence: "

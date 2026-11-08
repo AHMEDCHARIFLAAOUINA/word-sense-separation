@@ -1,0 +1,35 @@
+{
+ "target_word": "oil",
+ "sentences": [
+  "Example sentence: No oil.)",
+  "Example sentence: He had sold oil stock to Bob Hope and Bing Crosby in person; he had helped fight an oil-well fire that raged six days and nights.",
+  "Example sentence: Then during washing, the greasy soil rolls back at the edges so that emulsified droplets can disengage themselves from the sorbed oil mass, with the aid of mechanical action, and enter the aqueous phase.",
+  "Example sentence: In an essentially static system, an oil cannot be replaced by water on a surface unless the interfacial tensions of the water phase are reduced by a surface-active agent.",
+  "Example sentence: He worked in oil for years before beginning his work in watercolor, and his first public recognition and early honors, including his election to the Academy, were for his essays in the heavier medium.",
+  "Example sentence: He was elected to the National Academy of Design as an Associate in the oil class in 1931 (after receiving his first Ranger Fund Purchase Prize at the Academy in 1930), and elevated to Academicianship in 1940.",
+  "Example sentence: Only when the collage had been exhaustively translated into oil, and transformed by this translation, did Cubism become an affair of positive color and flat, interlocking silhouettes whose legibility and placement created allusions to, if not the illusion of, unmistakable three-dimensional identities.",
+  "Example sentence: (It makes no real difference that Braque's collage is on paper and eked out in charcoal, while Picasso's is on canvas and eked out in oil.)"
+ ],
+ "labels": [
+  "oil.n.01",
+  "oil.n.01",
+  "oil.n.01",
+  "oil.n.01",
+  "oil.n.02",
+  "oil.n.02",
+  "oil.n.02",
+  "oil.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

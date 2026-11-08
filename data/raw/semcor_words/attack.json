@@ -1,0 +1,41 @@
+{
+ "target_word": "attack",
+ "sentences": [
+  "Example sentence: Huge industries are involved also in the production of biological products, drugs and cosmetics which are liable to this type of attack.",
+  "Example sentence: In this case, then, the military objective was accomplished with an epidemic agent solely through the results secured in the initial attack.",
+  "Example sentence: On the other hand, a similar attack might have been made on City B whose population was known to be lousy.",
+  "Example sentence: One might expect some spread of the disease in this case resulting in increased effectiveness of the attack.",
+  "Example sentence: Goulding's platoon pushed back the enemy soldiers and broke up the timing of the entire enemy attack.",
+  "Example sentence: Actually, the types of infection that could attack a warm-blooded mammal were not infinite, and over the course of the last few hundred years adequate defenses had been found for all basic categories.",
+  "Example sentence: We can attack Tshombe, but not Gigenza.",
+  "Example sentence: It was all right to put a bunch of ranchers onto horses, to call them Night Riders, to set out to attack the largest mining combination the country had ever seen if all they wanted was adventure.",
+  "Example sentence: They could be used to attack a nation's people (which would inevitably mean the loss of the attacker's own people), or they could be used with discrimination to destroy the enemy's military force.",
+  "Example sentence: They'll probably attack at dawn '', Montero said."
+ ],
+ "labels": [
+  "attack.n.01",
+  "attack.n.01",
+  "attack.n.01",
+  "attack.n.01",
+  "attack.n.01",
+  "attack.v.01",
+  "attack.v.01",
+  "attack.v.01",
+  "attack.v.01",
+  "attack.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

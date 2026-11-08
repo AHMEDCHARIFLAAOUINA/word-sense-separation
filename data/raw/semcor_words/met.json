@@ -1,0 +1,53 @@
+{
+ "target_word": "met",
+ "sentences": [
+  "Example sentence: The tragic irony of the play is that the very belief in and concern with a devil who could be met in the woods and combatted with formulae set out in books was the very thing that prevented them from detecting the real devil when he came among them.",
+  "Example sentence: `` At Deauville she met an Egyptian by the name of Pulley Bey.",
+  "Example sentence: But one afternoon Mrs. Mercer met her; both were obviously on the way to the Mercer home.",
+  "Example sentence: The husbands of these women and others I had met in Catatonia were distinguished only in that they were, to me at least, indistinguishable.",
+  "Example sentence: In the spring and early summer of that year she met a wealthy foreign tycoon who took her to France, where she later met a very wealthy man and toured all Europe with him.",
+  "Example sentence: Each time in, the unhappy pilot, pushing his luck, begged the postal officials that met him to find a safer landing place, preferably on the flat-topped hills across the Winooski River.",
+  "Example sentence: Fran and he had met about two years after she had arrived in Manhattan from Nebraska, or was it Wyoming?",
+  "Example sentence: I did have the decency to call up Thelma and tell her I'd met old friends and would be home late.",
+  "Example sentence: The Richard S. Burkes ' home in Wayne may be the setting for the wedding reception for their daughter, Helen Lambert, and the young Italian she met last year while studying in Florence during her junior year at Smith college.",
+  "Example sentence: In March, 1961, representatives of the national laboratories of Australia, Canada, The Netherlands, United Kingdom, U. S. S. R., United States, and West Germany, met at the NBS to devise means for reaching international agreement on a temperature scale between 10 and 90 * * f.",
+  "Example sentence: He is Aldo Rostagno, son of the Guglielmo Rostagnos of Florence whom the Burkes met last year in Europe.",
+  "Example sentence: A woman met a famous author at a literary tea.",
+  "Example sentence: But the internationalists have taken over the governing body of the bar, and when the lads met in St. Louis, it was not to grumble about the humidity but to vote unanimously that the United Nations was scarcely less than wonderful, despite an imperfection here and there.",
+  "Example sentence: In Oslo, the ministers have met in a climate of candor, and made a genuine attempt to get information and understanding one another's problems."
+ ],
+ "labels": [
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.01",
+  "meet.v.02",
+  "meet.v.02",
+  "meet.v.02",
+  "meet.v.02",
+  "meet.v.02",
+  "meet.v.02",
+  "meet.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: family
+dataset: data/raw/semcor_words/family.json
+senses:
+  - family.n.02
+  - family.n.01
+n_per_sense: 15
+prefix: "Example sentence: "

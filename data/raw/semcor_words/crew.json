@@ -1,0 +1,35 @@
+{
+ "target_word": "crew",
+ "sentences": [
+  "Example sentence: On the second voyage, he had turned back at the frozen island of Novaya Zemlya and meekly given the crew a certificate stating that he did so of his own free will - which was obviously not the case.",
+  "Example sentence: The subsequent two-weeks wait made the crew quarrelsome.",
+  "Example sentence: He had obtained and provisioned a veteran ship called the Discovery and had recruited a crew of twenty-one, the largest he had ever commanded.",
+  "Example sentence: She carried, besides her captain, a crew of twenty-one and provisions for a voyage of exploration of the Arctic waters of North America.",
+  "Example sentence: The rest of the crew offsaddled their mounts and turned them into the remuda.",
+  "Example sentence: Over his shoulder he could see Prevot with the machine gun crew.",
+  "Example sentence: He did not see Sparling, or DeGroot, or Ringel, or any of the feverish crew that had so harassed him twelve hours ago.",
+  "Example sentence: I will get you inside the guard camp as a member of my crew."
+ ],
+ "labels": [
+  "crew.n.01",
+  "crew.n.01",
+  "crew.n.01",
+  "crew.n.01",
+  "gang.n.03",
+  "gang.n.03",
+  "gang.n.03",
+  "gang.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

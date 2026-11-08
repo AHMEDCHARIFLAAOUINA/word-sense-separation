@@ -1,0 +1,7 @@
+word: moment
+dataset: data/raw/semcor_words/moment.json
+senses:
+  - moment.n.01
+  - moment.n.02
+n_per_sense: 17
+prefix: "Example sentence: "

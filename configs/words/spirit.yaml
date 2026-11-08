@@ -1,0 +1,7 @@
+word: spirit
+dataset: data/raw/semcor_words/spirit.json
+senses:
+  - spirit.n.01
+  - spirit.n.02
+n_per_sense: 16
+prefix: "Example sentence: "

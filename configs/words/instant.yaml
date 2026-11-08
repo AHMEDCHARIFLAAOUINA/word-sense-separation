@@ -1,0 +1,7 @@
+word: instant
+dataset: data/raw/semcor_words/instant.json
+senses:
+  - blink_of_an_eye.n.01
+  - moment.n.01
+n_per_sense: 6
+prefix: "Example sentence: "

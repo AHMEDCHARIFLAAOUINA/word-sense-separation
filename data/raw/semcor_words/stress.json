@@ -1,0 +1,53 @@
+{
+ "target_word": "stress",
+ "sentences": [
+  "Example sentence: But when to represents to consciousness in that was the moment that I came to, and similarly in that was the moment I came to, there is much stronger stress on to.",
+  "Example sentence: Dominant stress is on her luggage both in that's her luggage, where her luggage is the complement, and in there's her luggage, where it is the subject.",
+  "Example sentence: Often dominant stress simply indicates a centering of attention or emotion.",
+  "Example sentence: Mack's the leader at camp, but Jack's here, with this is deprived of stress, makes here the complement in the clause.",
+  "Example sentence: In she has it in for George dominant stress will ordinarily be on in, where the notion of stored up antipathy seems to center.",
+  "Example sentence: The tendency is toward putting dominant stress at the end.",
+  "Example sentence: In I have things to do the word things makes little real contribution to meaning and has weaker stress than do.",
+  "Example sentence: Sir - Permit me to commend your editorial in which you stress the fact that a program of county colleges will substantially increase local tax burdens and that taxpayers have a right to a clear idea of what such a program would commit them to.",
+  "Example sentence: But there was one thing that he had to stress, and that was that the contribution to the general church expenses, the dollar money, had been seriously falling behind in this church, and that must be looked after immediately.",
+  "Example sentence: Unions stress fringe benefits, but the individual hourly worker prefers cash every time.",
+  "Example sentence: The U. S. Office of Education continues to stress local surveys rather than national surveys.",
+  "Example sentence: American policy toward such societies should stress our sympathy for the emerging social and professional classes.",
+  "Example sentence: Some mediums speak in practical, down-to-earth terms, while others may stress the spiritual.",
+  "Example sentence: The psychological strategists in Taiwan stress the great sense of family, cultivated in China over thousands of years."
+ ],
+ "labels": [
+  "stress.n.01",
+  "stress.n.01",
+  "stress.n.01",
+  "stress.n.01",
+  "stress.n.01",
+  "stress.n.01",
+  "stress.n.01",
+  "stress.v.01",
+  "stress.v.01",
+  "stress.v.01",
+  "stress.v.01",
+  "stress.v.01",
+  "stress.v.01",
+  "stress.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

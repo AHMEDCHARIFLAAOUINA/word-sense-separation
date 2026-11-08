@@ -1,0 +1,41 @@
+{
+ "target_word": "salt",
+ "sentences": [
+  "Example sentence: For prevention of foamy bloat, feed at a rate of 0.5 to 2 milligrams per head per day in mineral or salt or feed.",
+  "Example sentence: The burning air dried his sweat soaked clothes in salt edged patches.",
+  "Example sentence: After their work other investigators applied salt fractionation techniques to the problem, as well as fractionation with organic solvents, such as acetone.",
+  "Example sentence: I learned, for example, that he made a practice of yapping at dogs he encountered and, in winter, of sprinkling salt on the icy pavement to scarify their feet.",
+  "Example sentence: Along Wappinger Creek in Dutchess County, past the white church at Fishkill, past Verplanck's Point on the east bank of the Hudson, to the white salt crusted roads of the Long Island Rockaways there was a watching and an activity of preparing for something explosive to happen.",
+  "Example sentence: She doled out what Glendora vaguely guessed were the right amounts of dried peas, eggs, cornmeal, a little salt.",
+  "Example sentence: The rice wasn't dosed with opium, indeed it had no taste at all, not a grain of salt.",
+  "Example sentence: It was like hitting a sack of salt.",
+  "Example sentence: Suddenly he was interrupted in his daydreaming by a warm wetness lapping against his chin, and his eyes opened wide and long at the sight of a goat's claret tongue, feasting against the salt taste of him.",
+  "Example sentence: Later, chlorothiazide and salt restriction became necessary to control the edema of chronic congestive failure."
+ ],
+ "labels": [
+  "salt.n.01",
+  "salt.n.01",
+  "salt.n.01",
+  "salt.n.01",
+  "salt.n.01",
+  "salt.n.02",
+  "salt.n.02",
+  "salt.n.02",
+  "salt.n.02",
+  "salt.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

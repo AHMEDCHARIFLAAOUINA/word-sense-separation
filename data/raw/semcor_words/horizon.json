@@ -1,0 +1,41 @@
+{
+ "target_word": "horizon",
+ "sentences": [
+  "Example sentence: He stared at the far morning, expecting a pendulum to swing across the horizon.",
+  "Example sentence: The valley lay clear, and open to the eye, right up to the sharp limbed line of gaunt, scoured hills that formed the horizon twenty miles ahead.",
+  "Example sentence: `` On the side toward the horizon - the southern hemisphere - it is spring; plants are being taught to grow ''.",
+  "Example sentence: White shirted and conservatively cravated drivers stared conspicuously toward the eastern horizon and past my supplicating and accusing gaze.",
+  "Example sentence: He and Mark were the last of the family, and there lay the Cape Ann property which had seemed to have no end, stretching from horizon to horizon, in those golden days of summer.",
+  "Example sentence: And further he must understand his obligation to the client to not only meet his physical necessities but also to enhance and improve his life and to enlarge the cultural horizon of our society.",
+  "Example sentence: Certainly its composer was an ascending star on a new world horizon.",
+  "Example sentence: It follows that any effective policy toward the underdeveloped countries must have a realistically long working horizon.",
+  "Example sentence: Practically all forecasts mention new and exciting products on the horizon.",
+  "Example sentence: Unless we keep our eyes on the horizon ahead, we shall fail to bring ourselves on target with the present."
+ ],
+ "labels": [
+  "horizon.n.01",
+  "horizon.n.01",
+  "horizon.n.01",
+  "horizon.n.01",
+  "horizon.n.01",
+  "horizon.n.02",
+  "horizon.n.02",
+  "horizon.n.02",
+  "horizon.n.02",
+  "horizon.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

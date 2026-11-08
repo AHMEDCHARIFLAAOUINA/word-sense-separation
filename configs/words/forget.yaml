@@ -1,0 +1,7 @@
+word: forget
+dataset: data/raw/semcor_words/forget.json
+senses:
+  - forget.v.01
+  - forget.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

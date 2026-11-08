@@ -1,0 +1,7 @@
+word: degree
+dataset: data/raw/semcor_words/degree.json
+senses:
+  - degree.n.01
+  - degree.n.02
+n_per_sense: 15
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "books",
+ "sentences": [
+  "Example sentence: `` Let's talk about books '', Moreland said.",
+  "Example sentence: `` I am told that in America you have non books by non writers, brought out by non publishers for non readers.",
+  "Example sentence: He must mentally pull the blinds and close the window, so that all that existed was in the books before him.",
+  "Example sentence: Narrow four story buildings ran the length of the block like books tightly packed on a shelf.",
+  "Example sentence: Everywhere else his ideas lay or hung in visible form: his models, drawings, ten foot canvases in monochromes from his painting days, and underfoot a windfall of broken-backed books that looked as though their insides had been ransacked by a maniac.",
+  "Example sentence: Publishers want books that will sell, recording studios want discs that will not seem strange to ears used to hillbilly and jazz music, grade and high schools want quaint, but moral, material.",
+  "Example sentence: Rousseau is so persuasive that Voltaire is almost convinced that he should burn his books, too.",
+  "Example sentence: Besides showing no inclination, apparently, to absent himself from his native region even for short periods, and in addition writing a shelf of books set in the region, he has handled in those books an astonishingly complete list of matters which have been important in the South during the past hundred years.",
+  "Example sentence: That is not to deny that he has been aware of traditions, of course, that he is steeped in them, in fact, or that he has dealt with them, in his books.",
+  "Example sentence: Their books found no less willing readers outside than inside the South, even while memories of the war were still sharp."
+ ],
+ "labels": [
+  "book.n.02",
+  "book.n.02",
+  "book.n.02",
+  "book.n.02",
+  "book.n.02",
+  "book.n.01",
+  "book.n.01",
+  "book.n.01",
+  "book.n.01",
+  "book.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

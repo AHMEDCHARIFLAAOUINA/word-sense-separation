@@ -1,0 +1,53 @@
+{
+ "target_word": "breath",
+ "sentences": [
+  "Example sentence: He drew a deep breath.",
+  "Example sentence: I took a deep breath and an even deeper swallow of my drink, and said, `` I admit that going back to Ralph Waldo Emerson for humor is like going to a modern musical comedy for music and comedy ''.",
+  "Example sentence: In the lower center rack an 8 - channel recorder indicates the percentage of carbon dioxide and nitrogen from the upper and lower lobes of one lung, the total volume of inhalation per breath, the flow of air from both lobes, and the pressure of the two lobes with respect to each other.",
+  "Example sentence: Watson snatched a deep breath.",
+  "Example sentence: Watson paused for breath.",
+  "Example sentence: But barring a miracle, and don't hold your breath for it, Chicago will not see the Leningrad-Kirov Ballet, which stems from the ballet cradle of the Maryinsky and is one of the great companies of the world.",
+  "Example sentence: Beth was very still and her breath came in small jerking gasps.",
+  "Example sentence: He was shaking with anger, his breath coming in long, painful gasps.",
+  "Example sentence: And once Bake slipped in, pale and drawn, last night's liquor still on his breath with some of today's added to it.",
+  "Example sentence: Gun held his breath a moment, pushing the volume and pitch of his voice down under the trapdoor in his throat.",
+  "Example sentence: Jess caught his breath in surprise.",
+  "Example sentence: He could conceivably have wished to make sure; Rev loved Honotassa, it was like a part of his breath and body; Rev had stressed the need for money.",
+  "Example sentence: The man wheezed weakly, his fetid breath beating softly against Watson's neck.",
+  "Example sentence: He drew a long breath and opened the trunk and hung out her clothes and spoilables upon the wagon ribs."
+ ],
+ "labels": [
+  "breath.n.01",
+  "breath.n.01",
+  "breath.n.01",
+  "breath.n.01",
+  "breath.n.01",
+  "breath.n.01",
+  "breath.n.01",
+  "breath.n.02",
+  "breath.n.02",
+  "breath.n.02",
+  "breath.n.02",
+  "breath.n.02",
+  "breath.n.02",
+  "breath.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

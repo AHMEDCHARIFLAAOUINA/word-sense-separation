@@ -1,0 +1,7 @@
+word: passed
+dataset: data/raw/semcor_words/passed.json
+senses:
+  - travel_by.v.01
+  - legislate.v.01
+n_per_sense: 12
+prefix: "Example sentence: "

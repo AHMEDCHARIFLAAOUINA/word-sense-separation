@@ -1,0 +1,53 @@
+{
+ "target_word": "shouting",
+ "sentences": [
+  "Example sentence: But there was no complaint from the Dominican crowds which lined Ciudad Trujillo's waterfront shouting, `` Vive Yankees ''!",
+  "Example sentence: He was shouting and breathing hard and closing his fist on the pillow.",
+  "Example sentence: Montero was shouting.",
+  "Example sentence: With shout and slow dance, with tears and song, with scream and contortion, the corner group was beset by hysteria and shivering, wailing, shouting, possession of something that seemed like an alien and outside force.",
+  "Example sentence: I could see their faces glistening with sweat and bear grease, their mouths open, shouting their spine-chilling cries.",
+  "Example sentence: Everyone in the ball park seemed to be standing and shouting.",
+  "Example sentence: From the east to the west coast of the Korean peninsula was a strip of land in which fear filled men were at that same moment furtively crawling through the night, sitting in sweaty anticipation of any movement or sound, or shouting amidst confused rifle flashes and muzzle blasts.",
+  "Example sentence: There was no doubt in my mind that if I crossed him, mobs would appear outside our windows shouting `` Paredon!",
+  "Example sentence: I remember Ernest Bloch in the foyer, shouting in his high-pitched voice: `` it may be a tour de force, mais mon Dieu, can anyone take this music seriously ''?",
+  "Example sentence: Then Little Billy began shouting orders to round up the ponies and fill the water buckets and for the cooks to hurry up with the meal.",
+  "Example sentence: He was marching up and down the locker room of the Grassy Brae Golf Club shouting, `` Bomb Cuba!",
+  "Example sentence: The sounds issuing from beyond - winches whirring, men shouting - indicated great activity and excited me.",
+  "Example sentence: For ten minutes they ran beneath the squall, raising their arms and, for the first time, shouting and capering.",
+  "Example sentence: He came spurring and whooping down the road, his horse kicking up clouds of dust, shouting:"
+ ],
+ "labels": [
+  "shout.v.02",
+  "shout.v.02",
+  "shout.v.02",
+  "shout.v.02",
+  "shout.v.02",
+  "shout.v.02",
+  "shout.v.02",
+  "shout.v.01",
+  "shout.v.01",
+  "shout.v.01",
+  "shout.v.01",
+  "shout.v.01",
+  "shout.v.01",
+  "shout.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

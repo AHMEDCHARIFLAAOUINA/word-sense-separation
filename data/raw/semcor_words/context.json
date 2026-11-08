@@ -1,0 +1,35 @@
+{
+ "target_word": "context",
+ "sentences": [
+  "Example sentence: Thus in a context in which there has been discussion of snow but mention of local conditions is new, dominant stress will probably be on here in it rarely snows here, but in a context in which there has been discussion of local weather but no mention of snow, dominant stress will probably be on snows.",
+  "Example sentence: Here again, in the written language it is possible to help the reader get his stresses right by using underlining or italics, but much of the time there is simply reliance on his understanding in the light of context.",
+  "Example sentence: Yet in the contemporary context this is precisely what one must not do.",
+  "Example sentence: What is new in the context is likely to be made more prominent than what is not.",
+  "Example sentence: We are already committed to establishing man's supremacy over nature and everywhere on earth, not merely in the limited social political economical context we are fond of today.",
+  "Example sentence: We in this Department must think about foreign policy in its total context.",
+  "Example sentence: This condition affects not only the conception but also the legislative and financial support of foreign policy, especially in the context of economic aid.",
+  "Example sentence: That means that, if we are to achieve a new standard of leadership, we must think in terms of the total context of our situation."
+ ],
+ "labels": [
+  "context.n.01",
+  "context.n.01",
+  "context.n.01",
+  "context.n.01",
+  "context.n.02",
+  "context.n.02",
+  "context.n.02",
+  "context.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

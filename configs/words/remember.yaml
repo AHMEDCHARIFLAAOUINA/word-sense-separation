@@ -1,0 +1,7 @@
+word: remember
+dataset: data/raw/semcor_words/remember.json
+senses:
+  - remember.v.02
+  - remember.v.01
+n_per_sense: 12
+prefix: "Example sentence: "

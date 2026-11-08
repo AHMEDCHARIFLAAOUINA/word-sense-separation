@@ -1,0 +1,7 @@
+word: somehow
+dataset: data/raw/semcor_words/somehow.json
+senses:
+  - somehow.r.01
+  - somehow.r.02
+n_per_sense: 5
+prefix: "Example sentence: "

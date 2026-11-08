@@ -1,0 +1,47 @@
+{
+ "target_word": "love",
+ "sentences": [
+  "Example sentence: He won't submit to his natural desires all the time, and it's Mother's love that is responsible for his good behavior.",
+  "Example sentence: Of course his love was expressed in intelligent care.",
+  "Example sentence: The partners each bring to it unselfish love, and each takes away an equal share of pleasure and joy.",
+  "Example sentence: When you see them again give them my love - not best respects now, but love by God ''.",
+  "Example sentence: They caused my love for Jessica to become warmer and at the same time more hopeless, as if my adolescent self knew that only torment would ever bring me the courage to ask to see her again.",
+  "Example sentence: To have someday that love returned was what he had lived for.",
+  "Example sentence: We know that we have passed from death to life, because we love the brethren.",
+  "Example sentence: It is the force in the universe that makes men love goodness, even when they turn away from it.",
+  "Example sentence: `` I just love them '', he said.",
+  "Example sentence: Now Eileen really would have to settle down to love honor and obey, and she'd have to quit drinking.",
+  "Example sentence: A fellow came up to me, a Senator, I don't have to tell you his name, and he told me, ' I love the President like a brother, but God damn it, he's crucifying me.",
+  "Example sentence: He who does not love abides in death."
+ ],
+ "labels": [
+  "love.n.01",
+  "love.n.01",
+  "love.n.01",
+  "love.n.01",
+  "love.n.01",
+  "love.n.01",
+  "love.v.01",
+  "love.v.01",
+  "love.v.01",
+  "love.v.01",
+  "love.v.01",
+  "love.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

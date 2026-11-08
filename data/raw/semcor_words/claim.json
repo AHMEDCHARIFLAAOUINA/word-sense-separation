@@ -1,0 +1,35 @@
+{
+ "target_word": "claim",
+ "sentences": [
+  "Example sentence: The action of the Commission in allowing or denying any claim under this title shall be final and conclusive on all questions of law and fact and not subject to review by the Secretary of State or any other official, department, agency, or establishment of the United States or by any court by mandamus or otherwise.",
+  "Example sentence: Any claimant whose claim is denied, or is approved for less than the full amount of such claim, shall be entitled, under such regulations as the Commission may prescribe, to a hearing before the Commission, or its duly authorized representatives, with respect to such claim.",
+  "Example sentence: Nothing in the Title shall be construed as the assumption of any liability by the United States for the payment or satisfaction, in whole or in part, of any claim on behalf of any national of the United States against any foreign government.",
+  "Example sentence: Upon such hearing, the Commission may affirm, modify, or revise its former action with respect to such claim, including a denial or reduction in the amount theretofore allowed with respect to such claim.",
+  "Example sentence: Vocational educators do not claim that school training alone makes skilled workers, but it provides the essential groundwork for developing skills.",
+  "Example sentence: He was also pleased with the wide distribution because he thought it proved again his argument that Dallas investment men can do just as good a job as the big New York investment bankers claim only they can do.",
+  "Example sentence: Irenaeus does not claim pre-existence for the human soul; therefore there is no need for him, as there is for Origen, to identify existence itself with the fall.",
+  "Example sentence: The Russian experimenters claim that only a small fraction of the impulse from the sensors is caused by the incident momentum with the remainder being momentum of ejected material from the sensor."
+ ],
+ "labels": [
+  "claim.n.01",
+  "claim.n.01",
+  "claim.n.01",
+  "claim.n.01",
+  "claim.v.01",
+  "claim.v.01",
+  "claim.v.01",
+  "claim.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: confusion
+dataset: data/raw/semcor_words/confusion.json
+senses:
+  - confusion.n.01
+  - confusion.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

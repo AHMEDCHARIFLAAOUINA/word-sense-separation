@@ -1,0 +1,53 @@
+{
+ "target_word": "capacity",
+ "sentences": [
+  "Example sentence: Add also a comparatively primitive industrial plant which would severely limit our capacity to keep abreast of the Soviets even in the missile field which is reputed to be our main strength.",
+  "Example sentence: The capacity of intellectuals and members of the new professional classes to contribute creatively to national development is likely to be destroyed by a constraining sense of inferiority toward both their own political class and their colleagues and professional counterparts in the West.",
+  "Example sentence: Rachel, observing, would say, `` He has to rediscover his own capacity.",
+  "Example sentence: Individual differences in maturation and the development of readiness for learning to read indicate that not until the third grade have most children had ample opportunity to demonstrate their capacity for school achievement.",
+  "Example sentence: It is at least possible that the capacity to postpone gratification is developed as well as expressed in a continuous and guided exposure to great literature.",
+  "Example sentence: They began to describe in detail the woman's capacity for response.",
+  "Example sentence: Because he interprets the primitive state of man as one of mere potentiality or capacity and believes that Adam and Eve were created as children, Irenaeus often seems inclined to extenuate their disobedience as being `` due, no doubt, to carelessness, but still wicked ''.",
+  "Example sentence: One of extremely low anionic binding capacity, one of low anionic binding capacity and one of high anionic binding capacity.",
+  "Example sentence: In all cases, most of the activity lay in the region of high anionic binding capacity.",
+  "Example sentence: In 2 of 15 experiments on whole serum a region of agglutinin activity with intermediate anionic binding capacity was detected (Region 3, Fig. 1).",
+  "Example sentence: There appeared to be no difference in the distribution of anti - A and anti - B activity in group O serum, though in two group O donors (J. F. and E. M.) only one type of agglutinin was found in the regions of low anionic binding capacity (Figs. 1 and 2).",
+  "Example sentence: Even here there is room for some variation, for metal surfaces vary in smoothness, absorptive capacity, and chemical reactivity.",
+  "Example sentence: This is true for two reasons: because Communism is both doctrinally, and in practice, antithetical to these conditions; and because Communists have the will and, as long as Soviet power remains intact, the capacity to prevent their realization.",
+  "Example sentence: Similarly, both types of antibodies were found in three regions of the chromatographic eluate, having extremely low, low, and high anionic binding capacity, respectively (Fig. 3)."
+ ],
+ "labels": [
+  "capacity.n.01",
+  "capacity.n.01",
+  "capacity.n.01",
+  "capacity.n.01",
+  "capacity.n.01",
+  "capacity.n.01",
+  "capacity.n.01",
+  "capability.n.02",
+  "capability.n.02",
+  "capability.n.02",
+  "capability.n.02",
+  "capability.n.02",
+  "capability.n.02",
+  "capability.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

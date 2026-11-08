@@ -1,0 +1,35 @@
+{
+ "target_word": "encourage",
+ "sentences": [
+  "Example sentence: This includes foreseeing balance-of-payments crises, with adequate attention to reducing dependence on imports and adopting realistic exchange rates to encourage infant industries and spur exports.",
+  "Example sentence: It will continue to be an objective of this division to encourage the acceptance of planning as a proper and continuing responsibility of local government.",
+  "Example sentence: It should be American policy not only to encourage effective land reform programs but also to underline the relation of such reforms to the economic growth and modernization of the society.",
+  "Example sentence: To insist on a level of performance in programing and budgeting completely beyond the capabilities of the recipient country would result in the frustration of the basic objective of our development assistance to encourage more rapid growth.",
+  "Example sentence: For general morale reasons and to encourage the efforts of his supply officers, when food was short for combat troops he cut the rations of his headquarters staff accordingly.",
+  "Example sentence: It was neither a spirit of self-sacrifice nor a yen to encourage the downtrodden that motivated Arnold.",
+  "Example sentence: My aim in mentioning this factor obviously is not to give license to `` wild therapy '' but rather to encourage us to use the time-honored clinical casework skills we already possess, and to use them with greater confidence, precision, and professional pride.",
+  "Example sentence: (The purpose of the Junior Showmanship Competition is to teach and encourage Juniors to become good sportsmen."
+ ],
+ "labels": [
+  "promote.v.01",
+  "promote.v.01",
+  "promote.v.01",
+  "promote.v.01",
+  "encourage.v.02",
+  "encourage.v.02",
+  "encourage.v.02",
+  "encourage.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

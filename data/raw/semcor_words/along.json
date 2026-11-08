@@ -1,0 +1,53 @@
+{
+ "target_word": "along",
+ "sentences": [
+  "Example sentence: Red, come along.",
+  "Example sentence: The Ramirez brothers were also along.",
+  "Example sentence: `` Just come along '', Brannon told him.",
+  "Example sentence: You're coming along peacefully, or I'll put a bullet in your leg ''.",
+  "Example sentence: Probably a larger percentage of Virginians and South Carolinians remain unreconstructed than elsewhere, with Georgia, North Carolina, and Alabama following along after them.",
+  "Example sentence: `` We're going after ice '', Howard said, `` and thought maybe you'd go along and keep us company ''.",
+  "Example sentence: Should I bring along a corsage or send one to her?",
+  "Example sentence: The safe at Ingleside District Station stands next to the gum machine in a narrow passageway that leads to Captain Harris's office (to the left), the lieutenant's office (farther along and to the left) and the janitor's supply closet (straight ahead).",
+  "Example sentence: In the very front rank, two men were wounded and staggered along, trailing blood behind them.",
+  "Example sentence: Soon they were picking their way along the edge of the stream which glowed in the night.",
+  "Example sentence: They germinate quickly, the tiny plants appearing in a week, and grow along lustily.",
+  "Example sentence: `` I do not care if your beliefs take you along a path of religion or a path of labor or a path of activism.",
+  "Example sentence: He climbed, as quickly as he could urge his body, up the two unbroken flights to the third floor, pulling himself along on a delicate balustrade, all that remained of the building's beauty.",
+  "Example sentence: They had traveled only a short distance when they spotted five Mexicans riding along a horse-trail across the stream just ahead of them."
+ ],
+ "labels": [
+  "along.r.02",
+  "along.r.02",
+  "along.r.02",
+  "along.r.02",
+  "along.r.02",
+  "along.r.02",
+  "along.r.02",
+  "along.r.01",
+  "along.r.01",
+  "along.r.01",
+  "along.r.01",
+  "along.r.01",
+  "along.r.01",
+  "along.r.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

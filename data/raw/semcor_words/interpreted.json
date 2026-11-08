@@ -1,0 +1,53 @@
+{
+ "target_word": "interpreted",
+ "sentences": [
+  "Example sentence: Mythological concepts may by all means still be used, but they can be used responsibly only as `` symbols '' or `` ciphers '', that is, only if they are also constantly interpreted in non mythological (or existential) terms.",
+  "Example sentence: Or, equally often, a concretistic seeming, particularistic seeming statement may consist, with its mundane exterior, in a form of poetry - may be full of meaning and emotion when interpreted as a figurative expression: a metaphor, a simile, an allegory, or some other symbolic mode of speaking.",
+  "Example sentence: No action of his could be interpreted in his favor and four midshipmen, prior to their knowing the significance of the Greek paper, had seen it in Cromwell's hands while Spencer whispered explanations.",
+  "Example sentence: The registration figures given in Table 2 must be interpreted with caution since the estimate for eligible electors were made without the benefit of a reliable census.",
+  "Example sentence: Certainly one of the most important comments that can be made upon the spiritual and cultural life of any period of Western civilization during the past sixteen or seventeen centuries has to do with the way in which its leaders have read and interpreted the Bible.",
+  "Example sentence: This particular song at this particular time could only be interpreted as the ultimate in bad taste, callous exploitation beyond the bounds of decency.",
+  "Example sentence: Such high-resolution observations as these are needed at several wave lengths in order that the radio emission of the moon can be properly interpreted.",
+  "Example sentence: The information provided by the electron paramagnetic effects is then discussed, and finally the nuclear effects are interpreted in terms of various motional modified models of the **f bond in **f.",
+  "Example sentence: In the second and third chapters of Revelation the new version retains, however, the old phrase `` angel of the church '' which Biblical scholars have previously interpreted as meaning bishop.",
+  "Example sentence: These reactions were interpreted as being manifestations of hypoadrenocorticism.",
+  "Example sentence: And even more complex items can be interpreted to conform to one's own point of view, which is by nature so personal.",
+  "Example sentence: Thanks to Spoken Arts Records, history buffs may hear Lincoln's `` most memorable speeches and letters '' in a two disc set, interpreted by Lincoln authority and lecturer Roy P. Basler.",
+  "Example sentence: Their President, Jefferson Davis, interpreted their Constitution to mean that it `` admits of no coerced association '', but this remained so doubtful that `` there were frequent demands that the right to secede be put into the Constitution ''.",
+  "Example sentence: In this manner, the factors measured by the intelligence test were controlled, allowing discovered differences in achievement to be interpreted as resulting from other variables."
+ ],
+ "labels": [
+  "interpret.v.01",
+  "interpret.v.01",
+  "interpret.v.01",
+  "interpret.v.01",
+  "interpret.v.01",
+  "interpret.v.01",
+  "interpret.v.01",
+  "rede.v.01",
+  "rede.v.01",
+  "rede.v.01",
+  "rede.v.01",
+  "rede.v.01",
+  "rede.v.01",
+  "rede.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

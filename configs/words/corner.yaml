@@ -1,0 +1,7 @@
+word: corner
+dataset: data/raw/semcor_words/corner.json
+senses:
+  - corner.n.01
+  - corner.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

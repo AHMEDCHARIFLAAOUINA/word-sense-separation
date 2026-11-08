@@ -1,0 +1,7 @@
+word: distribution
+dataset: data/raw/semcor_words/distribution.json
+senses:
+  - distribution.n.01
+  - distribution.n.02
+n_per_sense: 12
+prefix: "Example sentence: "

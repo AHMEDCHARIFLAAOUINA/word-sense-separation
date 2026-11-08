@@ -1,0 +1,7 @@
+word: bond
+dataset: data/raw/semcor_words/bond.json
+senses:
+  - chemical_bond.n.01
+  - bond.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

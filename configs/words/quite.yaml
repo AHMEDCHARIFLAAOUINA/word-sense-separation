@@ -1,0 +1,7 @@
+word: quite
+dataset: data/raw/semcor_words/quite.json
+senses:
+  - quite.r.01
+  - quite.r.02
+n_per_sense: 20
+prefix: "Example sentence: "

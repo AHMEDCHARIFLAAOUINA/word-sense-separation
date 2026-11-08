@@ -1,0 +1,35 @@
+{
+ "target_word": "seem",
+ "sentences": [
+  "Example sentence: But he didn't play golf, didn't seem to belong to any local clubs - his work took him away a lot, of course - which probably accounted for his tendency to keep to himself.",
+  "Example sentence: By comparison, Stone Harbor bird sanctuary's allies seem less formidable, for aside from the Audubon Society, they are mostly the snowy, common and cattle egrets and the Louisiana, green, little blue and black-crowned herons who nest and feed there.",
+  "Example sentence: In this heavy air, however, that device did not seem to help.",
+  "Example sentence: One of the most beautiful buildings in Istanbul, it was constructed in the early years of the Seventeenth Century, with a huge central dome, two half domes that seem to cascade down from it, and smaller full domes around the gallery.",
+  "Example sentence: In this respect it would seem that the greater the social distance between the Brandywine population and the white and Negro populations within the same general locality, the greater the possibility for higher morale and solidarity within the Brandywine population.",
+  "Example sentence: They didn't seem to be able to think of any.",
+  "Example sentence: It would seem, then, that movable property and equipment is not taxed as a whole but that certain types are taxed in towns where this is bound to be expedient for that particular kind of personal property.",
+  "Example sentence: From the point of view of syntactic analysis the head word in the statement is the predicator has broken, and from the point of view of meaning it would seem that the trouble centers in the breaking; but dominant stress will be assigned to broken only in rather exceptional versions of the sentence."
+ ],
+ "labels": [
+  "look.v.02",
+  "look.v.02",
+  "look.v.02",
+  "look.v.02",
+  "appear.v.04",
+  "appear.v.04",
+  "appear.v.04",
+  "appear.v.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

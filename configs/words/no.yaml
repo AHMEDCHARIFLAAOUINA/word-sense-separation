@@ -1,0 +1,7 @@
+word: no
+dataset: data/raw/semcor_words/no.json
+senses:
+  - no.a.01
+  - no.r.01
+n_per_sense: 20
+prefix: "Example sentence: "

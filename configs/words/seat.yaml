@@ -1,0 +1,7 @@
+word: seat
+dataset: data/raw/semcor_words/seat.json
+senses:
+  - seat.n.01
+  - buttocks.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

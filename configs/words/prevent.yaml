@@ -1,0 +1,7 @@
+word: prevent
+dataset: data/raw/semcor_words/prevent.json
+senses:
+  - prevent.v.01
+  - prevent.v.02
+n_per_sense: 12
+prefix: "Example sentence: "

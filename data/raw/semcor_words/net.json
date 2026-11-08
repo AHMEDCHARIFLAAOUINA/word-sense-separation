@@ -1,0 +1,35 @@
+{
+ "target_word": "net",
+ "sentences": [
+  "Example sentence: To find estimated net farm income, subtract estimated annual farming expenditures from probable gross income from farming.",
+  "Example sentence: Upon such sale, there shall be returned to any State or public agency which has contributed financial assistance under section 3 of this joint resolution a proper share of the net proceeds of the sale.",
+  "Example sentence: To figure the value of the farm in terms of investment income, divide the estimated annual net farm income by the percentage that you could expect to get in interest if the money were invested in some other way.",
+  "Example sentence: You also deduct 50% of the excess of net long-term capital gains over net short-term capital losses in determining Adjusted Gross Income.",
+  "Example sentence: On the parade ground the net may be similar to that shown in Figure 3.",
+  "Example sentence: Furthermore, the network in Figure 3 is only the basic net through which other networks pertaining to logistics and the like are interlaced.",
+  "Example sentence: Since the air is a continuum, the network of communication remains intact regardless of the positions or motions of the points (the people) in the net.",
+  "Example sentence: Since the difficulty of drawing the net is great, we will merely discuss it."
+ ],
+ "labels": [
+  "net.a.01",
+  "net.a.01",
+  "net.a.01",
+  "net.a.01",
+  "internet.n.01",
+  "internet.n.01",
+  "internet.n.01",
+  "internet.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

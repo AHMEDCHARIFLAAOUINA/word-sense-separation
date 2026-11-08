@@ -1,0 +1,7 @@
+word: filled
+dataset: data/raw/semcor_words/filled.json
+senses:
+  - fill.v.01
+  - fill.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

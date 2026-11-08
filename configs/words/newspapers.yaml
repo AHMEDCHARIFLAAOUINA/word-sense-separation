@@ -1,0 +1,7 @@
+word: newspapers
+dataset: data/raw/semcor_words/newspapers.json
+senses:
+  - newspaper.n.01
+  - newspaper.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

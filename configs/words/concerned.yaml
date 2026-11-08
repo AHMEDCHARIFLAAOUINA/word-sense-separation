@@ -1,0 +1,7 @@
+word: concerned
+dataset: data/raw/semcor_words/concerned.json
+senses:
+  - concern.v.02
+  - refer.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

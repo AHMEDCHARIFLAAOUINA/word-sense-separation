@@ -1,0 +1,7 @@
+word: public
+dataset: data/raw/semcor_words/public.json
+senses:
+  - public.a.01
+  - populace.n.01
+n_per_sense: 20
+prefix: "Example sentence: "

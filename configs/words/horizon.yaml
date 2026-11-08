@@ -1,0 +1,7 @@
+word: horizon
+dataset: data/raw/semcor_words/horizon.json
+senses:
+  - horizon.n.01
+  - horizon.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: head
+dataset: data/raw/semcor_words/head.json
+senses:
+  - head.n.01
+  - head.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

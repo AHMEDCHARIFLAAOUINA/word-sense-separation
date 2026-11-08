@@ -1,0 +1,7 @@
+word: bother
+dataset: data/raw/semcor_words/bother.json
+senses:
+  - trouble_oneself.v.01
+  - annoy.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

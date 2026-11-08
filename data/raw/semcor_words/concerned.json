@@ -1,0 +1,41 @@
+{
+ "target_word": "concerned",
+ "sentences": [
+  "Example sentence: The President was especially concerned about the deadlock in the nuclear test ban negotiations at Geneva.",
+  "Example sentence: Even the great god Faulkner, the South's one probable contender for literary immortality, has little concerned himself with these matters; such are simply not within his bounded province.",
+  "Example sentence: Parents are often concerned that orthodontic appliances may cause teeth to decay.",
+  "Example sentence: Thus Burns's `` My love is like a red, red rose '' and Hopkins ' `` The thunder-purple sea beach, plumed purple of thunder '' although clearly intelligible in content, hardly present ideas of the sort with which we are here concerned.",
+  "Example sentence: He hung up with a bang, annoyed at himself for running off at the mouth like that but still terribly concerned with the situation he had helped to create.",
+  "Example sentence: `` Very few wives '', says Dr. Calderone, `` who balance the checkbook, fix the car, choose where the family will live and deal with the tradesmen, are suddenly going to become submissive where sex is concerned.",
+  "Example sentence: This temperature was taken as environmental temperature to which the anode holder was exposed as far as radiation is concerned.",
+  "Example sentence: `` Well, she had a number of them where money was concerned '', Garth said.",
+  "Example sentence: Insofar as its own governing documents are concerned, Emory University could now consider applications from prospective students, and others seeking applications from prospective students, and others seeking the opportunity to study or work at the university, irrespective of race, color or creed.",
+  "Example sentence: The editorial concerned legislative proposals to ease the tax burden on du Pont stockholders, in connection with the United States Supreme court ruling that du Pont must divest itself of its extensive General Motors stock holdings."
+ ],
+ "labels": [
+  "concern.v.02",
+  "concern.v.02",
+  "concern.v.02",
+  "concern.v.02",
+  "concern.v.02",
+  "refer.v.02",
+  "refer.v.02",
+  "refer.v.02",
+  "refer.v.02",
+  "refer.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

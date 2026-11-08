@@ -1,0 +1,41 @@
+{
+ "target_word": "shoot",
+ "sentences": [
+  "Example sentence: The most effective way to develop more places for more sportsmen to shoot is to encourage properly managed shooting preserves.",
+  "Example sentence: And due to modern resource use and game management practices, there is still game to shoot, even with the ever expanding encroachment on land and water.",
+  "Example sentence: He was promised that no harm would befall him if he would come out, but he cursed and replied that he would shoot any man coming near the door.",
+  "Example sentence: Near the end of his service he wrote that when the war was over he was going to buy two pups, name one of them `` fall-in '' and the other `` close-up '', and then shoot them both, `` and that will be the end of ' fall-in ' and ' close-up '' '.",
+  "Example sentence: There was a brief interruption while one of O ' Banion's men jerked out both his guns and threatened to shoot a waiter who was pestering him for a tip.",
+  "Example sentence: The boy came on to the porch and sat down, his gaze on Morgan as if half expecting him to shoot and not really caring.",
+  "Example sentence: You reckon there's two men in this state can shoot like that ''?",
+  "Example sentence: He'd shoot at anything if it was the rear end of a horse or his own sentry.",
+  "Example sentence: They are willing to settle, however, in anything that offers pheasants to shoot at and peasants to work at.",
+  "Example sentence: Ludie took his slingshot and climbed to the rooftop to shoot at crows."
+ ],
+ "labels": [
+  "shoot.v.02",
+  "shoot.v.02",
+  "shoot.v.02",
+  "shoot.v.02",
+  "shoot.v.02",
+  "blast.v.07",
+  "blast.v.07",
+  "blast.v.07",
+  "blast.v.07",
+  "blast.v.07"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

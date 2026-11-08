@@ -1,0 +1,7 @@
+word: received
+dataset: data/raw/semcor_words/received.json
+senses:
+  - receive.v.01
+  - receive.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

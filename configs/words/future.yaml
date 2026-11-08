@@ -1,0 +1,7 @@
+word: future
+dataset: data/raw/semcor_words/future.json
+senses:
+  - future.n.01
+  - future.a.01
+n_per_sense: 10
+prefix: "Example sentence: "

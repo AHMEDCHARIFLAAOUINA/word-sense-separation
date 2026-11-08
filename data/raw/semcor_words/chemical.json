@@ -1,0 +1,41 @@
+{
+ "target_word": "chemical",
+ "sentences": [
+  "Example sentence: In Berlin he published his views of the chemical laws of nature in German and this was issued in French translation (Paris, 1813) under the title Recherches sur l ' identite des forces chimiques et electriques, a work held in very high esteem by the new generation of research chemists.",
+  "Example sentence: It is therefore necessary to consider the properties of pituitary TSH if the fragmentary chemical information about blood TSH is to be discussed rationally.",
+  "Example sentence: Whether this abnormal TSH differs chemically from pituitary TSH, or is, alternatively, normal TSH with its period of effectiveness modified by some other blood constituent, cannot be decided without chemical study of the activity in the blood of these patients and a comparison of the substance responsible for the blood activity with pituitary TSH.",
+  "Example sentence: In some instances, the trade name is shown in parentheses following the chemical name.",
+  "Example sentence: Manthey maintained a valuable collection of physical and chemical apparatus which was at Oersted's disposal during and after his graduation.",
+  "Example sentence: The importance of knowing in what chemical forms the hormone may exist is accentuated by the recent observation that there exists an abnormally long-acting TSH in blood drawn from many thyrotoxic patients (Adams, 1958).",
+  "Example sentence: In the present work whole sera have been fractionated by chromatography on DEAE-cellulose using single gradients similar to those described by Sober and Peterson, and certain chemical and serological properties of the fractions containing antibodies of the ABO and Rh systems have been described.",
+  "Example sentence: He proposed a fresh theory of alkalis which later was accepted in chemical practices.",
+  "Example sentence: He was stirred by the announcement of Volta's discovery of chemical electricity and he immediately applied the voltaic pile to experiments with acids and alkalis.",
+  "Example sentence: This project was carried out under sponsorship of the Ballistic Missile Division of the Air Research and Development Command, U. S. Air Force, and had as its goal the investigation of the transport by diffusion of the heat energy of chemical binding."
+ ],
+ "labels": [
+  "chemical.a.01",
+  "chemical.a.01",
+  "chemical.a.01",
+  "chemical.a.01",
+  "chemical.a.01",
+  "chemical.n.01",
+  "chemical.n.01",
+  "chemical.n.01",
+  "chemical.n.01",
+  "chemical.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

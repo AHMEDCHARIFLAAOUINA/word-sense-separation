@@ -1,0 +1,35 @@
+{
+ "target_word": "legal",
+ "sentences": [
+  "Example sentence: The Utopians brace conscience with legal sanctions.",
+  "Example sentence: Although admitting Brown's guilt on legal grounds, Day said that, `` Brown is no common criminal; his deed was not below, but above the law ''.",
+  "Example sentence: We will recall that the still confident liberals of the Truman administration gathered with other Western utopians in San Francisco to set up the legal framework, finally and at last, to rationalize war - to rationalize want and fear - out of the world: the United Nations.",
+  "Example sentence: The basic premise of all mystery stories is that the distinction between good and bad coincides with the distinction between legal and illegal.",
+  "Example sentence: In fact, some - Anzilotti is the principle example - went so far as to say that all international law could be traced to the single legal norm, Pacta sunt Servanda.",
+  "Example sentence: When we `` forced '' individuals to assume the corporate structure by means of taxes and other legal statutes, we adopted what I would term `` pseudo capitalism '' and so took a major step toward socialism.",
+  "Example sentence: Indeed, contract was the dominant legal theme of the century, the touchstone of the free society.",
+  "Example sentence: My object, rather, is to alert you to an aspect or two of the affair that could have the gravest implications for you, far beyond the legal sanctions society might inflict."
+ ],
+ "labels": [
+  "legal.a.01",
+  "legal.a.01",
+  "legal.a.01",
+  "legal.a.01",
+  "legal.a.02",
+  "legal.a.02",
+  "legal.a.02",
+  "legal.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

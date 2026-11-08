@@ -1,0 +1,7 @@
+word: precipitated
+dataset: data/raw/semcor_words/precipitated.json
+senses:
+  - precipitate.v.02
+  - precipitate.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

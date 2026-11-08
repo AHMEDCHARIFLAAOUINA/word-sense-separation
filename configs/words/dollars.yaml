@@ -1,0 +1,7 @@
+word: dollars
+dataset: data/raw/semcor_words/dollars.json
+senses:
+  - dollar.n.01
+  - dollar.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

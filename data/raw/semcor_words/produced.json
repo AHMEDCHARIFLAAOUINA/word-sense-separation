@@ -1,0 +1,47 @@
+{
+ "target_word": "produced",
+ "sentences": [
+  "Example sentence: The Senate Subcommittee on Reorganization and International Organizations was provided samples of visual aids on first aid and personal health produced by the Medical Illustration Service.",
+  "Example sentence: In tularemia produced by aerosol exposure, one would not expect to find the classical ulcer of `` rabbit fever '' on a finger.",
+  "Example sentence: If nothing is produced, there is no obligation to repay.",
+  "Example sentence: A satisfactory cloud was produced even though these nozzles were only about 5 per cent efficient in producing an initial cloud in the size range of 1 to 5 microns.",
+  "Example sentence: Whatever the reasons, not in 30 years has a single season produced such thunderous assaults upon the bureau of baseball records, home-run division.",
+  "Example sentence: To this must be added the 90 to 92 megatons of fission yield produced between the dawn of the atomic age in 1945 and the informal three-power test moratorium that began in November, 1958.",
+  "Example sentence: Simultaneously, males or drones are produced, mostly from the unfertilized eggs of workers, although a few may be produced by the queen.",
+  "Example sentence: Thus, 1745 corresponded to the invention of the `` Leiden '' jar by Kleist, 1764 that of the electrophorus by Wilcke, 1782 produced the condenser of Volta, and 1801 the voltaic pile.",
+  "Example sentence: The other, a shallow concave gradient (Fig. 1), was produced with a so-called `` cone sphere '' apparatus, the `` cone '' being a 2 - liter Erlenmeyer flask and the `` sphere, '' a 2 - liter round-bottom flask.",
+  "Example sentence: When typical reaction cells to which 0.3 of an atmosphere of oxygen had been added were illuminated, chlorine and phosgene were produced.",
+  "Example sentence: For the first time in history, the U. S. has produced a society in which less than one-tenth of the people turn out so much food that the Government's most embarrassing problem is how to dispose inconspicuously of 100 million tons of surplus farm produce.",
+  "Example sentence: William Gilmore Simms, sturdy realist that he was, pleaded for a natural robustness such as he found in his favorites the great Elizabethans, to vivify the pale writings being produced around him."
+ ],
+ "labels": [
+  "produce.v.02",
+  "produce.v.02",
+  "produce.v.02",
+  "produce.v.02",
+  "produce.v.02",
+  "produce.v.02",
+  "produce.v.01",
+  "produce.v.01",
+  "produce.v.01",
+  "produce.v.01",
+  "produce.v.01",
+  "produce.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

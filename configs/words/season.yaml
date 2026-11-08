@@ -1,0 +1,7 @@
+word: season
+dataset: data/raw/semcor_words/season.json
+senses:
+  - season.n.01
+  - season.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

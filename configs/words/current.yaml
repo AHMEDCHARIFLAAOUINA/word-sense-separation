@@ -1,0 +1,7 @@
+word: current
+dataset: data/raw/semcor_words/current.json
+senses:
+  - current.a.01
+  - current.n.01
+n_per_sense: 8
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: slid
+dataset: data/raw/semcor_words/slid.json
+senses:
+  - skid.v.04
+  - slither.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: foreign
+dataset: data/raw/semcor_words/foreign.json
+senses:
+  - foreign.a.01
+  - foreign.a.02
+n_per_sense: 9
+prefix: "Example sentence: "

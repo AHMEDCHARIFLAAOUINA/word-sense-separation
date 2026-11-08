@@ -1,0 +1,47 @@
+{
+ "target_word": "assumed",
+ "sentences": [
+  "Example sentence: He assumed his academic career with the same intensity and thoroughness that had marked every step in his rise from boyhood.",
+  "Example sentence: A royal decree issued in 1910, two years after the Belgian government assumed authority for the administration of the Congo, prescribed the registration of all adult males by chiefdoms.",
+  "Example sentence: To please her, her husband assumed some of the domestic chores.",
+  "Example sentence: While neighbor women assumed some of the dead mother's duties, fund-raising events were being planned by a homeowners association and a student council for the hard-hit Henry Kowalski family, 34220 Viceroy.",
+  "Example sentence: Barco, his state of apprehension gone, never to return, had assumed a matter-of-factness which remained his principal attitude from that time on.",
+  "Example sentence: And I suggest further that the main cause of the trouble we are in has been the failure of American policy-makers, ever since we assumed free world leadership in 1945, to deal with this problem realistically and seriously.",
+  "Example sentence: From this presumption it is an easy step to the conclusion that any observed increases in the basic wage rate must be due to union behavior different and more aggressive than assumed in our model.",
+  "Example sentence: He contends this idea doesn't conflict with experiments on which the principle of conservation of matter and energy is based because some slight error must be assumed in such experiments.",
+  "Example sentence: It may be assumed that differences in ratings due to selection of growth centers from specific regions of the body will be small, according to existing tables of onset age and completion age for centers throughout the body.",
+  "Example sentence: He showed convincingly that anxiety is a learned (conditioned) reaction and is the basis of experimental and clinical neuroses and assumed, therefore, that the neuronal changes which underlie the neuroses are functional and reversible.",
+  "Example sentence: When he had left, I could never remember whether he had poked them in their middles, laughingly, with a thick index finger or whether he was merely so much the sort of person who did this that one assumed the action, not bothering to look.",
+  "Example sentence: It is assumed that the iodine released from the iodotyrosines remains in the iodide pool of the thyroid, where it is oxidised and re-incorporated into thyroglobulin."
+ ],
+ "labels": [
+  "assume.v.02",
+  "assume.v.02",
+  "assume.v.02",
+  "assume.v.02",
+  "assume.v.02",
+  "assume.v.02",
+  "assume.v.01",
+  "assume.v.01",
+  "assume.v.01",
+  "assume.v.01",
+  "assume.v.01",
+  "assume.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

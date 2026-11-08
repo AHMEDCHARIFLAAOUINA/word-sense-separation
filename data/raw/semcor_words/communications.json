@@ -1,0 +1,41 @@
+{
+ "target_word": "communications",
+ "sentences": [
+  "Example sentence: In any social system in which communications have an importance comparable with that of production and other human factors, a point like f in Figure 2 would (other things being equal) be the dwelling place for the community leader, while e and h would house the next most important citizens.",
+  "Example sentence: Lines of communications were established between the two companies and several du Pont products were actively promoted.",
+  "Example sentence: The networks for military communications are one of the best examples of networks which not only must be changed with the changes in objectives but also must be changed with the addition of new machines of war.",
+  "Example sentence: The growing communications needs of this new State can best be met, as they have in other States, through the operation and development of such facilities by private enterprise.",
+  "Example sentence: Are there other, cheaper communications techniques that could be substituted?",
+  "Example sentence: But fathers often addressed communications to their small children; and these, full of homely advice, are among the most human and revealing of Civil War letters.",
+  "Example sentence: A substantial increase is estimated in the cost of operating additional communications systems in the air defense program, as well as in all programs where speed and security of communications are essential.",
+  "Example sentence: The society is likely to be characterized by having a fairly modernized urban sector and a relatively untouched rural sector, with very poor communications between the two.",
+  "Example sentence: In my experience, a great many of the patient's more puzzling verbal communications are so for the reason that concrete meanings have not become differentiated from figurative meanings in his subjective experience.",
+  "Example sentence: To achieve this goal of balanced development, communications between the central government and the local communities must be such that the needs and aspirations of the people themselves are effectively taken into account."
+ ],
+ "labels": [
+  "communication.n.01",
+  "communication.n.01",
+  "communication.n.01",
+  "communication.n.01",
+  "communication.n.01",
+  "communication.n.02",
+  "communication.n.02",
+  "communication.n.02",
+  "communication.n.02",
+  "communication.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

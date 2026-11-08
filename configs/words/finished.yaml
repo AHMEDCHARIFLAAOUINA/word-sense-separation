@@ -1,0 +1,7 @@
+word: finished
+dataset: data/raw/semcor_words/finished.json
+senses:
+  - complete.v.01
+  - finish_up.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: man
+dataset: data/raw/semcor_words/man.json
+senses:
+  - man.n.01
+  - man.n.03
+n_per_sense: 13
+prefix: "Example sentence: "

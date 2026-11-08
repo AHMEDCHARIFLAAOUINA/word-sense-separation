@@ -1,0 +1,7 @@
+word: understand
+dataset: data/raw/semcor_words/understand.json
+senses:
+  - understand.v.02
+  - understand.v.01
+n_per_sense: 13
+prefix: "Example sentence: "

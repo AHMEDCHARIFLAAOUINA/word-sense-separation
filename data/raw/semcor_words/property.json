@@ -1,0 +1,35 @@
+{
+ "target_word": "property",
+ "sentences": [
+  "Example sentence: Funds contributed by the Government are repaid by a royalty on production from the property.",
+  "Example sentence: SBA works closely with the principal property disposal installations of the Federal Government in reviewing proposed sales programs and identifying those types of property that small business concerns are most likely to be interested in purchasing.",
+  "Example sentence: `` And don't either of you forget that I'm not any man's property.",
+  "Example sentence: Proposed property sales of general interest to small business concerns are publicized through SBA regional news releases, and by `` flyers '' directed to the small business concerns.",
+  "Example sentence: We also give, for each property, an example where the property is absent.",
+  "Example sentence: This work gave a heat of formation of aluminum fluoride which closely substantiates a value which had been determined by a less direct method, and raises this property to 15 percent above that accepted a few years ago.",
+  "Example sentence: It is, obviously, a proper goal of research to improve on this property.",
+  "Example sentence: As is well known, detergent actives belong to the chemical class consisting of moderately high molecular weight and highly polar molecules which exhibit the property of forming micelles in solution."
+ ],
+ "labels": [
+  "property.n.01",
+  "property.n.01",
+  "property.n.01",
+  "property.n.01",
+  "property.n.02",
+  "property.n.02",
+  "property.n.02",
+  "property.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

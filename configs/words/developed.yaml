@@ -1,0 +1,7 @@
+word: developed
+dataset: data/raw/semcor_words/developed.json
+senses:
+  - develop.v.01
+  - evolve.v.01
+n_per_sense: 13
+prefix: "Example sentence: "

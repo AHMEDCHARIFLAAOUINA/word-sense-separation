@@ -1,0 +1,41 @@
+{
+ "target_word": "begin",
+ "sentences": [
+  "Example sentence: Librarians, a patient breed of men and women who have borne much with dedication, can begin to see results today.",
+  "Example sentence: When did women begin to assert themselves sexually?",
+  "Example sentence: And why did the Chinese suddenly begin to talk about the Five Directions, when the animals they used as symbols of the directions designated only the usual four?",
+  "Example sentence: So escalation proceeds, ad infinitum or, more accurately, until the contestants begin dropping them on each other instead of on their respective proving grounds.",
+  "Example sentence: Since the complicated process of establishing new communes and reviewing the rudimentary plan left by the French did not even begin until the fall of 1957, this goal appears somewhat ambitious.",
+  "Example sentence: Second, vocational courses should be provided in grades 11 and 12 and not require more than half the student's time in those years; however, for slow learners and prospective dropouts these courses ought to begin earlier.",
+  "Example sentence: The workshop will begin at 10 a. m. and end at 3 p. m. in the auditorium of the Library and Fine Arts Building.",
+  "Example sentence: Only across a distance of time could the epic accounting begin.",
+  "Example sentence: The COAHR letter comes on the eve of a large gathering of theater managers and owners scheduled to begin here Sunday.",
+  "Example sentence: The Supermatic Trophy (prices begin at less than $135 and depend on grade and optional features) is a 12 - gauge auto."
+ ],
+ "labels": [
+  "get_down.v.07",
+  "get_down.v.07",
+  "get_down.v.07",
+  "get_down.v.07",
+  "get_down.v.07",
+  "begin.v.02",
+  "begin.v.02",
+  "begin.v.02",
+  "begin.v.02",
+  "begin.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

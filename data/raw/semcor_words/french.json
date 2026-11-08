@@ -1,0 +1,47 @@
+{
+ "target_word": "french",
+ "sentences": [
+  "Example sentence: Aging but still precocious, French feline enfant terrible Francoisette Lagoon has succeeded in shocking jaded old Paris again, this time with a sexy ballet scenario called The Lascivious Interlude, the story of a nymphomaniac trip-hammer operator who falls hopelessly in love with a middle-aged steam shovel.",
+  "Example sentence: The young poet painter reproduces the French life of the streets; he tells stories of the Thousand and One Nights, and conjures up before us the bazaars of Damascus.",
+  "Example sentence: The discovery that movies are a form of fiction was made in the early years of this century and it was made chiefly by two men, a French magician, Georges Melies, and an American employee of Edison, Edwin S. Porter.",
+  "Example sentence: When Napoleon's ship had borne him to Elba, French wines had started to cross the Channel, the first shipments in a dozen war-ridden years, but the supplies had not yet reached rural hostelries where the sweet wines of the Spanish peninsula still ruled.",
+  "Example sentence: The name presumably derives from the French royal house which never learned and never forgot; since Bourbon whiskey, though of Kentucky origin, is at least as much favored by liberals in the North as by conservatives in the South.",
+  "Example sentence: He sensed something precious in the perilous moment, something akin to the knowledge gained on his bicycle trip through the French countryside, a knowledge imprisoned in speechlessness.",
+  "Example sentence: The Irish accent is, as one would expect, combined with slight inflections from the French.",
+  "Example sentence: The mayor of the town taught them English and French.",
+  "Example sentence: Previous presentations have been on French, Spanish, Russian, Italian, German and Japanese.",
+  "Example sentence: Oersted remodeled Ritter's notes into an essay in French which was submitted to the Institut de France for its annual prize of 3000 francs.",
+  "Example sentence: In Berlin he published his views of the chemical laws of nature in German and this was issued in French translation (Paris, 1813) under the title Recherches sur l ' identite des forces chimiques et electriques, a work held in very high esteem by the new generation of research chemists.",
+  "Example sentence: Although we enjoyed our rounds of the government offices in Vientiane, with officials offering tea and pleasing conversation in French, we were getting nowhere."
+ ],
+ "labels": [
+  "french.a.01",
+  "french.a.01",
+  "french.a.01",
+  "french.a.01",
+  "french.a.01",
+  "french.a.01",
+  "french.n.01",
+  "french.n.01",
+  "french.n.01",
+  "french.n.01",
+  "french.n.01",
+  "french.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

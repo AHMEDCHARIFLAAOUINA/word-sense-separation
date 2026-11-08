@@ -1,0 +1,7 @@
+word: quiet
+dataset: data/raw/semcor_words/quiet.json
+senses:
+  - quiet.a.01
+  - quiet.a.02
+n_per_sense: 6
+prefix: "Example sentence: "

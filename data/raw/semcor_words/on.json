@@ -1,0 +1,41 @@
+{
+ "target_word": "on",
+ "sentences": [
+  "Example sentence: He immediately rode on to Cheyenne, threw a ten day drinking spree and dropped some very strong hints among friends.",
+  "Example sentence: Then we drove on, until there was no more road and we traversed dry rice fields, bouncing across their squat earth walls.",
+  "Example sentence: He rode on and on.",
+  "Example sentence: `` Life '' points out that `` everybody uses this path '', and starts to ride on.",
+  "Example sentence: He drove on, wary and shaken.",
+  "Example sentence: At that moment, Holden almost slammed on the brakes to go back to Cooper and ask if Ferguson was about.",
+  "Example sentence: A second scene flashed before his mind, the interior of the garage at the new house and the young Bartlett girl turning startled to meet him, the dim dark and the sudden confusion and fear and then the brightness as Mae had clicked on the light.",
+  "Example sentence: `` I think the big thing about the game was that our kids for the third straight week stayed in there pitching and kept the pressure on.",
+  "Example sentence: The police car had pulled up behind a small sedan, its headlights still on.",
+  "Example sentence: Off in the distance a searchlight flashed on, its beam slashing the sky."
+ ],
+ "labels": [
+  "along.r.01",
+  "along.r.01",
+  "along.r.01",
+  "along.r.01",
+  "along.r.01",
+  "on.a.01",
+  "on.a.01",
+  "on.a.01",
+  "on.a.01",
+  "on.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

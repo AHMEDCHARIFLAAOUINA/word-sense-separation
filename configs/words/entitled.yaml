@@ -1,0 +1,7 @@
+word: entitled
+dataset: data/raw/semcor_words/entitled.json
+senses:
+  - entitle.v.01
+  - entitle.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: too
+dataset: data/raw/semcor_words/too.json
+senses:
+  - excessively.r.01
+  - besides.r.02
+n_per_sense: 20
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: possess
+dataset: data/raw/semcor_words/possess.json
+senses:
+  - possess.v.01
+  - own.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

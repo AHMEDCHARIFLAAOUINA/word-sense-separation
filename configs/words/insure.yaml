@@ -1,0 +1,7 @@
+word: insure
+dataset: data/raw/semcor_words/insure.json
+senses:
+  - see.v.10
+  - guarantee.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

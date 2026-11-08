@@ -1,0 +1,35 @@
+{
+ "target_word": "gesture",
+ "sentences": [
+  "Example sentence: He recognized the gesture.",
+  "Example sentence: Back in Bavaria he had seen that gesture, and at that sight his heart had always died within him.",
+  "Example sentence: Or was he now taking the role - the gesture and the suffering - because it was the only way to affirm his history and identity in the torpid, befogged loneliness of this land.",
+  "Example sentence: He wondered what expression, as he made that gesture, was on his face.",
+  "Example sentence: When a gesture accompanies who's he?",
+  "Example sentence: There was the day Uncle Izaak had, in an unexpected grandiose gesture, handed over the pretty sloop to Abel for keeps, on condition that he never fail to let his brother accompany him whenever the younger boy wished.",
+  "Example sentence: Killpath peered through half closed lids at his reflection, thrust up his chin in a gesture of satisfaction and about-faced.",
+  "Example sentence: But as the tree passed, she lifted an arm in gesture of better luck and farewell."
+ ],
+ "labels": [
+  "gesture.n.01",
+  "gesture.n.01",
+  "gesture.n.01",
+  "gesture.n.01",
+  "gesture.n.02",
+  "gesture.n.02",
+  "gesture.n.02",
+  "gesture.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

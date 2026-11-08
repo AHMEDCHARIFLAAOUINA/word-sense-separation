@@ -1,0 +1,7 @@
+word: philosophy
+dataset: data/raw/semcor_words/philosophy.json
+senses:
+  - doctrine.n.01
+  - philosophy.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

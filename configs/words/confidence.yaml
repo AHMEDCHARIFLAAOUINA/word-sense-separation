@@ -1,0 +1,7 @@
+word: confidence
+dataset: data/raw/semcor_words/confidence.json
+senses:
+  - assurance.n.01
+  - confidence.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: best
+dataset: data/raw/semcor_words/best.json
+senses:
+  - best.a.01
+  - best.r.01
+n_per_sense: 13
+prefix: "Example sentence: "

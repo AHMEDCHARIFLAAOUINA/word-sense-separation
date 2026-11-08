@@ -1,0 +1,7 @@
+word: emphasis
+dataset: data/raw/semcor_words/emphasis.json
+senses:
+  - emphasis.n.01
+  - vehemence.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

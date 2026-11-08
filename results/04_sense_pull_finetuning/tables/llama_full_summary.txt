@@ -1,0 +1,19 @@
+TASK 2 on LLaMA: all GSM8K training data, official GSM8K test set (1,319). ta_pull = your formula, sign reversed,
+last 4 layers. Δ = ta_pull − same-seed baseline; * = 95% bootstrap CI of the paired difference excludes 0.
+
+=== llama-3-8b  (regularised layers 29-32)
+  [stop rule] pretrained 0.143   baseline 0.461 [0.481, 0.4, 0.501]   ta_pull 0.498 [0.516, 0.55, 0.428]
+             Δ +0.037*  per seed [0.034, 0.151, -0.073]  better in 2/3  95% CI [+0.021, +0.054]
+  [old score] pretrained 0.143   baseline 0.461 [0.481, 0.4, 0.501]   ta_pull 0.498 [0.516, 0.55, 0.428]
+             Δ +0.037*  per seed [0.034, 0.151, -0.073]  better in 2/3  95% CI [+0.021, +0.053]
+  baseline  cos_sep (layers 29-32) +0.0664
+  ta_pull   cos_sep (layers 29-32) +0.0000
+
+=== llama-3.1-8b  (regularised layers 29-32)
+  [stop rule] pretrained 0.254   baseline 0.458 [0.453, 0.448, 0.472]   ta_pull 0.450 [0.475, 0.45, 0.424]
+             Δ -0.008 n.s.  per seed [0.021, 0.002, -0.049]  better in 2/3  95% CI [-0.024, +0.008]
+  [old score] pretrained 0.254   baseline 0.458 [0.453, 0.448, 0.472]   ta_pull 0.450 [0.475, 0.45, 0.424]
+             Δ -0.008 n.s.  per seed [0.021, 0.002, -0.049]  better in 2/3  95% CI [-0.024, +0.007]
+  baseline  cos_sep (layers 29-32) +0.0661
+  ta_pull   cos_sep (layers 29-32) +0.0000
+

@@ -1,0 +1,41 @@
+{
+ "target_word": "killing",
+ "sentences": [
+  "Example sentence: Both Cook's and Russell's lives were threatened by the Mexicans following the killing, but the company officers felt that in the end, it would serve to quiet them despite their immediate emotion.",
+  "Example sentence: For Tom Horn, it turned out, had a number of rancher and cowboy witnesses ready and willing to swear with straight faces that he had been in Bates Hole the day of the killing.",
+  "Example sentence: But he brought back the sheriff and several deputies, and to the lawmen the entire affair seemed a repetition of the Lewis killing.",
+  "Example sentence: Most of us would say that in this delight at the killing of others or the causing of suffering there is something very unfitting.",
+  "Example sentence: Later, riding in for some lusty enjoyment of the liquor and professional ladies of Cheyenne, he laid claim to the killing with the vague insinuations he made.",
+  "Example sentence: But there were other homesteaders who passed the Lewis murder off as a personal grudge killing, the work of one of his neighbors.",
+  "Example sentence: To make it clearer he shifted to acting out, but with no change of manner, the killing of Rose Mallory.",
+  "Example sentence: Cattle stealing and killing, again serious during the spring of 1891, placed the land grant company officers in a perplexing position.",
+  "Example sentence: Whatever we felt about the redcoats, we respected them in terms of their trade, which was killing; and I know that I, myself, was nauseated with apprehension and fear and that my hands were soaking wet where they held my gun.",
+  "Example sentence: While most of his beliefs were still unsettled, he knew that he did not believe in killing."
+ ],
+ "labels": [
+  "killing.n.01",
+  "killing.n.01",
+  "killing.n.01",
+  "killing.n.01",
+  "killing.n.01",
+  "killing.n.02",
+  "killing.n.02",
+  "killing.n.02",
+  "killing.n.02",
+  "killing.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

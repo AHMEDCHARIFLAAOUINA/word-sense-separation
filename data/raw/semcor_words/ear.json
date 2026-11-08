@@ -1,0 +1,35 @@
+{
+ "target_word": "ear",
+ "sentences": [
+  "Example sentence: The way his red rubber lips were stretched across his pearly little teeth I though he was only having a little joke, but, no, he wanted me to bend down from the roar of wind so he could roar something into my ear.",
+  "Example sentence: In the Riverside dugout Frankie Ricco, shortstop, whispered into Phil's ear: `` There's gonna be a fight ''.",
+  "Example sentence: Cows were kept in backyard barns, boys were hired to drive them to and from the pasture on the edge of town, and familiar to the ear, morning and evening, were the boys ' coaxing voices, the thud of hooves, and the thwack of a stick on cowhide.",
+  "Example sentence: White teeth suddenly vanishing, the driver slammed the side of his bottle against Johnson's ear.",
+  "Example sentence: Your ear takes you into the ensemble, and you may well become aware of instrumental details which previously were apparent only in the score.",
+  "Example sentence: If his scholarship and formal musicianship were not all they might have been, Mercer demonstrated at an early age that he was gifted with a remarkable ear for rhythm and dialect.",
+  "Example sentence: Mercer's lyrics are characterized by an unerring ear for rhythmic nuances, a puckish sense of humor expressed in language with a colloquial flair.",
+  "Example sentence: Although lacking absolute verisimilitude, they supply the ear and the imagination with all necessary materials for re-creation of the original."
+ ],
+ "labels": [
+  "ear.n.01",
+  "ear.n.01",
+  "ear.n.01",
+  "ear.n.01",
+  "ear.n.02",
+  "ear.n.02",
+  "ear.n.02",
+  "ear.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

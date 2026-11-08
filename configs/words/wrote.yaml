@@ -1,0 +1,7 @@
+word: wrote
+dataset: data/raw/semcor_words/wrote.json
+senses:
+  - write.v.02
+  - write.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

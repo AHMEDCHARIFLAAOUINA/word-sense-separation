@@ -1,0 +1,47 @@
+{
+ "target_word": "units",
+ "sentences": [
+  "Example sentence: The human body - he pointed out, for example - required 33 units of blue light.",
+  "Example sentence: We should like to re-emphasise the importance of stating results solely in terms of international units of TSH activity and of avoiding the re-introduction of biological units.",
+  "Example sentence: Feed 75000 units or 75 milligrams per head daily.",
+  "Example sentence: On Feb. 12, 1959, purified corticotropin (ACTH Gel), 20 units daily intramuscularly, was started but had to be discontinued 3 weeks later because of excessive fluid retention.",
+  "Example sentence: Serial serum potassium levels remained normal; the serum glutamic oxaloacetic transaminase was 10 units per ml. per min..",
+  "Example sentence: The introduction of the United States Pharmacopoeia reference standard in 1952 and the redefinition and equating of the USP and international units of thyroid stimulating activity have made it possible to compare results published by different investigators since that time.",
+  "Example sentence: Syllables are genuine units, but division of words and sentences into them presents great difficulties.",
+  "Example sentence: While the phonemes can be very easily stated, no one is likely to be satisfied with the statement until phonemic occurrences can be related in some way to morphemic units, i. e. until the morphophonemics is worked out, or at least far enough that it seems reasonable to expect success.",
+  "Example sentence: Since tone systems typically comprise fewer units than either consonant or vowel systems, we might expect that they would be the easiest part of a phonologic analysis.",
+  "Example sentence: In total, these increases in operating costs outweigh the savings that result from declining programs and from economy measures, such as reduced numbers of units and installations, smaller inventories of major equipment, and improvements in the supply and distribution systems of the Armed Forces.",
+  "Example sentence: Dominant stress is of course more than extended duration, and normally centers on syllables that would have primary stress or phrase stress if the words or longer units they are parts of were spoken alone: a dominant stress given to glorify would normally center on its first syllable rather than its last.",
+  "Example sentence: Tone systems are certainly more complex than the number of units would suggest, and often analytically more difficult than much larger consonantal systems."
+ ],
+ "labels": [
+  "unit_of_measurement.n.01",
+  "unit_of_measurement.n.01",
+  "unit_of_measurement.n.01",
+  "unit_of_measurement.n.01",
+  "unit_of_measurement.n.01",
+  "unit_of_measurement.n.01",
+  "unit.n.02",
+  "unit.n.02",
+  "unit.n.02",
+  "unit.n.02",
+  "unit.n.02",
+  "unit.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

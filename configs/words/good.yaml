@@ -1,0 +1,7 @@
+word: good
+dataset: data/raw/semcor_words/good.json
+senses:
+  - good.a.01
+  - good.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

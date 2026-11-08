@@ -1,0 +1,7 @@
+word: curve
+dataset: data/raw/semcor_words/curve.json
+senses:
+  - curve.n.01
+  - curve.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

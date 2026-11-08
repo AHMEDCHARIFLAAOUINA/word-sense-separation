@@ -1,0 +1,7 @@
+word: dark
+dataset: data/raw/semcor_words/dark.json
+senses:
+  - dark.a.01
+  - dark.a.02
+n_per_sense: 15
+prefix: "Example sentence: "

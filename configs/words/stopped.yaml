@@ -1,0 +1,7 @@
+word: stopped
+dataset: data/raw/semcor_words/stopped.json
+senses:
+  - stop.v.01
+  - discontinue.v.01
+n_per_sense: 13
+prefix: "Example sentence: "

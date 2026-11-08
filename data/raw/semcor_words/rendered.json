@@ -1,0 +1,47 @@
+{
+ "target_word": "rendered",
+ "sentences": [
+  "Example sentence: Having volunteered that he was a man of about sixty, he bounded up the stairs and with each leap rendered the number less credible.",
+  "Example sentence: Literal flatness now tends to assert itself as the main event of the picture, and the device boomerangs: the illusion of depth is rendered even more precarious than before.",
+  "Example sentence: Judicial opinion since the Supreme Court decision on Shelley v. Kraemer (1948) has rendered racial restrictive covenants unenforcible.",
+  "Example sentence: In any event it is a form of borrowing which could be and should be rendered unnecessary.",
+  "Example sentence: It is distinctly possible, therefore, that simultaneous pressures in all three vessels would have rendered the shunts inoperable and hence, uninjectable.",
+  "Example sentence: The person of the artist becomes a final bastion of meaning in a world rendered meaningless by the march of events and the decay of classical religious and philosophical systems.",
+  "Example sentence: We will know, and He will know, to whom it is rendered, what the birds would ask.",
+  "Example sentence: Judgments are continually rendered regarding the potential buyers ' income, educational level and above all, racial extraction; and whether these would qualify them for `` congenial '', `` happy '' relations to other people in certain community areas.",
+  "Example sentence: During the period, the laboratory rendered centralized macropathological service to qualified requesters.",
+  "Example sentence: If your child works for you, you may deduct reasonable wages you paid to him for services he rendered in your business.",
+  "Example sentence: Assistance is rendered to interested Rhode Island businessmen concerning interpretation of bid invitations, where to obtain specifications, and follow-ups concerning qualification.",
+  "Example sentence: In August while stopping in Greenock, Scotland, three members of the crew on liberty rendered first aid to a girl who fell from a train."
+ ],
+ "labels": [
+  "render.v.01",
+  "render.v.01",
+  "render.v.01",
+  "render.v.01",
+  "render.v.01",
+  "render.v.01",
+  "supply.v.01",
+  "supply.v.01",
+  "supply.v.01",
+  "supply.v.01",
+  "supply.v.01",
+  "supply.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

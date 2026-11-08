@@ -1,0 +1,7 @@
+word: natural
+dataset: data/raw/semcor_words/natural.json
+senses:
+  - natural.a.01
+  - natural.a.02
+n_per_sense: 15
+prefix: "Example sentence: "

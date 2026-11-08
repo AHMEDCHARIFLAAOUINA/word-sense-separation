@@ -1,0 +1,7 @@
+word: trouble
+dataset: data/raw/semcor_words/trouble.json
+senses:
+  - trouble.n.01
+  - fuss.n.02
+n_per_sense: 13
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: stood
+dataset: data/raw/semcor_words/stood.json
+senses:
+  - stand.v.01
+  - stand.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

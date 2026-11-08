@@ -1,0 +1,7 @@
+word: glass
+dataset: data/raw/semcor_words/glass.json
+senses:
+  - glass.n.01
+  - glass.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

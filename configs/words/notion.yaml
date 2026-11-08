@@ -1,0 +1,7 @@
+word: notion
+dataset: data/raw/semcor_words/notion.json
+senses:
+  - notion.n.02
+  - impression.n.01
+n_per_sense: 8
+prefix: "Example sentence: "

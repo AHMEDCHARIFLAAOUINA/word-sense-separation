@@ -1,0 +1,7 @@
+word: floor
+dataset: data/raw/semcor_words/floor.json
+senses:
+  - floor.n.01
+  - floor.n.02
+n_per_sense: 13
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: formation
+dataset: data/raw/semcor_words/formation.json
+senses:
+  - constitution.n.02
+  - formation.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

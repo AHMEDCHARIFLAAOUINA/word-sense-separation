@@ -1,0 +1,35 @@
+{
+ "target_word": "cook",
+ "sentences": [
+  "Example sentence: Dropping to one knee, Cook felled one, and the other struggled off with his comrade, sending no further fire in his direction.",
+  "Example sentence: The cook, Mateo Garcia, had arrived there long before the herd.",
+  "Example sentence: One of the leading members of the Amen corner was cook; there were two or three colored maids employed there.",
+  "Example sentence: `` Johnny insisted on cooking a chicken dinner in my honor - he's always been a good cook - and I'll never forget him cleaning the chicken in the tub ''.",
+  "Example sentence: Ramsey, 6 - 3, 195 and ruggedly slim, says, `` I cann't remember when I didn't pester my mother to teach me to cook ''.",
+  "Example sentence: The girls seemed to spend half their time tiptoeing in `` to see if Mike was all right '' and they were too preoccupied to cook, much less be secretaries.",
+  "Example sentence: You'll find, once your technique is perfected, that you can cook on a boat with a simple Bernz-O-Matic.",
+  "Example sentence: He was silent a moment, thinking he could use a man this time of year, and if the girl could cook, it would give him more time in the meadows, but he knew nothing about the couple."
+ ],
+ "labels": [
+  "cook.n.01",
+  "cook.n.01",
+  "cook.n.01",
+  "cook.n.01",
+  "cook.v.01",
+  "cook.v.01",
+  "cook.v.01",
+  "cook.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

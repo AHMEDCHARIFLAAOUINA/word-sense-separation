@@ -1,0 +1,47 @@
+{
+ "target_word": "estimate",
+ "sentences": [
+  "Example sentence: Next, estimate the value of possible earnings of the farm.",
+  "Example sentence: Agriculture Department economists estimate the Government this year will hand farmers $1.4 billion in special subsidies and incentive payments, well above the record $1.1 billion of 1958 and about double the $639 million of 1960.",
+  "Example sentence: By means of charts showing wave travel times and depths in the ocean at various locations, it is possible to estimate the rate of approach and probable time of arrival at Hawaii of a tsunami getting under way at any spot in the Pacific.",
+  "Example sentence: The safest procedure is to let your builder estimate the size of the unit you need, rather than trying to do this yourself.",
+  "Example sentence: The fourth and concluding point will be to estimate the long-run significance of the elections and how they figure in the current pattern of internal politics.",
+  "Example sentence: Furthermore, it may be possible to estimate the error due to bias in method (as distinguished from sampling error) in each of these sources, on such subjects as fertility, mortality, and migration during a given interval by using information from two largely independent sources in conjunction.",
+  "Example sentence: Thus, his estimate lies between Oliver's suggestion of at least 37 feet and the 50 - foot `` monstrous freaks '' intimated by Heuvelmans.",
+  "Example sentence: Daniel termed `` extremely conservative '' his estimate that it would produce 17 million dollars to help erase an anticipated deficit of 63 million dollars at the end of the current fiscal year next Aug. 31.",
+  "Example sentence: The unshielded flux is given in the last column; these figures constitute the best estimate for the flux in interplanetary space near the Earth.",
+  "Example sentence: The flux values are for all particles with masses greater than the given mass and are based on an estimate of the numbers of visual meteors.",
+  "Example sentence: From the brightness of the F component of the solar corona and the brightness of the zodiacal light, an estimate of the particle sizes, concentrations, and spatial distribution can be derived for regions of space near the ecliptic plane.",
+  "Example sentence: It is interesting that, although the percentage of married students is not appreciably higher at Brooklyn than elsewhere - about 30 per cent of the women and 25 per cent of the men in the graduating class - the anxiety of the unmarried has puffed up the estimate."
+ ],
+ "labels": [
+  "estimate.v.01",
+  "estimate.v.01",
+  "estimate.v.01",
+  "estimate.v.01",
+  "estimate.v.01",
+  "estimate.v.01",
+  "estimate.n.01",
+  "estimate.n.01",
+  "estimate.n.01",
+  "estimate.n.01",
+  "estimate.n.01",
+  "estimate.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

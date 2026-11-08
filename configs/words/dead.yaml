@@ -1,0 +1,7 @@
+word: dead
+dataset: data/raw/semcor_words/dead.json
+senses:
+  - dead.a.01
+  - dead.n.01
+n_per_sense: 7
+prefix: "Example sentence: "

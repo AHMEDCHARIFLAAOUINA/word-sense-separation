@@ -1,0 +1,7 @@
+word: issue
+dataset: data/raw/semcor_words/issue.json
+senses:
+  - issue.n.01
+  - publish.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

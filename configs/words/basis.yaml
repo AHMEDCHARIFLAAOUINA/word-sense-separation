@@ -1,0 +1,7 @@
+word: basis
+dataset: data/raw/semcor_words/basis.json
+senses:
+  - footing.n.02
+  - basis.n.02
+n_per_sense: 20
+prefix: "Example sentence: "

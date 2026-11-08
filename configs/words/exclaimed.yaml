@@ -1,0 +1,7 @@
+word: exclaimed
+dataset: data/raw/semcor_words/exclaimed.json
+senses:
+  - proclaim.v.02
+  - exclaim.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

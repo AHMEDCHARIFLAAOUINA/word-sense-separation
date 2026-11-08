@@ -1,0 +1,41 @@
+{
+ "target_word": "legs",
+ "sentences": [
+  "Example sentence: He was rubbing snow on the kid's legs and feet.",
+  "Example sentence: Keep the legs straight and the toes pointed.",
+  "Example sentence: After you have taken a breather, reverse the position of your legs so that the front thigh of the previous exercise is now to the rear, and the rear thigh now to the front, and perform the same movement in the same manner.",
+  "Example sentence: Henri has always had shapely legs from swimming and water skiing and really doesn't have to work them very much.",
+  "Example sentence: He would sit, slim-waisted and spare, on the edge of Scotty's bed, his legs crossed so elaborately that the crossed foot could tap the floor.",
+  "Example sentence: It lacks pollen baskets and possesses only a large number of long, branched hairs on its legs, on which the pollen grains will collect.",
+  "Example sentence: It ran, this apocalyptic beast, on two thin legs, and its wings - were they feathered arms?",
+  "Example sentence: Because, if for no other reason, Willings would never for a moment suppose he was not bigger, tougher, than anything else that went on two legs.",
+  "Example sentence: But - hunch, now - Willings would not ambush anything which went on two legs instead of four.",
+  "Example sentence: On the other hand, they, or it, seemed to have no legs whatever."
+ ],
+ "labels": [
+  "leg.n.01",
+  "leg.n.01",
+  "leg.n.01",
+  "leg.n.01",
+  "leg.n.01",
+  "leg.n.02",
+  "leg.n.02",
+  "leg.n.02",
+  "leg.n.02",
+  "leg.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

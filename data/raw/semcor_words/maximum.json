@@ -1,0 +1,41 @@
+{
+ "target_word": "maximum",
+ "sentences": [
+  "Example sentence: His present maximum altitude, up against the overcast, gave him the opportunity to exploit his advantages.",
+  "Example sentence: The bill would increase from $5000000 to $15000000 the maximum loan the state could make to a local water project.",
+  "Example sentence: The polyethylene cover reduced the oxygen transfer rate by 10 per cent, indicating that the maximum oxygen transfer is at the rotor rather than through the surface.",
+  "Example sentence: Without losing the distinctive undertow of Brahmsian rhythm, the pacing is firm and the over-all performance has a tightly knit quality that makes for maximum cumulative effect.",
+  "Example sentence: Felix Kopstein states that `` when the snake reaches its maturity it has already reached about its maximal length '', but goes on to cite the reticulate python as an exception, with maximum length approximately three times that at maturity.",
+  "Example sentence: The following information on snakes varying greatly in size (but all with less than a 10 - foot maximum) shows, when considered with the foregoing, that there is probably no correlation between the length of a snake and the time required for it to mature.",
+  "Example sentence: A maximum of $600 per year per student would enable many to take training away from home.",
+  "Example sentence: Starting with the room completely blacked out, as it was when we came in, he unerringly fixed things so that the whole place was bathed in the maximum of light without at any point admitting even so much as a crack of glare.",
+  "Example sentence: However, many herpetologists remain skeptical and would prefer a tentative maximum of about 30 feet.",
+  "Example sentence: Treat cattle with 10 grams per 100 pounds body weight with a maximum of 70 grams per animal."
+ ],
+ "labels": [
+  "maximal.a.01",
+  "maximal.a.01",
+  "maximal.a.01",
+  "maximal.a.01",
+  "maximal.a.01",
+  "maximum.n.01",
+  "maximum.n.01",
+  "maximum.n.01",
+  "maximum.n.01",
+  "maximum.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

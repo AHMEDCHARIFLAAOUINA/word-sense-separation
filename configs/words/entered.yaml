@@ -1,0 +1,7 @@
+word: entered
+dataset: data/raw/semcor_words/entered.json
+senses:
+  - enter.v.02
+  - enter.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

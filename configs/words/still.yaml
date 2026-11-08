@@ -1,0 +1,7 @@
+word: still
+dataset: data/raw/semcor_words/still.json
+senses:
+  - still.r.01
+  - even.r.03
+n_per_sense: 19
+prefix: "Example sentence: "

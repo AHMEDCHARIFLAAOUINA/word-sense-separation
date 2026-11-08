@@ -1,0 +1,7 @@
+word: win
+dataset: data/raw/semcor_words/win.json
+senses:
+  - win.v.01
+  - acquire.v.05
+n_per_sense: 9
+prefix: "Example sentence: "

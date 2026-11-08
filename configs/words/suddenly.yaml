@@ -1,0 +1,7 @@
+word: suddenly
+dataset: data/raw/semcor_words/suddenly.json
+senses:
+  - abruptly.r.01
+  - suddenly.r.01
+n_per_sense: 20
+prefix: "Example sentence: "

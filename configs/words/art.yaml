@@ -1,0 +1,7 @@
+word: art
+dataset: data/raw/semcor_words/art.json
+senses:
+  - art.n.01
+  - art.n.02
+n_per_sense: 12
+prefix: "Example sentence: "

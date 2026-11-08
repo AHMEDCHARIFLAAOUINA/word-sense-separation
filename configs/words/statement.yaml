@@ -1,0 +1,7 @@
+word: statement
+dataset: data/raw/semcor_words/statement.json
+senses:
+  - statement.n.01
+  - argument.n.01
+n_per_sense: 8
+prefix: "Example sentence: "

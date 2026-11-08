@@ -1,0 +1,7 @@
+word: handled
+dataset: data/raw/semcor_words/handled.json
+senses:
+  - treat.v.01
+  - manage.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

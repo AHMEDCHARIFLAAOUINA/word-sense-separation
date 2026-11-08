@@ -1,0 +1,35 @@
+{
+ "target_word": "china",
+ "sentences": [
+  "Example sentence: `` I wouldn't be in his shoes for all the rice in China.",
+  "Example sentence: He was brigadier of the club's locker-room light infantry, and at one time or another declared war on Russia, Czechoslovakia, Yugoslavia, and China.",
+  "Example sentence: It was night on this hemisphere, but the light blazed from the megalopolises of Australia, Japan, China, Southeast Asia, India, Siberia.",
+  "Example sentence: Quite candidly, fellows, I wouldn't be in your shoes for all the rice in China.",
+  "Example sentence: When he had given the call a few moments thought, he went into the kitchen to ask Mrs. Yamata to prepare tea and sushi for the visitors, using the formal English china and the silver tea service which had been donated to the mission, then he went outside to inspect the grounds.",
+  "Example sentence: The china lemon tree.",
+  "Example sentence: In their search for what turned out to be the right breakfast china but the wrong table silver, they opened every cupboard door in the kitchen and pantry.",
+  "Example sentence: Each brass handle and hinge shone for his reward, and he knew how to get at the dust in the china flowers and how to take down the long glass drops which hung from the chandelier."
+ ],
+ "labels": [
+  "china.n.01",
+  "china.n.01",
+  "china.n.01",
+  "china.n.01",
+  "china.n.02",
+  "china.n.02",
+  "china.n.02",
+  "china.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

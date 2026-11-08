@@ -1,0 +1,7 @@
+word: collected
+dataset: data/raw/semcor_words/collected.json
+senses:
+  - roll_up.v.02
+  - collect.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

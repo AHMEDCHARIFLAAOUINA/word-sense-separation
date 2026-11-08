@@ -1,0 +1,41 @@
+{
+ "target_word": "distinction",
+ "sentences": [
+  "Example sentence: With the exception of the Roman Catholic and the Orthodox Catholic Churches, most churches make no moral distinction between rhythm and mechanical or chemical contraceptives, allowing the couple free choice.",
+  "Example sentence: Recent research on Irenaeus, however, makes it evident that he does not consistently maintain this distinction.",
+  "Example sentence: By contrast, even experienced linguists commonly know no more of the range of possibilities in tone systems than the over-simple distinction between register and contour languages.",
+  "Example sentence: The basic premise of all mystery stories is that the distinction between good and bad coincides with the distinction between legal and illegal.",
+  "Example sentence: There is no justification for systematizing the random statements of Irenaeus about the image of God beyond this, nor for reading into his imprecise usage the later theological distinction between the image of God (humanity) and the similitude of God (immortality).",
+  "Example sentence: But the most impressive testimony to Schnabel's distinction as a teacher is reflected by the individuality which marks each student's approach as distinctly his own.",
+  "Example sentence: As for this rider, I never saw him before or afterwards and never saw him dismounted, so whether he stood tall or short in his shoes, I cann't say; but I do know that he gave the day tone and distinction.",
+  "Example sentence: His bel canto style gave the performance a special distinction.",
+  "Example sentence: He was heralded as `` Sportsman of the Year '' by Sports Illustrated, and last night was acclaimed in Rochester as the `` Professional Athlete of the Year '', a distinction that earned for him the $10000 diamond - studded Hickok Belt.",
+  "Example sentence: All of this would be wasted, of course, if the performance lacked authority and musical distinction."
+ ],
+ "labels": [
+  "differentiation.n.01",
+  "differentiation.n.01",
+  "differentiation.n.01",
+  "differentiation.n.01",
+  "differentiation.n.01",
+  "eminence.n.01",
+  "eminence.n.01",
+  "eminence.n.01",
+  "eminence.n.01",
+  "eminence.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

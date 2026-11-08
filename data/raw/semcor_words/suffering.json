@@ -1,0 +1,41 @@
+{
+ "target_word": "suffering",
+ "sentences": [
+  "Example sentence: Let us suppose that the animal did not in fact fall into the trap and did not suffer at all, but that we mistakenly believe it did, and say as before that its suffering was an evil thing.",
+  "Example sentence: The suggestion that in saying something evil had occurred we were after all making no mistake, because we had never meant anyhow to say anything about the past suffering, seems to me merely frivolous.",
+  "Example sentence: If so, then it is clear that in saying the suffering was bad we are not expressing our feelings only.",
+  "Example sentence: Most of us would say that in this delight at the killing of others or the causing of suffering there is something very unfitting.",
+  "Example sentence: When we come upon the rabbit and make our remark about its suffering being a bad thing, we presumably make it with some feeling; the positivists are plainly right in saying that such remarks do usually express feeling.",
+  "Example sentence: Then why was he assuming the role - the gesture and the suffering?",
+  "Example sentence: Or was he now taking the role - the gesture and the suffering - because it was the only way to affirm his history and identity in the torpid, befogged loneliness of this land.",
+  "Example sentence: His religious beliefs provide him with plausible explanations for many conditions which cause him great concern, and his religious faith makes possible fortitude, equanimity, and consolation, enabling him to endure colossal misfortune, fear, frustration, uncertainty, suffering, evil, and danger.",
+  "Example sentence: He knew the faces of all, hairy or shaven, old or young, fat or thin, suffering or hardened, sad or gay, good or bad.",
+  "Example sentence: Now he knew perfectly that he had but longed to increase his own suffering."
+ ],
+ "labels": [
+  "agony.n.02",
+  "agony.n.02",
+  "agony.n.02",
+  "agony.n.02",
+  "agony.n.02",
+  "suffering.n.02",
+  "suffering.n.02",
+  "suffering.n.02",
+  "suffering.n.02",
+  "suffering.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

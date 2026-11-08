@@ -1,0 +1,41 @@
+{
+ "target_word": "identified",
+ "sentences": [
+  "Example sentence: A Havana radio broadcast identified the Americans as Howard Anderson and August Jack McNair.",
+  "Example sentence: A microsomal de-iodinase with a pH optimum of around 8, and requiring reduced triphosphopyridine nucleotide for activity, has been identified in the thyroid (Stanbury, 1957).",
+  "Example sentence: And he could recognize, by touch alone, articles which he had handled immediately before, even though they were altogether unfamiliar to him and could not be identified by him; that is, he was unaware what kind of objects they were or what their use was.",
+  "Example sentence: The motorist later was identified as Richard Sarkees, 17, of 2433 McClellan, currently on probation and under court order not to drive.",
+  "Example sentence: It has identified itself with the very tension and terror it once did so much to alleviate.",
+  "Example sentence: Some of them came from people who identified themselves.",
+  "Example sentence: Leavitt identified the unions as a warehouseman's local, the teamsters union, a salesman's union, the janitors ' union, and a bottling workers ' union.",
+  "Example sentence: When Joe identified himself, he nodded, unsmiling, and ushered him into a sedate living room.",
+  "Example sentence: The cyclist, a sufficiently commonplace young fellow, is not named but identified simply as `` Life '' - that and a license number, which Piepsam uses in addressing him.",
+  "Example sentence: McFeeley identified himself."
+ ],
+ "labels": [
+  "identify.v.01",
+  "identify.v.01",
+  "identify.v.01",
+  "identify.v.01",
+  "identify.v.01",
+  "name.v.02",
+  "name.v.02",
+  "name.v.02",
+  "name.v.02",
+  "name.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

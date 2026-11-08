@@ -1,0 +1,53 @@
+{
+ "target_word": "audience",
+ "sentences": [
+  "Example sentence: In the audience a man named Ferguson lost his head and tried to rescue a little girl from the mob, on the same principle which had led Miss Harris to demand water.",
+  "Example sentence: The husky 6 - 3, 205 - pound lefthander, was in command all the way before an on the scene audience of only 949 and countless of television viewers in the Denver area.",
+  "Example sentence: At the end of the monologue the audience would applaud.",
+  "Example sentence: Yet such is the dramatic power of his writing that the audience is nevertheless left in the grip of the terrible power and potency of that which came over Salem.",
+  "Example sentence: An enthusiastic audience confirmed the `` live '' character of the hour, and provided the interaction between musician and hearer which almost always seems to improve the quality of performance.",
+  "Example sentence: In the field of entertainment there is no spur to financial daring so effective as audience boredom, and the first decade of the new device was not over before audiences began staying away in large numbers from the simple-minded, one minute shows.",
+  "Example sentence: As a finale is appended a close-up of one of the band taking aim and firing his revolver straight at the audience.",
+  "Example sentence: Here artistic realism involves the audience in an impassioned participation in events whose overtones and implications are transcendent.",
+  "Example sentence: Under her father's influence it did not occur to Henrietta that she might write on subjects outside the Jewish field, but she did begin writing for other Anglo Jewish papers and thus increased her output and her audience.",
+  "Example sentence: As long as his material is Americana, can in some way be ascribed to the masses and appears `` democratic '' to his audience, he remains satisfied.",
+  "Example sentence: The observer of television or other products for a mass audience has only a permit to be, like the models he sees, even more like everybody else.",
+  "Example sentence: The work done by the analysts, the men who really know what folklore is all about, has no more appeal than any other work of a truly scientific sort and reaches a limited, learned audience.",
+  "Example sentence: Moreover, if the critic instructs his audience in what to see in a work, he is contributing to this pseudo thinking; if he instructs them in how to evaluate a work, he is helping them to achieve their own identity.",
+  "Example sentence: Most attempts to develop any sympathy for Brown and his actions found an unresponsive audience in Rhode Island."
+ ],
+ "labels": [
+  "audience.n.01",
+  "audience.n.01",
+  "audience.n.01",
+  "audience.n.01",
+  "audience.n.01",
+  "audience.n.01",
+  "audience.n.01",
+  "audience.n.02",
+  "audience.n.02",
+  "audience.n.02",
+  "audience.n.02",
+  "audience.n.02",
+  "audience.n.02",
+  "audience.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: features
+dataset: data/raw/semcor_words/features.json
+senses:
+  - feature.n.01
+  - have.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

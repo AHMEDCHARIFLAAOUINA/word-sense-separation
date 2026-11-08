@@ -1,0 +1,35 @@
+{
+ "target_word": "garden",
+ "sentences": [
+  "Example sentence: Up to date, however, his garden was still more or less of a mess, he hadn't even started his workshop and if there was a meadow pond in the neighborhood he hadn't found it.",
+  "Example sentence: Just as thousands that day in Portugal had seen the sun dancing in the sky, he had seen the same thing later in his own garden, and she turned to Agnese for confirmation.",
+  "Example sentence: I work on a watercolor easel in the field, and frequently resort to a large garden umbrella to protect my eyes from undue strain.",
+  "Example sentence: If you have a planting of half an acre or more you may want to buy a small garden tractor (available for $300 to $500 with attachments, 1960 prices).",
+  "Example sentence: And indeed the young garden beans were brackish in her mouth.",
+  "Example sentence: A pond may provide adequate water for livestock and garden.",
+  "Example sentence: Gazing at her husband's drugged body, his chest rising and falling in mindless rhythms, she saw the grandeur of his fictional world, that lush garden from which he plucked flowers and herbs.",
+  "Example sentence: Could an employee's garden club take over partial care of plant grounds?"
+ ],
+ "labels": [
+  "garden.n.01",
+  "garden.n.01",
+  "garden.n.01",
+  "garden.n.01",
+  "garden.n.02",
+  "garden.n.02",
+  "garden.n.02",
+  "garden.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

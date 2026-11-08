@@ -1,0 +1,53 @@
+{
+ "target_word": "social",
+ "sentences": [
+  "Example sentence: If it were primarily a believing fellowship, it would recruit believers from all social and economic ranks, something which most congregations of the New Protestantism (with a few notable exceptions) have not been able to do.",
+  "Example sentence: It gives social guidance and direction and makes for programs of social action.",
+  "Example sentence: (1) central cities tend to be areas of residence for lower social classes; (2) central cities tend to be more heterogeneous in social composition.",
+  "Example sentence: But these countries have made big strides toward developing the necessary human and social overhead capital; they have established reasonably stable and effective governmental institutions at national and local levels; and they have begun to develop a capacity to deal realistically and simultaneously with all the major sectors of their economies.",
+  "Example sentence: These qualities endeared him to both the musicians and the social economic haute monde which supported the concert world of the post World War 1, era.",
+  "Example sentence: - liberal considers that the need for a national economy with controls that will assure his conception of social justice is so great that individual and local liberties as well as democratic processes may have to yield before it.",
+  "Example sentence: He is not one to remain more comfortably and unquestioningly within a body of social, cultural, or literary traditions than he was within the traditions - or possibly the regulations - governing his tenure in the post office at Oxford, Mississippi, thirty-five years ago.",
+  "Example sentence: Most Jewish mothers are determined to exercise vigilance over the social and sexual lives of their daughters by keeping them home.",
+  "Example sentence: The vocational motive is the dominant one for boys, while Jewish girls attend college for social reasons and to become culturally developed.",
+  "Example sentence: But these accounts do not show that Northerners have been subjected to embarrassment or provocation by Yankee hatred displayed in social gatherings.",
+  "Example sentence: Many aspects of civilization were not yet sufficiently crystallized to find expression, nor could the simple economic and social foundations of this world support a lofty structure.",
+  "Example sentence: Some members of the bee family have become idlers, social parasites that live at the expense of their hardworking relatives.",
+  "Example sentence: The same conclusions can be drawn from the other physical evidence of the Dark ages, from linguistic distribution, and from the survivals of early social, political, and religious patterns into later ages.",
+  "Example sentence: After all, social life in the group of the bees is by no means general, although it certainly is a striking feature."
+ ],
+ "labels": [
+  "social.a.01",
+  "social.a.01",
+  "social.a.01",
+  "social.a.01",
+  "social.a.01",
+  "social.a.01",
+  "social.a.01",
+  "social.a.02",
+  "social.a.02",
+  "social.a.02",
+  "social.a.02",
+  "social.a.02",
+  "social.a.02",
+  "social.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

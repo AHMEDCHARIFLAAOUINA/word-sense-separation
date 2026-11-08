@@ -1,0 +1,7 @@
+word: met
+dataset: data/raw/semcor_words/met.json
+senses:
+  - meet.v.01
+  - meet.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

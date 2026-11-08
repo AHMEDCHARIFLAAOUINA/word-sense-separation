@@ -1,0 +1,7 @@
+word: dislike
+dataset: data/raw/semcor_words/dislike.json
+senses:
+  - dislike.v.01
+  - disfavor.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

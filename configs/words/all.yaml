@@ -1,0 +1,7 @@
+word: all
+dataset: data/raw/semcor_words/all.json
+senses:
+  - all.a.01
+  - wholly.r.01
+n_per_sense: 20
+prefix: "Example sentence: "

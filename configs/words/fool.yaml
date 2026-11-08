@@ -1,0 +1,7 @@
+word: fool
+dataset: data/raw/semcor_words/fool.json
+senses:
+  - fool.n.01
+  - chump.n.01
+n_per_sense: 6
+prefix: "Example sentence: "

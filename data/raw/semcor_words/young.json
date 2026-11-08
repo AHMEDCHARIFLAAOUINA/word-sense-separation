@@ -1,0 +1,47 @@
+{
+ "target_word": "young",
+ "sentences": [
+  "Example sentence: A second scene flashed before his mind, the interior of the garage at the new house and the young Bartlett girl turning startled to meet him, the dim dark and the sudden confusion and fear and then the brightness as Mae had clicked on the light.",
+  "Example sentence: Donna, his young wife, the girl who was both daughter and wife to him.",
+  "Example sentence: `` I soon came back to my senses '', he said, aloud, to the young blizzard, proudly, drawing himself up, as if making a report to some important superior.",
+  "Example sentence: But - it happened, almost always, among the primitive and, usually, among the very young.",
+  "Example sentence: I think that we are here also talking of the kind of fear that a young boy has for a group of boys who are approaching at night along the streets of a large city.",
+  "Example sentence: William Beebe reports 26 inches and 2.4 ounces (this snake must have been emaciated) for the length and the weight of a young anaconda from British Guiana.",
+  "Example sentence: Other herpetologists have ascertained that in the northern United States the prairie rattlesnake may not give first birth until it is four or even five years old, and that the young may be born every other year, rather than annually.",
+  "Example sentence: After another two weeks, the first young emerge, four to eight small daughters that begin to play the role of worker bees, collecting pollen and nectar in the field and caring for the new young generation while the queen retires to a life of egg laying.",
+  "Example sentence: In contrast, Ditmars recorded the average length of seventy-two young of a 19 - foot female as 38 inches, and four young were born in London at a length of 35 or 36 inches and a weight of from 14 to 16 ounces.",
+  "Example sentence: He concluded that in the southern species, which are rapidly growing types, females mate at the age of two and a half and bear the first young when they are three.",
+  "Example sentence: The staminate willow catkins, then, provide their visitors with both nectar and pollen; a marvelous arrangement, for it provides exactly what the bee queens need to make their beebread, a combination of honey and pollen with which the young of all species are fed.",
+  "Example sentence: Carl Kauffeld has written to me of sexual activity in February 1943 of young born in March 1940."
+ ],
+ "labels": [
+  "young.a.01",
+  "young.a.01",
+  "young.a.01",
+  "young.a.01",
+  "young.a.01",
+  "young.a.01",
+  "young.n.01",
+  "young.n.01",
+  "young.n.01",
+  "young.n.01",
+  "young.n.01",
+  "young.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

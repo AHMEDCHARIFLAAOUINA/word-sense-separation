@@ -1,0 +1,7 @@
+word: fit
+dataset: data/raw/semcor_words/fit.json
+senses:
+  - suit.v.01
+  - fit.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

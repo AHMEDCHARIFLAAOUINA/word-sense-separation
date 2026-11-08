@@ -1,0 +1,41 @@
+{
+ "target_word": "sympathetic",
+ "sentences": [
+  "Example sentence: Although no drugs act exclusively on the hypothalamus or a part of it, there is sufficient specificity to distinguish drugs which shift the hypothalamic balance to the sympathetic side from those which produce a parasympathetic dominance.",
+  "Example sentence: Although in both emotions sympathetic symptoms are present, different autonomic somatic patterns underlie aggression and anxiety, respectively, as indicated by the rate of the excretion of the catecholamines, the state of the muscle tone, and the Mecholyl test.",
+  "Example sentence: Furthermore, conditioned reactions are fundamentally altered when the hypothalamic sympathetic reactivity is augmented beyond a critical level, and several types of behavioral changes probably related to the degree of central autonomic `` tuning '' are observed.",
+  "Example sentence: They shift the hypothalamic balance to the sympathetic side.",
+  "Example sentence: Hereby, the external object viewed by the eyes remains the thing that is seen, not the retinal image, the purpose of which would be to achieve perceptive cooperation by stirring sympathetic impulses in the other sensory centers, motor tensions, associated word symbols, and consciousness.",
+  "Example sentence: King Muhammad /5, was known to be most sympathetic to the formation of local self-government and made the first firm promise of elections on May Day, 1957.",
+  "Example sentence: Such an understanding, although it must seek to be sympathetic, is not a matter of intuition.",
+  "Example sentence: Economic security and cultural opportunities, incisive idioms, social fermentations for a new national ideology - a sympathetic public and a large body of performers especially trained to fulfill his purpose.",
+  "Example sentence: Wilson again went downtown to a different banker, an intelligent young white man who seemed rather sympathetic, but he shook his head.",
+  "Example sentence: At the same time, he is plainly sympathetic, clearly friendly."
+ ],
+ "labels": [
+  "sympathetic.a.01",
+  "sympathetic.a.01",
+  "sympathetic.a.01",
+  "sympathetic.a.01",
+  "sympathetic.a.01",
+  "sympathetic.a.02",
+  "sympathetic.a.02",
+  "sympathetic.a.02",
+  "sympathetic.a.02",
+  "sympathetic.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

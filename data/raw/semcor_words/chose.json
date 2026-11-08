@@ -1,0 +1,41 @@
+{
+ "target_word": "chose",
+ "sentences": [
+  "Example sentence: These two, Heritage and Drexel, chose too not to produce the exactly matching design for every piece, but a collection of correlated designs, each of which could stand alone.",
+  "Example sentence: Many of us in public relations were flattered that Richard L. Tobin chose to devote his editorial in the March 11 Communications Supplement to the merger of the Public Relations Society of America and the American Public Relations Association.",
+  "Example sentence: Mrs. Peter Feringa Jr., last year's Achaeans ' queen, chose an eggshell white filmy lace short dress made with a wide decolletage trimmed with an edging of tulle.",
+  "Example sentence: If, as she walked, her steps fumbled from time to time, she chose to ignore that omen.",
+  "Example sentence: Mrs. Clayton Nairne, whose daughter, was among the court maids, chose a deep greenish blue lace gown.",
+  "Example sentence: They chose four:",
+  "Example sentence: On the contrary, Miss Mao and Mr. Fuller chose many of their arrangements from the works of composers such as Mendelssohn, Dvorak, Canteloube, Copland and Britten.",
+  "Example sentence: In order to equate the samples on socioeconomic status, we chose schools in both cities on the basis of socioeconomic status of the neighborhoods.",
+  "Example sentence: The ship always chose its own partner.",
+  "Example sentence: These students, although they might read various articles in popular magazines, more often chose to report on articles found in the journals."
+ ],
+ "labels": [
+  "choose.v.02",
+  "choose.v.02",
+  "choose.v.02",
+  "choose.v.02",
+  "choose.v.02",
+  "choose.v.01",
+  "choose.v.01",
+  "choose.v.01",
+  "choose.v.01",
+  "choose.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

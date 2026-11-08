@@ -1,0 +1,35 @@
+{
+ "target_word": "revolution",
+ "sentences": [
+  "Example sentence: Greek civilization was swirling toward its great revolution, in which the developed qualities of the Hellenic outlook were suddenly to break forth.",
+  "Example sentence: But it has been during the last two centuries, during the scientific revolution, that our independence from the physical environment has made the most rapid strides.",
+  "Example sentence: On this principle of division I must postpone the evolution of sculpture, architecture, society, and politics; for the developments in these areas make sense only if they are connected to the age of revolution itself.",
+  "Example sentence: The socialism implicit in the slogan of the Roosevelt Revolution, freedom from want and fear, seems a far cry from the individualism of the First Amendment to the Constitution, or of the Jacksonian frontier.",
+  "Example sentence: There was the revolution in Tibet which we pretended did not exist.",
+  "Example sentence: There was the Hungarian Revolution which we praised and mourned, but did nothing about.",
+  "Example sentence: There was the Polish Revolution which we misunderstood and then helped guide along a course favorable to Soviet interests.",
+  "Example sentence: Properly mindful of all the cultures in existence today throughout the world, we must employ these resources without war or violent revolution."
+ ],
+ "labels": [
+  "revolution.n.01",
+  "revolution.n.01",
+  "revolution.n.01",
+  "revolution.n.01",
+  "revolution.n.02",
+  "revolution.n.02",
+  "revolution.n.02",
+  "revolution.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: lay
+dataset: data/raw/semcor_words/lay.json
+senses:
+  - lie.v.01
+  - lie.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

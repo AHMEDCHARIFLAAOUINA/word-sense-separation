@@ -1,0 +1,35 @@
+{
+ "target_word": "importance",
+ "sentences": [
+  "Example sentence: Context is of extreme importance.",
+  "Example sentence: All of these considerations are of critical importance in considering defense and medical management.",
+  "Example sentence: If he attaches little importance to personal liberty, why not make this known to the world?",
+  "Example sentence: Notable in this category are the Jupiter and Thor intermediate range ballistic missiles, which have been successfully developed, produced, and deployed, but the relative importance of which has diminished with the increasing availability of the Atlas intercontinental ballistic missile.",
+  "Example sentence: Back and forth Duclos had to go, between M. de Cury and Jean Jacques and between the Duke d'Aumont and Jean Jacques again, as his little operetta, The Village Soothsayer, though still unperformed, took on ever more importance.",
+  "Example sentence: Nodding approvingly and swelling with importance, the old lady whispered confidentially.",
+  "Example sentence: One is the primary purpose for which marriage exists, namely, the continuance of the race through the gift and heritage of children; the other is the paramount importance in married life of deliberate and thoughtful self-control ''.",
+  "Example sentence: I think you could have heard him a mile away, and he was bursting at every seam with importance."
+ ],
+ "labels": [
+  "importance.n.01",
+  "importance.n.01",
+  "importance.n.01",
+  "importance.n.01",
+  "importance.n.02",
+  "importance.n.02",
+  "importance.n.02",
+  "importance.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

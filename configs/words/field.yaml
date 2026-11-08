@@ -1,0 +1,7 @@
+word: field
+dataset: data/raw/semcor_words/field.json
+senses:
+  - field.n.03
+  - discipline.n.01
+n_per_sense: 12
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "writer",
+ "sentences": [
+  "Example sentence: There is a bitter satire for a future writer in that ''.",
+  "Example sentence: Yet nationalism has lost few of its charms for the historian, writer or man in the street.",
+  "Example sentence: He is probably our most original composer; he often uses very odd rhythms, which makes it difficult, and challenging, for the lyric writer ''.",
+  "Example sentence: Duclos understood what was bothering Rousseau: that the writer of the Prosopopoeia of Fabricius should now become known as the writer of an amusing little operetta.",
+  "Example sentence: A British writer, Richard Haestier, in a book, Dead Men Tell Tales, recalls that in the turmoil preceding French Revolution the body of Henry /4,, who had died nearly 180 years earlier, was torn to pieces by a mob.",
+  "Example sentence: The writer took a class of college students to the state hospital for the mentally ill in St. Joseph, Missouri.",
+  "Example sentence: Now, with virtually every writer, not only was the European origin of public law acknowledged as a historical phenomenon, but the rules thus established by the advanced civilizations of Europe were to be imposed on others.",
+  "Example sentence: That a writer who is gay cannot be serious is a common professional illusion, sedulously fostered by all too many academics who mistakenly believe that their frivolous efforts should be taken seriously because they are expressed with that dreary solemnity which is the only mode of expression their authors are capable of.",
+  "Example sentence: She was the widow of a writer who had died in an airplane crash, and Mickie had found her a job as head of the historical section of the Treasury.",
+  "Example sentence: For example, a writer in a recent number of The Queen hyperbolically states that `` of the myriad imprecations the only one which the English Catholics really resent is the suggestion that they are ' un English '' '."
+ ],
+ "labels": [
+  "writer.n.01",
+  "writer.n.01",
+  "writer.n.01",
+  "writer.n.01",
+  "writer.n.01",
+  "writer.n.02",
+  "writer.n.02",
+  "writer.n.02",
+  "writer.n.02",
+  "writer.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: control
+dataset: data/raw/semcor_words/control.json
+senses:
+  - control.v.02
+  - control.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

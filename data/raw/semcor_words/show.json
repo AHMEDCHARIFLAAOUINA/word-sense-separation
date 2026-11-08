@@ -1,0 +1,35 @@
+{
+ "target_word": "show",
+ "sentences": [
+  "Example sentence: Nothing can show more than this the immensity of the danger to democratic peoples that lies in even relatively slight deviation from their true concept of sovereignty.",
+  "Example sentence: If (remember this is an assumption) the minimal polynomial for T decomposes * * f where * * f are distinct elements of F, then we shall show that the space V is the direct sum of the null spaces of * * f.",
+  "Example sentence: The theory claims to show by analysis that when we say, `` That is good '', we do not mean to assert a character of the subject of which we are thinking.",
+  "Example sentence: `` I'll show you how wrong you are.",
+  "Example sentence: The data given in Table 2, show the routine operation of the aerator.",
+  "Example sentence: Schools and community groups turn to the headquarters film library for documentary, art, and experimental films to show at libraries that sponsor local programs, and to organizations in member communities.",
+  "Example sentence: I could show what I can do ''.",
+  "Example sentence: What had been an unmanageably powerful introject was now, despite its continuing charge of energy disconcerting to me, sufficiently within control of her ego that she could use it to show me what this introjected mother was like."
+ ],
+ "labels": [
+  "prove.v.02",
+  "prove.v.02",
+  "prove.v.02",
+  "prove.v.02",
+  "show.v.01",
+  "show.v.01",
+  "show.v.01",
+  "show.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "impressed",
+ "sentences": [
+  "Example sentence: Despite a too long sustained declamatory flight, this final speech is convincing, and we see why British audiences apparently were impressed by `` Roots ''.",
+  "Example sentence: This impressed me, until I realized how limited was his sphere of influence.",
+  "Example sentence: I'd have been more impressed if I hadn't remembered that she'd played Hedda Gabler in her highschool dramatics course.",
+  "Example sentence: `` I would say depressed, not impressed '', I told him.",
+  "Example sentence: The thing that impressed one of the visitors the most was the Gallery's rotunda fountain `` because it's on the second floor ''.",
+  "Example sentence: Only the vain and incurably sentimental among us will lose sleep simply because foreign peoples are not as impressed by our strength as they ought to be.",
+  "Example sentence: I realized, now, that she had been showing me, in what impressed me as being a very accurate way, something her mother had once said to her; it was as if she was showing me one of the reasons why she hated that woman inside her.",
+  "Example sentence: The primary quality of that view seems, now, to have been its quietness, but that cannot at the time have impressed us.",
+  "Example sentence: The young William Faulkner in New Orleans in the 1920's impressed the novelist Hamilton Basso as obviously conscious of being a Southerner, and there is no evidence that since then he has ever considered himself any less so.",
+  "Example sentence: `` What has impressed you most on your present visit ''?"
+ ],
+ "labels": [
+  "impress.v.02",
+  "impress.v.02",
+  "impress.v.02",
+  "impress.v.02",
+  "impress.v.02",
+  "affect.v.05",
+  "affect.v.05",
+  "affect.v.05",
+  "affect.v.05",
+  "affect.v.05"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

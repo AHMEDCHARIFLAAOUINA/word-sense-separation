@@ -1,0 +1,53 @@
+{
+ "target_word": "emotional",
+ "sentences": [
+  "Example sentence: That much of what he calls folklore is the result of beliefs carefully sown among the people with the conscious aim of producing a desired mass emotional reaction to a particular situation or set of situations is irrelevant.",
+  "Example sentence: It should be added that in man neocortical hypothalamic interrelations probably play a role in the fusion of emotional processes with those underlying perception, memory, imagination, and creativity.",
+  "Example sentence: The race problem has tended to obscure other, less emotional, issues which may fundamentally be even more divisive.",
+  "Example sentence: Even more complex and obviously cortically induced forms of emotional arousal could be elicited in monkey A on seeing monkey B (but not a rabbit) in emotional stress.",
+  "Example sentence: It seems to follow that by and large an antagonism exists between the paleo - and the neocortex as far as emotional reactivity is concerned, and that the balance between the two systems determines the emotional responsiveness of the organism.",
+  "Example sentence: In some cases, however, domination of the sex act by one partner can be temporary, triggered by a passing but urgent emotional need.",
+  "Example sentence: In both conditions the emotional and perceptual sensitivity is diminished, but no depression occurs such as is seen clinically or may be produced in normal persons by drugs.",
+  "Example sentence: There is a second feature of the influences of literature, good literature, on emotional life which may have some special value for our time.",
+  "Example sentence: A sketch of the emotional value of the study of literature would have to take account of all of these.",
+  "Example sentence: But in our case - and neither my wife nor I have extreme views on integration, nor are we given to emotional outbursts - the situation has ruined one or two valued friendships and come close to wrecking several more.",
+  "Example sentence: The rehearsal through literature of emotional life under controlled conditions may be a most valuable human experience.",
+  "Example sentence: A third idea is that artistic literature serves to reduce emotional conflicts, giving a sense of serenity and calm to individuals.",
+  "Example sentence: It is the obverse of triviality, shallowness, emotional anaesthesia.",
+  "Example sentence: The significant things in it, at the higher religious levels, are the inner emotional, mental, and spiritual occurrences that fill the pressing human needs of self-preservation, self pacification, and self completion."
+ ],
+ "labels": [
+  "emotional.a.01",
+  "emotional.a.01",
+  "emotional.a.01",
+  "emotional.a.01",
+  "emotional.a.01",
+  "emotional.a.01",
+  "emotional.a.01",
+  "emotional.a.02",
+  "emotional.a.02",
+  "emotional.a.02",
+  "emotional.a.02",
+  "emotional.a.02",
+  "emotional.a.02",
+  "emotional.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

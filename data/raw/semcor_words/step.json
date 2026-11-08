@@ -1,0 +1,53 @@
+{
+ "target_word": "step",
+ "sentences": [
+  "Example sentence: To accept the validity of the judgments of others is the second step.",
+  "Example sentence: To want to change is the third step.",
+  "Example sentence: The second step is to recognize the substantial agreement - frequently blurred by emotionalism and inaccurate newspaper reporting - already existing between Catholics and non-Catholics concerning the over-all objectives of family planning.",
+  "Example sentence: This initiates the second step of glossary lookup - connecting the information cell of forms in the text form list to dictionary forms.",
+  "Example sentence: He assumed his academic career with the same intensity and thoroughness that had marked every step in his rise from boyhood.",
+  "Example sentence: In affirming this we have already taken the decisive step in breaking the deadlock into which Bultmann's attempt to formulate such a theology has led.",
+  "Example sentence: To use these new ways in daily life is the last step.",
+  "Example sentence: Mahzeer would direct the prime minister's attention to something out the window and would guide him forward and then step to one side.",
+  "Example sentence: She brought the quirt down, slashing it across his cheek, and he tried to step back.",
+  "Example sentence: Now as you step inside, instead of seeing particles orbiting around like planets, you see waves and ripples very much like the ripples that you get on the surface of a pond when you drop a stone into it.",
+  "Example sentence: Those who enter the front door of the church intelligently and with Christian dedication will not so easily step through the back door because of lost interest.",
+  "Example sentence: Here I took my leave of my learned friends to step out on another path, to which we might give the modern name of Pragmatism, or the thing that works.",
+  "Example sentence: And if you should step inside of such a magnified atom, according to the physics of forty years ago, you would see circulating over your head, down at the sides, and under your feet, some twenty luminous balls about the size of footballs.",
+  "Example sentence: Won't you step into the living room, where it's cozier ''?"
+ ],
+ "labels": [
+  "measure.n.01",
+  "measure.n.01",
+  "measure.n.01",
+  "measure.n.01",
+  "measure.n.01",
+  "measure.n.01",
+  "measure.n.01",
+  "step.v.01",
+  "step.v.01",
+  "step.v.01",
+  "step.v.01",
+  "step.v.01",
+  "step.v.01",
+  "step.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: failure
+dataset: data/raw/semcor_words/failure.json
+senses:
+  - failure.n.01
+  - failure.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

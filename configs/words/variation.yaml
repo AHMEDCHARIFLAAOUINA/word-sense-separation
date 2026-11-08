@@ -1,0 +1,7 @@
+word: variation
+dataset: data/raw/semcor_words/variation.json
+senses:
+  - variation.n.01
+  - variation.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

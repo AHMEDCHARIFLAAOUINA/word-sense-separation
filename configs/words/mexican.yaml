@@ -1,0 +1,7 @@
+word: mexican
+dataset: data/raw/semcor_words/mexican.json
+senses:
+  - mexican.n.01
+  - mexican.a.01
+n_per_sense: 4
+prefix: "Example sentence: "

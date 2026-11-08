@@ -1,0 +1,41 @@
+{
+ "target_word": "theme",
+ "sentences": [
+  "Example sentence: Following the theme of Incarnation in the Gospels, the Christian artist and critic sees in the most commonplace and ordinary events `` figures '' of divine power and reality.",
+  "Example sentence: In method as well as in theme this little anecdote with its details selected as much for expressiveness and allegory as for `` realism '', anticipates a kind of musical composition, as well as a kind of fictional composition, in which, as Leverku^hn says, `` there shall be nothing unthematic ''.",
+  "Example sentence: He hit the theme about dying to defend your country, and you were ready to do it right then, without a second thought.",
+  "Example sentence: She wrote again and now, abandoning for the moment the theme of love, she asked for help in the matter of her career.",
+  "Example sentence: Let me quote him even more fully, for his analysis is important to my theme.",
+  "Example sentence: Frequently enough, the police are themselves in league with the killer; Dashiell Hammett's Red Harvest provides a classic example of this theme.",
+  "Example sentence: Again, he may discover embodied within its texture a theme or idea that has been presented elsewhere and at other times in various ways.",
+  "Example sentence: The first of two possible variations on this theme is symbolized by Mickey Spillane's Mike Hammer.",
+  "Example sentence: An idea, let us say, may be roughly defined as a theme or topic with which our reflection may be concerned.",
+  "Example sentence: Almost nothing is said of Charles ' spectacular victories, the central theme being the heroic loyalty of the Swedish people to their idolized king in misfortune and defeat."
+ ],
+ "labels": [
+  "subject.n.01",
+  "subject.n.01",
+  "subject.n.01",
+  "subject.n.01",
+  "subject.n.01",
+  "theme.n.02",
+  "theme.n.02",
+  "theme.n.02",
+  "theme.n.02",
+  "theme.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

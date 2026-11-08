@@ -1,0 +1,47 @@
+{
+ "target_word": "maintain",
+ "sentences": [
+  "Example sentence: The authority of the Secretary of the Interior under this joint resolution to construct, operate, and maintain demonstration plants shall terminate upon the expiration of twelve years after the date on which this joint resolution is approved.",
+  "Example sentence: To maintain their intermediate position in the larger society, it is not only necessary that members of this population be `` visible '', but that their numbers be great enough to be recognized as a separate, distinct grouping or system in society.",
+  "Example sentence: Do you try to maintain the principle of employee contributed (as opposed to fully company paid) programs?",
+  "Example sentence: The AIMO organizations of both countries, which maintain administrative services throughout the territories, retained immediate responsibility for the collection and publication of demographic information.",
+  "Example sentence: What we are attempting to do is achieve and maintain a balance between medium density and low density residential areas and industrial and commercial development.",
+  "Example sentence: Recent research on Irenaeus, however, makes it evident that he does not consistently maintain this distinction.",
+  "Example sentence: Although they were forced to maintain a sharper watch, this activity enabled them to ride in and rack their broncs without any particular attention being paid them.",
+  "Example sentence: The union does not regard unemployment of its own members as a matter of concern when setting its own wage policy - its concern with employment makes itself felt in pressure upon the government to maintain full employment.",
+  "Example sentence: The children had to play away from the house (in the barn loft or the pasture behind the barn), to maintain a proper quietness.",
+  "Example sentence: It is much less difficult now than in Lincoln's day to see that on both sides sovereign Americans had given their lives in the Civil War to maintain the balance between the powers they had delegated to the States and to their Union.",
+  "Example sentence: It was possible to maintain aerobic conditions in the pond by regular additions of sodium nitrate until the temperature decreased and the algae population changed from blue-green to green algae.",
+  "Example sentence: She ascribed her delight with both experiences to the effect they seemed to have of temporarily removing from her the controls which she felt so compulsively necessary to maintain even when it might seem appropriate to relax these controls."
+ ],
+ "labels": [
+  "conserve.v.02",
+  "conserve.v.02",
+  "conserve.v.02",
+  "conserve.v.02",
+  "conserve.v.02",
+  "conserve.v.02",
+  "keep.v.01",
+  "keep.v.01",
+  "keep.v.01",
+  "keep.v.01",
+  "keep.v.01",
+  "keep.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

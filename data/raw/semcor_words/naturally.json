@@ -1,0 +1,53 @@
+{
+ "target_word": "naturally",
+ "sentences": [
+  "Example sentence: Quite naturally, they make the investigation, first, by prohibiting the patient from making any movements at all and then, later, by repeating it and allowing the patient to move in any way he wanted to.",
+  "Example sentence: But they, naturally, kept his secret well, and the public at large knew only of a great excitement in musical and court circles.",
+  "Example sentence: Four or five of the cousins from East Texas were about his age, so naturally they ran around together.",
+  "Example sentence: The suburbanite naturally calls a local rather than a central city number if both are listed in an advertisement, especially if the local call eliminates city sales tax.",
+  "Example sentence: The one sure way to tell victim and villain apart is to examine the hind legs which in the case of the idler, Psithyrus, lack the pollen baskets - naturally!",
+  "Example sentence: Independent art schools granting degrees must, naturally, follow this with academic accreditation by the appropriate regional group.",
+  "Example sentence: This follows naturally since frontage on an ocean, stream, or lake provides scenic values and opportunities for the very popular recreation activities of bathing, fishing, boating, and other water sports.",
+  "Example sentence: Besides those of the thiouracil and resorcinol types, certain antithyroid drugs have been found in naturally occurring foods.",
+  "Example sentence: There is some evidence that naturally occurring goitrogens may play a role in the development of goitre, particularly in Tasmania and Australia (Clements and Wishart, 1956).",
+  "Example sentence: He expected nothing for himself but that which naturally follows those marked for misfortune.",
+  "Example sentence: They isolate out easily, naturally, and unambiguously from the continuum of nature and existence; and they should be given priority in the basic list as long as they continue to show these qualities.",
+  "Example sentence: An aggressor would use an agent against which there was a minimal naturally acquired or artificially induced immunity in a target population.",
+  "Example sentence: For instance, the following statement was rated low in compulsivity, `` She's naturally quite neat about things, but it doesn't bother her at all if her room gets messy.",
+  "Example sentence: Prokofieff's Classical Symphony was hailed as an ingenious work from a naturally gifted and well trained musician still in his twenties."
+ ],
+ "labels": [
+  "naturally.r.01",
+  "naturally.r.01",
+  "naturally.r.01",
+  "naturally.r.01",
+  "naturally.r.01",
+  "naturally.r.01",
+  "naturally.r.01",
+  "naturally.r.02",
+  "naturally.r.02",
+  "naturally.r.02",
+  "naturally.r.02",
+  "naturally.r.02",
+  "naturally.r.02",
+  "naturally.r.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

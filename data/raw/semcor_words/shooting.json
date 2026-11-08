@@ -1,0 +1,35 @@
+{
+ "target_word": "shooting",
+ "sentences": [
+  "Example sentence: Are you getting top dollar from the shooting sports?",
+  "Example sentence: Following a vigorous campaign of interpretation and leadership development by OEP director Dr. Julian Smith, today thousands of secondary schools, colleges and universities have shooting and hunting education in their physical education and recreation programs.",
+  "Example sentence: Through the efforts of SAAMI's shooting development program these shooting activities, and many others, including assists in the development of public and privately financed shooting parks, trap and skeet leagues, rifle and pistol marksmanship programs have been promoted, to mention only a few.",
+  "Example sentence: Following the kick-off of SAAMI's shooting development program in 1954, a most interesting meeting took place in Washington, D. C..",
+  "Example sentence: Even in the very area where the shooting had been done, cattle were still disappearing.",
+  "Example sentence: Prosecutor Baird immediately assumed he was hiding out there after the shooting and began preparing an indictment.",
+  "Example sentence: An inquest was held, and after a good deal of testimony about the anonymous notes, the county coroner estimated that the shooting had been done from a distance of 300 yards.",
+  "Example sentence: There was a lot of shooting."
+ ],
+ "labels": [
+  "shooting.n.01",
+  "shooting.n.01",
+  "shooting.n.01",
+  "shooting.n.01",
+  "shooting.n.02",
+  "shooting.n.02",
+  "shooting.n.02",
+  "shooting.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

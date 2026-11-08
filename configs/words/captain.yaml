@@ -1,0 +1,7 @@
+word: captain
+dataset: data/raw/semcor_words/captain.json
+senses:
+  - captain.n.02
+  - captain.n.01
+n_per_sense: 11
+prefix: "Example sentence: "

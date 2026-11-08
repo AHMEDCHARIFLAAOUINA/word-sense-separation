@@ -1,0 +1,41 @@
+{
+ "target_word": "active",
+ "sentences": [
+  "Example sentence: The latter procedure gave rise to a small active protein peak (Region 1a) between Regions 1 and 2.",
+  "Example sentence: The finding that the concentration of one of these proteases is increased in thyroid glands from TSH treated animals suggests that this protease may be active in vivo.",
+  "Example sentence: On chemical grounds it seems most likely that iodide is first converted to * * f and then to * * f as the active iodinating species.",
+  "Example sentence: The audience leaves the play under a spell, It is the kind of spell which the exposure to spirit in its living active manifestation always evokes.",
+  "Example sentence: There it seems that the goitrogen ingested by dairy animals is itself inactive but is converted in the animal to an active goitrogen, which is then secreted in the milk.",
+  "Example sentence: In hard surface cleaning, the inorganic salts are more important than the organic active.",
+  "Example sentence: Exclusive of esthetic values, such as high - or low foam level, perfume content, etc., the requirements for the organic active used in washing textiles are high.",
+  "Example sentence: Thus, for aqueous media, we can think of the idealized organic active as an oleophilic or hydrophobic surface-active agent, and of an idealized builder as a oleophobic or hydrophilic surface-active agent.",
+  "Example sentence: A well publicized entrant which has achieved success only recently is the built liquid detergent, with which the major problem today is incorporation of builder and active into a small volume using a sufficiently high builder / active ratio.",
+  "Example sentence: The detergent active is that substance which primarily acts to remove greasy soils."
+ ],
+ "labels": [
+  "active.a.01",
+  "active.a.01",
+  "active.a.01",
+  "active.a.01",
+  "active.a.01",
+  "active_agent.n.01",
+  "active_agent.n.01",
+  "active_agent.n.01",
+  "active_agent.n.01",
+  "active_agent.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

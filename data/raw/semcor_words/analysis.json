@@ -1,0 +1,35 @@
+{
+ "target_word": "analysis",
+ "sentences": [
+  "Example sentence: Another important source of evidence only recently receiving much attention is the analysis of atmospheric dust for a meteoritic component.",
+  "Example sentence: Thermogravimetric analysis showed a weight loss of 1.8% centered at 337 ` C and another weight loss of 10.8% at 463 ` C.",
+  "Example sentence: Mass spectrometric analysis of gases evolved upon heating to 410 ` C indicated nitrogen oxides and water vapor.",
+  "Example sentence: The criterion score used in the statistical analysis is an index of over - or under-achievement.",
+  "Example sentence: From the point of view of syntactic analysis the head word in the statement is the predicator has broken, and from the point of view of meaning it would seem that the trouble centers in the breaking; but dominant stress will be assigned to broken only in rather exceptional versions of the sentence.",
+  "Example sentence: If this analysis is correct, the suburban branches will turn out to be what management's cost accountants refuse to acknowledge, marginal operations rather than major factors.",
+  "Example sentence: It is a weakness of Gabriel's analysis that he never seems to realize that his so-called fundamental law had already been cut loose from its foundations when it was adapted to democracy.",
+  "Example sentence: The force of the authors ' analysis (if indeed it has any force) can be felt by the reader, I believe, only after three questions have been successfully answered."
+ ],
+ "labels": [
+  "analysis.n.01",
+  "analysis.n.01",
+  "analysis.n.01",
+  "analysis.n.01",
+  "analysis.n.02",
+  "analysis.n.02",
+  "analysis.n.02",
+  "analysis.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

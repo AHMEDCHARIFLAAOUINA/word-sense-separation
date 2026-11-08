@@ -1,0 +1,35 @@
+{
+ "target_word": "resources",
+ "sentences": [
+  "Example sentence: In the search for oil and gas, we make similar waves under controlled conditions with dynamite and learn from them where there are buried rock structures favorable to the accumulation of these resources.",
+  "Example sentence: American and free-world policies can marginally affect the pace of transition; but basically that pace depends on changes in the supply of resources and in the human attitudes, political institutions, and social structure which each society must generate.",
+  "Example sentence: Progress is impeded by psychological inhibitions to effective action among those in power and by a failure on their part to understand how local resources, human and material, can be mobilized to achieve the national goals of modernization already symbolically accepted.",
+  "Example sentence: This has necessitated a continuous review and reevaluation of the defense program in order to redirect resources to the newer and more important weapons systems and to eliminate or reduce effort on weapons systems which have been overtaken by events.",
+  "Example sentence: He is appreciative of the expert help available to him and draws these resources into play, taking care to examine at least some of the raw material which underlies their frequently policy oriented conclusions.",
+  "Example sentence: In the absence of a truly adequate conceptuality in which the gospel can be expressed, the unavoidable need to demythologize it makes use of whatever resources are at hand - and this usually means one or another of the various forms of `` folk religion '' current in the situation.",
+  "Example sentence: Until we translate this gospel into a language that enlightened men today can understand, we are depriving ourselves of the very resources on which the continued success of our witness most certainly depends.",
+  "Example sentence: Of course, it must not be forgotten that in achieving this historical feat, Prokofieff had the vast resources of his people behind him; time and economic security; symphony orchestras, opera and ballet companies; choruses, chamber music ensembles; soloists; recordings; broadcastings; television; large and eager audiences."
+ ],
+ "labels": [
+  "resource.n.01",
+  "resource.n.01",
+  "resource.n.01",
+  "resource.n.01",
+  "resource.n.02",
+  "resource.n.02",
+  "resource.n.02",
+  "resource.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

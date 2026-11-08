@@ -1,0 +1,7 @@
+word: illustrated
+dataset: data/raw/semcor_words/illustrated.json
+senses:
+  - exemplify.v.02
+  - illustrate.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

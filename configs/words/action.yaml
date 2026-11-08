@@ -1,0 +1,7 @@
+word: action
+dataset: data/raw/semcor_words/action.json
+senses:
+  - action.n.01
+  - action.n.02
+n_per_sense: 12
+prefix: "Example sentence: "

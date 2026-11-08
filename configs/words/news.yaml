@@ -1,0 +1,7 @@
+word: news
+dataset: data/raw/semcor_words/news.json
+senses:
+  - news.n.01
+  - news.n.02
+n_per_sense: 13
+prefix: "Example sentence: "

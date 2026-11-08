@@ -1,0 +1,7 @@
+word: development
+dataset: data/raw/semcor_words/development.json
+senses:
+  - development.n.01
+  - development.n.02
+n_per_sense: 19
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "devote",
+ "sentences": [
+  "Example sentence: At least 60 stations devote all of their time to reaching this audience in about half of the 50 states.",
+  "Example sentence: We devote a chapter to the binomial distribution not only because it is a mathematical model for an enormous variety of real life phenomena, but also because it has important properties that recur in many other probability models.",
+  "Example sentence: What he really wants is to find `` a sacred cause '' to which he can honestly devote himself.",
+  "Example sentence: Many of us in public relations were flattered that Richard L. Tobin chose to devote his editorial in the March 11 Communications Supplement to the merger of the Public Relations Society of America and the American Public Relations Association.",
+  "Example sentence: President Kennedy today pushed aside other White House business to devote all his time and attention to working on the Berlin crisis address he will deliver tomorrow night to the American people over nationwide television and radio.",
+  "Example sentence: This is a problem to which leaders of opinion, both Negro and white, should devote far more attention.",
+  "Example sentence: Nor did the Trial devote much attention to exposing the usefulness of anti-Semitism to the Nazis, both in building their own power and in destroying that of rival organizations and states.",
+  "Example sentence: I would like to see you devote some space in an early issue to the news blackout concerning President Kennedy's activities, so far as Southern California is concerned."
+ ],
+ "labels": [
+  "give.v.18",
+  "give.v.18",
+  "give.v.18",
+  "give.v.18",
+  "give.v.10",
+  "give.v.10",
+  "give.v.10",
+  "give.v.10"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

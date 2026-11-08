@@ -1,0 +1,7 @@
+word: professional
+dataset: data/raw/semcor_words/professional.json
+senses:
+  - professional.a.01
+  - professional.a.02
+n_per_sense: 9
+prefix: "Example sentence: "

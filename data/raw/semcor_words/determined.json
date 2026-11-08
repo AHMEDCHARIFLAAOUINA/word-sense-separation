@@ -1,0 +1,47 @@
+{
+ "target_word": "determined",
+ "sentences": [
+  "Example sentence: The sequence is determined by chance, and Mr. Cunningham makes use of any one of several chance devices.",
+  "Example sentence: To some extent the system can be considered a Gemeinschaft in which `` social-role occupancies are determined by birth, by attributes such as sex or caste, which are biologically or socially immutable ''.",
+  "Example sentence: The level of this average cost is determined by factor prices, technology, and so forth.",
+  "Example sentence: In any given time period, the aggregate demand for the industry's product is determined by two things: the price charged by the industry, and the level of GNP.",
+  "Example sentence: When Stravinsky shaped his purpose to the shifting scenes of many cultures, many salons, many dialectics, many personalities, he tried to refashion himself into a stylist of many styles, determined by many disparate cultures.",
+  "Example sentence: The unit of form is determined subjectively: `` the Heart, by the way of the Breath, to the Line ''.",
+  "Example sentence: More word class ratios determined in more languages will no doubt ultimately answer the question.",
+  "Example sentence: The cross-sectional area of the cylinders is determined and then the volume of the individual cylinders is computed by multiplying the area by the stroke length, which is the equivalent of the length of the cylinders.",
+  "Example sentence: These antibody titers were determined by reaction with homozygous * * f red cells.",
+  "Example sentence: This work gave a heat of formation of aluminum fluoride which closely substantiates a value which had been determined by a less direct method, and raises this property to 15 percent above that accepted a few years ago.",
+  "Example sentence: The type of program desired can be determined by the nature and extent of the adjustments needed.",
+  "Example sentence: By this method it was determined that the normal pressure exerted by a sample of polybutene (molecular weight reported to be 770) was over half an atmosphere."
+ ],
+ "labels": [
+  "determine.v.02",
+  "determine.v.02",
+  "determine.v.02",
+  "determine.v.02",
+  "determine.v.02",
+  "determine.v.02",
+  "determine.v.01",
+  "determine.v.01",
+  "determine.v.01",
+  "determine.v.01",
+  "determine.v.01",
+  "determine.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: electricity
+dataset: data/raw/semcor_words/electricity.json
+senses:
+  - electricity.n.01
+  - electricity.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

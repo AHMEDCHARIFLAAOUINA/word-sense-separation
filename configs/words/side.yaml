@@ -1,0 +1,7 @@
+word: side
+dataset: data/raw/semcor_words/side.json
+senses:
+  - side.n.01
+  - side.n.02
+n_per_sense: 13
+prefix: "Example sentence: "

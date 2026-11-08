@@ -1,0 +1,7 @@
+word: closed
+dataset: data/raw/semcor_words/closed.json
+senses:
+  - closed.a.01
+  - closed.a.02
+n_per_sense: 6
+prefix: "Example sentence: "

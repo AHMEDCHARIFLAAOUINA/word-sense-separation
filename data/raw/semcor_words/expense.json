@@ -1,0 +1,35 @@
+{
+ "target_word": "expense",
+ "sentences": [
+  "Example sentence: Some members of the bee family have become idlers, social parasites that live at the expense of their hardworking relatives.",
+  "Example sentence: They would attempt to bring supplies from St. Louis or Prairie du Chien at `` great expense as well as danger ''.",
+  "Example sentence: Thus, the larvae of the intruder can develop at the expense of the rightful inhabitants and the store of beebread.",
+  "Example sentence: The expense and time involved are astronomical.",
+  "Example sentence: Thus technical efficiency is achieved at the expense of actual experience.",
+  "Example sentence: Their dedication to the status quo has been affirmed at the expense of the fascinating but dangerous individualism of a Sherlock Holmes.",
+  "Example sentence: In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary.",
+  "Example sentence: The day will come, in midsummer, when you find your plants becoming `` leggy '', running to tall-growing foliage at the expense of blossoms."
+ ],
+ "labels": [
+  "expense.n.01",
+  "expense.n.01",
+  "expense.n.01",
+  "expense.n.01",
+  "expense.n.02",
+  "expense.n.02",
+  "expense.n.02",
+  "expense.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

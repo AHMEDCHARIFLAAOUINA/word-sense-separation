@@ -1,0 +1,7 @@
+word: garden
+dataset: data/raw/semcor_words/garden.json
+senses:
+  - garden.n.01
+  - garden.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

@@ -1,0 +1,53 @@
+{
+ "target_word": "apply",
+ "sentences": [
+  "Example sentence: Rodding formulas apply to many phases of the sport.",
+  "Example sentence: `` A journey '', `` a little white house '', `` a change of outlook '', can apply to many people.",
+  "Example sentence: This section shall not apply to corporations purchasing such stock solely for investment and not using the same by voting or otherwise to bring about, or in attempting to bring about, the substantial lessening of competition ``.",
+  "Example sentence: This explanation of tone difficulties, however, does not apply in all languages.",
+  "Example sentence: Here again laboratory approaches are being evolved, for it is recognized how `` elastic '' these readings can be, how they can apply to many people, and are often stated in general terms all too easily applied to any individual's own case.",
+  "Example sentence: A guy can be an active and successful hot rodder for years without becoming even remotely involved with mathematical problems; however, he will have a clearer understanding of what he is doing and the chances are he will be more successful if he understands the few formulas that apply to rodding.",
+  "Example sentence: Similarly, if the equivalents for the forms of a word do not vary, the equivalents need be entered only once with an indication that they apply to each form.",
+  "Example sentence: Some look deliberately to devices used by creators in the other arts and apply corresponding methods to their own work.",
+  "Example sentence: One can apply these facts to Britain in the late eighteenth and nineteenth centuries as she spread her dominion over palm and pine, and they can be applied again to the United States in more recent years.",
+  "Example sentence: Much effort has been expended in the sincere effort to apply the teaching and admonitions of religion.",
+  "Example sentence: An interested sitter may think the sensitive has made a `` hit '', describing something accurately for him, but can he really be sure that another sitter, hearing the same statement, would not apply it subjectively to his own circumstances?",
+  "Example sentence: Jones relented, he did not order his men to apply the torch - the drove of livestock was driven up the valley, via Beverly, and across the mountains to feed and serve the Confederate army, while Jones and his raiders turned toward Buckhannon to join forces with Imboden.",
+  "Example sentence: The opportunity exists for states to reserve some of their vocational education funds to apply on an ad hoc flexible basis to subsidize any local preemployment training programs that my be quickly set up in a community to aid a new industrial plant.",
+  "Example sentence: `` Hip-pocket '' tactics are going to be harder to apply."
+ ],
+ "labels": [
+  "apply.v.02",
+  "apply.v.02",
+  "apply.v.02",
+  "apply.v.02",
+  "apply.v.02",
+  "apply.v.02",
+  "apply.v.02",
+  "use.v.01",
+  "use.v.01",
+  "use.v.01",
+  "use.v.01",
+  "use.v.01",
+  "use.v.01",
+  "use.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

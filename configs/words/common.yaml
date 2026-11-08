@@ -1,0 +1,7 @@
+word: common
+dataset: data/raw/semcor_words/common.json
+senses:
+  - common.a.01
+  - common.a.02
+n_per_sense: 13
+prefix: "Example sentence: "

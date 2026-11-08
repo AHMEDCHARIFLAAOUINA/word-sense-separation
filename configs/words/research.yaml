@@ -1,0 +1,7 @@
+word: research
+dataset: data/raw/semcor_words/research.json
+senses:
+  - research.n.01
+  - inquiry.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

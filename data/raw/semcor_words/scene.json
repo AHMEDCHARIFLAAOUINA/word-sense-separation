@@ -1,0 +1,41 @@
+{
+ "target_word": "scene",
+ "sentences": [
+  "Example sentence: The crowd staged its own mad scene in salvos of cheers and applause and finally a standing ovation as Miss Sutherland took curtain call after curtain call following a fantastic `` Mad Scene '' created on her own and with the help of the composer and the other performers.",
+  "Example sentence: But the scene was not the quiet, calm scene I'd expected.",
+  "Example sentence: On that view, nothing good or bad happened in the case until I came on the scene and made my remark.",
+  "Example sentence: For what I express in my remark is something going on in me at the time, and that of course did not exist until I did come on the scene.",
+  "Example sentence: Mostly the scene was crowded with mourners, such as the dramatic Dell'Arca Lamentation in Bologna, where the grief-stricken spectators had usurped Mary's last poignant moment.",
+  "Example sentence: Nervousness at the start must have caused the blemishes of her first scene, or she may warm up slowly.",
+  "Example sentence: Miss Sutherland appeared almost as another person in this scene: A much more girlish Lucia, a sensational coloratura who ran across stage while singing, and an actress immersed in her role.",
+  "Example sentence: In the fullness of her vocal splendor, however, she could sing the famous scene magnificently.",
+  "Example sentence: After a `` busy '' overture, the curtain rises on a farm scene - the Ranavan Valley in northern Maine.",
+  "Example sentence: Aside from a quaint concern with witches and devils which provides the immediate problem in the opening scene, it is a quite normal community."
+ ],
+ "labels": [
+  "scene.n.01",
+  "scene.n.01",
+  "scene.n.01",
+  "scene.n.01",
+  "scene.n.01",
+  "scene.n.06",
+  "scene.n.06",
+  "scene.n.06",
+  "scene.n.06",
+  "scene.n.06"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: test
+dataset: data/raw/semcor_words/test.json
+senses:
+  - test.v.01
+  - trial.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

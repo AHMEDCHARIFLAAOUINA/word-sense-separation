@@ -1,0 +1,7 @@
+word: converted
+dataset: data/raw/semcor_words/converted.json
+senses:
+  - convert.v.01
+  - convert.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

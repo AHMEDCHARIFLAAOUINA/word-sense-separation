@@ -1,0 +1,41 @@
+{
+ "target_word": "accompanied",
+ "sentences": [
+  "Example sentence: The fox is all ingratiating smiles when he arrives from New Orleans, accompanied by one wharf rat.",
+  "Example sentence: Sometimes this is accompanied by visible shifts of the ground surface; often the shifts cannot be seen, but they are there; and everywhere can be found scars of earlier breaks once deeply buried.",
+  "Example sentence: Each diagram is accompanied by a `` dog chart '', a list of the levers that show which other levers any particular lever will lock if pulled.",
+  "Example sentence: No warden or guard to touch lock, key or doorknob except when accompanied by a prisoners ' committee with powers of veto.",
+  "Example sentence: But whether this was accompanied by a general lowering of the moral life of the membership we do not know.",
+  "Example sentence: At 3: 58 a. m., with the plane about twenty minutes out of El Paso, passenger Robert Berry, a San Antonio advertising man, glanced up and saw the man and boy, accompanied by a stewardess, walking up the aisle toward the cockpit.",
+  "Example sentence: In addition, would not the young female public of Washington be afforded a greater degree of protection at night when they are on the streets if they were accompanied by a dog on a leash?",
+  "Example sentence: Cutting short a holiday at Hong Kong, the aircraft carriers Lexington and Bennington steamed off into the South China Sea, accompanied by a swarm of destroyers, plus troopships loaded with marines.",
+  "Example sentence: When Papa went out to do God's work, Stevie often accompanied him in the buggy, which was drawn by Violet, the new black mare.",
+  "Example sentence: Commerce Secretary Luther Hodges, accompanied by a member of our staff, on May 10 toured plants of two of Italy's biggest companies - Fiat, the auto producer, and Olivetti, maker of typewriters and calculating machines."
+ ],
+ "labels": [
+  "attach_to.v.01",
+  "attach_to.v.01",
+  "attach_to.v.01",
+  "attach_to.v.01",
+  "attach_to.v.01",
+  "accompany.v.02",
+  "accompany.v.02",
+  "accompany.v.02",
+  "accompany.v.02",
+  "accompany.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

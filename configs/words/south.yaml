@@ -1,0 +1,7 @@
+word: south
+dataset: data/raw/semcor_words/south.json
+senses:
+  - south.n.01
+  - south.a.01
+n_per_sense: 13
+prefix: "Example sentence: "

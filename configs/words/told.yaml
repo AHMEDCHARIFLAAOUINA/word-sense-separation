@@ -1,0 +1,7 @@
+word: told
+dataset: data/raw/semcor_words/told.json
+senses:
+  - state.v.01
+  - tell.v.02
+n_per_sense: 10
+prefix: "Example sentence: "

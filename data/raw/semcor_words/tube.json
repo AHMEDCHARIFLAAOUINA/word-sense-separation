@@ -1,0 +1,41 @@
+{
+ "target_word": "tube",
+ "sentences": [
+  "Example sentence: The radiochlorine was stored at - 78 ` in a tube equipped with a break seal.",
+  "Example sentence: However, the surface temperature gradient can produce erroneous vapor-pressure measurements for the bulk liquid helium unless precautions are taken to isolate the tube (which passes through the surface to the vapor pressure bulb) from the liquid helium surface.",
+  "Example sentence: Spectra were also obtained from a sample in a spherical container which was made by blowing a bubble on the end of a capillary glass tube.",
+  "Example sentence: Matheson highest purity tank chlorine was passed through a tube of resublimed * * f into an evacuated Pyrex system where it was condensed with liquid air.",
+  "Example sentence: Both types of tube withstood the pressure of approximately 20 atmospheres exerted by the carbon tetrachloride at 220 `.",
+  "Example sentence: This tube could be adjusted in its axial direction by an electric drive to establish the required electrode spacing.",
+  "Example sentence: A plug and a tube with holes in its cylindrical walls divided the chamber above the porous plug into two parts.",
+  "Example sentence: Three separate amplifiers then drive a 21 - inch tricolor tube.",
+  "Example sentence: The cathode consisted of a 1/4 '' diameter thoriated tungsten rod attached to a water cooled copper tube.",
+  "Example sentence: Argon was also blown at low velocities (mass flow rate **f) through a tube coaxial with the cathode as an additional precaution against contamination of the arc by air."
+ ],
+ "labels": [
+  "tube.n.01",
+  "tube.n.01",
+  "tube.n.01",
+  "tube.n.01",
+  "tube.n.01",
+  "tube.n.02",
+  "tube.n.02",
+  "tube.n.02",
+  "tube.n.02",
+  "tube.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

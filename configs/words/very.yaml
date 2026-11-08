@@ -1,0 +1,7 @@
+word: very
+dataset: data/raw/semcor_words/very.json
+senses:
+  - very.r.01
+  - very.r.02
+n_per_sense: 11
+prefix: "Example sentence: "

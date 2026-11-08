@@ -1,0 +1,7 @@
+word: produced
+dataset: data/raw/semcor_words/produced.json
+senses:
+  - produce.v.02
+  - produce.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

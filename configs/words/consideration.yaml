@@ -1,0 +1,7 @@
+word: consideration
+dataset: data/raw/semcor_words/consideration.json
+senses:
+  - consideration.n.01
+  - circumstance.n.03
+n_per_sense: 4
+prefix: "Example sentence: "

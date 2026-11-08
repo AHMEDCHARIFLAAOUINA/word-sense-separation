@@ -1,0 +1,7 @@
+word: live
+dataset: data/raw/semcor_words/live.json
+senses:
+  - populate.v.01
+  - live.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

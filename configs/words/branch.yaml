@@ -1,0 +1,7 @@
+word: branch
+dataset: data/raw/semcor_words/branch.json
+senses:
+  - branch.n.01
+  - branch.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

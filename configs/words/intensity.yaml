@@ -1,0 +1,7 @@
+word: intensity
+dataset: data/raw/semcor_words/intensity.json
+senses:
+  - intensity.n.01
+  - intensity.n.02
+n_per_sense: 12
+prefix: "Example sentence: "

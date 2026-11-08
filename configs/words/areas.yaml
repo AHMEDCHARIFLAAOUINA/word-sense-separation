@@ -1,0 +1,7 @@
+word: areas
+dataset: data/raw/semcor_words/areas.json
+senses:
+  - area.n.01
+  - area.n.02
+n_per_sense: 9
+prefix: "Example sentence: "

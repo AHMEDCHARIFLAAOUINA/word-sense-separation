@@ -1,0 +1,47 @@
+{
+ "target_word": "humor",
+ "sentences": [
+  "Example sentence: He had the same bullet head of curly reddish hair but he didn't have Jim's poker-faced humor or his brains or his charm.",
+  "Example sentence: But to me Beckett's writing had seemed permeated with love for human beings and with a kind of humor that I could reconcile neither with despair nor with nihilism.",
+  "Example sentence: The gruesome humor of the Nazis was not forgotten - the gas chamber with a sign on it with the name of a Jewish foundation and bearing a copper Star of David - nor the gratuitous sadism of SS officers.",
+  "Example sentence: `` Oh, no '', he said, and he was without humor now.",
+  "Example sentence: Yet no detail was too small to receive attention from this master, and as a result the playing here has humor, delicacy, and radiant humanity.",
+  "Example sentence: Naval procedure, he thought, had its moments of grim humor.",
+  "Example sentence: `` I seem to remember '', he said, `` that in an interview ten years ago you gave humor and comedy five years to live.",
+  "Example sentence: I took a deep breath and an even deeper swallow of my drink, and said, `` I admit that going back to Ralph Waldo Emerson for humor is like going to a modern musical comedy for music and comedy ''.",
+  "Example sentence: `` If we cannot tell evil, horror, and insanity from nonsense, what is the future of humor and comedy ''?",
+  "Example sentence: `` I have come to talk with you about the future of humor and comedy '', I told him, at which he started slightly, and then made us each a stiff drink, with a trembling hand.",
+  "Example sentence: So they parted when she was in an impatient humor.",
+  "Example sentence: But having lived with the disc for some time now, I find the performance less exciting than either Schnabel's or Fleisher's (whose superb performance with the Budapest Quartet has still to be recorded) and a good deal less filled with humor than Curzon's."
+ ],
+ "labels": [
+  "humor.n.02",
+  "humor.n.02",
+  "humor.n.02",
+  "humor.n.02",
+  "humor.n.02",
+  "humor.n.02",
+  "temper.n.02",
+  "temper.n.02",
+  "temper.n.02",
+  "temper.n.02",
+  "temper.n.02",
+  "temper.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

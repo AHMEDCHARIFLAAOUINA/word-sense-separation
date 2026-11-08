@@ -1,0 +1,7 @@
+word: concluded
+dataset: data/raw/semcor_words/concluded.json
+senses:
+  - reason.v.01
+  - conclude.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

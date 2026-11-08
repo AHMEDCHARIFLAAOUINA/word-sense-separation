@@ -1,0 +1,7 @@
+word: queen
+dataset: data/raw/semcor_words/queen.json
+senses:
+  - queen.n.01
+  - queen.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

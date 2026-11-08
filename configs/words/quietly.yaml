@@ -1,0 +1,7 @@
+word: quietly
+dataset: data/raw/semcor_words/quietly.json
+senses:
+  - softly.r.01
+  - quietly.r.02
+n_per_sense: 5
+prefix: "Example sentence: "

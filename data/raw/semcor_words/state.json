@@ -1,0 +1,41 @@
+{
+ "target_word": "state",
+ "sentences": [
+  "Example sentence: For each State (except Puerto Rico, Guam, the Virgin Islands, and, prior to 1962, Alaska and Hawaii) determine average per capita income based on the last three years.",
+  "Example sentence: This indicates that this drug is being marketed under one trade name only or state regulatory organizations have approved its use on the feed tag.",
+  "Example sentence: They hail from Travancore, a state in the subcontinent where Kali, the goddess of death, is worshiped.",
+  "Example sentence: It is possible, although highly doubtful, that he killed none at all but merely let his reputation work for him by privately claiming every unsolved murder in the state.",
+  "Example sentence: I've got a quarter of a million Germans in my state, and those krautheads tune in on Father Werther every night, and if he tells them to go out and piss in the public square, that's what they do.",
+  "Example sentence: I must state that the faster things happened, the slower they happened; the passage and rhythm of time changed, and when I remember back to what happened then, each event is a separate and frozen incident.",
+  "Example sentence: But Michael Sept had unmasked him, revealing he had never been a bishop, but was an Anabaptist, afraid to state his faith, because he knew John Calvin had written a book against their belief that the soul slept after death.",
+  "Example sentence: He was also personally active in ward politics, and by 1924 O ' Banion had acquired sufficient political might to be able to state: `` I always deliver my borough as per requirements ''.",
+  "Example sentence: But he did recommend that President Kennedy state clearly that if Communist countries shipped any further arms to Cuba that it would not be tolerated.",
+  "Example sentence: Another Yankee became so disgusted as to state: `` I wish to God one half of our officers were knocked in the head by slinging them against [the other half] ''."
+ ],
+ "labels": [
+  "state.n.01",
+  "state.n.01",
+  "state.n.01",
+  "state.n.01",
+  "state.n.01",
+  "state.v.01",
+  "state.v.01",
+  "state.v.01",
+  "state.v.01",
+  "state.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

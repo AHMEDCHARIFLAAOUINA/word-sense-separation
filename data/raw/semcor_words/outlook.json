@@ -1,0 +1,41 @@
+{
+ "target_word": "outlook",
+ "sentences": [
+  "Example sentence: My intention, therefore, is not to say that Faulkner's awareness has been confined within the borders of the South, but rather that he has looked at his world as a Southerner and that presumably his outlook is Southern.",
+  "Example sentence: Of course it had always been of European origin in fact, but it had maintained a universal outlook under the natural law theory.",
+  "Example sentence: Greek civilization was swirling toward its great revolution, in which the developed qualities of the Hellenic outlook were suddenly to break forth.",
+  "Example sentence: These are the centuries in which the inhabitants of the Aegean world settled firmly into their minds and into their institutions the foundations of the Hellenic outlook, independent of outside forces.",
+  "Example sentence: And perhaps an observer of the vases will not go too far in deducing that the outlook of their makers and users was basically stable and secure.",
+  "Example sentence: Then, abandoning the studies in the face of their promising outlook for all concerned, B. + O. entered on-again-off-again negotiations with C. + O. which resulted in the present situation.",
+  "Example sentence: While the U. S. Department of Labor has a program of projecting industry and occupational employment trends and publishing current outlook statements, there is little tangible evidence that these projections have been used extensively in local curriculum planning.",
+  "Example sentence: The outlook for the amateur, for instance, is usually dependent on his fondness for local history or for the picturesque.",
+  "Example sentence: The Office of Business Economics (OBE) of the U.S. Department of Commerce provides basic measures of the national economy and current analysis of short-run changes in the economic situation and business outlook.",
+  "Example sentence: Prokofieff's outlook as a composer pianist conductor in America was, indeed, brilliant."
+ ],
+ "labels": [
+  "mentality.n.01",
+  "mentality.n.01",
+  "mentality.n.01",
+  "mentality.n.01",
+  "mentality.n.01",
+  "expectation.n.01",
+  "expectation.n.01",
+  "expectation.n.01",
+  "expectation.n.01",
+  "expectation.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

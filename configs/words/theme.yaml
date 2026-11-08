@@ -1,0 +1,7 @@
+word: theme
+dataset: data/raw/semcor_words/theme.json
+senses:
+  - subject.n.01
+  - theme.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,53 @@
+{
+ "target_word": "warm",
+ "sentences": [
+  "Example sentence: Suddenly he was interrupted in his daydreaming by a warm wetness lapping against his chin, and his eyes opened wide and long at the sight of a goat's claret tongue, feasting against the salt taste of him.",
+  "Example sentence: A warm breeze played across it, moving it like waves.",
+  "Example sentence: With his mouth opened wide, he squirted the warm white milk against the roof of his mouth and his tongue savored the light, earthy taste of it.",
+  "Example sentence: `` Warm enough to swim - real Indian summer.",
+  "Example sentence: It is not having his baby nestled warm and fat against your breast and it is not having somebody that really gives a damn whether some tramp cracks your skull.",
+  "Example sentence: In the meantime he was pleased with the warm night and the still more pleasing company of his water brother.",
+  "Example sentence: The larvae, kept warm by the queen, are full grown in about ten days.",
+  "Example sentence: `` Your voice is delightful '', he approved with a warm smile.",
+  "Example sentence: The two older boys, Hans and Anders, his junior by a year, therefore went daily to the home of a warm and friendly wigmaker nearby for instruction in German; his wife taught the two boys to read and write Danish.",
+  "Example sentence: More than a beautiful visualization of the illustrious adventures and escapades of the tragi-comic knight-errant and his squire, Sancho Panza, in seventeenth century Spain, this inevitably abbreviated rendering of the classic satire on chivalry is an affectingly warm and human exposition of character.",
+  "Example sentence: I should like at this time, Mr. Speaker, to pay warm tribute to Arthur Hays Sulzberger and Charles Merz on the occasion of their retirement from distinguished careers in American journalism.",
+  "Example sentence: But the warm joy of her brown eyes was open to the general public.",
+  "Example sentence: Her voice was ripe and full and her teeth flashed again in Sicilian brilliance before the warm curved lips met and her mouth settled in repose.",
+  "Example sentence: Fresh, warm, sweet and juicy, sweet lovin sixteen, she was."
+ ],
+ "labels": [
+  "warm.a.01",
+  "warm.a.01",
+  "warm.a.01",
+  "warm.a.01",
+  "warm.a.01",
+  "warm.a.01",
+  "warm.a.01",
+  "warm.a.02",
+  "warm.a.02",
+  "warm.a.02",
+  "warm.a.02",
+  "warm.a.02",
+  "warm.a.02",
+  "warm.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

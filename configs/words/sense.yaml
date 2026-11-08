@@ -1,0 +1,7 @@
+word: sense
+dataset: data/raw/semcor_words/sense.json
+senses:
+  - sense.n.01
+  - feel.v.03
+n_per_sense: 7
+prefix: "Example sentence: "

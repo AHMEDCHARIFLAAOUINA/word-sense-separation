@@ -1,0 +1,41 @@
+{
+ "target_word": "granted",
+ "sentences": [
+  "Example sentence: Under unusual circumstances a resident individual may be granted an extension of time to file a return.",
+  "Example sentence: Had I been granted the floor on a point of personal privilege, the matter she raised would have been clarified.",
+  "Example sentence: Through which he has granted us the very great and precious promises, so that through them you may become partaker of the divine nature.",
+  "Example sentence: We granted certiorari in view of the importance of the questions in the administration of the Act.",
+  "Example sentence: Extensions are not granted as a matter of course, and the reasons for your request must be substantial.",
+  "Example sentence: It was an alien land, and she hated it intensely; she was already considering putting in rebellious requests for duty at San Diego, Bremerton, the Great Lakes, Pensacola - any place the Navy had a hospital - with a threat to resign her commission if the request were not granted.",
+  "Example sentence: But the Legislature should be granted the opportunity to complete its work before choosing up sides for the race.",
+  "Example sentence: The matter was considered and reconsidered, and finally opposed, but in spite of many objections, the Court granted a charter on January 9, 1792.",
+  "Example sentence: Indeed, it has only been a matter of the last few years that reputable schools of art have granted degrees at all.",
+  "Example sentence: The statement explained that under the Georgia Constitution and state law, tax-exempt status is granted to educational institutions only if they are segregated."
+ ],
+ "labels": [
+  "allow.v.03",
+  "allow.v.03",
+  "allow.v.03",
+  "allow.v.03",
+  "allow.v.03",
+  "award.v.02",
+  "award.v.02",
+  "award.v.02",
+  "award.v.02",
+  "award.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

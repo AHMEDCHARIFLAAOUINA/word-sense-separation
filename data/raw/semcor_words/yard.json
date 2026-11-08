@@ -1,0 +1,41 @@
+{
+ "target_word": "yard",
+ "sentences": [
+  "Example sentence: Every path from back door to barn was covered by a grape-arbor, and every yard had its fruit trees.",
+  "Example sentence: The week after Manassas the sound of horses in the yard brought Kate up in shock from an afternoon's rest when she saw the Federal soldiers from her upstairs window.",
+  "Example sentence: Presently he heard footsteps crossing the yard, and Jess's smothered curses.",
+  "Example sentence: He ran out into the downpour, sped across the yard and into the buggy room.",
+  "Example sentence: Now the yard looked wet and bald, the trees bare under their buds, but in a while Miss Ada's flowers would bloom like a marching parade.",
+  "Example sentence: He nailed it for a yard loss ''.",
+  "Example sentence: Texas ' 545 - yard spree against Washington State gave the Longhorns a 3 - game total offense of 1512 yards (1065 rushing and 447 passing) a new SWC high.",
+  "Example sentence: George Kerr, the swift striding Jamaican, set a meet record in the 600 - yard run in the Knights of Columbus track meet tonight, beating Purdue's Dave Mills in a hot duel in 1.10.1.",
+  "Example sentence: On the narrow fairway of a 508 - yard hole, Arnold whipped into his second shot.",
+  "Example sentence: He boomed a 280 - yard drive."
+ ],
+ "labels": [
+  "yard.n.02",
+  "yard.n.02",
+  "yard.n.02",
+  "yard.n.02",
+  "yard.n.02",
+  "yard.n.01",
+  "yard.n.01",
+  "yard.n.01",
+  "yard.n.01",
+  "yard.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

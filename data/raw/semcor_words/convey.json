@@ -1,0 +1,35 @@
+{
+ "target_word": "convey",
+ "sentences": [
+  "Example sentence: Dave made some sound meant to convey agreement.",
+  "Example sentence: From the technical standpoint, records differ from live music to the degree that they fail to convey the true color, texture, complexity, range, intensity, pulse, and pitch of the original.",
+  "Example sentence: Their gait is impossible to convey in words.",
+  "Example sentence: Errors in technical terminology suggest that the over-all translation from the German may not convey quite everything Mr. Remarque hoped to tell us.",
+  "Example sentence: This is, no doubt, inaccurate, but it does convey how isolated she feels among the vast army of the nonobservant.",
+  "Example sentence: That convention of Russian ballet whereby the girls convey the idea that they are all the daughters of impoverished Grand Dukes driven to thestage out of filial piety, is totally absent from the Kirov.",
+  "Example sentence: When painting, Mason's physical eyes are half closed, while his mind's eye is wide open, and this circumstance accounts in part for the impression he wishes to convey.",
+  "Example sentence: The kiss outraged our friends but it was done and meanwhile had released in me all the remote, exciting premonitions of lust, all the mysterious sensations that I had imagined a truly consummated kiss would convey to me."
+ ],
+ "labels": [
+  "convey.v.01",
+  "convey.v.01",
+  "convey.v.01",
+  "convey.v.01",
+  "carry.v.04",
+  "carry.v.04",
+  "carry.v.04",
+  "carry.v.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

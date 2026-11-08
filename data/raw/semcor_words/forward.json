@@ -1,0 +1,47 @@
+{
+ "target_word": "forward",
+ "sentences": [
+  "Example sentence: He sputtered back to his feet and scrambled madly to pull his bags of seed grain forward.",
+  "Example sentence: They strained forward.",
+  "Example sentence: Killpath leaned forward; his foot slipped off the chair and he put it back again, frowning now.",
+  "Example sentence: Mahzeer would direct the prime minister's attention to something out the window and would guide him forward and then step to one side.",
+  "Example sentence: Fall slowly forward onto the hands and let the body down to rest on the floor.",
+  "Example sentence: He paced forward unsteadily, leaning too far back, his head tilted oddly.",
+  "Example sentence: The second capability is represented by our deployed ground, naval, and air forces in essential forward areas, together with ready reserves capable of effecting early emergency reinforcement.",
+  "Example sentence: They overran the 7 th Cav's forward machine-gun positions through sheer weight of numbers, over piles of their own dead.",
+  "Example sentence: For most small children, learning a forward roll is simply a matter of copying another child who can.",
+  "Example sentence: Greg had the stick forward and the throttle up before he heard the two `` Rogers ''.",
+  "Example sentence: The last essential to the beginner's gymnastic program is the somersault, or forward roll.",
+  "Example sentence: Recklessly hurling the bronc sidewise into an intersecting draw, he plunged forward with undiminished speed."
+ ],
+ "labels": [
+  "forward.r.01",
+  "forward.r.01",
+  "forward.r.01",
+  "forward.r.01",
+  "forward.r.01",
+  "forward.r.01",
+  "forward.a.01",
+  "forward.a.01",
+  "forward.a.01",
+  "forward.a.01",
+  "forward.a.01",
+  "forward.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

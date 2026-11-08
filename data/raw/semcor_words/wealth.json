@@ -1,0 +1,41 @@
+{
+ "target_word": "wealth",
+ "sentences": [
+  "Example sentence: The provisions are also designed to avoid disruption in State programs already in operation, which might otherwise result from the allotment of funds on the basis of wealth and population alone.",
+  "Example sentence: These provisions are designed to reflect the differences in wealth and population among the States, with the objective that a vocationally handicapped person have access to needed services regardless of whether he resides in a State with a low or high per capita income or a sparsely or thickly populated State.",
+  "Example sentence: He thereupon went to London and spent the winter talking to men of wealth.",
+  "Example sentence: The equation was simple: wealth brought them happiness, and their united front to the world was their warning that they meant to keep everything they had, let no one in on the secrets.",
+  "Example sentence: Lincoln was historian and economist enough to know that a substantial portion of this wealth had accumulated in the hands of the descendants of New Englanders engaged in the slave trade.",
+  "Example sentence: Where the microscope under visible light may show only vague shadows or nothing at all, ultraviolet illumination and subsequent translation into a color TV picture reveal a wealth of detail.",
+  "Example sentence: This unit, affectionately dubbed `` The Monster '', can be wheeled to any convenient location and provides a wealth of information about the patient's breathing.",
+  "Example sentence: From the wealth of material and the wide variety of different electronic techniques perfected in the past few years we have selected a few examples which appear to be headed for use in the immediate future and which offer completely new tools in medical research.",
+  "Example sentence: He also spoke of `` the wealth piled by the bondsman's two hundred and fifty years in unrequited toil ''.",
+  "Example sentence: After how many generations is such wealth (mounting all the while through the manipulations of high finance) purified of taint?"
+ ],
+ "labels": [
+  "wealth.n.01",
+  "wealth.n.01",
+  "wealth.n.01",
+  "wealth.n.01",
+  "wealth.n.01",
+  "wealth.n.02",
+  "wealth.n.02",
+  "wealth.n.02",
+  "wealth.n.02",
+  "wealth.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

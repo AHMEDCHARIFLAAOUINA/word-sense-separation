@@ -1,0 +1,41 @@
+{
+ "target_word": "decision",
+ "sentences": [
+  "Example sentence: Since the Supreme Court's decision of that year this is more doubtful; and if a poll had been taken immediately following the dispatch of troops to Little Rock I believe the majority would have been for the Old South.",
+  "Example sentence: Scotty accepted the decision with indifference and did not enter the arguments.",
+  "Example sentence: Religious faith can be considered a necessary condition of membership in a congregation, since the decision to join a worshiping group requires some motive force, but faith is not a sufficient condition for joining; the presence of other members of similar social and economic level is the sufficient condition.",
+  "Example sentence: This, of course, depends on the character of the site itself, the previous experience of the investigator, and the number of factors needed to arrive at a good decision.",
+  "Example sentence: He made the decision with his eyes open, or so he thought.",
+  "Example sentence: Mr. Justice Taney's Dred Scott decision in 1857 was unpopular in the North, and soon became a dead letter.",
+  "Example sentence: Thus, a finding of conspiracy to restrain trade or attempt to monopolize was excluded from the Court's decision.",
+  "Example sentence: The cost of land and the prospects for appreciation in value may influence your decision.",
+  "Example sentence: The recommendation of the Department - as well as the decision of the appeal board - was based entirely on the local board file, not on an FBI report.",
+  "Example sentence: In general, however, it may be said that when a boy or a girl leaves the high school, the school authorities play little or no part in the decision of what happens next."
+ ],
+ "labels": [
+  "decision.n.01",
+  "decision.n.01",
+  "decision.n.01",
+  "decision.n.01",
+  "decision.n.01",
+  "decision.n.02",
+  "decision.n.02",
+  "decision.n.02",
+  "decision.n.02",
+  "decision.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

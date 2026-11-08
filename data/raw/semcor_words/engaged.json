@@ -1,0 +1,35 @@
+{
+ "target_word": "engaged",
+ "sentences": [
+  "Example sentence: The United States was engaged in a military attack on a peaceful, orderly people governed by a regime that had proved itself the most pro-Western and anti-Communist within any of the new nations - the only place in Africa, moreover, where a productive relationship between whites and blacks had apparently been achieved.",
+  "Example sentence: Within a few years the Scots, engaged in breaking the thick sod and stirring the rich soil of the valley, were joined by a group called Meurons.",
+  "Example sentence: Field operations were transferred from administrative personnel primarily engaged in other tasks to specially trained teams of full-time African investigators (three teams, each working in two provinces).",
+  "Example sentence: (3) Over the years, individuals engaged in the sale of real estate have developed remarkable unity in the methods and practices employed.",
+  "Example sentence: She was told by the manservant who opened the door that his lordship was engaged on work from which he had left strict orders he was not to be disturbed.",
+  "Example sentence: Our collective policies, group and national, are similarly based on voodoo, but here we often lack even the empirically successful rituals and are still engaged in determining them.",
+  "Example sentence: Observers can see a person engaged in spontaneous behavior, and watch him operating in a totalistic fashion.",
+  "Example sentence: While she was thus engaged, McFeeley questioned her about her whereabouts the previous day, any recollections she had of people hanging around, of overcurious delivery boys or repairmen, of strange cars cruising the neighborhood."
+ ],
+ "labels": [
+  "prosecute.v.03",
+  "prosecute.v.03",
+  "prosecute.v.03",
+  "prosecute.v.03",
+  "absorb.v.09",
+  "absorb.v.09",
+  "absorb.v.09",
+  "absorb.v.09"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

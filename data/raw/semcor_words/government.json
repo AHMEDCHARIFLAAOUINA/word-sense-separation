@@ -1,0 +1,41 @@
+{
+ "target_word": "government",
+ "sentences": [
+  "Example sentence: The Commission shall certify to the Secretary of State, upon his request, copies of the formal submissions of claims filed pursuant to subsection (b) of section 4 of this Act for transmission to the foreign government concerned.",
+  "Example sentence: Justice is a worthy objective; but if justice for Bantus entails driving the government of the Union of South Africa away from the West, then the Bantus must be prepared to carry their identification cards yet a while longer.",
+  "Example sentence: A special fund created for that purpose pursuant to subsection (a) of this section any amounts hereafter paid, in United States dollars, by a foreign government which has entered into a claims settlement agreement with the Government of the United States as described in subsection (a) of section 4 of this Title.",
+  "Example sentence: The Macmillan government might be willing to let him go, but he has been dead seventy-eight years and even the Soviet morticians could not make him look presentable.",
+  "Example sentence: Any and all payments required to be made by the Secretary of the Treasury under this title pursuant to any award made by the Commission to the Government of the United States shall be covered into the Treasury to the credit of miscellaneous receipts.",
+  "Example sentence: It was merely a rationalization and ordering of new institutions of popular government.",
+  "Example sentence: Funds contributed by the Government are repaid by a royalty on production from the property.",
+  "Example sentence: This is puzzling to an outsider conscious of the classic tradition of liberalism, because it is clear that these Democrats who are left-of-center are at opposite poles from the liberal Jefferson, who held that the best government was the least government.",
+  "Example sentence: Man, through democratic institutions of government and economic freedom, was master of his destiny.",
+  "Example sentence: A 5 - percent royalty is paid on any production during the period the contract is in effect; if the Government certifies that production may be possible from the property, the royalty obligation continues for the 10 - year period usually specified in the contract or until the Government's contribution is repaid with interest."
+ ],
+ "labels": [
+  "government.n.01",
+  "government.n.01",
+  "government.n.01",
+  "government.n.01",
+  "government.n.01",
+  "government.n.02",
+  "government.n.02",
+  "government.n.02",
+  "government.n.02",
+  "government.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

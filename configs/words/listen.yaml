@@ -1,0 +1,7 @@
+word: listen
+dataset: data/raw/semcor_words/listen.json
+senses:
+  - listen.v.02
+  - listen.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: realize
+dataset: data/raw/semcor_words/realize.json
+senses:
+  - recognize.v.02
+  - understand.v.02
+n_per_sense: 10
+prefix: "Example sentence: "

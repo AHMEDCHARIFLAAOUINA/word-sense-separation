@@ -1,0 +1,7 @@
+word: seek
+dataset: data/raw/semcor_words/seek.json
+senses:
+  - search.v.01
+  - seek.v.01
+n_per_sense: 9
+prefix: "Example sentence: "

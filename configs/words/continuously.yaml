@@ -1,0 +1,7 @@
+word: continuously
+dataset: data/raw/semcor_words/continuously.json
+senses:
+  - continuously.r.01
+  - endlessly.r.02
+n_per_sense: 4
+prefix: "Example sentence: "

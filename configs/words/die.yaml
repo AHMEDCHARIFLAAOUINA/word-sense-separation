@@ -1,0 +1,7 @@
+word: die
+dataset: data/raw/semcor_words/die.json
+senses:
+  - die.v.01
+  - die.n.01
+n_per_sense: 6
+prefix: "Example sentence: "

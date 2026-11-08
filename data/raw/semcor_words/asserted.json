@@ -1,0 +1,41 @@
+{
+ "target_word": "asserted",
+ "sentences": [
+  "Example sentence: Still another boy asserted: `` To be a good Jew is to do no wrong; it's to be a good person ''.",
+  "Example sentence: But though each of its members had asserted this right against the Union, the final Constitution which the Confederacy signed on March 11 - nearly a month before hostilities began - included no explicit provision authorizing a state to secede.",
+  "Example sentence: If it could be shown that judgments of good and bad were not judgments at all, that they asserted nothing true or false, but merely expressed emotions like `` Hurrah '' or `` Fiddlesticks '', then these wayward judgments would cease from troubling and weary heads could be at rest.",
+  "Example sentence: Since a ruled surface of order n with n concurrent generators is necessarily a cone, it follows finally that every line through a point, P, of \\ g meets its image at P, as asserted.",
+  "Example sentence: The possibility, as he asserted, that the Russians may get ahead of us or come closer to us because of their tests does not supply the needed ethical premise - unless, of course, we have unwittingly become so brutalized that nuclear superiority is now taken as a moral demand.",
+  "Example sentence: Outside those limits it asserted, as against other states, a position of sovereign equality, and, as against the `` inferior '' peoples of the non-Western world, a position of dominance.",
+  "Example sentence: He then sold her some capsules that he asserted would take care of the tumors and cysts until she could collect the money for buying his machine.",
+  "Example sentence: In his answer thereto, he advised the Board that he had made no such statement in 1956, and asserted that his only claim to `` pioneering '' was in 1952.",
+  "Example sentence: Even now no such claim is asserted.",
+  "Example sentence: He asserted that the Krogers were the bankers for Moscow, Lonsdale the Red paymaster, and the two civil servants the recipients for selling their country's secrets."
+ ],
+ "labels": [
+  "assert.v.01",
+  "assert.v.01",
+  "assert.v.01",
+  "assert.v.01",
+  "assert.v.01",
+  "affirm.v.02",
+  "affirm.v.02",
+  "affirm.v.02",
+  "affirm.v.02",
+  "affirm.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

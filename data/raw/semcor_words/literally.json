@@ -1,0 +1,35 @@
+{
+ "target_word": "literally",
+ "sentences": [
+  "Example sentence: His unsuccessful strivings to give up drink are represented as religious strivings; he keeps a bottle in a wardrobe at home, and `` before this wardrobe Praisegod Piepsam had before now gone literally on his knees, and in his wrestlings had bitten his tongue - and still in the end capitulated ''.",
+  "Example sentence: Family survival on our own Western frontier, for example, could quite literally depend on a man's strength and ability to bring home the bacon; and the dependent wife seldom questioned his judgment about anything, including the marriage bed.",
+  "Example sentence: Wives of the period shamefacedly thought of themselves as `` used '' by their husbands - and, history indicates, they often quite literally were.",
+  "Example sentence: In the 1930's, cures for the depression literally flooded Washington.",
+  "Example sentence: On that first day, Blanche literally thought she was going to die, or, at the very least, go out of her mind.",
+  "Example sentence: This he did by using utterly literal means to carry the forward push of the collage (and of Cubism in general) literally into the literal space in front of the picture plane.",
+  "Example sentence: The apostolic community was literally an elite: chosen by Christ himself.",
+  "Example sentence: The Presto ma non assai of the first trio of the scherzo is taken literally and may shock you, as the real Allegro con spirito of the finale is likely to bring you to your feet."
+ ],
+ "labels": [
+  "literally.r.02",
+  "literally.r.02",
+  "literally.r.02",
+  "literally.r.02",
+  "literally.r.01",
+  "literally.r.01",
+  "literally.r.01",
+  "literally.r.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: years
+dataset: data/raw/semcor_words/years.json
+senses:
+  - old_age.n.01
+  - long_time.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

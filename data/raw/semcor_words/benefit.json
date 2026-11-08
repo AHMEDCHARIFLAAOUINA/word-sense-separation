@@ -1,0 +1,41 @@
+{
+ "target_word": "benefit",
+ "sentences": [
+  "Example sentence: She wanted to make a more equitable distribution of it among the groups that would benefit the most; particularly the scholarship fund.",
+  "Example sentence: Statements by other legislators that Dallas is paying for all its water program by local bonds, and that less populous places would benefit most by the pending bill, did not sway Cotten's attack.",
+  "Example sentence: On the basis that all citizens of the state are entitled to benefit equally in the development of its resources, plans for the provision of essential services (such as water) will be based on need regardless of arbitrary political boundaries, within the framework of the state plan.",
+  "Example sentence: Simultaneously we should be underlining the interrelationships of technical progress in various fields, showing how agricultural training can be introduced into education, how health affects labor productivity, how small business can benefit the rural farm community, and, above all, how progress in each field relates to national progress.",
+  "Example sentence: It was just that she felt deeply about every patient on the ward and wanted to believe that they might benefit from their treatment there.",
+  "Example sentence: How long has it been since you reviewed the objectives of your benefit and service program?",
+  "Example sentence: Younger men usually don't think of pensions as an important job benefit factor anyhow and they're liable to change jobs several times before settling down.",
+  "Example sentence: Consider what you can afford to spend and what your goals are before setting up or revamping your employee benefit program.",
+  "Example sentence: These factors can make the difference between waste and efficiency in any benefit program.",
+  "Example sentence: Aim to balance your employee benefit package."
+ ],
+ "labels": [
+  "profit.v.01",
+  "profit.v.01",
+  "profit.v.01",
+  "profit.v.01",
+  "profit.v.01",
+  "benefit.n.01",
+  "benefit.n.01",
+  "benefit.n.01",
+  "benefit.n.01",
+  "benefit.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

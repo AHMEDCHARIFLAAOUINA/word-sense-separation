@@ -1,0 +1,7 @@
+word: minimum
+dataset: data/raw/semcor_words/minimum.json
+senses:
+  - minimal.a.01
+  - minimum.n.01
+n_per_sense: 8
+prefix: "Example sentence: "

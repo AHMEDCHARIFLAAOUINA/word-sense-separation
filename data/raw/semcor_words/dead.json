@@ -1,0 +1,53 @@
+{
+ "target_word": "dead",
+ "sentences": [
+  "Example sentence: Mr. H. is dead today because he followed this advice.",
+  "Example sentence: When Fred Powell's brother-in-law, Charlie Keane, moved into the dead man's home, the anonymous letter writer took no chances on Charlie taking up where Fred had left off and wasted no time on a first notice:",
+  "Example sentence: For an instant his men hesitated, unable to believe that their lieutenant, the most popular officer in the regiment, was dead.",
+  "Example sentence: For hundreds of years, the evidence available consisted of (1) the captain's fragmentary journal, (2) a highly prejudiced account by one of the survivors, (3) a note found in a dead man's desk on board, and (4) several second-hand reports.",
+  "Example sentence: When authorities convicted him of practicing medicine without a license (he got off with a suspended sentence of three years because of his advanced age of 77), one of his victims was not around to testify: He was dead of cancer.",
+  "Example sentence: The water was there, so much of it that it spread all through the dead orchard.",
+  "Example sentence: For less than a dozen miles from the unplowed land of the dead man lived another settler who had ignored the warnings that his existence might be foreclosed on - a blatant and defiant rustler named Fred Powell.",
+  "Example sentence: Hoijer's Athabascan and my Yokuts share 71 identical meanings (with allowance for several near synonyms like stomach belly, big large, long far, many much, die dead, say speak).",
+  "Example sentence: Jonathan and Ben were not on the lists of the dead or on that of the missing.",
+  "Example sentence: `` God's name, what are you to rob the dead with the fight going on ''!",
+  "Example sentence: We bring back all dead and wounded ''.",
+  "Example sentence: They overran the 7 th Cav's forward machine-gun positions through sheer weight of numbers, over piles of their own dead.",
+  "Example sentence: As I say, I wouldn't want to begin a day like this, but I often wonder what the dead would have done.",
+  "Example sentence: It is, in fact, a relatively mild chastisement of the dead."
+ ],
+ "labels": [
+  "dead.a.01",
+  "dead.a.01",
+  "dead.a.01",
+  "dead.a.01",
+  "dead.a.01",
+  "dead.a.01",
+  "dead.a.01",
+  "dead.n.01",
+  "dead.n.01",
+  "dead.n.01",
+  "dead.n.01",
+  "dead.n.01",
+  "dead.n.01",
+  "dead.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

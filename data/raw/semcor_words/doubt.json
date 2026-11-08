@@ -1,0 +1,47 @@
+{
+ "target_word": "doubt",
+ "sentences": [
+  "Example sentence: In a long commentary which he has inserted in the published text of the first act of the play, he says at one point: `` However, that experience never raised a doubt in his mind as to the reality of the underworld or the existence of Lucifer's many faced lieutenants.",
+  "Example sentence: Oversized monsters are never brought home either alive or preserved, and field measurements are obviously open to doubt because of the universal tendency to exaggerate dimensions.",
+  "Example sentence: Rector had no doubt that Hino would come back from the village bursting with information, ready to impart it with his customary gusto, liberally embellished with his active imagnation.",
+  "Example sentence: Though far from completion, these studies indicated beyond a doubt that savings would result which would be of unprecedented benefit to the railroads concerned, their investors, their customers, their users, and to the public at large.",
+  "Example sentence: By this time there is little doubt but what election plans were complete.",
+  "Example sentence: `` You are the only man aboard who can be in doubt ''.",
+  "Example sentence: I doubt, for example, that, 3 months before the leadership began to talk about what came to be the Marshall plan, any public-opinion expert would have said that the country would have accepted such proposals.",
+  "Example sentence: Even two or three years ago I doubt that she'd have become involved in this unfortunate Johnston affair.",
+  "Example sentence: I doubt that `` fear parties '' and `` group confessionals '' will help very much.",
+  "Example sentence: Also, he thought, I doubt if she could hit the side of a barn with a shotgun.",
+  "Example sentence: I doubt if it is possible to overfeed them.",
+  "Example sentence: All this, though, is simply a prelude, a curtain-raiser, for what ensues, and I doubt whether any Occidental could accurately forecast it."
+ ],
+ "labels": [
+  "doubt.n.01",
+  "doubt.n.01",
+  "doubt.n.01",
+  "doubt.n.01",
+  "doubt.n.01",
+  "doubt.n.01",
+  "doubt.v.01",
+  "doubt.v.01",
+  "doubt.v.01",
+  "doubt.v.01",
+  "doubt.v.01",
+  "doubt.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

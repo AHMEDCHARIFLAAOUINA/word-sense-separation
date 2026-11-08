@@ -1,0 +1,7 @@
+word: picture
+dataset: data/raw/semcor_words/picture.json
+senses:
+  - picture.n.01
+  - painting.n.01
+n_per_sense: 10
+prefix: "Example sentence: "

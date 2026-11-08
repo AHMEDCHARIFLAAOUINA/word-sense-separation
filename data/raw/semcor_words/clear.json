@@ -1,0 +1,35 @@
+{
+ "target_word": "clear",
+ "sentences": [
+  "Example sentence: Throughout the Dark ages, it is clear, the Greek world had been developing slowly but consistently.",
+  "Example sentence: When necessary, we should make it clear that countries which choose to derive marginal advantages from the cold war or to exploit their potential for disrupting the security of the world will not only lose our sympathy but also risk their own prospects for orderly development.",
+  "Example sentence: Wilson stressed the fact that clear as this was, they must have a better church, a more business-like conduct of the church organization, and an effort to get this religious center out of its rut of wild worship into a modern church organization.",
+  "Example sentence: If so, then it is clear that in saying the suffering was bad we are not expressing our feelings only.",
+  "Example sentence: When he turned into the highway that led to the outskirts of the city and then rose toward home, he had to pull over to the curb and wait for a few minutes, sucking in air and squinting and blinking his eyes to clear them of tears.",
+  "Example sentence: Phil had to clear his throat.",
+  "Example sentence: The city sewer maintenance division said efforts will be made Sunday to clear a stoppage in a sewer connection at Eddy and Elm Streets responsible for dumping raw sewage into the Providence River.",
+  "Example sentence: It did something to clear the ground, but it erected no striking new structure; it did not even provide the architect's plan for anything new."
+ ],
+ "labels": [
+  "clear.a.01",
+  "clear.a.01",
+  "clear.a.01",
+  "clear.a.01",
+  "unclutter.v.01",
+  "unclutter.v.01",
+  "unclutter.v.01",
+  "unclutter.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

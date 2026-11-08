@@ -1,0 +1,35 @@
+{
+ "target_word": "press",
+ "sentences": [
+  "Example sentence: The powerful microphone I could press against the wall between my motel unit and that occupied by the man would bring in the sound of any conversation, and I was positively nauseated I was so hungry.",
+  "Example sentence: While assembled lid is still on design head, gently but firmly press it on plaster board.",
+  "Example sentence: His energy was prodigious; sometimes he would be up before dawn, clad as a garbage collector and hurling pails into areaways to exasperate us, and thereafter would hurry to the Bronx Zoo to grimace at the lions and press cigar butts against their paws.",
+  "Example sentence: Be sure to press the additional clay firmly into place without locking in air bubbles.",
+  "Example sentence: American policy should press constantly the view that until these governments demand efficiency and effectiveness of their bureaucracies there is not the slightest hope that they will either modernize of democratize their societies.",
+  "Example sentence: We press him to conform to our comfortable conceptions and not to bruise our satisfactions with his word, and God's.",
+  "Example sentence: There are other countries where, with skillful diplomacy, we may be able by our aid to give encouragement to those groups in government which would like to press forward with economic and social reform measures to promote growth.",
+  "Example sentence: Britain's plans to press Russia for a definite cease-fire timetable was announced in London by Foreign Secretary Lord Home."
+ ],
+ "labels": [
+  "press.v.01",
+  "press.v.01",
+  "press.v.01",
+  "press.v.01",
+  "urge.v.01",
+  "urge.v.01",
+  "urge.v.01",
+  "urge.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

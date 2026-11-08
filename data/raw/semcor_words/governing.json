@@ -1,0 +1,35 @@
+{
+ "target_word": "governing",
+ "sentences": [
+  "Example sentence: Probably the most important of all matters for review are the broad administrative policies governing the purchase, assignment, use, and management of state vehicles.",
+  "Example sentence: The factors governing need and assignment of cars are flexible according to circumstances.",
+  "Example sentence: A number of other nineteenth century developments contributed to the transmutation of the law of nations into international law; that is, from aspects of a universal system of Justice into particular rules governing the relations of sovereign states.",
+  "Example sentence: Besides the presence of goitrogens in the diet, the level of iodine itself in the diet plays a major role in governing the activity of the thyroid gland.",
+  "Example sentence: He is not one to remain more comfortably and unquestioningly within a body of social, cultural, or literary traditions than he was within the traditions - or possibly the regulations - governing his tenure in the post office at Oxford, Mississippi, thirty-five years ago.",
+  "Example sentence: Regulative norms governing subgroups and roles.",
+  "Example sentence: When the automobile was in its embryonic stage, such roads as existed were pretty much open roads with the tacit understanding that horses should not be unduly terrified being about the only rule governing where, when and how fast a car could go.",
+  "Example sentence: Additionally, the proscription of core-Negro marriages for core families, discussed above, would seem to act as a regulative norm governing subgroups and roles."
+ ],
+ "labels": [
+  "regulate.v.02",
+  "regulate.v.02",
+  "regulate.v.02",
+  "regulate.v.02",
+  "govern.v.02",
+  "govern.v.02",
+  "govern.v.02",
+  "govern.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

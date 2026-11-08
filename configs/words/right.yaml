@@ -1,0 +1,7 @@
+word: right
+dataset: data/raw/semcor_words/right.json
+senses:
+  - right.a.01
+  - right.n.01
+n_per_sense: 13
+prefix: "Example sentence: "

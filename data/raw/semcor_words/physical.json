@@ -1,0 +1,41 @@
+{
+ "target_word": "physical",
+ "sentences": [
+  "Example sentence: The various team sports assuredly have their place in every school, and they are important to proper physical development.",
+  "Example sentence: The aspects of physical development that catch the judges ' eyes and which rightfully influence their decisions are symmetry and that hallmark of the true champion - superior definition of the muscles.",
+  "Example sentence: If you have an annual or regular physical examination program, is it worth what it is costing you?",
+  "Example sentence: But he felt no physical discomfort.",
+  "Example sentence: For Plato, `` imitation '' is twice removed from reality, being a poor copy of physical appearance, which in itself is a poor copy of ideal essence.",
+  "Example sentence: The use of this concept does not specify the origin of the radiation, and only if the planet really radiates as a black body, will the apparent black-body temperature correspond to the physical temperature of the emitting material.",
+  "Example sentence: Manthey maintained a valuable collection of physical and chemical apparatus which was at Oersted's disposal during and after his graduation.",
+  "Example sentence: During Oersted's attendance at the university, it was poorly equipped with physical apparatus for experimenting in the sciences.",
+  "Example sentence: In February 1801, Oersted did manage to experiment with physical apparatus and reported experiments made with a voltaic battery of 600 plates of zinc and silver and of later experiments with a battery of 60 plates of zinc and lead.",
+  "Example sentence: Radio observations of Venus and Jupiter have already supplied unexpected experimental data on the physical conditions of these planets."
+ ],
+ "labels": [
+  "physical.a.01",
+  "physical.a.01",
+  "physical.a.01",
+  "physical.a.01",
+  "physical.a.01",
+  "physical.a.02",
+  "physical.a.02",
+  "physical.a.02",
+  "physical.a.02",
+  "physical.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

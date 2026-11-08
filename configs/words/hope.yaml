@@ -1,0 +1,7 @@
+word: hope
+dataset: data/raw/semcor_words/hope.json
+senses:
+  - hope.v.01
+  - hope.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

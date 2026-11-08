@@ -1,0 +1,47 @@
+{
+ "target_word": "radio",
+ "sentences": [
+  "Example sentence: He did not bother with his radio - there would be time for that later - but as he scrambled out on the pavement he saw the filling station and the public telephone booth and knew instantly how he had been summoned.",
+  "Example sentence: It comes to you that probably he did feel that way to let you use him like you did when you couldn't have Gratt Shafer; that he must have since he was there like the radio for you to turn on or snap off when you got tired of him, that other guy.",
+  "Example sentence: The machine quack makes his Rube Goldberg devices out of odds and ends of metals, wires, and radio parts.",
+  "Example sentence: Sipping their coffee, discussing the weather, the day's shopping, Fritzie's commitments at the network (all of which he would cancel), they avoided the radio, the morning TV news show, even the front page of the Santa Luisa Register, resting on the kitchen bar.",
+  "Example sentence: A battery powered radio is essential.",
+  "Example sentence: It always came on, faithfully, just like a radio or juke box, whenever he started to worry too much about something, when the bad things tried to push their way into him.",
+  "Example sentence: When radio came in, it continued the misplaced modifier in its routines as a standard device.",
+  "Example sentence: As soon as the shelter is completed a radio reception check must be made.",
+  "Example sentence: Among the most likely producers of detectable radio line spectra are the light diatomic hydrides OH and CH; somewhat less likely sources are the heavier hydrides SH, SiH, and ScH.",
+  "Example sentence: The need for monitoring became greater when radio was adopted for military signaling.",
+  "Example sentence: We know that the number of radio and television impulses, sound waves, ultra-violet rays, etc., that may occupy the very same space, each solitary upon its own frequency, is infinite.",
+  "Example sentence: Four cars were parked at the curb, and two of them were police radio cars."
+ ],
+ "labels": [
+  "radio_receiver.n.01",
+  "radio_receiver.n.01",
+  "radio_receiver.n.01",
+  "radio_receiver.n.01",
+  "radio_receiver.n.01",
+  "radio_receiver.n.01",
+  "radio.n.01",
+  "radio.n.01",
+  "radio.n.01",
+  "radio.n.01",
+  "radio.n.01",
+  "radio.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

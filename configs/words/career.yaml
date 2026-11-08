@@ -1,0 +1,7 @@
+word: career
+dataset: data/raw/semcor_words/career.json
+senses:
+  - career.n.01
+  - career.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

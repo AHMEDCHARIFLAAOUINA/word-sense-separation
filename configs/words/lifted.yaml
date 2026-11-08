@@ -1,0 +1,7 @@
+word: lifted
+dataset: data/raw/semcor_words/lifted.json
+senses:
+  - raise.v.02
+  - lift.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: apart
+dataset: data/raw/semcor_words/apart.json
+senses:
+  - apart.r.01
+  - apart.r.02
+n_per_sense: 5
+prefix: "Example sentence: "

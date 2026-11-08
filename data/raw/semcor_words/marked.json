@@ -1,0 +1,53 @@
+{
+ "target_word": "marked",
+ "sentences": [
+  "Example sentence: The Newport-based destroyer picket escort Kretchmer has arrived back at Newport after three months ' patrol in North Atlantic waters marked by mercy jobs afloat and ashore.",
+  "Example sentence: It was marked by controversy, anonymous midnight phone calls and veiled threats of violence.",
+  "Example sentence: It flags such possible breakdowns of communication as rehearsed dialogue, the note of disapproval, ambivalence or ambiguity, annoyance, resentment, and the disinclination to speak at all - this last often marked by a fade-in beginning of sentences.",
+  "Example sentence: The modern world has been marked by progressive disaffection with claims to divine sanction for the state, whatever its political form.",
+  "Example sentence: He assumed his academic career with the same intensity and thoroughness that had marked every step in his rise from boyhood.",
+  "Example sentence: The presence of genuine mimesis in art is marked by the persistence with which the work demands attention and compels valuation even though it is but vaguely understood.",
+  "Example sentence: It must be marked by a patience and persistence which have not always been its trademark.",
+  "Example sentence: Then it is marked on the inside where it comes in contact with the transom, frames, keelson and all the battens.",
+  "Example sentence: Dictionary forms found to match forms in the text list are marked.",
+  "Example sentence: The first one or two roof boards (marked `` E '' in fig. 6) are slipped into place across the roof beams, from outside the shelter.",
+  "Example sentence: We talked after I hailed his Jeep marked with the U. N. flag.",
+  "Example sentence: The next step is to remove it and spread glue where it has been marked at the contact points.",
+  "Example sentence: If each text form is marked when matched with a dictionary form, the text forms not contained in the dictionary can be identified when all dictionary forms have been read.",
+  "Example sentence: The unstained strips were then marked, using the stained ones as a guide, and cut transversely so as to separate the various protein bands."
+ ],
+ "labels": [
+  "distinguish.v.03",
+  "distinguish.v.03",
+  "distinguish.v.03",
+  "distinguish.v.03",
+  "distinguish.v.03",
+  "distinguish.v.03",
+  "distinguish.v.03",
+  "tag.v.01",
+  "tag.v.01",
+  "tag.v.01",
+  "tag.v.01",
+  "tag.v.01",
+  "tag.v.01",
+  "tag.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

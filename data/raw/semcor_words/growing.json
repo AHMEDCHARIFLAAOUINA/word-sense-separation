@@ -1,0 +1,35 @@
+{
+ "target_word": "growing",
+ "sentences": [
+  "Example sentence: There is a growing conviction among pastors and Church leaders that all those who come into the fellowship of the Church need preparatory training, including those coming by transfer of membership.",
+  "Example sentence: The use of bulk handling is continuously growing.",
+  "Example sentence: For that legend was growing explosively, Rumor was insisting he received a price of $600 a man.",
+  "Example sentence: Traffic on nearly all the turnpikes has been growing.",
+  "Example sentence: Such efforts almost always find themselves compelled to ask whether Adam was created capable of growing old and then older and then still older, in short, whether Adam's life was intended to be part of the process of time.",
+  "Example sentence: In the other hemisphere it is growing colder and nymphs, those who stayed alive through the summer, are being brought into nests for quickening and more growing ''.",
+  "Example sentence: It is for growing closer.",
+  "Example sentence: In and in and in they poured through the gates of Majdanek, but they never left, and Majdanek was not growing any larger."
+ ],
+ "labels": [
+  "grow.v.02",
+  "grow.v.02",
+  "grow.v.02",
+  "grow.v.02",
+  "turn.v.07",
+  "turn.v.07",
+  "turn.v.07",
+  "turn.v.07"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

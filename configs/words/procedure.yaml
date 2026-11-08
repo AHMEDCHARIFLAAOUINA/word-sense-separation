@@ -1,0 +1,7 @@
+word: procedure
+dataset: data/raw/semcor_words/procedure.json
+senses:
+  - procedure.n.01
+  - operation.n.07
+n_per_sense: 8
+prefix: "Example sentence: "

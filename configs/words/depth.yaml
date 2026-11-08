@@ -1,0 +1,7 @@
+word: depth
+dataset: data/raw/semcor_words/depth.json
+senses:
+  - depth.n.01
+  - depth.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

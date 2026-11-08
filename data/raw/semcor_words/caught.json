@@ -1,0 +1,41 @@
+{
+ "target_word": "caught",
+ "sentences": [
+  "Example sentence: He had caught her coming out of the shack.",
+  "Example sentence: Now Welch had a pet theory that everyone is guilty of breaking more laws than he ever gets caught at.",
+  "Example sentence: In any case, he had no intention of being caught asleep, so he carried his revolver in its holster on his hip and he took his Winchester with him and leaned it against the fence.",
+  "Example sentence: District Attorney M. W. Mills warned that he would vigorously prosecute persons caught committing these crimes or carrying arms - he just didn't catch anyone.",
+  "Example sentence: They caught Trig stealing liquor from the officers ' mess, and he got a couple of girls in trouble.",
+  "Example sentence: He does not seem to have caught the subtleties of the man.",
+  "Example sentence: Helva `` looked '' up and caught a fascinating panorama of regular, dirty craters on a flaky pink surface.",
+  "Example sentence: He gave Abel a quick glance and moved closer to the wheel, hugging it to him, and Abel caught this briefest of allusions to guilt.",
+  "Example sentence: She felt mindless, walking, and almost easy until the church spire told her she was near the cemetery, and she caught herself wondering what she would say to Doaty.",
+  "Example sentence: He ran on his plump sticks of legs, freezing now and again into the sudden startled attitudes which the camera had caught and held on the paling photographs, all carefully placed and glued and labeled, resting in the fat plush album in the bottom drawer of the escritoire."
+ ],
+ "labels": [
+  "catch.v.01",
+  "catch.v.01",
+  "catch.v.01",
+  "catch.v.01",
+  "catch.v.01",
+  "catch.v.02",
+  "catch.v.02",
+  "catch.v.02",
+  "catch.v.02",
+  "catch.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "dealing",
+ "sentences": [
+  "Example sentence: This French film, set in Italy, is a summertime splurge in shock and terror all shot in lovely sunny scenery - so breath-taking that at times you almost forget the horrors the movie is dealing with.",
+  "Example sentence: In a later chapter dealing with the suburban school, I shall discuss the importance of arranging a program for the academically talented and highly gifted youth in any high school where he is found.",
+  "Example sentence: The Christian Faith History of the Church Duties of Church Membership The Local Church and Its Program Following each instruction period a piece of literature dealing with the topic should be handed each one for further reading during the week.",
+  "Example sentence: Faulkner's low-class characters had but few counterparts in earlier Southern novels dealing with plantation life.",
+  "Example sentence: An earlier but still influential school of painting, surrealism, had suggested the way of dealing with the dream experience, that event in which seemingly incongruous objects are linked together through the curious associations of the subconscious.",
+  "Example sentence: Our technical assistance to these countries should place special emphasis on inducing the central governments to assume the role of advisor and guide which at an earlier stage foreign experts assumed in dealing with the central governments.",
+  "Example sentence: How effective have Kennedy administration first foreign policy decisions been in dealing with Communist aggression?",
+  "Example sentence: At one time, while still under the impression that he was dealing with a Cuban plot, the President talked about invoking a total embargo on trade with Cuba.",
+  "Example sentence: It is not a tool for dealing with these crises after they have erupted.",
+  "Example sentence: One definition of paternalism is `` The principle or practice, on the part of a government, of managing the affairs of a country in the manner of a father dealing with his children ''."
+ ],
+ "labels": [
+  "cover.v.05",
+  "cover.v.05",
+  "cover.v.05",
+  "cover.v.05",
+  "cover.v.05",
+  "deal.v.03",
+  "deal.v.03",
+  "deal.v.03",
+  "deal.v.03",
+  "deal.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

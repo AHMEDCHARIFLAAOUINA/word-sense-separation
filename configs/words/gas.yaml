@@ -1,0 +1,7 @@
+word: gas
+dataset: data/raw/semcor_words/gas.json
+senses:
+  - gas.n.02
+  - gas.n.01
+n_per_sense: 11
+prefix: "Example sentence: "

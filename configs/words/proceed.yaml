@@ -1,0 +1,7 @@
+word: proceed
+dataset: data/raw/semcor_words/proceed.json
+senses:
+  - continue.v.02
+  - proceed.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

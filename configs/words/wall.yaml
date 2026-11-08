@@ -1,0 +1,7 @@
+word: wall
+dataset: data/raw/semcor_words/wall.json
+senses:
+  - wall.n.01
+  - wall.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

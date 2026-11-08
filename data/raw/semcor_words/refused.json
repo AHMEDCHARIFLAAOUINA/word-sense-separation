@@ -1,0 +1,53 @@
+{
+ "target_word": "refused",
+ "sentences": [
+  "Example sentence: Finally, he was cooking, washing dishes, bathing the children, and even ironing - and still his wife refused to have relations as often as he desired them.",
+  "Example sentence: The lean and leathery Oklahoma amateur, who has been playing topnotch tournament golf for many years, refused to let the Masters jitters overtake him and closed the tournament with his second straight 69.",
+  "Example sentence: The trial judge decided that the administrative procedures of the Act were fully complied with and refused to require the production of such documents.",
+  "Example sentence: President Kennedy, already two quiet demands down, still refused Thursday to be drawn into delivering a public ultimatum to Moscow.",
+  "Example sentence: He has frequently refused to move from white lunch counters, refused to obey local laws which he considers unjust, while in other cases he has appealed to federal laws.",
+  "Example sentence: There was only one possible answer, but Jack's horrified mind refused to believe it until he had fed the radar plots of the skiff's course into the computer.",
+  "Example sentence: Many of his fellow officers refused to speak to him.",
+  "Example sentence: So John had refused to agree to his appointment as a preacher, and now Caroli sought revenge.",
+  "Example sentence: When they were refused entrance to his brother's house nearby, they smashed down the door, broke the window, and threw lighted clothes wet with kerosene into the room.",
+  "Example sentence: You should make any request for an extension early so that if it is refused, your return may still be on time.",
+  "Example sentence: `` I refused '', Duclos said.",
+  "Example sentence: The jail authorities - attaching no particular significance to the episode - offered Barco whisky to revive him; but the old fellow, a lifelong teetotaler, refused it, and no more was thought of the matter.",
+  "Example sentence: To have refused would have been political suicide.",
+  "Example sentence: Mercer is supposed to have refused it with, `` Anyone who wears a square monocle must be affected ''!"
+ ],
+ "labels": [
+  "refuse.v.01",
+  "refuse.v.01",
+  "refuse.v.01",
+  "refuse.v.01",
+  "refuse.v.01",
+  "refuse.v.01",
+  "refuse.v.01",
+  "refuse.v.02",
+  "refuse.v.02",
+  "refuse.v.02",
+  "refuse.v.02",
+  "refuse.v.02",
+  "refuse.v.02",
+  "refuse.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

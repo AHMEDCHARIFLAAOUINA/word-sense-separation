@@ -1,0 +1,7 @@
+word: sales
+dataset: data/raw/semcor_words/sales.json
+senses:
+  - sale.n.02
+  - sale.n.01
+n_per_sense: 11
+prefix: "Example sentence: "

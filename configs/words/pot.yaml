@@ -1,0 +1,7 @@
+word: pot
+dataset: data/raw/semcor_words/pot.json
+senses:
+  - pot.n.01
+  - toilet.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "argued",
+ "sentences": [
+  "Example sentence: Of course, it can be argued that an ability to write English correctly and with some degree of elegance is a marketable skill.",
+  "Example sentence: If only state funds were used to pay for the vocational education, it could be argued that the state should not have to bear the cost of vocational training which would benefit employers in other states.",
+  "Example sentence: Daniel M. Friedman argued the cause for the United States.",
+  "Example sentence: When all else fails, it is argued that open sessions slow down governmental operations.",
+  "Example sentence: Haydn C. Covington argued the cause and filed a brief for petitioner.",
+  "Example sentence: Attorney Dwight L. Schwab, in behalf of defendant Philip Weinstein, argued there is no evidence linking Weinstein to the conspiracy, but Judge Powell declared this is a matter for the jury to decide.",
+  "Example sentence: `` At home, yes '', they argued.",
+  "Example sentence: (Gastronomes have long argued about which came first, the Palace's or Antoine's.",
+  "Example sentence: The curve on the card the computer spat back at him couldn't be argued with, however.",
+  "Example sentence: Shivering, people talked and argued; all this government spending would have to be paid for somehow, but on the other hand desperate circumstances called for desperate remedies and something had to be done."
+ ],
+ "labels": [
+  "argue.v.01",
+  "argue.v.01",
+  "argue.v.01",
+  "argue.v.01",
+  "argue.v.01",
+  "argue.v.02",
+  "argue.v.02",
+  "argue.v.02",
+  "argue.v.02",
+  "argue.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

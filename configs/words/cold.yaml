@@ -1,0 +1,7 @@
+word: cold
+dataset: data/raw/semcor_words/cold.json
+senses:
+  - cold.a.01
+  - cold.a.02
+n_per_sense: 9
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: girl
+dataset: data/raw/semcor_words/girl.json
+senses:
+  - female_child.n.01
+  - girl.n.01
+n_per_sense: 9
+prefix: "Example sentence: "

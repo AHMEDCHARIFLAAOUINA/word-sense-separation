@@ -1,0 +1,41 @@
+{
+ "target_word": "quietly",
+ "sentences": [
+  "Example sentence: Virginia and Rachel talked to each other quietly now, as allies who are political rather than natural might in a war atmosphere.",
+  "Example sentence: `` It was a terrible loss to me '', said Kate quietly, feeling the pain twist again at the mention, knowing now that Juanita must have written to him at Grafton.",
+  "Example sentence: Nothing at all '', he said quietly.",
+  "Example sentence: Inheriting a more mature Mantle, who now has seen the sights on and off Broadway, Ralph Houk quietly bestowed, no pun intended, the mantle of authority on Mickey.",
+  "Example sentence: John was quietly insistent.",
+  "Example sentence: Agnese had been sitting quietly, listening with the serenity of the unaware.",
+  "Example sentence: Mike sat quietly watching the manager come nearer.",
+  "Example sentence: She sat quietly, staring at me from the wide eyes.",
+  "Example sentence: `` You shouldn't be riding up here after dark, Judith '', he said quietly.",
+  "Example sentence: The other players were undressing quietly."
+ ],
+ "labels": [
+  "softly.r.01",
+  "softly.r.01",
+  "softly.r.01",
+  "softly.r.01",
+  "softly.r.01",
+  "quietly.r.02",
+  "quietly.r.02",
+  "quietly.r.02",
+  "quietly.r.02",
+  "quietly.r.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

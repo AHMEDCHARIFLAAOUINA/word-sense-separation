@@ -1,0 +1,7 @@
+word: marked
+dataset: data/raw/semcor_words/marked.json
+senses:
+  - distinguish.v.03
+  - tag.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

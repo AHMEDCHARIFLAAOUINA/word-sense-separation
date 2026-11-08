@@ -1,0 +1,7 @@
+word: asked
+dataset: data/raw/semcor_words/asked.json
+senses:
+  - ask.v.01
+  - ask.v.02
+n_per_sense: 14
+prefix: "Example sentence: "

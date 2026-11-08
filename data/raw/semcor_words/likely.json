@@ -1,0 +1,53 @@
+{
+ "target_word": "likely",
+ "sentences": [
+  "Example sentence: If anything may be predicted in the quicksilver world of retailing, it seems likely that the suburban branch will come to dominate children's clothing (taking the kid downtown is too much of a production), household gadgetry and the discount business in big-ticket items.",
+  "Example sentence: And acculturation into the world at large is likely to occur for the Brooklyn College student after college rather than during the four school years.",
+  "Example sentence: We repeat, that the test of a violation of 7 is whether, at the time of suit, there is a reasonable probability that the acquisition is likely to result in the condemned restraints.",
+  "Example sentence: Only the Federal government is likely to be able to take a long-run and nation-wide view and to pay for training to meet national skilled manpower needs.",
+  "Example sentence: The Presto ma non assai of the first trio of the scherzo is taken literally and may shock you, as the real Allegro con spirito of the finale is likely to bring you to your feet.",
+  "Example sentence: Other experts say, however, that if sexual domination by one or the other partner exists for longer than a brief period, it is likely to shake the marriage.",
+  "Example sentence: Would not the emotional catharsis eventually brought on by this awfulness have a calming, if not exhausting, effect likely to improve his client's chances?",
+  "Example sentence: The local decorator who rushes in for a few hours of teaching may but more likely may not have these qualifications.",
+  "Example sentence: She'd found it by luck most likely but she hadn't said anything and we didn't know how long ago it'd been or how many other ones she'd found, saying nothing.",
+  "Example sentence: `` Go back to sleep most likely ''.",
+  "Example sentence: Very likely it will also include a recognition that the work we are reading reflects or `` belongs to '' some way of thought labelled as a `` school '' or an `` - ism '', i. e. a complex or `` syndrome '' of ideas occurring together with sufficient prominence to warrant identification.",
+  "Example sentence: Vandiver likely will mention the $100 million highway bond issue approved earlier in the session as his first priority item.",
+  "Example sentence: The Ivy League enjoys no easy dominion here, and the boys are as likely to dress in rather foppish Continental fashion, or even in nondescript working class manner, as they are in the restrained, button-down Ivy way.",
+  "Example sentence: An agent would likely be selected which would possess sufficient viability and virulence stability to meet realistic minimal logistic requirements."
+ ],
+ "labels": [
+  "likely.a.01",
+  "likely.a.01",
+  "likely.a.01",
+  "likely.a.01",
+  "likely.a.01",
+  "likely.a.01",
+  "likely.a.01",
+  "probably.r.01",
+  "probably.r.01",
+  "probably.r.01",
+  "probably.r.01",
+  "probably.r.01",
+  "probably.r.01",
+  "probably.r.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

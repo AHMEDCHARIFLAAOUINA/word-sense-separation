@@ -1,0 +1,7 @@
+word: variety
+dataset: data/raw/semcor_words/variety.json
+senses:
+  - assortment.n.01
+  - diverseness.n.01
+n_per_sense: 7
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "consideration",
+ "sentences": [
+  "Example sentence: If companies will take the time to give objective consideration to their major problems and to the questions they provoke, then a long constructive step will have been taken toward more effective marketing in next decade.",
+  "Example sentence: This, of course, does not eliminate from consideration for this purpose agents that are associated naturally with epidemic disease.",
+  "Example sentence: This means that such factors as the health of the parents, particularly the mother, their ability to provide their children with the necessities of life, the degree of population density of a country and the shortage of housing facilities may legitimately be taken into consideration in determining the number of offspring.",
+  "Example sentence: Telefunken has accorded him beautiful sound, and this bargain-priced disc (it sells for $2.98) is worthy of consideration.",
+  "Example sentence: Merely having a mental image of some sort is not the all-important consideration.",
+  "Example sentence: However, there is a more profound consideration to this proposed merger than profit and loss.",
+  "Example sentence: Lighting is an important consideration.",
+  "Example sentence: This is an important consideration."
+ ],
+ "labels": [
+  "consideration.n.01",
+  "consideration.n.01",
+  "consideration.n.01",
+  "consideration.n.01",
+  "circumstance.n.03",
+  "circumstance.n.03",
+  "circumstance.n.03",
+  "circumstance.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

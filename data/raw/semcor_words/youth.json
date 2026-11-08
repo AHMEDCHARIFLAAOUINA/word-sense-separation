@@ -1,0 +1,41 @@
+{
+ "target_word": "youth",
+ "sentences": [
+  "Example sentence: But youth asked nothing of its parents - not a touch of the hand or a kiss given in passing.",
+  "Example sentence: No effort is made in the same studies to present information on regional or national demand trends in these skills or to consider whether regional or national demands for other skills might provide much better opportunities for the youth to be trained.",
+  "Example sentence: Employers prefer to hire youth with such training rather than those without, and most graduates of vocational training go to work in jobs related to their training.",
+  "Example sentence: In a later chapter dealing with the suburban school, I shall discuss the importance of arranging a program for the academically talented and highly gifted youth in any high school where he is found.",
+  "Example sentence: Adult education courses, work-study programs of various sorts - these are all evidence of a continuing interest of the schools in furthering educational opportunities for out-of-school youth.",
+  "Example sentence: In B. M. Spinley's portrayal of the underprivileged and undereducated youth of London, a salient finding was the inability to postpone gratification, a need to satisfy impulses immediately without the pleasure of anticipation or of savoring the experience.",
+  "Example sentence: The grocery the youth worked for soon tired of his depressing effect on customers, most of whom were sufficiently neurotic without the threat of incubi, and let him go.",
+  "Example sentence: Wednesday nights after youth fellowship.",
+  "Example sentence: Papa pointed a scornful finger at the splashing youth: `` Idle recreation ''!",
+  "Example sentence: Practically all of these practical skills are of such a nature that a degree of mastery can be obtained in high school sufficient to enable the youth to get a job at once on the basis of the skill."
+ ],
+ "labels": [
+  "young.n.09",
+  "young.n.09",
+  "young.n.09",
+  "young.n.09",
+  "young.n.09",
+  "young_person.n.01",
+  "young_person.n.01",
+  "young_person.n.01",
+  "young_person.n.01",
+  "young_person.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,47 @@
+{
+ "target_word": "up",
+ "sentences": [
+  "Example sentence: Lolotte looked up and stiffened.",
+  "Example sentence: Hoag descended the stone steps to the street and looked up at the building.",
+  "Example sentence: Since she could not act, one part suited her as well as any other, and so she was the first person to offer Mr. Lincoln a glass of water, holding it up to the box, high above her head, to Miss Harris, who had asked for it.",
+  "Example sentence: Killpath pulled one thin leg up, clamping his arms around the shinbone to press his knee into an incredibly scrawny gut.",
+  "Example sentence: George didn't look up at all.",
+  "Example sentence: The slow tapping of a cane on the stone steps coming up to the tower interrupted his reverie.",
+  "Example sentence: Telephone wires from Louis Dufresne's house in East Manchester to the Dufresne lumber job near Bourn Pond were up about 1895.",
+  "Example sentence: `` Hold his head up.",
+  "Example sentence: `` Hold his head up ''.",
+  "Example sentence: Pa had his head up, glaring, his teeth gnawing at the place where he'd grown a mustache once.",
+  "Example sentence: Greg had the stick forward and the throttle up before he heard the two `` Rogers ''.",
+  "Example sentence: Some distribution costs are kept up by competitive pressure, some by the fact that the customers have come to expect certain niceties and flourishes."
+ ],
+ "labels": [
+  "up.r.01",
+  "up.r.01",
+  "up.r.01",
+  "up.r.01",
+  "up.r.01",
+  "up.r.01",
+  "up.a.01",
+  "up.a.01",
+  "up.a.01",
+  "up.a.01",
+  "up.a.01",
+  "up.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

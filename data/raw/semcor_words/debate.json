@@ -1,0 +1,41 @@
+{
+ "target_word": "debate",
+ "sentences": [
+  "Example sentence: Will argument and debate decide its truth or falsity?",
+  "Example sentence: Some who have written on Utopia have treated it as `` a learned diversion of a learned world '', `` a phantasy with which More amused himself '', `` a holiday work, a spontaneous overflow of intellectual high spirits, a revel of debate, paradox, comedy and invention ''.",
+  "Example sentence: We must not forget, to be sure, that free discussion and debate have produced beneficial results.",
+  "Example sentence: Ideas need to be tested, and not merely by argument and debate.",
+  "Example sentence: Our presidential campaigns provide much debate and argument.",
+  "Example sentence: Dallas may get to hear a debate on horse race parimutuels soon between Reps. V. E. Red Berry and Joe Ratcliff.",
+  "Example sentence: You know the law: if you lose the debate after accepting a challenge, you will be banished ''!",
+  "Example sentence: There was no debate as the Senate passed the bill on to the House.",
+  "Example sentence: Two Anabaptists, Caroli and Benoit, are to challenge you and William to a debate before the Council.",
+  "Example sentence: `` Monsieur Favre indicated that if I would co-operate, after you and William are banished, following the debate, I will be given a place of influence ''."
+ ],
+ "labels": [
+  "argument.n.03",
+  "argument.n.03",
+  "argument.n.03",
+  "argument.n.03",
+  "argument.n.03",
+  "debate.n.02",
+  "debate.n.02",
+  "debate.n.02",
+  "debate.n.02",
+  "debate.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

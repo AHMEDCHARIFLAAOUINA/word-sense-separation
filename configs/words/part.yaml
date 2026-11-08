@@ -1,0 +1,7 @@
+word: part
+dataset: data/raw/semcor_words/part.json
+senses:
+  - part.n.01
+  - part.n.03
+n_per_sense: 12
+prefix: "Example sentence: "

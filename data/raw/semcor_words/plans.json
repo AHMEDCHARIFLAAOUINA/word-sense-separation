@@ -1,0 +1,41 @@
+{
+ "target_word": "plans",
+ "sentences": [
+  "Example sentence: The Highway Department source told The Constitution, however, that Vandiver has not been consulted yet about the plans to issue the new rural roads bonds.",
+  "Example sentence: Suppose at this very moment her father was calling my house in an effort to cancel the plans?",
+  "Example sentence: A week later the Daily Journal had discovered the initial plans of some Providence citizens to hold a meeting honoring John Brown on the day of his execution.",
+  "Example sentence: Counsel for du Pont indicated a preference for the submission of detailed plans by both sides at an early date.",
+  "Example sentence: For when he began to talk and dream all at the same time, making his plans as he went, she had begun dreaming too.",
+  "Example sentence: NBC plans a new series of three long programs exploring America's scientific plans titled `` Threshold '', to start in the fall.",
+  "Example sentence: A family of five plans to go together either to the beach or to the mountains, and a coin is tossed to decide.",
+  "Example sentence: If the city council fails to consider appointment of a full-time CD director, Mr. Hawksley said, then he plans to call a meeting early in September so that a civil defense organization will be developed locally.",
+  "Example sentence: I hope the man who plans to sit on his hands until the emergency comes will have a change of heart, will get busy and be the first member of our `` plus-one '' shelter club.",
+  "Example sentence: He can offer nine Turkish girls, plans to import at least 15 more."
+ ],
+ "labels": [
+  "plan.n.01",
+  "plan.n.01",
+  "plan.n.01",
+  "plan.n.01",
+  "plan.n.01",
+  "plan.v.01",
+  "plan.v.01",
+  "plan.v.01",
+  "plan.v.01",
+  "plan.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

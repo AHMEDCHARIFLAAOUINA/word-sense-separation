@@ -1,0 +1,7 @@
+word: suffering
+dataset: data/raw/semcor_words/suffering.json
+senses:
+  - agony.n.02
+  - suffering.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

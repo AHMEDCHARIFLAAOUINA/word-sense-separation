@@ -1,0 +1,7 @@
+word: door
+dataset: data/raw/semcor_words/door.json
+senses:
+  - door.n.01
+  - doorway.n.01
+n_per_sense: 19
+prefix: "Example sentence: "

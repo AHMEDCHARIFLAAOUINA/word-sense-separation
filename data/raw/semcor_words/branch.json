@@ -1,0 +1,41 @@
+{
+ "target_word": "branch",
+ "sentences": [
+  "Example sentence: And if the affection for the suburban branch reflects a desire to shop with `` nice people '', rather than with the indiscriminate urban mass which supports the downtown department store, the central location may be in serious trouble.",
+  "Example sentence: These stores are still there, but the volume of the `` downtown store '' has been on a relative decline, while in many cities the suburban `` branch '' sells more and more dry goods.",
+  "Example sentence: No suburban shopping-center branch - not even Hudson's vast Northland outside Detroit - does anything like the unit volume of business or carries anything like the variety of merchandise to be found in the home store.",
+  "Example sentence: Computers are being used to keep branch inventories at more workable levels.",
+  "Example sentence: The suburban branch is thereby credited with a sale which would have been made even if its glass doors had never opened.",
+  "Example sentence: If a branch extended out too far, each man held it back for the next, and if they met a low overhang, each warned the other.",
+  "Example sentence: It speared up into the air, then sinking back, the up jutting branch turned slowly.",
+  "Example sentence: Try pegging down each separate branch to the earth, using a bobby pin to hold it there.",
+  "Example sentence: A second and also good practice is to shear off the tops, leaving an inch high stub with just a leaf or two on each branch.",
+  "Example sentence: It raced closer and they could see a woman with white hair, sitting astride an upright branch."
+ ],
+ "labels": [
+  "branch.n.01",
+  "branch.n.01",
+  "branch.n.01",
+  "branch.n.01",
+  "branch.n.01",
+  "branch.n.02",
+  "branch.n.02",
+  "branch.n.02",
+  "branch.n.02",
+  "branch.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

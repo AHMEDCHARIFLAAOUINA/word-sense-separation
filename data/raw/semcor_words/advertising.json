@@ -1,0 +1,47 @@
+{
+ "target_word": "advertising",
+ "sentences": [
+  "Example sentence: The Vice President said, `` If you hear of any names that would fix me cheap in return for advertising they decorated the Vice President's home, let me know.",
+  "Example sentence: Average consumer is becoming more sophisticated regarding product and advertising claims, partly because of widespread criticism of such assertions.",
+  "Example sentence: That was the new advertising angle - something about a Lloyd's of London policy to insure the secrecy of the secret ingredient.",
+  "Example sentence: I mean: Is advertising honest?",
+  "Example sentence: But it did teach Roy the basic techniques of commercial art, and later, for twelve years, he and his sister Nina conducted an advertising art studio in Philadelphia.",
+  "Example sentence: Apart from misplaced modifiers and headlinese, journalism contributes a wide variety of comic ambiguities in both editorial and advertising matter.",
+  "Example sentence: The change may require different products, pricing, packaging, warehousing, salesmanship, advertising and executive attention - practically every link in the marketing network may have to be adjusted.",
+  "Example sentence: From the manufacturer's point of view, the increasing cost of advertising and promotion is a very real problem to be faced in the sixties.",
+  "Example sentence: This boosted local telegraph business and Manchester basked in all the free advertising.",
+  "Example sentence: Have you evaluated the proper place of advertising and all phases of promotion in your total marketing program - from the standpoint of effort, money, and effectiveness?",
+  "Example sentence: How much fundamental thinking and research has your company done on its advertising program?",
+  "Example sentence: Display merchandising, backed by pre selling through advertising and promotion, will continue to make strides in the sixties."
+ ],
+ "labels": [
+  "ad.n.01",
+  "ad.n.01",
+  "ad.n.01",
+  "ad.n.01",
+  "ad.n.01",
+  "ad.n.01",
+  "advertising.n.02",
+  "advertising.n.02",
+  "advertising.n.02",
+  "advertising.n.02",
+  "advertising.n.02",
+  "advertising.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,47 @@
+{
+ "target_word": "closed",
+ "sentences": [
+  "Example sentence: Martha picked up the hem of her gown and with eyes closed she slowly began to dance a stately minuet around the ballroom.",
+  "Example sentence: His fear lest in this closed hall he should suddenly itch to relieve himself.",
+  "Example sentence: He says nothing that compresses experience within a closed pattern.",
+  "Example sentence: But he recalled that Rameau had once had a private performance of his opera Armide, behind closed doors, just for himself alone.",
+  "Example sentence: He didn't, but it was not really a question, and so he left the room, walked down the hall to the front of the apartment, hesitated, and then knocked lightly on the closed door of the study.",
+  "Example sentence: With the metal shutters closed, the dining room was so dark that it seemed still night in there.",
+  "Example sentence: First, T may not have a single characteristic value; this is really a deficiency in the scalar field, namely, that it is not algebraically closed.",
+  "Example sentence: For vector spaces over non algebraically closed fields, we still need to find some substitute for characteristic values and vectors.",
+  "Example sentence: From these results, one sees that the study of linear operators on vector spaces over an algebraically closed field is essentially reduced to the study of nilpotent operators.",
+  "Example sentence: This theorem is similar to the theorem of Kakutani that there exists a circumscribing cube around any closed, bounded convex set in **f.",
+  "Example sentence: Consider a simple, closed, plane curve C which is a real analytic image of the unit circle, and which is given by **f.",
+  "Example sentence: Let V be a finite dimensional vector space over an algebraically closed field F, e.g., the field of complex numbers."
+ ],
+ "labels": [
+  "closed.a.01",
+  "closed.a.01",
+  "closed.a.01",
+  "closed.a.01",
+  "closed.a.01",
+  "closed.a.01",
+  "closed.a.02",
+  "closed.a.02",
+  "closed.a.02",
+  "closed.a.02",
+  "closed.a.02",
+  "closed.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

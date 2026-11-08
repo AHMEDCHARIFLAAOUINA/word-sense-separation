@@ -1,0 +1,7 @@
+word: saved
+dataset: data/raw/semcor_words/saved.json
+senses:
+  - salvage.v.01
+  - save.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "wild",
+ "sentences": [
+  "Example sentence: Perhaps the lesson we should take from these pages is that the welfare state in England still allows wild scope for all kinds of rugged eccentrics.",
+  "Example sentence: The patrol snaked around in back of the cave, approached it from above and dropped in suddenly with wild howls.",
+  "Example sentence: It was often re-enacted in less wild form at the Wednesday night prayer meeting.",
+  "Example sentence: At the slope's base coils of concertina stretched out of eye range like a wild tangle of children's hoops, stopped simultaneously, weirdly poised as if awaiting the magic of the child's touch to start them all rolling again.",
+  "Example sentence: She concluded by asking for a brief interview - `` to settle with you where '' - and she threw in a tribute to his `` gentle manners '' and `` the wild originality of your countenance ''.",
+  "Example sentence: But let us return, after this gruesome interlude, to our willow catkins in the spring; there are other wild bees that command our attention.",
+  "Example sentence: The blooms of Ribes and of the willow and sloe are the places where large numbers of our early insects will assemble: honeybees, bumblebees, and other wild bees, and also various kinds of flies.",
+  "Example sentence: He conjures herds of deer, and wild birds crowding the air.",
+  "Example sentence: It was the call of the wild all right.",
+  "Example sentence: The anaconda proves to be the fly in the ointment, but the reason for this is not clear; the relatively wild conditions still found in tropical South America might be responsible."
+ ],
+ "labels": [
+  "wild.a.01",
+  "wild.a.01",
+  "wild.a.01",
+  "wild.a.01",
+  "wild.a.01",
+  "wild.a.02",
+  "wild.a.02",
+  "wild.a.02",
+  "wild.a.02",
+  "wild.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: residential
+dataset: data/raw/semcor_words/residential.json
+senses:
+  - residential.a.01
+  - residential.a.02
+n_per_sense: 4
+prefix: "Example sentence: "

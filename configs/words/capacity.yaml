@@ -1,0 +1,7 @@
+word: capacity
+dataset: data/raw/semcor_words/capacity.json
+senses:
+  - capacity.n.01
+  - capability.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

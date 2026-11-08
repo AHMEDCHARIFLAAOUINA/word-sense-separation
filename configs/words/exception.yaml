@@ -1,0 +1,7 @@
+word: exception
+dataset: data/raw/semcor_words/exception.json
+senses:
+  - exception.n.01
+  - exception.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

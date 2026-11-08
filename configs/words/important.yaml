@@ -1,0 +1,7 @@
+word: important
+dataset: data/raw/semcor_words/important.json
+senses:
+  - important.a.01
+  - significant.a.01
+n_per_sense: 4
+prefix: "Example sentence: "

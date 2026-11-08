@@ -1,0 +1,7 @@
+word: direction
+dataset: data/raw/semcor_words/direction.json
+senses:
+  - direction.n.02
+  - direction.n.01
+n_per_sense: 9
+prefix: "Example sentence: "

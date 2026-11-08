@@ -1,0 +1,35 @@
+{
+ "target_word": "priest",
+ "sentences": [
+  "Example sentence: There was so much interest shown in this present-day venture that it was continued on B.B.C., where comments were equally made by an Anglican parson, a Free Church minister and a Catholic priest.",
+  "Example sentence: When Beckett's name came into the discussion, the priest grew loud and told me that Beckett `` hates life ''.",
+  "Example sentence: A Catholic priest recently recounted how in the chapel of a large city university, following Anglican evensong, at which there was a congregation of twelve, he celebrated Mass before more than a hundred.",
+  "Example sentence: The Catholic priest, though somewhat superficially drawn, easily came out the best.",
+  "Example sentence: Some time later the missing part of the relic was found and the complete inscription, together with other new evidence, fully corroborated the ancient priest's information.",
+  "Example sentence: That the dream was a reality on the infinite progressions of universal, gradient frequencies, across which the modern professor and the priest of ancient Nippur met?",
+  "Example sentence: Dr. Hilprecht was uncertain as to the language used by the ancient priest in his dream.",
+  "Example sentence: We may conclude that all six points of information, ostensibly given by the dream priest, could have been furnished by Dr. Hilprecht's subconscious reasoning."
+ ],
+ "labels": [
+  "priest.n.01",
+  "priest.n.01",
+  "priest.n.01",
+  "priest.n.01",
+  "priest.n.02",
+  "priest.n.02",
+  "priest.n.02",
+  "priest.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

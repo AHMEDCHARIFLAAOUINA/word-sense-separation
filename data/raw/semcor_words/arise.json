@@ -1,0 +1,35 @@
+{
+ "target_word": "arise",
+ "sentences": [
+  "Example sentence: Further increases arise from the civilian employee health program enacted by the Congress last year.",
+  "Example sentence: However, technical difficulties arise by melting at local hot spots.",
+  "Example sentence: Admiralty law, the law merchant, and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law of Nations and made dependent on the several national laws.",
+  "Example sentence: In classical drama, such problems do not arise.",
+  "Example sentence: There will be losses caused by emergencies that arise while he is away at his off farm job.",
+  "Example sentence: In an effort to fortify himself against the unforeseen upsets sure to arise in the future, Herbert A. Leggett, banker editor of the Phoenix `` Arizona Progress '', reflects upon a few of the depressing experiences of the feverish fifties.",
+  "Example sentence: Since an objective viewer might well conclude that this is not a situation that would often arise, the film's extensive discussion of the problem seems, at best, superfluous.",
+  "Example sentence: There are two more Sunday afternoons when the situation will arise."
+ ],
+ "labels": [
+  "originate.v.01",
+  "originate.v.01",
+  "originate.v.01",
+  "originate.v.01",
+  "arise.v.04",
+  "arise.v.04",
+  "arise.v.04",
+  "arise.v.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

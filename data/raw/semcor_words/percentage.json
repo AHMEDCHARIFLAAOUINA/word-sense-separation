@@ -1,0 +1,47 @@
+{
+ "target_word": "percentage",
+ "sentences": [
+  "Example sentence: She may not have been exact on this number, but others here feel quite certain that the percentage would be less than ten.",
+  "Example sentence: The percentage of Jewish girls who attend college is almost as high as that of boys.",
+  "Example sentence: Determine for each State (except the Virgin Islands, Guam and Puerto Rico, and, prior to 1962, Alaska and Hawaii) that percentage which bears the same ratio to 50% as the particular State's average per capita income bears to the average per capita income of the U. S..",
+  "Example sentence: Also, among the latter a large percentage soon acquire the prevalent Southern attitude on most social problems.",
+  "Example sentence: Square each State's allotment percentage.",
+  "Example sentence: For purposes of this explanation, this percentage is referred to as the States `` unadjusted Federal share ''.",
+  "Example sentence: Competitors came to receive higher percentage of General Motors business in later years, but it is `` likely '' that this trend stemmed `` at least in part '' from the needs of General Motors outstripping du Pont's capacity.",
+  "Example sentence: Now, in 1961, the Catholic population of England is still quite small (ten per cent, or 5 million); yet it represents a very considerable percentage of the churchgoing population.",
+  "Example sentence: To figure the value of the farm in terms of investment income, divide the estimated annual net farm income by the percentage that you could expect to get in interest if the money were invested in some other way.",
+  "Example sentence: Some of these apprentices were, in physical strength, already men and doubtless a percentage of them were Spencer's followers.",
+  "Example sentence: At last, even the controlled Torrio was unable to hold still, and he tentatively suggested that O ' Banion should take a percentage in the Stickney brothels in return for one from his Cicero beer concession.",
+  "Example sentence: The American Institute of Interior Designers has published a recommended course for designers and a percentage layout of such a course."
+ ],
+ "labels": [
+  "percentage.n.01",
+  "percentage.n.01",
+  "percentage.n.01",
+  "percentage.n.01",
+  "percentage.n.01",
+  "percentage.n.01",
+  "share.n.01",
+  "share.n.01",
+  "share.n.01",
+  "share.n.01",
+  "share.n.01",
+  "share.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

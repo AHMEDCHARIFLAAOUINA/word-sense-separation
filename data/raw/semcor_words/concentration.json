@@ -1,0 +1,35 @@
+{
+ "target_word": "concentration",
+ "sentences": [
+  "Example sentence: In evaluating data on the concentration of TSH in blood, one must examine critically the bio-assay methods used to obtain them.",
+  "Example sentence: Physicochemical investigations of anionic surfactants, including the soaps, have shown that there is little polymerization or agglomeration of the chain anions below a certain region of concentration called the critical micelle concentration.",
+  "Example sentence: The rate of oxygen transfer at 1.0 - mg / l dissolved oxygen concentration and 10 ` C for various rotor speeds is given in Table 3,.",
+  "Example sentence: This method can be extended to include the concentration differences caused by shear fields.",
+  "Example sentence: Also, planetary gravitational attraction increases the dust concentration near the plane of the ecliptic as the sun is approached.",
+  "Example sentence: A concentration distribution has been derived from radar observations sensitive to the fifteenth magnitude (Manning and Eshleman, 1959).",
+  "Example sentence: The observational data determining the concentration distribution have a range of error which is magnified in the extension into the micrometeorite region.",
+  "Example sentence: The data for the first day indicate a meteor stream with a very high concentration of particles and may have led to the high estimates of micrometeorite flux."
+ ],
+ "labels": [
+  "concentration.n.01",
+  "concentration.n.01",
+  "concentration.n.01",
+  "concentration.n.01",
+  "concentration.n.02",
+  "concentration.n.02",
+  "concentration.n.02",
+  "concentration.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: party
+dataset: data/raw/semcor_words/party.json
+senses:
+  - party.n.01
+  - party.n.02
+n_per_sense: 12
+prefix: "Example sentence: "

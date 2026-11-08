@@ -1,0 +1,7 @@
+word: land
+dataset: data/raw/semcor_words/land.json
+senses:
+  - land.n.02
+  - land.n.01
+n_per_sense: 15
+prefix: "Example sentence: "

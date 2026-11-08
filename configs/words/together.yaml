@@ -1,0 +1,7 @@
+word: together
+dataset: data/raw/semcor_words/together.json
+senses:
+  - together.r.01
+  - together.r.02
+n_per_sense: 16
+prefix: "Example sentence: "

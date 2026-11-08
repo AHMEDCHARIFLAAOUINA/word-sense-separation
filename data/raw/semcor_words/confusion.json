@@ -1,0 +1,47 @@
+{
+ "target_word": "confusion",
+ "sentences": [
+  "Example sentence: As a result, many people have been confirmed in their conviction that orthography design is not an activity to which experts can contribute anything but confusion.",
+  "Example sentence: These questions touch the root of confusion in the prosecution's case.",
+  "Example sentence: Only confusion, failure and anarchy result when the effort is made to impose upon the civil authority the impossible task of policing private homes to preclude the possibility of sin.",
+  "Example sentence: We cannot listen to a conversation for five minutes without being acutely aware of the confusion.",
+  "Example sentence: `` The confusion is not my invention.",
+  "Example sentence: National leaders will have to display the highest skills of statesmanship to guide their people through times of uncertainty and confusion which destroy men's sense of identity.",
+  "Example sentence: As a result, although we still make use of this distinction, there is much confusion as to the meaning of the basic terms employed.",
+  "Example sentence: A second scene flashed before his mind, the interior of the garage at the new house and the young Bartlett girl turning startled to meet him, the dim dark and the sudden confusion and fear and then the brightness as Mae had clicked on the light.",
+  "Example sentence: During the next five years liberal leaders in the United States sank in the cumulative confusion attendant upon and manifested in a negative policy of Containment - and the bitterest irony - enforced and enforceable only by threat of a weapon that we felt the greatest distaste for but could not abandon:",
+  "Example sentence: This may both divert the attention of the uninitiate and cause confusion for the more knowledgeable.",
+  "Example sentence: Such ambiguous exercises compound confusion by making it worse compounded, and they are sometimes expanded until the cream of the jest sours.",
+  "Example sentence: Suddenly a treble auto horn tootley-toot-tootled, and, thumbing hopefully, I saw emergent in windshield flash: red lips, streaming silk of blonde hair and - ah, trembling confusion of hope, apprehension, despair - the leering face of old Herry."
+ ],
+ "labels": [
+  "confusion.n.01",
+  "confusion.n.01",
+  "confusion.n.01",
+  "confusion.n.01",
+  "confusion.n.01",
+  "confusion.n.01",
+  "confusion.n.02",
+  "confusion.n.02",
+  "confusion.n.02",
+  "confusion.n.02",
+  "confusion.n.02",
+  "confusion.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

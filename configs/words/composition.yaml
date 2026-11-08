@@ -1,0 +1,7 @@
+word: composition
+dataset: data/raw/semcor_words/composition.json
+senses:
+  - constitution.n.04
+  - composition.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

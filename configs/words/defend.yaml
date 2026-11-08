@@ -1,0 +1,7 @@
+word: defend
+dataset: data/raw/semcor_words/defend.json
+senses:
+  - defend.v.01
+  - defend.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

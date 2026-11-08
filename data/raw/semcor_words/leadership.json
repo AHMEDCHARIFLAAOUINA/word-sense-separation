@@ -1,0 +1,47 @@
+{
+ "target_word": "leadership",
+ "sentences": [
+  "Example sentence: This hysteria reached its height under the leadership of Senator Joseph McCarthy.",
+  "Example sentence: If we sit here reading editorials and looking at public opinion polls and other reports that cross our desks, we should realize that this is raw, undigested opinion expressed in the absence of leadership.",
+  "Example sentence: Then, not many years later, the Un-American Activities Committee, under the leadership of Martin Dies, pilloried hundreds of decent, patriotic citizens.",
+  "Example sentence: Even the states remain primarily in an assisting role, providing leadership and teacher training.",
+  "Example sentence: But I have been at some pains to review it as the drama of the common man, to point up what happened to him under Eisenhower's leadership.",
+  "Example sentence: That means that, if we are to achieve a new standard of leadership, we must think in terms of the total context of our situation.",
+  "Example sentence: What the American people will do turns in large degree on their leadership.",
+  "Example sentence: Tolek Alterman had returned from the colonies in Palestine and, before the national leadership, exalted the miracles of drying up swamps and irrigating the desert.",
+  "Example sentence: In the first place our business is foreign policy, and it is the business of the Presidential leadership and his appointees in the Department to consider the domestic political aspects of a problem.",
+  "Example sentence: In 1952, it will be remembered, the G. O. P. without positive program campaigned on the popular disillusionment with liberal leadership and won overwhelmingly.",
+  "Example sentence: And by the time the war ended, liberal leadership in this country was spiritually Marxist.",
+  "Example sentence: I doubt, for example, that, 3 months before the leadership began to talk about what came to be the Marshall plan, any public-opinion expert would have said that the country would have accepted such proposals."
+ ],
+ "labels": [
+  "leadership.n.01",
+  "leadership.n.01",
+  "leadership.n.01",
+  "leadership.n.01",
+  "leadership.n.01",
+  "leadership.n.01",
+  "leadership.n.02",
+  "leadership.n.02",
+  "leadership.n.02",
+  "leadership.n.02",
+  "leadership.n.02",
+  "leadership.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

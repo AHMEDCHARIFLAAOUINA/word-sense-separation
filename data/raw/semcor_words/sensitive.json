@@ -1,0 +1,47 @@
+{
+ "target_word": "sensitive",
+ "sentences": [
+  "Example sentence: With detectors sensitive to three mass intervals and based on a few counts, the second and third Russian space probes indicate that the flux of the smallest particles detected is less than that of larger ones.",
+  "Example sentence: Many other vehicles with smaller sensitive area exposure time products contribute some information.",
+  "Example sentence: Precise pressure volume temperature measurements on corrosive gases are dependent on a sensitive yet rugged pressure transducer.",
+  "Example sentence: The constant temperature contours are much smoother than those observed at 4.3 mm by Coates (1959 a), and apparently the emission at 8 mm is not nearly so sensitive to differences in surface features.",
+  "Example sentence: These vehicles, with large sensitive areas, have collected data for long enough times to give reliable impact rates for the periods of exposure.",
+  "Example sentence: A concentration distribution has been derived from radar observations sensitive to the fifteenth magnitude (Manning and Eshleman, 1959).",
+  "Example sentence: He spent concentrated weeks putting his two figures together: a Mary who would be young and sensitive, yet strong enough to hold her son on her lap; and a Jesus who, though lean, was strong even in death - a look he remembered well from his experience in the dead room of Santo Spirito.",
+  "Example sentence: In that apparently simple shift Porter opened the way to the sensitive use of the camera as an instrument of art as well as a mechanical recording device.",
+  "Example sentence: The location of the oxidation pond in a high value residential area makes odor nuisances a sensitive problem for the developer.",
+  "Example sentence: But to go from here to the belief that those more sensitive to metaphor and language will also be more sensitive to personal differences is too great an inferential leap.",
+  "Example sentence: Still, his finale is put together with taste and a most sensitive projection of that pale sustenance, despair.",
+  "Example sentence: Living with his watercolors is a vicarious experience of seeing nature distilled through the eyes of a sensitive interpretor, a breath and breadth of the outdoor world to help man honor the Creator of it all."
+ ],
+ "labels": [
+  "sensitive.a.01",
+  "sensitive.a.01",
+  "sensitive.a.01",
+  "sensitive.a.01",
+  "sensitive.a.01",
+  "sensitive.a.01",
+  "sensitive.a.02",
+  "sensitive.a.02",
+  "sensitive.a.02",
+  "sensitive.a.02",
+  "sensitive.a.02",
+  "sensitive.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

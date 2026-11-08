@@ -1,0 +1,7 @@
+word: talk
+dataset: data/raw/semcor_words/talk.json
+senses:
+  - talk.v.02
+  - talk.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

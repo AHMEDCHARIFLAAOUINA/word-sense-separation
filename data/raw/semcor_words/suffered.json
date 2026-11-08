@@ -1,0 +1,53 @@
+{
+ "target_word": "suffered",
+ "sentences": [
+  "Example sentence: A 62 - year-old Smithfield man, Lester E. Stone of 19 Beverly Circle, was in satisfactory condition last night at Our Lady of Fatima Hospital, North Providence, with injuries suffered when a car he was driving struck a utility pole on Woonasquatucket Avenue in North Providence near Stevens Street.",
+  "Example sentence: Within a week after the injury, suffered in St. Louis's victory in the final game of the Kentucky tournament, Nordmann was sitting on the Bill's bench doing what he could to help Benington.",
+  "Example sentence: But the greater reason for fumbling, stumbling American leadership is due to the shock her pride suffered when the Japanese attacked at Pearl Harbor.",
+  "Example sentence: - Held out of Texas Tech's sweat suits drill Monday at Lubbock was tackle Richard Stafford, who is undergoing treatment for a leg injury suffered in the Raiders ' 38 - 7 loss to Texas A+M.",
+  "Example sentence: Battalion Chief Stanton M. Gladden, 42, the central figure in a representation dispute between the fire fighters association and the teamsters union, suffered multiple fractures of both ankles.",
+  "Example sentence: Mrs. Eleanor Kowalski, 42, died yesterday afternoon in Holy Cross Hospital of burns suffered in a fire that followed a bottled gas explosion Saturday night at the flat of her widowed mother, Mrs. Mary Pankowski, in the adjoining suburb of Warren.",
+  "Example sentence: Because of his brain injury and the extreme damage suffered to his sight, the patient had to train himself for a new line of work, that of a portfolio maker, an occupation requiring a great deal of precision in the making of measurements and a fairly well developed sense of form and contour.",
+  "Example sentence: If he dwelt on the indignities he suffered he would lose all respect for her, and without the respect he might lose his view of her, too.",
+  "Example sentence: He also struck his aunt and wife, and during the melee the baby also suffered scratches.",
+  "Example sentence: The most striking aspect of the interaction demonstrated is the marked decrement in performance suffered by the highly anxious children in unstructured schools.",
+  "Example sentence: He seemed to remember reading somewhere that Abyssinians had large litters, and suffered a dismaying vision of the apartment overrun with a dozen kittens.",
+  "Example sentence: Thus the image of man has suffered complete fragmentation in personal and spiritual qualities, and complete objectification in sub-human and quasi mechanistic powers.",
+  "Example sentence: And now, in March, all Laos suffered a state of siege.",
+  "Example sentence: Yet the highly anxious child suffered a tremendous disadvantage only in the unstructured school, and performed as well or better than average in the structured setting."
+ ],
+ "labels": [
+  "suffer.v.02",
+  "suffer.v.02",
+  "suffer.v.02",
+  "suffer.v.02",
+  "suffer.v.02",
+  "suffer.v.02",
+  "suffer.v.02",
+  "suffer.v.01",
+  "suffer.v.01",
+  "suffer.v.01",
+  "suffer.v.01",
+  "suffer.v.01",
+  "suffer.v.01",
+  "suffer.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

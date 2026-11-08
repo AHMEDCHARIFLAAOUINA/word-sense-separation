@@ -1,0 +1,7 @@
+word: character
+dataset: data/raw/semcor_words/character.json
+senses:
+  - character.n.03
+  - quality.n.03
+n_per_sense: 11
+prefix: "Example sentence: "

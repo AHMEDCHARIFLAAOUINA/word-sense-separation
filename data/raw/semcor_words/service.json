@@ -1,0 +1,47 @@
+{
+ "target_word": "service",
+ "sentences": [
+  "Example sentence: This was working by the end of August and giving satisfactory service.",
+  "Example sentence: Many products seem to be designed for a production economy, not for a service one.",
+  "Example sentence: In carrying out this program science has undoubtedly performed a very considerable service for which it can claim due credit.",
+  "Example sentence: This Court agreed with the trial court `` that considerations of price, quality and service were not overlooked by either du Pont or General Motors ''.",
+  "Example sentence: And the solutions to the problems of the commuter lines have been equally varied, ranging all the way from Government ownership to complete discontinuance of this important service.",
+  "Example sentence: Mr. Speaker, for several years now the commuter railroads serving our large metropolitan areas have found it increasingly difficult to render the kind of service our expanding population wants and is entitled to have.",
+  "Example sentence: Graham will be recognized for his meritorious service to baseball and will get the William J. Slocum Memorial Award.",
+  "Example sentence: He would sit inside the coffee shop and pound a gloved fist upon the table and a girl would hear him and come running, bowing with her running, calling out in her bowing, `` At your service ''.",
+  "Example sentence: It is this curious blend of rugged individualism and public service which accounts for the great appeal of the mythological detective.",
+  "Example sentence: The individualism and public service of the private detective both stem from his dedication to a personal code of conduct: he enforces the law without being told to do so.",
+  "Example sentence: It is the growing contradiction between individualism and public service in the mystery story which creates this fatal dilemma.",
+  "Example sentence: It appears that an Orthodox girl in the community disrupted plans for an outing sponsored by one of the Jewish service groups because she would not travel on Saturday and, in addition, required kosher food."
+ ],
+ "labels": [
+  "service.n.01",
+  "service.n.01",
+  "service.n.01",
+  "service.n.01",
+  "service.n.01",
+  "service.n.01",
+  "service.n.02",
+  "service.n.02",
+  "service.n.02",
+  "service.n.02",
+  "service.n.02",
+  "service.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

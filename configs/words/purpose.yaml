@@ -1,0 +1,7 @@
+word: purpose
+dataset: data/raw/semcor_words/purpose.json
+senses:
+  - purpose.n.01
+  - function.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

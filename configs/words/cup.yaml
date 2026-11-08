@@ -1,0 +1,7 @@
+word: cup
+dataset: data/raw/semcor_words/cup.json
+senses:
+  - cup.n.01
+  - cup.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "registered",
+ "sentences": [
+  "Example sentence: Petitioner registered with Local Board No. 9, Boulder, Colorado, on March 17, 1952.",
+  "Example sentence: Only a few more than 10000 boats had been registered with the Division of Harbors and Rivers at the end of the 1960 boating season, but many had been taken out of the water early when the threat of a hurricane brought the season to an early close.",
+  "Example sentence: The Administration maintains a productive facilities inventory of small business industrial concerns that have voluntarily registered.",
+  "Example sentence: Why had I registered?",
+  "Example sentence: The Troop is proud of its camping-out program - on year-round schedule and was continued even when sub-zero temperatures were registered during the past winter.",
+  "Example sentence: The Registry of Motor Vehicles indicates that at least one state automobile was registered as far back as 1917.",
+  "Example sentence: I noticed that he was in Unit 12 and that he had registered under the name of Oscar L. Palmer and wife, giving a San Francisco address.",
+  "Example sentence: Fees are not the same and some states do not require certain craft, such as sailboats with no power, to be registered at all."
+ ],
+ "labels": [
+  "file.v.01",
+  "file.v.01",
+  "file.v.01",
+  "file.v.01",
+  "register.v.01",
+  "register.v.01",
+  "register.v.01",
+  "register.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

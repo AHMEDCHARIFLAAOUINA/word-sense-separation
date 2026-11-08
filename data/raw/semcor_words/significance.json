@@ -1,0 +1,47 @@
+{
+ "target_word": "significance",
+ "sentences": [
+  "Example sentence: But have we not gone overboard in stressing their significance?",
+  "Example sentence: Apparently the feeling is that anything more would be involvement in technical abstrusenesses of possible pedantic interest but of no visible significance in practical affairs.",
+  "Example sentence: The fourth and concluding point will be to estimate the long-run significance of the elections and how they figure in the current pattern of internal politics.",
+  "Example sentence: Just as the national and state parks place emphasis on features which are of national or state significance, counties should seek out these features which are distinctive of their area.",
+  "Example sentence: The terms `` renewal '' and `` refreshed '', which often come up in aesthetic discussion, seem partly to derive their import from the `` renewal '' of purpose and a `` refreshed '' sense of significance a person may receive from poetry, drama, and fiction.",
+  "Example sentence: But consideration of the frequency of stems per constant meaning seems to be established as having significance in comparative situations with diachronic and classificatory relevance; and Gleason presumably is on the way with a further contribution in this area.",
+  "Example sentence: The curious relationship between Holmes and Scotland Yard provides an important clue to the deeper significance of his eccentric behavior.",
+  "Example sentence: I use this term to mean three things: a search for the human significance of an event or state of affairs, a tendency to look at wholes rather than parts, and a tendency to respond to these events and wholes with feeling.",
+  "Example sentence: No action of his could be interpreted in his favor and four midshipmen, prior to their knowing the significance of the Greek paper, had seen it in Cromwell's hands while Spencer whispered explanations.",
+  "Example sentence: For all concerned with social-welfare legislation, the significance of this radical and revolutionary change in the thought and habits of the vast majority of the American people is clear, profound and far reaching.",
+  "Example sentence: The significance of these differences has not been studied nor has the existence of corresponding physiologic differences been determined.",
+  "Example sentence: As to relative frequencies of competing roots (7 - 1 vs. 4 - 4, etc.), Thomas with his ' weighting ' seems to be the first to have considered the significance this might have."
+ ],
+ "labels": [
+  "significance.n.01",
+  "significance.n.01",
+  "significance.n.01",
+  "significance.n.01",
+  "significance.n.01",
+  "significance.n.01",
+  "significance.n.02",
+  "significance.n.02",
+  "significance.n.02",
+  "significance.n.02",
+  "significance.n.02",
+  "significance.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

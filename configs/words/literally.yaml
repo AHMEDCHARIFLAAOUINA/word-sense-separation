@@ -1,0 +1,7 @@
+word: literally
+dataset: data/raw/semcor_words/literally.json
+senses:
+  - literally.r.02
+  - literally.r.01
+n_per_sense: 4
+prefix: "Example sentence: "

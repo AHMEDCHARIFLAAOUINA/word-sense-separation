@@ -1,0 +1,7 @@
+word: gold
+dataset: data/raw/semcor_words/gold.json
+senses:
+  - gold.n.01
+  - amber.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: profession
+dataset: data/raw/semcor_words/profession.json
+senses:
+  - profession.n.01
+  - profession.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

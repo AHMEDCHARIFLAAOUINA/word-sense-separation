@@ -1,0 +1,7 @@
+word: laid
+dataset: data/raw/semcor_words/laid.json
+senses:
+  - put.v.01
+  - lay.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

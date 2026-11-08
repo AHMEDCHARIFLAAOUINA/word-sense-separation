@@ -1,0 +1,35 @@
+{
+ "target_word": "pot",
+ "sentences": [
+  "Example sentence: They got tin cups of coffee from the big pot on the coosie's fire, rolled and lighted brown paper cigarettes, lounged about.",
+  "Example sentence: Adam looked at the pot.",
+  "Example sentence: A pot was boiling on the coals.",
+  "Example sentence: `` Good ole lob-scuse '', he mumbled, and stirred the pot.",
+  "Example sentence: That pot put Pa in an awful good humor whenever he thought of it.",
+  "Example sentence: Pa'd been shit sick in that pot.",
+  "Example sentence: Once he went after Hans and dumped his pot over the banister.",
+  "Example sentence: You want me to drop my pot ''?"
+ ],
+ "labels": [
+  "pot.n.01",
+  "pot.n.01",
+  "pot.n.01",
+  "pot.n.01",
+  "toilet.n.02",
+  "toilet.n.02",
+  "toilet.n.02",
+  "toilet.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

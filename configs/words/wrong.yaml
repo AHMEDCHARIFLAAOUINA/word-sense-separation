@@ -1,0 +1,7 @@
+word: wrong
+dataset: data/raw/semcor_words/wrong.json
+senses:
+  - incorrect.a.01
+  - wrong.a.02
+n_per_sense: 9
+prefix: "Example sentence: "

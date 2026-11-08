@@ -1,0 +1,41 @@
+{
+ "target_word": "emerged",
+ "sentences": [
+  "Example sentence: Having arrived he blinked sleepily and friendlily at them, and lapsed back into the restful stupor from which he had emerged.",
+  "Example sentence: This, in brief, was the historical background out of which Zen emerged.",
+  "Example sentence: When McFeeley was halfway to the door, the proprietor emerged - a mountainous, dark man, his head thick with resiny black hair, his eyes like two of the black olives he imported in boatloads.",
+  "Example sentence: Mr. Podger opened his cocoon and emerged, tucking Alacrity under his arm to bring her in by the fire.",
+  "Example sentence: With the neutralists maintaining pressure for one of their own to succeed Mr. Hammarskjold, U Thant emerged as the only possible candidate unlikely to be waylaid by a veto.",
+  "Example sentence: Out of this ordeal the citizen emerged, in the South as in the North, as America's true sovereign, in `` a new birth of freedom '', as Lincoln promised.",
+  "Example sentence: He went to his cabin and emerged carrying a large chart, which he set up in view of the crew.",
+  "Example sentence: The corporation in America is in reality our form of socialism, vying in a sense with the other socialistic form that has emerged within governmental bureaucracy.",
+  "Example sentence: I found it fairly depressing and emerged almost immediately.",
+  "Example sentence: Out of that agreement, though not by any easy road, eventually emerged the present world hegemony of the United Nations; suspicion between member states still existed, but it was of about the same low order of virulence as the twentieth-century rivalry between Arizona and California over water supplies."
+ ],
+ "labels": [
+  "emerge.v.01",
+  "emerge.v.01",
+  "emerge.v.01",
+  "emerge.v.01",
+  "emerge.v.01",
+  "issue.v.04",
+  "issue.v.04",
+  "issue.v.04",
+  "issue.v.04",
+  "issue.v.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

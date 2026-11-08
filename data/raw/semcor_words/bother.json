@@ -1,0 +1,41 @@
+{
+ "target_word": "bother",
+ "sentences": [
+  "Example sentence: `` Don't bother '', Mike answered.",
+  "Example sentence: He did not bother with his radio - there would be time for that later - but as he scrambled out on the pavement he saw the filling station and the public telephone booth and knew instantly how he had been summoned.",
+  "Example sentence: He didn't even bother to wipe himself off and he chopped part of Pa's door down before he stopped.",
+  "Example sentence: At their meeting he told her not to bother about `` where '' - he would attend to that.",
+  "Example sentence: And, Here, I'll take this, I was before her, you wait on me now or I don't bother with it, see!",
+  "Example sentence: `` Does this bother you ''?",
+  "Example sentence: The fear of punishment just didn't bother him.",
+  "Example sentence: For instance, the following statement was rated low in compulsivity, `` She's naturally quite neat about things, but it doesn't bother her at all if her room gets messy.",
+  "Example sentence: It didn't bother him for everybody from the blacksmith to the preacher to say, `` Howdy, Miss Jenny '', adding a careless `` Roy '', but it did her.",
+  "Example sentence: `` Doesn't it ever bother you '', Warren had asked, `` to have people always asking you about your hands ''?"
+ ],
+ "labels": [
+  "trouble_oneself.v.01",
+  "trouble_oneself.v.01",
+  "trouble_oneself.v.01",
+  "trouble_oneself.v.01",
+  "trouble_oneself.v.01",
+  "annoy.v.01",
+  "annoy.v.01",
+  "annoy.v.01",
+  "annoy.v.01",
+  "annoy.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: number
+dataset: data/raw/semcor_words/number.json
+senses:
+  - number.n.01
+  - number.n.02
+n_per_sense: 16
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: rice
+dataset: data/raw/semcor_words/rice.json
+senses:
+  - rice.n.01
+  - rice.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

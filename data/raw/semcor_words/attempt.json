@@ -1,0 +1,47 @@
+{
+ "target_word": "attempt",
+ "sentences": [
+  "Example sentence: Even so, he could not ease the tension of his body; the rough surface of the earth itself seemed to resist every attempt on his part to relax.",
+  "Example sentence: A rough attempt was made to characterize the vertical profile of the cloud by taking samples from outside the windows on the first, ninth, and fifteenth floors of a Government office building.",
+  "Example sentence: Again the homely, everyday details of daily living refuted a vicious attempt to frighten her - or to murder her.",
+  "Example sentence: This conformity represents a desperate attempt to stabilize a hopelessly unstable environment.",
+  "Example sentence: And if it was not an individual who was in the dock, why was the Trial, as we shall observe later, all but scuttled in the attempt to prove Eichmann a `` fiend ''?",
+  "Example sentence: Glowering looks met them in the bar, but there was no attempt to halt them.",
+  "Example sentence: Does it attempt to rewrite modern history by blaming American statesmen for wars, communism, depression, and other troubles of the world?",
+  "Example sentence: It should attempt to communicate both an appreciation of professional standards and an understanding of the tremendous powers and potentialities of genuinely open and pluralistic societies.",
+  "Example sentence: It is danced by some thirty-five men and no women, and it contains everything in the books - lusty comedy, gregarious cavorting, and tricks that only madmen or Russians would attempt to make the human body perform.",
+  "Example sentence: They would attempt to bring supplies from St. Louis or Prairie du Chien at `` great expense as well as danger ''.",
+  "Example sentence: To some extent the personal inadequacies that prejudices attempt to compensate for are to be found in all of us.",
+  "Example sentence: What we can attempt with some hope of dependable conclusions is to point out the manner in which Christianity entered into particular aspects of the life of the nation."
+ ],
+ "labels": [
+  "attempt.n.01",
+  "attempt.n.01",
+  "attempt.n.01",
+  "attempt.n.01",
+  "attempt.n.01",
+  "attempt.n.01",
+  "try.v.01",
+  "try.v.01",
+  "try.v.01",
+  "try.v.01",
+  "try.v.01",
+  "try.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: marriage
+dataset: data/raw/semcor_words/marriage.json
+senses:
+  - marriage.n.01
+  - marriage.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

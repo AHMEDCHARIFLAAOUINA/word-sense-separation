@@ -1,0 +1,7 @@
+word: m
+dataset: data/raw/semcor_words/m.json
+senses:
+  - molarity.n.01
+  - meter.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

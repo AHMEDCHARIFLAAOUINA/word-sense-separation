@@ -1,0 +1,41 @@
+{
+ "target_word": "background",
+ "sentences": [
+  "Example sentence: Out of this background of hunting and fishing, it was only natural that Roy first painted subjects he knew best: hunters in the field, fishermen in the stream, ducks and geese on the wing - almost always against a vast backdrop of weather landscape.",
+  "Example sentence: This combined experience, on a foundation of very average, I assure you, intelligence and background, has helped me do things many well-informed people would bet heavily against.",
+  "Example sentence: But in looking at Faulkner against his background in Mississippi and the South, it is important not to lose the broader perspective.",
+  "Example sentence: `` When you marry, you want to have things in common '', a girl said, `` and it's hard when you don't marry someone with your own background ''.",
+  "Example sentence: It is from this unpromising background that the fictional private detective was recruited.",
+  "Example sentence: In following this general principle, Mason provides the observer with a natural eye progression from foreground to background, and the illusion of depth is instantly created.",
+  "Example sentence: She studied him hopefully, yearningly; against the limitless background of sky and wasteland it was easy to confirm her analysis.",
+  "Example sentence: Long observation has taught Mason that most landscape can be reduced to three essential planes: a foreground in sharp focus - either a light area with dark accents or a dark one with lights; a middle distance often containing the major motif; and a background, usually a silhouetted form foiled against the sky.",
+  "Example sentence: The actual surface becomes both ground and background, and it turns out - suddenly and paradoxically - that the only place left for a three-dimensional illusion is in front of, upon, the surface.",
+  "Example sentence: We went into Mrs. Monmouth's library, which had low bookshelves all along the walls, and above them a Modigliani portrait, a Jackson Pollock twelve feet long, and a gorgeous Miro with a yellow background, that looked like an inscription from a Martian tomb."
+ ],
+ "labels": [
+  "background.n.01",
+  "background.n.01",
+  "background.n.01",
+  "background.n.01",
+  "background.n.01",
+  "background.n.02",
+  "background.n.02",
+  "background.n.02",
+  "background.n.02",
+  "background.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

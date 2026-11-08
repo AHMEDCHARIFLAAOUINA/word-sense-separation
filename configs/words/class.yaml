@@ -1,0 +1,7 @@
+word: class
+dataset: data/raw/semcor_words/class.json
+senses:
+  - class.n.02
+  - class.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

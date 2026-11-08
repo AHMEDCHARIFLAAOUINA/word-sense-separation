@@ -1,0 +1,7 @@
+word: immediately
+dataset: data/raw/semcor_words/immediately.json
+senses:
+  - immediately.r.01
+  - immediately.r.02
+n_per_sense: 5
+prefix: "Example sentence: "

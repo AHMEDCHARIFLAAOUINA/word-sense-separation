@@ -1,0 +1,53 @@
+{
+ "target_word": "series",
+ "sentences": [
+  "Example sentence: The events of the last quarter of an hour, mysterious to any bird accustomed only to the predictable life of coop and barnyard, had overcome the doctor's hen and she gave out a series of cackly wails, perhaps mourning her nest, but briefly enjoyed.",
+  "Example sentence: Such a series of articles was certainly never printed in the public press of mid Victorian England.",
+  "Example sentence: One such wife, Dr. Linden says, became disgusted with her weak husband and flurried through a series of extramarital affairs in the hope of finding a stronger man.",
+  "Example sentence: With either of the gradients described, chromatography on DEAE-cellulose separated agglutinins of the ABO series into at least three regions (Figs. 1 and 2):",
+  "Example sentence: The differences between onset age and completion age with respect to the corresponding mean age have been brought into juxtaposition by means of a series of arrows.",
+  "Example sentence: In series /1, the relative light intensity was varied by varying the distance of the lamp from the reaction cell over the range from 14.7 to 29.2 cm..",
+  "Example sentence: Direct proportionality of the rate to the incident intensity has also been assumed in obtaining the value in the last column for the fourth sample of series /2, where the light intensity was reduced by use of a screen.",
+  "Example sentence: Volumes One and Two, selected from the sound tracks of a television series, contain `` conversations with the elder wise men of our day ''.",
+  "Example sentence: For sheer ambition, take the Decca series titled modestly `` Wisdom ''.",
+  "Example sentence: The program came out of the NBC Special Projects department, and was slotted in the Du Pont Show of the Week series.",
+  "Example sentence: In a series of fairy tales and fantasies, Melies demonstrated that the film is superbly equipped to tell a straightforward story, with beginning, middle and end, complications, resolutions, climaxes, and conclusions.",
+  "Example sentence: About that same time John Crosby's TV series on the popular arts proved again that giving jazz ample breathing space is one of the most sensible things a producer can do.",
+  "Example sentence: Her impact in the ZING commercials had led to her being considered for an excellent part in an upcoming TV series, Underwater Western Eye, a documentary type show to be sponsored by Oatnut Grits.",
+  "Example sentence: RCA Victor has an ambitious and useful project in a stereo series called `` Adventures in Music '', which is an instructional record library for elementary schools."
+ ],
+ "labels": [
+  "series.n.01",
+  "series.n.01",
+  "series.n.01",
+  "series.n.01",
+  "series.n.01",
+  "series.n.01",
+  "series.n.01",
+  "serial.n.01",
+  "serial.n.01",
+  "serial.n.01",
+  "serial.n.01",
+  "serial.n.01",
+  "serial.n.01",
+  "serial.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

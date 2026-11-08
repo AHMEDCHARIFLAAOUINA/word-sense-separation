@@ -1,0 +1,35 @@
+{
+ "target_word": "general",
+ "sentences": [
+  "Example sentence: This reduction has been accomplished by the general methods of linear algebra, i.e., by the primary decomposition theorem.",
+  "Example sentence: The set of all binomial distributions is called the family of binomial distributions, but in general discussions this expression is often shortened to `` the binomial distribution '', or even `` the binomial '' when the context is clear.",
+  "Example sentence: He will not be surprised to find that general principles produce conflicting results in the factual situation with which he is confronted.",
+  "Example sentence: In other words, the promulgators of the murder plan made clear that physically exterminating the Jews was but an extension of the anti-Semitic measures already operating in every phase of German life, and that the new conspiracy counted on the general anti-Semitism that had made those measures effective, as a readiness for murder.",
+  "Example sentence: The same command is repeated as many times as there are levels in rank from general to corporal.",
+  "Example sentence: Then there was the General kissing his wife.",
+  "Example sentence: `` That's the General's horse '', one of them cried out.",
+  "Example sentence: Even the officer in charge, be it a captain (for small display) or a general, is restrained by monitoring."
+ ],
+ "labels": [
+  "general.a.01",
+  "general.a.01",
+  "general.a.01",
+  "general.a.01",
+  "general.n.01",
+  "general.n.01",
+  "general.n.01",
+  "general.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

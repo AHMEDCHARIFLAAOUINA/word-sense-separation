@@ -1,0 +1,41 @@
+{
+ "target_word": "nature",
+ "sentences": [
+  "Example sentence: In contrast to this Stoic patristic view, Utopia implies that the nature of man is such that to rely on individual conscience to supply the deficiencies of municipal law is to embark on the bottomless sea of human sinfulness in a sieve.",
+  "Example sentence: The simple, naked idea of one man chasing another is of its nature better fitted for the film than it is for any other form of fiction.",
+  "Example sentence: Whitehead is here questioning David Hume's understanding of the nature of experience; he is questioning, also, every epistemology which stems from Hume's presupposition that experience is merely sense data in abstraction from causal efficacy, and that causal efficacy is something intellectually imputed to the world, not directly perceived.",
+  "Example sentence: As for states ' rights, they have never counted in the thinking of my liberal friends except as irritations of a minor and immoral nature which exist now only as anachronisms.",
+  "Example sentence: Therefore, an explanation of this alveolar bronchial artery supply might be the nutritive requirement of an increased amount of supportive tissue, not primarily diffusing in nature, in the region of the alveolus.",
+  "Example sentence: The law of nature governed sovereigns in their relationship to their own citizens, to foreigners, and to each other in a conceptually unified system.",
+  "Example sentence: It is also found that magnetism exists in all bodies of nature, as proven by Bruckmann and Coulomb.",
+  "Example sentence: Time elapsed but the doctor was obviously unconscious of its passage until an unwelcome knock on the door interrupted the processes of nature.",
+  "Example sentence: The Church considers this to be the method provided by nature and its divine Author: It involves no frustration of nature's laws, but simply an intelligent and disciplined use of them.",
+  "Example sentence: Pausing in the doorway he said: `` The form of the human female, unlike her mind and her spirit, is the most challenging loveliness in all nature ''."
+ ],
+ "labels": [
+  "nature.n.01",
+  "nature.n.01",
+  "nature.n.01",
+  "nature.n.01",
+  "nature.n.01",
+  "nature.n.03",
+  "nature.n.03",
+  "nature.n.03",
+  "nature.n.03",
+  "nature.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

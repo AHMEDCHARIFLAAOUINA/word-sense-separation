@@ -1,0 +1,7 @@
+word: set
+dataset: data/raw/semcor_words/set.json
+senses:
+  - put.v.01
+  - determine.v.03
+n_per_sense: 16
+prefix: "Example sentence: "

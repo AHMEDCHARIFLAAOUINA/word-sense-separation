@@ -1,0 +1,47 @@
+{
+ "target_word": "want",
+ "sentences": [
+  "Example sentence: He just didn't want to talk about it.",
+  "Example sentence: As I say, I wouldn't want to begin a day like this, but I often wonder what the dead would have done.",
+  "Example sentence: `` I want to be in Scotty's Bar at midnight when Marsha makes her phone call there '', he ended grimly.",
+  "Example sentence: You don't want to lease a place way out in the sticks.",
+  "Example sentence: But, by gosh, I want him and I'm going to have him!",
+  "Example sentence: `` I don't want to leave here, Winston ''.",
+  "Example sentence: I'll be down at the creek finishing the dishes, if you want me ''.",
+  "Example sentence: In deciding how much land you want, take into account the amount you'll need to bring in the income you expect.",
+  "Example sentence: You want to sit down.",
+  "Example sentence: If you want credit for your employee services program, let your workers know what they're entitled to.",
+  "Example sentence: We do not want policy officers below the level of Presidential appointees to concern themselves too much with problems of domestic politics in recommending foreign policy action.",
+  "Example sentence: Then you'll want terry cloth towels for mopping up."
+ ],
+ "labels": [
+  "desire.v.01",
+  "desire.v.01",
+  "desire.v.01",
+  "desire.v.01",
+  "desire.v.01",
+  "desire.v.01",
+  "want.v.02",
+  "want.v.02",
+  "want.v.02",
+  "want.v.02",
+  "want.v.02",
+  "want.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

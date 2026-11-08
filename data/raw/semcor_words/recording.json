@@ -1,0 +1,41 @@
+{
+ "target_word": "recording",
+ "sentences": [
+  "Example sentence: The twenty-five year old recording offers rather faded string tone, but the balance between the instruments is good and the transfer is very quiet.",
+  "Example sentence: We would have preferred, however, to have had the rest of the orchestra refrain from laughing at this and other spots on the recording, since it mars an otherwise sober, if not lofty, performance.",
+  "Example sentence: The gap between the bookshelf and the record cabinet grows smaller with each new recording catalogue.",
+  "Example sentence: This is a characteristic of good stereo recording and one of its tremendous advantages over monaural sound.",
+  "Example sentence: The effect of the recording is very open and natural, with the frequency emphasis exactly what you would expect from a live performance.",
+  "Example sentence: In all of this extensive and expensive effort, the camera was downgraded to the status of recording instrument for art work produced elsewhere by the actor or by the author.",
+  "Example sentence: London explains that the very distinct directional effect in the Phase 4 series is due in large part to their novel methods of microphoning and recording the music on a number of separate tape channels.",
+  "Example sentence: In that apparently simple shift Porter opened the way to the sensitive use of the camera as an instrument of art as well as a mechanical recording device.",
+  "Example sentence: All of the jackets carry a fairly technical and detailed explanation of this new recording program.",
+  "Example sentence: From the beginning of commercial recording, new discs purported to be indistinguishable from The Real Thing have regularly been put in circulation."
+ ],
+ "labels": [
+  "recording.n.01",
+  "recording.n.01",
+  "recording.n.01",
+  "recording.n.01",
+  "recording.n.01",
+  "recording.n.02",
+  "recording.n.02",
+  "recording.n.02",
+  "recording.n.02",
+  "recording.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

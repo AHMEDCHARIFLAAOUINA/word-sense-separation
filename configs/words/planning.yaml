@@ -1,0 +1,7 @@
+word: planning
+dataset: data/raw/semcor_words/planning.json
+senses:
+  - planning.n.01
+  - planning.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

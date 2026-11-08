@@ -1,0 +1,7 @@
+word: employment
+dataset: data/raw/semcor_words/employment.json
+senses:
+  - employment.n.02
+  - employment.n.01
+n_per_sense: 8
+prefix: "Example sentence: "

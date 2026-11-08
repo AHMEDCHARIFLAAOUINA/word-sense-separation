@@ -1,0 +1,7 @@
+word: day
+dataset: data/raw/semcor_words/day.json
+senses:
+  - day.n.01
+  - day.n.02
+n_per_sense: 13
+prefix: "Example sentence: "

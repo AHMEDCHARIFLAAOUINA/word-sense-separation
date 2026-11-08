@@ -1,0 +1,41 @@
+{
+ "target_word": "rode",
+ "sentences": [
+  "Example sentence: He rode on and on.",
+  "Example sentence: On the other side of the Golden Horn I rode through Eminonu Square, with Yeni Cami, or the New Mosque, which dates from the Seventeenth Century, just across from the entrance to the bridge.",
+  "Example sentence: Back at the Kaiser's Fountain, I walked left to the streetcar stop and rode up the hill - any car will do - past the Column of Constantine, also known as the Burnt Column, at the top on my right.",
+  "Example sentence: Not long ago, I rode down with him in an elevator in Radio City; he was talking to himself thirteen to the dozen and smoking two cigars at once, clearly a man in extremis.",
+  "Example sentence: We rode over roads so rough that our Jeep came to rest atop the soil between ruts, all four wheels spinning uselessly.",
+  "Example sentence: Finding him dead, Cook caught Russell's horse and rode to the cattle foreman's house to report the incident and request bloodhounds to trail the assassins.",
+  "Example sentence: They mounted up and rode slowly behind the others at a safe distance.",
+  "Example sentence: On May 19, a deputy sheriff's posse of eight men left Maxwell City and rode thirty-five miles up the Vermejo where they were joined by Juan Jose Martinez.",
+  "Example sentence: They returned to the street, mounted their horses, rode through the rain to the big house on Houston Street.",
+  "Example sentence: With Red Hogan, he rode to the Welcome Cafe."
+ ],
+ "labels": [
+  "ride.v.02",
+  "ride.v.02",
+  "ride.v.02",
+  "ride.v.02",
+  "ride.v.02",
+  "ride.v.01",
+  "ride.v.01",
+  "ride.v.01",
+  "ride.v.01",
+  "ride.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

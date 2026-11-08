@@ -1,0 +1,7 @@
+word: death
+dataset: data/raw/semcor_words/death.json
+senses:
+  - death.n.01
+  - death.n.02
+n_per_sense: 20
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "break",
+ "sentences": [
+  "Example sentence: In the family's own words (during the third of twelve visits), they had `` reached the crisis peak - either the situation will give or we will break ''!",
+  "Example sentence: The company which performed the Pulitzer Prize musical here last night and will repeat it twice today is full of bounce, the politicians are in fine voice, the chorines evoke happy memories, and the Little Flower rides to break a lance again.",
+  "Example sentence: A seeping coldness entered Holden's being; his nerves seemed frost-bitten down to the tips of his tingling fingers and his spine felt stiff and glass like, liable to break like an icicle at any moment.",
+  "Example sentence: Earthquakes result when movements in the earth twist rocks until they break.",
+  "Example sentence: To break the monotony it may be necessary to invent tasks that will keep the family busy.",
+  "Example sentence: On the other hand, the fictional detective does not break strikes or handle divorce cases; no client would ever think of asking him to do such things.",
+  "Example sentence: Sleepily, as if half reluctant to break the silence, he lifted his voice: `` Rhu-beb ni ice fresh rhu-beb today ''!",
+  "Example sentence: If the Orioles are to break their losing streak within the next two days, it will have to be at the expense of the American League champion New York Yankees, who come in here tomorrow for a night game and a single test Sunday afternoon."
+ ],
+ "labels": [
+  "break.v.02",
+  "break.v.02",
+  "break.v.02",
+  "break.v.02",
+  "interrupt.v.04",
+  "interrupt.v.04",
+  "interrupt.v.04",
+  "interrupt.v.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

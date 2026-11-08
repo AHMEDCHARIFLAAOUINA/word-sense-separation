@@ -1,0 +1,41 @@
+{
+ "target_word": "sympathy",
+ "sentences": [
+  "Example sentence: The matter of sympathy of the academic professors for art objectives also must be taken into account.",
+  "Example sentence: The Newport Mercury exhibited more concern over the possibility of the abolitionists making a martyr of Brown than it did over the development of sympathy for him.",
+  "Example sentence: I must plead guilty to a special sympathy for nomias.",
+  "Example sentence: Theirs is no mere lack of sympathy, but something closer to the passionate hatred that was directed against Fascism.",
+  "Example sentence: Most attempts to develop any sympathy for Brown and his actions found an unresponsive audience in Rhode Island.",
+  "Example sentence: He did not resent their supervision or Virginia's sometimes tiring sympathy.",
+  "Example sentence: Skopas expressed no curiosity over the case, offered no expression of sympathy, made no move to escort McFeeley to the door.",
+  "Example sentence: Mexico, Panama, and Venezuela are displaying open sympathy for Castroism, and there is no country - save the Dominican Republic whose funeral services we recently arranged - where Castroism and anti Americanism does not prevent the government from unqualifiedly espousing the American cause.",
+  "Example sentence: Poor where they had once been rich, humbled where they had been arrogant, having no longer any hope of sharing in the leadership of the nation, the rebels who would not surrender in spirit drew comfort from the sympathy they felt extended to them by the mother country.",
+  "Example sentence: And social relations arising out of business ties impose courtesy, if not sympathy, toward resident and visiting Northerners."
+ ],
+ "labels": [
+  "sympathy.n.01",
+  "sympathy.n.01",
+  "sympathy.n.01",
+  "sympathy.n.01",
+  "sympathy.n.01",
+  "sympathy.n.02",
+  "sympathy.n.02",
+  "sympathy.n.02",
+  "sympathy.n.02",
+  "sympathy.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

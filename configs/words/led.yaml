@@ -1,0 +1,7 @@
+word: led
+dataset: data/raw/semcor_words/led.json
+senses:
+  - lead.v.01
+  - leave.v.07
+n_per_sense: 8
+prefix: "Example sentence: "

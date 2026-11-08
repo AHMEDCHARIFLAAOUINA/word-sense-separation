@@ -1,0 +1,7 @@
+word: truth
+dataset: data/raw/semcor_words/truth.json
+senses:
+  - truth.n.01
+  - truth.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

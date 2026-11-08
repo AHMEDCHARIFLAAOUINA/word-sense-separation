@@ -1,0 +1,7 @@
+word: children
+dataset: data/raw/semcor_words/children.json
+senses:
+  - child.n.02
+  - child.n.01
+n_per_sense: 10
+prefix: "Example sentence: "

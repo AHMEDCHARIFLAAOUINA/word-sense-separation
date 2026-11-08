@@ -1,0 +1,7 @@
+word: caught
+dataset: data/raw/semcor_words/caught.json
+senses:
+  - catch.v.01
+  - catch.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,53 @@
+{
+ "target_word": "connection",
+ "sentences": [
+  "Example sentence: In this connection it should be capable of being disseminated without excessive destruction.",
+  "Example sentence: He might deny the latter; would certainly deny any connection between the two things, or any connection of either with murder.",
+  "Example sentence: I want, therefore, to discuss a second and quite different fruit of science, the connection between scientific understanding and fear.",
+  "Example sentence: In this connection, it has been observed that the increasing number of Irish Catholics, priests and laity, in England, while certainly seen as good for Catholicism, is nevertheless a source of embarrassment for some of the more nationalistic English Catholics, especially when these Irishmen offer to remind their Christian brethren of this good.",
+  "Example sentence: A year later in Albany, N. Y., a Roman Catholic hospital barred an orthopedic surgeon because of his connection with the Planned Parenthood Association.",
+  "Example sentence: Stephen Vincent Benet's John Brown's Body comes immediately to mind in this connection, as does John Steinbeck's The Grapes of Wrath and Carl Sandburg's The People, Yes.",
+  "Example sentence: We have seen that the folksy spirit is confined to economic peers; consequently, the vulnerability to social difference should not be attributed to the stress on personal community in Protestant congregations; actually, there is little evidence of such personal community in Protestant congregations, as we shall see in another connection.",
+  "Example sentence: In searching for clues which might lead us to a fresh apprehension of the reality of spirit, the close connection between spirit and community is likely to prove the most fruitful.",
+  "Example sentence: Immediately, the film improved and it improved because in narrative it found a content based on time to complement its own unbreakable connection with time.",
+  "Example sentence: If art is to release us from these postulated things [things we must think symbolically about] and bring us back to the ineffable beauty and richness of the aesthetic component of reality in its immediacy, it must sever its connection with these common sense entities ''.",
+  "Example sentence: Hino talked very little about himself except for the infrequent times when he used a personal illustration in connection with another subject.",
+  "Example sentence: Philadelphia permitted him to seek a better connection after he had refused to reconsider his decision to end his career as a player.",
+  "Example sentence: This connection was clarified by Smith and Smith (1922), who showed that saline extracts of fresh bovine pituitary glands could re-activate the atrophied thyroids of hypophysectomised tadpoles.",
+  "Example sentence: As long ago as 1851 it was pointed out by Niepce (1851) that there is a connection between the pituitary and the thyroid."
+ ],
+ "labels": [
+  "connection.n.01",
+  "connection.n.01",
+  "connection.n.01",
+  "connection.n.01",
+  "connection.n.01",
+  "connection.n.01",
+  "connection.n.01",
+  "connection.n.02",
+  "connection.n.02",
+  "connection.n.02",
+  "connection.n.02",
+  "connection.n.02",
+  "connection.n.02",
+  "connection.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

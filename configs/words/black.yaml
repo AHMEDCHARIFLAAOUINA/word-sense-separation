@@ -1,0 +1,7 @@
+word: black
+dataset: data/raw/semcor_words/black.json
+senses:
+  - black.a.01
+  - black.a.02
+n_per_sense: 4
+prefix: "Example sentence: "

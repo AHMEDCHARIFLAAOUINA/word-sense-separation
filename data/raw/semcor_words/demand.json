@@ -1,0 +1,47 @@
+{
+ "target_word": "demand",
+ "sentences": [
+  "Example sentence: In the audience a man named Ferguson lost his head and tried to rescue a little girl from the mob, on the same principle which had led Miss Harris to demand water.",
+  "Example sentence: Mr. Khrushchev's demand for a troika is dormant, not dead; the West may or not remain satisfied with the kind of neutralism that U Thant represents.",
+  "Example sentence: Programs usually are expanded only when outside funds are available or local business leaders demand it.",
+  "Example sentence: The continuation and expansion of the shooting development program will assure to some degree that national and community leaders will be made aware of the ever growing need for shooting facilities and activities for hunting and shooting in answer to public demand.",
+  "Example sentence: However, even if the latent demand for demythologization is not nearly as widespread as we are claiming, at least among the cultured elements of the population there tends to be an almost complete indifference to the church and its traditional message of sin and grace.",
+  "Example sentence: If the demand for demythologization is unavoidable and so must be accepted by theology unconditionally, the position of the `` right '' is clearly untenable.",
+  "Example sentence: He is, by background and living standards, better fitted to endure hardship uncomplainingly, to demand less in the way of subsistence or comfort, and to look after himself when thrown on his own resources ''.",
+  "Example sentence: There was sufficient pretext to demand Colmer's ouster: he had given his lukewarm support to the anti-Kennedy electors in Mississippi.",
+  "Example sentence: An aggressive woman wants a man to demand, not knuckle under.",
+  "Example sentence: How dared they demand to `` snoop '' in private financial records, disbursements, confidential contracts and agreements?",
+  "Example sentence: They should know simple exercises that could prepare less fortunate children for the sports we will demand be taught.",
+  "Example sentence: `` Both because of our culture's stress on beauty and our improved economic conditions, some parents demand that the dentist try to correct a problem before it is wise to do so."
+ ],
+ "labels": [
+  "demand.n.01",
+  "demand.n.01",
+  "demand.n.01",
+  "demand.n.01",
+  "demand.n.01",
+  "demand.n.01",
+  "demand.v.01",
+  "demand.v.01",
+  "demand.v.01",
+  "demand.v.01",
+  "demand.v.01",
+  "demand.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

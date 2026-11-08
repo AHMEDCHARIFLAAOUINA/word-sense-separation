@@ -1,0 +1,7 @@
+word: balance
+dataset: data/raw/semcor_words/balance.json
+senses:
+  - balance.n.01
+  - balance.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

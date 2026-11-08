@@ -1,0 +1,7 @@
+word: months
+dataset: data/raw/semcor_words/months.json
+senses:
+  - calendar_month.n.01
+  - month.n.02
+n_per_sense: 13
+prefix: "Example sentence: "

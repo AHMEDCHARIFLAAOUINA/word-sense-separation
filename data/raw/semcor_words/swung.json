@@ -1,0 +1,53 @@
+{
+ "target_word": "swung",
+ "sentences": [
+  "Example sentence: Mr. Podger sat down in it, pushed himself back and forth in one or two slow, rhythmic motions, and then swung his feet up into it.",
+  "Example sentence: Geely grunted and slid partly out, and Shayne's left arm snaked in around his neck to help him, while he set himself solidly on the roadway and swung his right fist to the big, gum-chewing jaw before Geely could straighten up.",
+  "Example sentence: He threw off the light blanket and swung his feet off the bunk, to the floor.",
+  "Example sentence: She stood clutching her shawl around her shoulders until he had swung the car onto the road.",
+  "Example sentence: He caught officer Simmons ' eye, nodded toward young Bearden, and - `` I swung my right as hard as I could.",
+  "Example sentence: We followed the asphalt road for a few miles and then swung off onto a smaller road which was nothing more than two tire marks on the earth.",
+  "Example sentence: She swung around.",
+  "Example sentence: He swung toward the front to give the news to Hettie, then stopped, barred from her by the vehemence of her blame and hate.",
+  "Example sentence: The flat-bottomed boat swung slowly to the pull of the current.",
+  "Example sentence: One lithe leg straddled the railing and swung loosely before the creaking, torn pales.",
+  "Example sentence: He thought of Simms Purdew, who once had risen at the edge of a cornfield, a maniacal scream on his lips, and swung a clubbed musket like a flail to beat down the swirl of Rebel bayonets about him.",
+  "Example sentence: He swung up over the wheel.",
+  "Example sentence: On these posts the gates swung open with a squeak and shut with a metallic clang.",
+  "Example sentence: The door swung open, and Jess said sourly, `` What the hell's the matter with you? ''"
+ ],
+ "labels": [
+  "swing.v.01",
+  "swing.v.01",
+  "swing.v.01",
+  "swing.v.01",
+  "swing.v.01",
+  "swing.v.01",
+  "swing.v.01",
+  "swing.v.02",
+  "swing.v.02",
+  "swing.v.02",
+  "swing.v.02",
+  "swing.v.02",
+  "swing.v.02",
+  "swing.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

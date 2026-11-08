@@ -1,0 +1,53 @@
+{
+ "target_word": "proved",
+ "sentences": [
+  "Example sentence: I wrote her that I'd met up with Eileen and that old bonds had proved too strong and asked her to send my clothes down by express.",
+  "Example sentence: But at least the pessimists who believed that the world organization had plunged to its death in that plane crash in the Congo have been proved wrong.",
+  "Example sentence: The supposed tactual sense of spatial location and orientation in the patient and his ability to specify the location of a member, as well as the direction and scope of a movement, passively executed (with one of his members), proved to have been, on the contrary, very considerably affected ''.",
+  "Example sentence: The resulting magnetic effect proved stronger than when the discharge was made lengthwise.",
+  "Example sentence: The 140414 Americans who gave `` the last full measure of devotion '' to prevent disunion, preserved individual freedom in the United States from the dangers of anarchy, inherent in confederations, which throughout history have proved fatal in the end to all associations composed primarily of sovereign states, and to the liberties of their people.",
+  "Example sentence: We have proved so able to solve technological problems that to contend we cannot realize a universal goal in the immediate future is to be extremely shortsighted, if nothing else.",
+  "Example sentence: More than 300 teenagers last Sunday proved there is and as many more are expected to prove it again for Jim Kern and his wife Lynn from 4 to 8 p. m. Sunday at First Presbyterian Church.",
+  "Example sentence: Yet this cannot be proved.",
+  "Example sentence: Player immediately proved he was not in the least awed by the dramatic proximity of Palmer.",
+  "Example sentence: The Masters golf tournament proved last Monday what it can do to the strongest men and the staunchest nerves.",
+  "Example sentence: It might be postulated that these subjects are unduly afraid of being wrong; that they perceive new internal and environmental situations as `` threatening '' until they are tested and proved otherwise.",
+  "Example sentence: Berman, whose fame has rested in recent years on his skills as a night club monologist, proved himself very much at home in musical comedy.",
+  "Example sentence: She said that proved she wasn't to be trusted with a fire in her room, and she could be burned to a crisp without anybody knowing it.",
+  "Example sentence: This proved conclusively that The Wrangler was a jinx, so he walked on down to Hurrays, an even more glorified gambling den than the Golden Calf."
+ ],
+ "labels": [
+  "prove.v.01",
+  "prove.v.01",
+  "prove.v.01",
+  "prove.v.01",
+  "prove.v.01",
+  "prove.v.01",
+  "prove.v.01",
+  "prove.v.02",
+  "prove.v.02",
+  "prove.v.02",
+  "prove.v.02",
+  "prove.v.02",
+  "prove.v.02",
+  "prove.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "greek",
+ "sentences": [
+  "Example sentence: The rows of animals and birds, in particular, suggest awareness of Oriental animal friezes, transmitted perhaps via Syrian silver bowls and textiles, but the specific forms of these rows on local vases and metal products are nonetheless Greek.",
+  "Example sentence: To have the Greek paper is not the great help that at first flush it seemed.",
+  "Example sentence: The landscape of Greek history broadens widely, and rather abruptly, in the eighth century B.C., the age of Homer's `` rosy fingered Dawn ''.",
+  "Example sentence: The dominant pottery of the century was Geometric; political organization revolved about the basileis; trade was just beginning to expand; the gods who protected the Greek countryside were only now putting on their sharply anthropomorphic dress.",
+  "Example sentence: Those named in the Greek paper were manufacturing reasons to steal aft under pretence of some call of duty, so as to be near Spencer, watching an opportunity to communicate with him.",
+  "Example sentence: In the vases this spirit may perhaps at times bore or repel one in its internal self-satisfaction, but the best of the Geometric pins have rightly been considered among the most beautiful ever made in the Greek world.",
+  "Example sentence: You explain English by Greek ''.",
+  "Example sentence: They answered him in monosyllables, nods, occasionally muttering in Greek to one another, awaiting the word from Papa, who restlessly cracked his knuckles, anxious to stuff himself into his white Cadillac and burst off to the freeway.",
+  "Example sentence: This emphasis upon death rather than sin as man's fundamental problem Irenaeus shares with many early theologians, especially the Greek speaking ones.",
+  "Example sentence: It was not even in writing Latin epigrams, sometimes bawdy ones, or in translating Lucian from Greek into Latin or in defending the study of Greek against the attack of conservative academics, or in attacking the conservative theologians who opposed Erasmus's philological study of the New Testament."
+ ],
+ "labels": [
+  "greek.a.01",
+  "greek.a.01",
+  "greek.a.01",
+  "greek.a.01",
+  "greek.a.01",
+  "greek.n.01",
+  "greek.n.01",
+  "greek.n.01",
+  "greek.n.01",
+  "greek.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

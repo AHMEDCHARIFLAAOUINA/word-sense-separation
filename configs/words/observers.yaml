@@ -1,0 +1,7 @@
+word: observers
+dataset: data/raw/semcor_words/observers.json
+senses:
+  - observer.n.02
+  - perceiver.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "slipped",
+ "sentences": [
+  "Example sentence: Hence the title of the book, referring to the soldiers and subjects of the king; on the fatal battlefield of Poltava, to quote from the novel, `` the wreath he twined for himself slipped down upon his people ''.",
+  "Example sentence: And once Bake slipped in, pale and drawn, last night's liquor still on his breath with some of today's added to it.",
+  "Example sentence: Then he slipped and went down on his hands and knees in the melting snow.",
+  "Example sentence: They reached the guard house without alerting the men on the walls above, and Powers slipped through the door.",
+  "Example sentence: Rumor had it he slipped two small rocks under each victim's head as a sort of trademark.",
+  "Example sentence: No one told on Ludie, not even when he slipped live grasshoppers into the mite-box.",
+  "Example sentence: Gavin slipped his arms around his chest and hugged him fiercely.",
+  "Example sentence: Slowly and thoughtfully, she slipped the ornament into the pocket of her slacks, moved down the stairs and out of the house."
+ ],
+ "labels": [
+  "steal.v.02",
+  "steal.v.02",
+  "steal.v.02",
+  "steal.v.02",
+  "slip.v.02",
+  "slip.v.02",
+  "slip.v.02",
+  "slip.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

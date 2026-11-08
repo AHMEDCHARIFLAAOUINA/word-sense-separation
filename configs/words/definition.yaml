@@ -1,0 +1,7 @@
+word: definition
+dataset: data/raw/semcor_words/definition.json
+senses:
+  - definition.n.02
+  - definition.n.01
+n_per_sense: 7
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: earn
+dataset: data/raw/semcor_words/earn.json
+senses:
+  - earn.v.02
+  - gain.v.08
+n_per_sense: 5
+prefix: "Example sentence: "

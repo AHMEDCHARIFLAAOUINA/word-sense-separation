@@ -1,0 +1,35 @@
+{
+ "target_word": "item",
+ "sentences": [
+  "Example sentence: Determine if the particular State's unadjusted allotment (result obtained in item 11 above) is greater than its maximum allotment, and if so lower its unadjusted allotment to its maximum allotment.",
+  "Example sentence: Determine the ratio of 50% to the average per capita income of the U. S. (Divide 50 by the result obtained in item 2 above.)",
+  "Example sentence: Determine the sum of the products obtained in item 8 above, for all the States.",
+  "Example sentence: (Divide 40 by the amount used in item 2 above.)",
+  "Example sentence: The morning hawk, hungry for any eatable, killable, digestible item, kept his eyes on the ring of anchored ships that lay off the shores in the bay, sheltered by the Jersey inlets.",
+  "Example sentence: The Taylor Scale was adapted from the Minnesota Multiphastic Personality Inventory, with item selection based upon clinical definitions of anxiety.",
+  "Example sentence: A news item described the launching of a ship: `` Completing the ceremony, the beautiful movie star smashed a bottle of champagne over her stern as she slid gracefully down the ways into the sea ''.",
+  "Example sentence: An item in the letters column of a newspaper renewed a subscription, adding: `` I personally enjoy your newspaper as much as my husband ''."
+ ],
+ "labels": [
+  "item.n.01",
+  "item.n.01",
+  "item.n.01",
+  "item.n.01",
+  "item.n.03",
+  "item.n.03",
+  "item.n.03",
+  "item.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

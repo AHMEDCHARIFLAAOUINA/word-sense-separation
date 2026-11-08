@@ -1,0 +1,7 @@
+word: french
+dataset: data/raw/semcor_words/french.json
+senses:
+  - french.a.01
+  - french.n.01
+n_per_sense: 6
+prefix: "Example sentence: "

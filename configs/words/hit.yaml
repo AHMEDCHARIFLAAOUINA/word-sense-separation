@@ -1,0 +1,7 @@
+word: hit
+dataset: data/raw/semcor_words/hit.json
+senses:
+  - hit.v.01
+  - hit.v.02
+n_per_sense: 16
+prefix: "Example sentence: "

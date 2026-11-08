@@ -1,0 +1,47 @@
+{
+ "target_word": "instant",
+ "sentences": [
+  "Example sentence: For an instant his men hesitated, unable to believe that their lieutenant, the most popular officer in the regiment, was dead.",
+  "Example sentence: For an instant John longed for the sound of the bells of Noyon-la-Sainte, the touch of his mother's hand, the lilt of Charles's voice in the square raftered rooms, his father's bass tones rumbling to the canons, and the sight of the beloved bishop.",
+  "Example sentence: For an instant John was stunned.",
+  "Example sentence: It was as though, in that instant, he had felt the flatness of collage as too constricting and had suddenly tried to escape all the way back - or forward - to literal three-dimensionality.",
+  "Example sentence: For an instant the old aunt felt something indefinable flash through her smile.",
+  "Example sentence: From above one could only occasionally catch a glimpse of life on the floor of this green sea: a neighbor's gingham skirt flashing into sight for an instant on the path beneath her grape-arbor, or the movement of hands above a clothesline and the flutter of garments hung there, half-way down the block.",
+  "Example sentence: Memory flooded him the instant he opened his eyes and the sick feeling knotted his stomach.",
+  "Example sentence: All this went through Casey's mind in the first instant, but what held his interest was the fact that these two should be together at all.",
+  "Example sentence: The room was bathed in light at the instant Muller's second shot came.",
+  "Example sentence: Mark's thoughts must have been keeping silent pace beside his own, climbing the same crags in dirty white sneakers, clambering out on top of the headland and coming upon the sudden glinting water at the same instant.",
+  "Example sentence: The wastebasket stood near the wall next to the divan, and the instant Casey picked it up he knew what had happened.",
+  "Example sentence: The man had come floundering aboard the flat-bottomed barge at the last instant, brandishing the flag of truce."
+ ],
+ "labels": [
+  "blink_of_an_eye.n.01",
+  "blink_of_an_eye.n.01",
+  "blink_of_an_eye.n.01",
+  "blink_of_an_eye.n.01",
+  "blink_of_an_eye.n.01",
+  "blink_of_an_eye.n.01",
+  "moment.n.01",
+  "moment.n.01",
+  "moment.n.01",
+  "moment.n.01",
+  "moment.n.01",
+  "moment.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

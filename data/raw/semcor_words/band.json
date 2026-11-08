@@ -1,0 +1,41 @@
+{
+ "target_word": "band",
+ "sentences": [
+  "Example sentence: As a finale is appended a close-up of one of the band taking aim and firing his revolver straight at the audience.",
+  "Example sentence: Figures seemed to crouch in the surrounding dark; in the distance he saw a band of men who seemed to advance and retreat even as he watched.",
+  "Example sentence: A band of robbers enters a railroad station, overpowers and ties up the telegraph operator, holds up the train and escapes.",
+  "Example sentence: In September 1817 at Fort Daer (Pembina) Dickson met the noble lord whom, with the help of a band of Sioux, he escorted to Prairie du Chien.",
+  "Example sentence: His being and His will - Stevie could not divide God from his Papa - illumined every parish face, turned the choir into a band of angels, and the pulpit into the tollgate to Heaven.",
+  "Example sentence: Carrying it to the living room, she imagined the picture she made: tall and roundly slim, a bit sophisticated in her yellow sheath, with a graceful swingy walk that she had learned as a twirler with the school band.",
+  "Example sentence: One day he followed the Irish Jasper Greens, the town band, to a picnic and spent the entire day listening, while his family spent the day looking.",
+  "Example sentence: With the help of Ziggy Elman, also in the band, he transformed a traditional Jewish melody into a popular song, `` And the Angels Sing ''.",
+  "Example sentence: While with the Whiteman band Mercer met Jerry Arlen.",
+  "Example sentence: After leaving Whiteman, Mercer joined the Benny Goodman band as a vocalist."
+ ],
+ "labels": [
+  "set.n.05",
+  "set.n.05",
+  "set.n.05",
+  "set.n.05",
+  "set.n.05",
+  "band.n.02",
+  "band.n.02",
+  "band.n.02",
+  "band.n.02",
+  "band.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

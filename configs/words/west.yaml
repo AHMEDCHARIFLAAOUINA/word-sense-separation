@@ -1,0 +1,7 @@
+word: west
+dataset: data/raw/semcor_words/west.json
+senses:
+  - west.n.01
+  - west.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

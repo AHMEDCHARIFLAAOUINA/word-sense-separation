@@ -1,0 +1,35 @@
+{
+ "target_word": "ambiguous",
+ "sentences": [
+  "Example sentence: Another less ambiguous case read as follows: `` The bearer of this letter has served me for two years to his complete satisfaction.",
+  "Example sentence: No less ambiguous was the indefinity of a certain clergyman's sermon.",
+  "Example sentence: The sequence of events leading to his important discovery still remains ambiguous but it seems that one of the advanced students at the university related that the first direct event that led to the publication of Oersted's discovery occurred during a private lecture made before a group of other advanced students in the spring of 1820.",
+  "Example sentence: Nothing in English has been ridiculed as much as the ambiguous use of words, unless it be the ambiguous use of sentences.",
+  "Example sentence: Thus every part and plane of the picture keeps changing place in relative depth with every other part and plane; and it is as if the only stable relation left among the different parts of the picture is the ambivalent and ambiguous one that each has with the surface.",
+  "Example sentence: The jury said it did find that many of Georgia's registration and election laws `` are outmoded or inadequate and often ambiguous ''.",
+  "Example sentence: It is clear that patterns of stress sometimes show construction unambiguously in the spoken language where without the help of context it would be ambiguous in the written.",
+  "Example sentence: Flatness may now monopolize everything, but it is a flatness become so ambiguous and expanded as to turn into illusion itself - at least an optical if not, properly speaking, a pictorial illusion."
+ ],
+ "labels": [
+  "equivocal.a.01",
+  "equivocal.a.01",
+  "equivocal.a.01",
+  "equivocal.a.01",
+  "ambiguous.a.02",
+  "ambiguous.a.02",
+  "ambiguous.a.02",
+  "ambiguous.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

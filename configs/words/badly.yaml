@@ -1,0 +1,7 @@
+word: badly
+dataset: data/raw/semcor_words/badly.json
+senses:
+  - badly.r.01
+  - ill.r.01
+n_per_sense: 4
+prefix: "Example sentence: "

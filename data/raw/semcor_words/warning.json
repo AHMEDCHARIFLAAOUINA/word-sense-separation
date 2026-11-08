@@ -1,0 +1,41 @@
+{
+ "target_word": "warning",
+ "sentences": [
+  "Example sentence: After the first two murders, the warning notes were rarely ignored.",
+  "Example sentence: If there is time after the warning, the basement shielding could be improved substantially by blocking windows with bricks, dirt, books, magazines, or other heavy material.",
+  "Example sentence: There is little doubt that the warning system saved lives and reduced the damage.",
+  "Example sentence: The warning system immediately went into action.",
+  "Example sentence: The moment the alarm goes off, information is immediately forwarded to Honolulu, which is the center of the warning system.",
+  "Example sentence: Pausing in the outside door to glance behind him, Pat looked his unspoken warning and stepped out.",
+  "Example sentence: Despite the warning, there was a unanimous vote to enter a candidate, according to Republicans who attended.",
+  "Example sentence: After all, he hadn't happened upon us in that second floor hall without warning.",
+  "Example sentence: The equation was simple: wealth brought them happiness, and their united front to the world was their warning that they meant to keep everything they had, let no one in on the secrets.",
+  "Example sentence: Not in Eichmann's anti-Semitism but in the anti-Semitism of the sober German man of affairs lay the potential warning of the Trial."
+ ],
+ "labels": [
+  "warning.n.01",
+  "warning.n.01",
+  "warning.n.01",
+  "warning.n.01",
+  "warning.n.01",
+  "admonition.n.01",
+  "admonition.n.01",
+  "admonition.n.01",
+  "admonition.n.01",
+  "admonition.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

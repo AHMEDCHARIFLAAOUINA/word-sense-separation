@@ -1,0 +1,7 @@
+word: reason
+dataset: data/raw/semcor_words/reason.json
+senses:
+  - reason.n.01
+  - reason.n.02
+n_per_sense: 15
+prefix: "Example sentence: "

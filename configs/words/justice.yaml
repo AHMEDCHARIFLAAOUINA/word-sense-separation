@@ -1,0 +1,7 @@
+word: justice
+dataset: data/raw/semcor_words/justice.json
+senses:
+  - justice.n.01
+  - justice.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

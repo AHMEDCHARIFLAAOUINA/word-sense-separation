@@ -1,0 +1,7 @@
+word: body
+dataset: data/raw/semcor_words/body.json
+senses:
+  - body.n.01
+  - body.n.02
+n_per_sense: 6
+prefix: "Example sentence: "

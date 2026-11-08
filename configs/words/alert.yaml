@@ -1,0 +1,7 @@
+word: alert
+dataset: data/raw/semcor_words/alert.json
+senses:
+  - alert.a.01
+  - alarm.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

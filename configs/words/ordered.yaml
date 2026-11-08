@@ -1,0 +1,7 @@
+word: ordered
+dataset: data/raw/semcor_words/ordered.json
+senses:
+  - order.v.01
+  - order.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

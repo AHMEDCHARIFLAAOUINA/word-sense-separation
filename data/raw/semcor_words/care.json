@@ -1,0 +1,41 @@
+{
+ "target_word": "care",
+ "sentences": [
+  "Example sentence: Yes, we know, they're professionals, men paid to play, and they shouldn't care how they're handled, just as long as their names are spelled correctly on the first and fifteenth of each month.",
+  "Example sentence: `` I wouldn't have gone into nursing if I didn't care about people.",
+  "Example sentence: The land of the Lublin Uplands was rich, but no one seemed to care.",
+  "Example sentence: Let her call Crosson if she wanted to, let Crosson raise the roof or even can him, he didn't care.",
+  "Example sentence: Nor did they care.",
+  "Example sentence: Inability to care for the other children, difficulty in feeding the babies, who seemed colicky, bone-weary fatigue, repeated crying episodes, and short tempers reflected the family's helplessness in coping with the stressful situation.",
+  "Example sentence: Moreover, for those few there was almost no ecclesiastical representation in the city to care for their religious needs.",
+  "Example sentence: Civil Defense has far to go and many problems to solve, but is it not in the best spirit of our pioneer tradition to be not only willing, but prepared to care for our own families and help our neighbors in any disaster - storm, flood, accident or even war?",
+  "Example sentence: But when he called for his withered, wrinkled sister Rose to care for him and the children, had he guessed that all he would remember of his woman was the memory of her climbing into that streetcar?",
+  "Example sentence: An adequate system of VA hospitals is better equipped to care for the veterans than any 50 state hospitals."
+ ],
+ "labels": [
+  "care.v.01",
+  "care.v.01",
+  "care.v.01",
+  "care.v.01",
+  "care.v.01",
+  "care.v.02",
+  "care.v.02",
+  "care.v.02",
+  "care.v.02",
+  "care.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

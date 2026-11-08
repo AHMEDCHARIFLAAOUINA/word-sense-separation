@@ -1,0 +1,41 @@
+{
+ "target_word": "frequencies",
+ "sentences": [
+  "Example sentence: In medicine the frequencies are much higher, transducers and the sonar beams themselves are much smaller, and different scanning techniques may be used, but the principles involved are the same as in sonar.",
+  "Example sentence: These frequencies are amplified and detected by the FM receiver after each burst of transmitted energy and, after the `` pill '' has been calibrated, precise internal pressure indications can be obtained.",
+  "Example sentence: High sensitivity in radio telescopes is achieved by reducing the bandwidth of the receiver; therefore, only with precise foreknowledge of the line frequencies is an astronomical search for the radio spectra of these molecules feasible.",
+  "Example sentence: To secure precise measurements of these frequencies, a research program in free radical microwave spectroscopy has been started.",
+  "Example sentence: Results of this experiment include the frequencies of the two strong spectral lines by which OH may be identified in interstellar gas; the frequencies are 1665.32 and 1667.36 * * f, with an uncertainty of 0.10 * * f.",
+  "Example sentence: The body, senses and brain, in common with all matter, have their counterpart on each of a countless number of frequencies.",
+  "Example sentence: That the dream was a reality on the infinite progressions of universal, gradient frequencies, across which the modern professor and the priest of ancient Nippur met?",
+  "Example sentence: Three seconds flat is the usual time, and the space is crossed by moderate mileage, while the overwhelming immensity of such journeys must be conceived as a static pulsation through an enormous number of coexistent frequencies which perpetuate all events.",
+  "Example sentence: So we may conceive the coexistence of the infinite number of universal, apparently momentary states of matter, successive one after another in consciousness, but permanent each on its own basic phase of the progressive frequencies.",
+  "Example sentence: Thus his persistence values for some stem frequencies per meaning is: stem identical in 8 languages, 100%; stem frequencies 7 and 1, 86%; stem frequencies 4 and 4, 64%; stem frequencies 4, 3, and 1, 57%."
+ ],
+ "labels": [
+  "frequency.n.01",
+  "frequency.n.01",
+  "frequency.n.01",
+  "frequency.n.01",
+  "frequency.n.01",
+  "frequency.n.02",
+  "frequency.n.02",
+  "frequency.n.02",
+  "frequency.n.02",
+  "frequency.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

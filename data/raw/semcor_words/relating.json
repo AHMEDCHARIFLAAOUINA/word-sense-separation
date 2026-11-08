@@ -1,0 +1,35 @@
+{
+ "target_word": "relating",
+ "sentences": [
+  "Example sentence: It is the art of relating the finite to the infinite, of doing our best to insure that the particularistic requirements of religious institutions will not thwart God's intent of unity among men more than is minimally necessary.",
+  "Example sentence: He seeks to make his dancers more `` godlike '' by relating them to the impersonal elements of shape, light color, and sound.",
+  "Example sentence: To raise the dancer out of his personal, pedestrian self, Mr. Nikolais has experimented with relating him to a larger, environmental orbit.",
+  "Example sentence: This subsection shall not be so construed as to deprive the owner of any background patent relating thereto of such rights as he may have thereunder.",
+  "Example sentence: `` Mr. Palmer will attend to any applications relating to bridges and if desired will view the proposed site, and lay out and superintend the work, or recommend a suitable person to execute it.",
+  "Example sentence: The Small Business Administration (SBA) provides guidance and advice on sources of technical information relating to small business management and research and development of products.",
+  "Example sentence: Foster and participate in regional, national, and international conferences relating to saline water conversion;",
+  "Example sentence: So few answered the question relating to their efforts to assess movable property that the results are inconclusive."
+ ],
+ "labels": [
+  "associate.v.01",
+  "associate.v.01",
+  "associate.v.01",
+  "associate.v.01",
+  "refer.v.02",
+  "refer.v.02",
+  "refer.v.02",
+  "refer.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

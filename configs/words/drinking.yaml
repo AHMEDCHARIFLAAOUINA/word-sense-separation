@@ -1,0 +1,7 @@
+word: drinking
+dataset: data/raw/semcor_words/drinking.json
+senses:
+  - drinking.n.01
+  - drink.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

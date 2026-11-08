@@ -1,0 +1,47 @@
+{
+ "target_word": "reflected",
+ "sentences": [
+  "Example sentence: Confidence in the state's economic future is reflected in the Georgia Power Company's record construction budget for this year.",
+  "Example sentence: An example of the changes which have crept over the Southern region may be seen in the Southern Negro's quest for a position in the white-dominated society, a problem that has been reflected in regional fiction especially since 1865.",
+  "Example sentence: National identification was reflected jurisprudentially in law theories which incorporated this Hegelian abstraction and saw law, domestic and international, simply as its formal reflection.",
+  "Example sentence: But the most impressive testimony to Schnabel's distinction as a teacher is reflected by the individuality which marks each student's approach as distinctly his own.",
+  "Example sentence: Today the Negro must discover his role in an industrialized South, which indicates that the racial aspect of the Southern dilemma hasn't changed radically, but rather has gradually come to be reflected in this new context, this new coat of paint.",
+  "Example sentence: And, if we follow the Rayburn pattern, as consciously or by an instinctual political sense I like to think I have followed it, then the very nature of our loyalty to our own immediate areas must necessarily be reflected in the devotion of our services to our country.",
+  "Example sentence: The viscous mud was ankle-deep, and in places great puddles spread across the road and reflected the murky light.",
+  "Example sentence: Travelers entering from the desert were confounded by what must have seemed an illusion: a great garden filled with nightingales and roses, cut by canals and terraced promenades, studded with water tanks of turquoise tile in which were reflected the glistening blue curves of a hundred domes.",
+  "Example sentence: Inability to care for the other children, difficulty in feeding the babies, who seemed colicky, bone-weary fatigue, repeated crying episodes, and short tempers reflected the family's helplessness in coping with the stressful situation.",
+  "Example sentence: The sharp ray was absorbed by a cloud, then reflected to the earth in a softer, diffused radiance.",
+  "Example sentence: These wavelengths are reflected in sequence through the specimen by the rotating mirror; the specimen is magnified by the microscope.",
+  "Example sentence: This development is reflected in the action taken in February, 1961, by the general board of the National Council of Churches, the largest Protestant organization in the US."
+ ],
+ "labels": [
+  "reflect.v.01",
+  "reflect.v.01",
+  "reflect.v.01",
+  "reflect.v.01",
+  "reflect.v.01",
+  "reflect.v.01",
+  "reflect.v.03",
+  "reflect.v.03",
+  "reflect.v.03",
+  "reflect.v.03",
+  "reflect.v.03",
+  "reflect.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

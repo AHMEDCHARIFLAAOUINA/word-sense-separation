@@ -1,0 +1,35 @@
+{
+ "target_word": "collapsed",
+ "sentences": [
+  "Example sentence: And he collapsed and died instantly.",
+  "Example sentence: The man uttered a weird cry, spun about, and collapsed in the sand.",
+  "Example sentence: Monte Brooks, 67, theatrical producer and band leader, collapsed and died Thursday in a Lloyd Center restaurant.",
+  "Example sentence: Inside the passage, he had to work his way over the fallen timber and nearly collapsed under his clumsy burden.",
+  "Example sentence: I had once been a witness when Blanche had smiled and said with only minimum ruefulness, `` Oh, my souffle has collapsed ''.",
+  "Example sentence: In 1927 his father's business collapsed, and, rather than go bankrupt, Mercer senior turned his firm over to a bank for liquidation.",
+  "Example sentence: Isaac Pitt, one of the men from Lincoln, had taken a musket ball in his belly; and though he had found the strength to run with us, now he collapsed and lay on the ground, dying, the Reverend holding his head and wiping his hot brow.",
+  "Example sentence: The redcoat officer collapsed like a punctured bolster, and the horse reared and threw him from the saddle, except that one booted foot caught in the stirrup."
+ ],
+ "labels": [
+  "break_down.v.08",
+  "break_down.v.08",
+  "break_down.v.08",
+  "break_down.v.08",
+  "collapse.v.01",
+  "collapse.v.01",
+  "collapse.v.01",
+  "collapse.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

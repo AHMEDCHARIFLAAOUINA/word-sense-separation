@@ -1,0 +1,7 @@
+word: want
+dataset: data/raw/semcor_words/want.json
+senses:
+  - desire.v.01
+  - want.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

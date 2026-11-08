@@ -1,0 +1,7 @@
+word: rejected
+dataset: data/raw/semcor_words/rejected.json
+senses:
+  - refuse.v.02
+  - reject.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

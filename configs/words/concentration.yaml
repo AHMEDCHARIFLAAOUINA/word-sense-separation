@@ -1,0 +1,7 @@
+word: concentration
+dataset: data/raw/semcor_words/concentration.json
+senses:
+  - concentration.n.01
+  - concentration.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

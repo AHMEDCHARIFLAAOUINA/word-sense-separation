@@ -1,0 +1,35 @@
+{
+ "target_word": "association",
+ "sentences": [
+  "Example sentence: The American gun and ammunition producers sponsor a successful promotional program through their industry trade association.",
+  "Example sentence: All of them were there in this loosely knit association of diversified ideologies, and each berated the other and beat his breast for his own approaches.",
+  "Example sentence: Representing as it did the efforts of only unauthorized individuals of the Roman and Anglican Churches, and urging a communion of prayer unacceptable to Rome, this association produced little fruit, and, in fact, was condemned by the Holy Office in 1864.",
+  "Example sentence: Arnold sent for Joe Dey, the executive secretary of the golf association.",
+  "Example sentence: An understanding of the new role of residential association in an industrial society serves to illuminate the forces which have fashioned the iron cage of conformity which imprisons the churches in their suburban captivity.",
+  "Example sentence: Mercer's Whiteman association brought him into contact with Hoagy Carmichael, whose `` Snowball '' Mercer relyriced as `` Lazybones '', in which form it became a hit and marked the real beginning of Mercer's song writing career.",
+  "Example sentence: Attention will be given in the next chapter to the style of association in the denominational churches; this style is characteristically an expression of the communal style of the middle classes.",
+  "Example sentence: Missionary outreach by friendly contact looks somewhat different when one reflects on what is known about friendly contact in metropolitan neighborhoods; the majority of such contacts are with people of similar social and economic position; association by level of achievement is the dominant principle of informal relations."
+ ],
+ "labels": [
+  "association.n.01",
+  "association.n.01",
+  "association.n.01",
+  "association.n.01",
+  "association.n.02",
+  "association.n.02",
+  "association.n.02",
+  "association.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

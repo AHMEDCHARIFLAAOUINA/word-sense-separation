@@ -1,0 +1,7 @@
+word: expressed
+dataset: data/raw/semcor_words/expressed.json
+senses:
+  - express.v.02
+  - express.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

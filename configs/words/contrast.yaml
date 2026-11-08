@@ -1,0 +1,7 @@
+word: contrast
+dataset: data/raw/semcor_words/contrast.json
+senses:
+  - contrast.n.01
+  - contrast.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

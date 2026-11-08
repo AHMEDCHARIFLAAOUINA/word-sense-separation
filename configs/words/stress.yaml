@@ -1,0 +1,7 @@
+word: stress
+dataset: data/raw/semcor_words/stress.json
+senses:
+  - stress.n.01
+  - stress.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

@@ -1,0 +1,47 @@
+{
+ "target_word": "depth",
+ "sentences": [
+  "Example sentence: The area adjacent to one edge of a piece of affixed material - or simply of a painted in form - will be shaded to pry that edge away from the surface, while something will be drawn, painted or even pasted over another part of the same shape to drive it back into depth.",
+  "Example sentence: The waves of a 1923 tsunami in Sagami Bay brought to the surface and battered to death huge numbers of fishes that normally live at a depth of 3000 feet.",
+  "Example sentence: The infrared emission could then be assumed to originate at the surface of the moon, while the radio emission originates at some depth beneath the surface, where the temperature variation due to solar radiation is reduced in amplitude and shifted in phase.",
+  "Example sentence: Left in their previous atom-like smallness, they would have cut away too abruptly into depth; and the broad, opaque shapes of pasted paper would have been isolated in such a way as to make them jump out of plane.",
+  "Example sentence: For it had turned out, by a further paradox of Cubism, that the means to an illusion of depth and plasticity had now become widely divergent from the means of representation or imaging.",
+  "Example sentence: By its greater corporeal presence and its greater extraneousness, the affixed paper or cloth serves for a seeming moment to push everything else into a more vivid idea of depth than the simulated printing or simulated textures had ever done.",
+  "Example sentence: I would say, too, that the study of literature tends to give a person what I shall call depth.",
+  "Example sentence: At the moment of crisis it had no more depth than an old school tie.",
+  "Example sentence: It will occur to anyone that the teacher must have adequate education, a depth and breadth of knowledge far beyond the immediate necessities of his course plus complete dedication to his subject and to his students.",
+  "Example sentence: The Command technique invites you to listen to the depth of the orchestration.",
+  "Example sentence: Owing to the restrained usages characteristic of 19 th century America, these letters usually were stereotyped and revealed little depth of feeling.",
+  "Example sentence: Mimesis is the nearest possible thing to the actual re-living of experience, in which the imagining person recovers through images something of the force and depth characteristic of experience itself."
+ ],
+ "labels": [
+  "depth.n.01",
+  "depth.n.01",
+  "depth.n.01",
+  "depth.n.01",
+  "depth.n.01",
+  "depth.n.01",
+  "depth.n.02",
+  "depth.n.02",
+  "depth.n.02",
+  "depth.n.02",
+  "depth.n.02",
+  "depth.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: reviewed
+dataset: data/raw/semcor_words/reviewed.json
+senses:
+  - review.v.01
+  - review.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

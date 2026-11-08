@@ -1,0 +1,7 @@
+word: possible
+dataset: data/raw/semcor_words/possible.json
+senses:
+  - possible.a.01
+  - potential.a.01
+n_per_sense: 18
+prefix: "Example sentence: "

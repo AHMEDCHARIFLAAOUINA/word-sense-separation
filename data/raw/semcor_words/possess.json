@@ -1,0 +1,35 @@
+{
+ "target_word": "possess",
+ "sentences": [
+  "Example sentence: (1) '' A second tale shows still more clearly the kind of powers a truly spiritual monk could possess: `` On one occasion Yang Shan (Kyo-zan) saw a stranger monk flying through the air.",
+  "Example sentence: Whether the pair of Sudanese ivory carvings you lifted really possess the juju to turn your livers to lead, as a dealer in Khartoum assured me, I am not competent to say.",
+  "Example sentence: Each point on C, as a vertex, may possess a finite number of corresponding diagonal points by the above construction.",
+  "Example sentence: An agent would likely be selected which would possess sufficient viability and virulence stability to meet realistic minimal logistic requirements.",
+  "Example sentence: Since the latter obviously require an audacity you do not possess, you may perhaps suppose that I am taunting you as socially inferior.",
+  "Example sentence: Where such a value system prevails, it always unifies all who possess it; it enables members of the society to operate as a system.",
+  "Example sentence: My aim in mentioning this factor obviously is not to give license to `` wild therapy '' but rather to encourage us to use the time-honored clinical casework skills we already possess, and to use them with greater confidence, precision, and professional pride.",
+  "Example sentence: It is for them a given which they and they alone possess."
+ ],
+ "labels": [
+  "possess.v.01",
+  "possess.v.01",
+  "possess.v.01",
+  "possess.v.01",
+  "own.v.01",
+  "own.v.01",
+  "own.v.01",
+  "own.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

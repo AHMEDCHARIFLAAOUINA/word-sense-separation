@@ -1,0 +1,53 @@
+{
+ "target_word": "hung",
+ "sentences": [
+  "Example sentence: In point of fact, this is a beige box with a bright red door, about one and a half feet square and hung from the wall about six feet from the door to Wisman's right.",
+  "Example sentence: It is the gait of the human who must run to live: arms dangling, legs barely swinging over the ground, head hung down and only occasionally swinging up to see the target, a loose motion that is just short of stumbling and yet is wonderfully graceful.",
+  "Example sentence: Then we hung overboard in the water.",
+  "Example sentence: A brace of pistols, holstered on belts, hung from a peg, along with ammunition pouches.",
+  "Example sentence: We were less than a quarter of a mile from the road, and we could trace its shape from the ribbon of powder smoke and dust that hung over it.",
+  "Example sentence: From above one could only occasionally catch a glimpse of life on the floor of this green sea: a neighbor's gingham skirt flashing into sight for an instant on the path beneath her grape-arbor, or the movement of hands above a clothesline and the flutter of garments hung there, half-way down the block.",
+  "Example sentence: A match flared, and he reached above his head to light a lantern which hung from a wire loop.",
+  "Example sentence: The smoke from that chimney rose as sluggishly as smoke from any other, and hung as sadly in the drizzle, creeping back down along the sopping canvas of the roof.",
+  "Example sentence: I had mounted it on velvet and hung it over my desk to remind me always to use the power of the paper in a Christian manner.",
+  "Example sentence: Modern embroidered panels, framed and meant to be hung on the wall, are another aspect of this trend.",
+  "Example sentence: He drew a long breath and opened the trunk and hung out her clothes and spoilables upon the wagon ribs.",
+  "Example sentence: Finally men arrested Him, gave Him a mock trial, flogged Him, nailed Him on a cross and hung Him between earth and heaven; and God allowed it.",
+  "Example sentence: His hands lay loosely, yet stiffly - they were like wax hands: almost lifelike, not quite - folded in his lap; his mouth hung slightly open.",
+  "Example sentence: Black strips of skin hung from it."
+ ],
+ "labels": [
+  "hang.v.01",
+  "hang.v.01",
+  "hang.v.01",
+  "hang.v.01",
+  "hang.v.01",
+  "hang.v.01",
+  "hang.v.01",
+  "hang.v.02",
+  "hang.v.02",
+  "hang.v.02",
+  "hang.v.02",
+  "hang.v.02",
+  "hang.v.02",
+  "hang.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

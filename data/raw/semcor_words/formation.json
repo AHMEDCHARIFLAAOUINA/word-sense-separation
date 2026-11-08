@@ -1,0 +1,35 @@
+{
+ "target_word": "formation",
+ "sentences": [
+  "Example sentence: When that failed, he enlisted Branch Rickey's aid in the formation of a third major league, the Continental, with New York as the key franchise.",
+  "Example sentence: We leap from event to event - including the formation of the posse - even though the events, in `` reality '' are taking place not in sequence but simultaneously, and not near each other but at a considerable distance.",
+  "Example sentence: King Muhammad /5, was known to be most sympathetic to the formation of local self-government and made the first firm promise of elections on May Day, 1957.",
+  "Example sentence: Related to micelle formation is the technologically important ability of detergent actives to congregate at oil water interfaces in such a manner that the polar (or ionized) end of the molecule is directed towards the aqueous phase and the hydrocarbon chain towards the oily phase.",
+  "Example sentence: However, the formation of organically bound iodine, mainly mono-iodotyrosine, can be accomplished in cell-free systems.",
+  "Example sentence: Little is known of the synthetic mechanisms for formation of thyroglobulin.",
+  "Example sentence: A study of their activity on thyroglobulin has shown that thyroxine is not preferentially released and that the degradation proceeds stepwise with the formation of macromolecular intermediates (Alpers, Petermann and Rall, 1956).",
+  "Example sentence: On the other hand, there are a few antithyroid drugs of this same general type, such as resorcinol, possessing no reducing activity and possibly acting through formation of a complex with molecular iodine."
+ ],
+ "labels": [
+  "constitution.n.02",
+  "constitution.n.02",
+  "constitution.n.02",
+  "constitution.n.02",
+  "formation.n.02",
+  "formation.n.02",
+  "formation.n.02",
+  "formation.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

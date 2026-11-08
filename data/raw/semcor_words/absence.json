@@ -1,0 +1,47 @@
+{
+ "target_word": "absence",
+ "sentences": [
+  "Example sentence: Psychical blindness is a condition in which there is a total absence of visual memory-images, a condition in which, for example, one is unable to remember something just seen or to conjure up a memory-picture of the visible appearance of a well-known friend in his absence.",
+  "Example sentence: The possibility that the absence or presence of these shunts is species dependent is therefore inferred.",
+  "Example sentence: In the absence of a truly adequate conceptuality in which the gospel can be expressed, the unavoidable need to demythologize it makes use of whatever resources are at hand - and this usually means one or another of the various forms of `` folk religion '' current in the situation.",
+  "Example sentence: The absence of successful Negroes in the world of scholarship and science has tended to tamp down enthusiasm among Negro youth for academic careers.",
+  "Example sentence: In the absence of a reservoir of political consensus each organized political group hopes that the elections will give them new prominence, but in a system where there is as yet no place for the less prominent.",
+  "Example sentence: Position (2) appears to us to be unlikely in view of the absence of a piezoelectric effect and on general chemical structural grounds.",
+  "Example sentence: Mark stopped the car and switched off the lights and they sat looking at the water, which, there being no moon out, at first could be distinguished from the sky only by an absence of stars.",
+  "Example sentence: This baffling lack of distinct details recalls the secretary whose employer was leaving the office and told her what to answer if anyone called in his absence.",
+  "Example sentence: In `` The King's Ride '', Charles breaks out of a long period of petulance and inertia, regains his old self, escapes from Turkey, and finally reaches his own land after an absence of eighteen years.",
+  "Example sentence: Psychical blindness is a condition in which there is a total absence of visual memory-images, a condition in which, for example, one is unable to remember something just seen or to conjure up a memory-picture of the visible appearance of a well-known friend in his absence.",
+  "Example sentence: For expository purposes, this is best treated as a model which spells out the conditions under which an important industry affected with the public interest would find it profitable to raise wages even in the absence of union pressures for higher wages.",
+  "Example sentence: The new Council was itself inescapably of political meaning, which was most clearly revealed in the absence of any U.N.F.P. members and the presence of several Istiqlal leaders."
+ ],
+ "labels": [
+  "absence.n.01",
+  "absence.n.01",
+  "absence.n.01",
+  "absence.n.01",
+  "absence.n.01",
+  "absence.n.01",
+  "absence.n.02",
+  "absence.n.02",
+  "absence.n.02",
+  "absence.n.02",
+  "absence.n.02",
+  "absence.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

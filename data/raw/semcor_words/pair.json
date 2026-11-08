@@ -1,0 +1,53 @@
+{
+ "target_word": "pair",
+ "sentences": [
+  "Example sentence: The White Sox had taken a 5 - 4 lead in the top of the sixth on a pair of pop fly hits - a triple by Roy Sievers and single by Camilo Carreon - a walk and a sacrifice fly.",
+  "Example sentence: Each person votes for one of a pair of pictures to receive a popular prize.",
+  "Example sentence: `` I'll get an elegant pair of thin soled Italian shoes tomorrow, Carla ''.",
+  "Example sentence: Can't you get another pair ''?",
+  "Example sentence: `` Didn't you have an old pair of painting overalls in the garage?",
+  "Example sentence: Shaw and Skorich headed a group of players, coaches and team officials who received an engrossed copy of an official city citation and a pair of silver cufflinks shaped like a football.",
+  "Example sentence: Whether the pair of Sudanese ivory carvings you lifted really possess the juju to turn your livers to lead, as a dealer in Khartoum assured me, I am not competent to say.",
+  "Example sentence: Three were doubles, Brooks Robinson getting a pair and Marv Breeding one.",
+  "Example sentence: David reached for the pair of pistols in the saddlebags at his feet.",
+  "Example sentence: He went down the hall to Eugene's bathroom, to turn on the hot-water heater, and on the side of the tub he saw a pair of blue wool swimming trunks.",
+  "Example sentence: As shown in Figure 1, there is a connection for communication between every pair of points.",
+  "Example sentence: His hands, which had been as quick as a pair of fluttering birds, were now neither active nor really relaxed.",
+  "Example sentence: The Orioles got a run in the first inning when Breeding, along with Robinson, the two Birds who got a pair of hits, doubled to right center, moved to third on Russ Snyder's single to right and crossed on Kunkel's wild pitch into the dirt in front of the plate.",
+  "Example sentence: He stroked the hens and they responded with delighted clucks, he gobbled with the turkeys and they at once were all attention, he quacked with the ducks, and cackled with a pair of exceedingly flattered geese."
+ ],
+ "labels": [
+  "pair.n.01",
+  "pair.n.01",
+  "pair.n.01",
+  "pair.n.01",
+  "pair.n.01",
+  "pair.n.01",
+  "pair.n.01",
+  "couple.n.04",
+  "couple.n.04",
+  "couple.n.04",
+  "couple.n.04",
+  "couple.n.04",
+  "couple.n.04",
+  "couple.n.04"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

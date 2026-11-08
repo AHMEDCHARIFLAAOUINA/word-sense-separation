@@ -1,0 +1,7 @@
+word: reported
+dataset: data/raw/semcor_words/reported.json
+senses:
+  - report.v.01
+  - report.v.02
+n_per_sense: 13
+prefix: "Example sentence: "

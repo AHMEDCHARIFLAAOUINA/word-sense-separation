@@ -1,0 +1,35 @@
+{
+ "target_word": "observers",
+ "sentences": [
+  "Example sentence: Not all the observers have used the same procedures or made the same assumptions about the lunar brightness distribution when reducing the data, and this, together with differences in the methods of calibrating the antennae and receivers, must account for much of the disagreement in the measured radio brightness temperatures.",
+  "Example sentence: Those modern scholars who urge that we must keep in mind the fundamental continuity of Aegean development from earliest times - granted occasional irruptions of peoples and ideas from outside - are correct; but all too many observers have been misled by this fact into minimizing the degree of change which took place in the early first millennium.",
+  "Example sentence: He played a number of typical situations before observers, other supervisors who kept notes and then explained to him in detail what he did they thought was wrong.",
+  "Example sentence: After each presentation, the antagonist wrote his judgment of the salesmen; and so did the observers consisting of the president, three of his salesmen and a psychologist.",
+  "Example sentence: Among the observers of the 1946 tsunami at Hilo was Francis P. Shepard of the Scripps Institution of Oceanography, one of the world's foremost marine geologists.",
+  "Example sentence: Two slits enabled observers to watch across the river.",
+  "Example sentence: This in turn sets off an alarm, notifying the observers at the station that a tsunami is in progress.",
+  "Example sentence: Generally the first salvo of a tsunami is a rather sharp swell, not different enough from an ordinary wave to alarm casual observers."
+ ],
+ "labels": [
+  "observer.n.02",
+  "observer.n.02",
+  "observer.n.02",
+  "observer.n.02",
+  "perceiver.n.01",
+  "perceiver.n.01",
+  "perceiver.n.01",
+  "perceiver.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

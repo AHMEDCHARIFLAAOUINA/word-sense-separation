@@ -1,0 +1,53 @@
+{
+ "target_word": "view",
+ "sentences": [
+  "Example sentence: American policy should press constantly the view that until these governments demand efficiency and effectiveness of their bureaucracies there is not the slightest hope that they will either modernize of democratize their societies.",
+  "Example sentence: Indeed, it is even surprising in the Canon of Christ Church and Regius Professor of Ecclesiastical History, who fathered this most peculiar view, and in the brilliant Professor of Medieval and Renaissance English at Cambridge, who inherited it and is now its most eminent proponent.",
+  "Example sentence: With respect to this view, two points are worth making.",
+  "Example sentence: Richards ' view of the aesthetic experience might constitute a sixth variety: for him it constitutes, in part, the organization of impulses.",
+  "Example sentence: That tumultuous, painful and costly experience shows clearly that a law expressing a moral judgment cannot be enforced when it has little correspondence with the general view of society.",
+  "Example sentence: We granted certiorari in view of the importance of the questions in the administration of the Act.",
+  "Example sentence: The engineer turned works manager had a particular view of life - and refused to change it.",
+  "Example sentence: And to see the meaning of this new picture, imagine that you can put on more powerful glasses and go back inside the atom and have a look at it in the way we view it today.",
+  "Example sentence: In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary.",
+  "Example sentence: Yet paradoxically my liberal friends continue to view Jefferson as one of their patron saints.",
+  "Example sentence: To have any success in this effort, we must ourselves view it as an enterprise stretching over a considerable number of years, and we must encourage the recipients of our aid to view it in the same fashion.",
+  "Example sentence: On the other hand, the women class members appeared to reach a far greater understanding than have women members in other sections that it is more natural for males as a group to view sex as sex rather than always associating it with love as most women seem to do.",
+  "Example sentence: They did not view the tour of the distressed cities and towns by Secretary of Labor Goldberg as politics, which the GOP declared it to be.",
+  "Example sentence: These voters view the political process as a secret conspiracy, the object of which is to plunder them ''."
+ ],
+ "labels": [
+  "position.n.03",
+  "position.n.03",
+  "position.n.03",
+  "position.n.03",
+  "position.n.03",
+  "position.n.03",
+  "position.n.03",
+  "see.v.05",
+  "see.v.05",
+  "see.v.05",
+  "see.v.05",
+  "see.v.05",
+  "see.v.05",
+  "see.v.05"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "drinking",
+ "sentences": [
+  "Example sentence: - In addition to its recreation interests, water is needed for drinking, sanitation, and irrigation.",
+  "Example sentence: The trouble was drinking cost money.",
+  "Example sentence: She added a postscript begging me to be careful about drinking.",
+  "Example sentence: I cann't be happy long without drinking water ''.",
+  "Example sentence: `` I'm a good Baptist, and drinking & & & ''.",
+  "Example sentence: Among the boys, there is very little bravado about drinking.",
+  "Example sentence: Prohibition was the law of the land, but it was unpopular (how many of us oldsters took up drinking in prohibition days, drinking was so gay, so fashionable, especially in the sophisticated Northeast!)",
+  "Example sentence: The Fort Lauderdale encampment for drinking is foreign to most Brooklyn College boys.",
+  "Example sentence: He immediately rode on to Cheyenne, threw a ten day drinking spree and dropped some very strong hints among friends.",
+  "Example sentence: Brooklyn College is distinctive for not having an official drinking place."
+ ],
+ "labels": [
+  "drinking.n.01",
+  "drinking.n.01",
+  "drinking.n.01",
+  "drinking.n.01",
+  "drinking.n.01",
+  "drink.n.02",
+  "drink.n.02",
+  "drink.n.02",
+  "drink.n.02",
+  "drink.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: end
+dataset: data/raw/semcor_words/end.json
+senses:
+  - end.n.01
+  - end.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

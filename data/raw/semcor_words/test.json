@@ -1,0 +1,41 @@
+{
+ "target_word": "test",
+ "sentences": [
+  "Example sentence: One would need to test this proposition carefully; after all, the large (and probably unreliable) Reader's Digest literature on the `` most unforgettable character I ever met '' deals with village grocers, country doctors, favorite if illiterate aunts, and so forth.",
+  "Example sentence: He wanted time, too, to review the United States ' global commitments and to test both the policies he had inherited and new ones he was formulating.",
+  "Example sentence: Just to test himself, he played roulette for quarters on his old combination, five and seventeen, and within an hour, he had won, surprisingly, twenty dollars.",
+  "Example sentence: Do avoid puncturing or cutting into meats to test them.",
+  "Example sentence: We cannot test public opinion until the President and the leaders of the country have gone to the public to explain what is required and have asked them for support for the necessary action.",
+  "Example sentence: The x-ray data did not permit Douglass to determine uniquely the space group, but a negative test for piezoelectricity led him to assume a center of symmetry.",
+  "Example sentence: In this test a * * f tape was pulled between the blocks with a motor and pulley at a rate of * * f with a clearance of 0.002 '' on each side of the tape.",
+  "Example sentence: In all cases the activity against * * f cells was spread over a wider area than that with * * f cells, regardless of the type of test (saline, albumin, indirect Coombs) used for comparison.",
+  "Example sentence: Some investigators have found a parallelism between remissions and return of the sympathetic reactivity of the hypothalamus to the normal level as indicated by the Mecholyl test and, conversely, between clinical impairment and increasing deviation of this test from the norm.",
+  "Example sentence: In this test, 130 gallons of a suspension, having a count of * * f organisms per ml, or a total of approximately * * f spores, was aerosolized."
+ ],
+ "labels": [
+  "test.v.01",
+  "test.v.01",
+  "test.v.01",
+  "test.v.01",
+  "test.v.01",
+  "trial.n.02",
+  "trial.n.02",
+  "trial.n.02",
+  "trial.n.02",
+  "trial.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

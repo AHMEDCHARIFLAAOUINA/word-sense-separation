@@ -1,0 +1,7 @@
+word: imagine
+dataset: data/raw/semcor_words/imagine.json
+senses:
+  - imagine.v.01
+  - think.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

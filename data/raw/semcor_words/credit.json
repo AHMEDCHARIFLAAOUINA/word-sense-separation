@@ -1,0 +1,41 @@
+{
+ "target_word": "credit",
+ "sentences": [
+  "Example sentence: In carrying out this program science has undoubtedly performed a very considerable service for which it can claim due credit.",
+  "Example sentence: If you want credit for your employee services program, let your workers know what they're entitled to.",
+  "Example sentence: A major portion of the credit should also go to flautist Haumd for his rendering of the almost impossible `` Indianapolis '' movement in the Baslot.",
+  "Example sentence: It is greatly to Berman's credit that he made no attempt to outdo Ray Bolger.",
+  "Example sentence: `` Le petit dejeuner '', Harold said, in an accent that did credit to Miss Sloan, his high-school French teacher.",
+  "Example sentence: This system provides long - and short-term credit to farmers and their cooperative marketing, purchasing, and business service organizations.",
+  "Example sentence: The system is composed of three credit services, Federal Land Banks and National Farm Loan Associations, Federal Intermediate (short-term) Credit Banks, and Banks for Cooperatives.",
+  "Example sentence: The third credit service, Banks for Cooperatives, exists under authority of the Farm Credit Act of 1933.",
+  "Example sentence: The Banks for Cooperatives were established to provide a permanent source of credit on a sound basis for farmers ' cooperatives.",
+  "Example sentence: The credit provdied by the first two services in the system outlined above is primarily for general agricultural purposes."
+ ],
+ "labels": [
+  "recognition.n.03",
+  "recognition.n.03",
+  "recognition.n.03",
+  "recognition.n.03",
+  "recognition.n.03",
+  "credit.n.02",
+  "credit.n.02",
+  "credit.n.02",
+  "credit.n.02",
+  "credit.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

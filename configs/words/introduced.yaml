@@ -1,0 +1,7 @@
+word: introduced
+dataset: data/raw/semcor_words/introduced.json
+senses:
+  - introduce.v.01
+  - introduce.v.02
+n_per_sense: 9
+prefix: "Example sentence: "

@@ -1,0 +1,53 @@
+{
+ "target_word": "became",
+ "sentences": [
+  "Example sentence: During the excitement following Lindbergh's flight to Paris earlier in 1927, dare devil aviators overnight became legendary heroes.",
+  "Example sentence: The only one who would have him was his cripple, the strange unhappy woman who became his wife.",
+  "Example sentence: One of the roles of the social scientist, ethicist or theologian in our discussions with the realtors became that of encouraging greater awareness of the opportunities offered by the legal and political processes for the exercise of broad social responsibilities in their work.",
+  "Example sentence: Two years later he became director of the Frankfurt Opera, where he remained until he lost this position in 1933 through the rise of the Hitler regime.",
+  "Example sentence: By December, 1958, when ' Abdallah Ibrahim became President of the Council, elections had even greater importance.",
+  "Example sentence: About a thousand years after that, when the Roman Empire was divided, it became capital of the Eastern section.",
+  "Example sentence: She was the daughter and sole heiress of either a cattle baron or an oil millionaire and, having arrived in New York with a big bank roll, became a dabbler in various fields.",
+  "Example sentence: His name became synonymous with cold-blooded cruelty.",
+  "Example sentence: Another Yankee became so disgusted as to state: `` I wish to God one half of our officers were knocked in the head by slinging them against [the other half] ''.",
+  "Example sentence: The judge became ill just as the Colfax District Court convened, no substitute was brought in, no criminal cases heard, only 5 out of 122 cases docketed were tried, and court adjourned sine die after sitting a few days instead of the usual three weeks.",
+  "Example sentence: As our discussion continued, the inadequacy of the `` client relationship '' as an interpretation of their `` way of operating '' became evident.",
+  "Example sentence: Her eyes became bright as she talked about her father and mother, aunts and uncles, cousins.",
+  "Example sentence: Wherefore, as they became forfeit to death, from that [moment] they were handed over to it ''.",
+  "Example sentence: `` The actor had had much to drink and apparently became very violent."
+ ],
+ "labels": [
+  "become.v.02",
+  "become.v.02",
+  "become.v.02",
+  "become.v.02",
+  "become.v.02",
+  "become.v.02",
+  "become.v.02",
+  "become.v.01",
+  "become.v.01",
+  "become.v.01",
+  "become.v.01",
+  "become.v.01",
+  "become.v.01",
+  "become.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

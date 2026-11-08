@@ -1,0 +1,35 @@
+{
+ "target_word": "reduced",
+ "sentences": [
+  "Example sentence: In an essentially static system, an oil cannot be replaced by water on a surface unless the interfacial tensions of the water phase are reduced by a surface-active agent.",
+  "Example sentence: Treatment of all the sera with sweet clover proteins greatly reduced nonspecific fluorescence, especially when the treated conjugate was diluted to 1: 2 with 0.85% saline.",
+  "Example sentence: As construction progresses, the volume of storm drainage will be sharply reduced.",
+  "Example sentence: The anode ablation could be reduced to a negligible amount.",
+  "Example sentence: Long observation has taught Mason that most landscape can be reduced to three essential planes: a foreground in sharp focus - either a light area with dark accents or a dark one with lights; a middle distance often containing the major motif; and a background, usually a silhouetted form foiled against the sky.",
+  "Example sentence: Here a variety of meanings and emotions are concentrated, or reduced, in their communicative expression, to some comparatively simple seeming verbal or nonverbal statement.",
+  "Example sentence: The latter is not reduced to the former.",
+  "Example sentence: What is the history of criticism but the history of men attempting to make sense of the manifold elements in art that will not allow themselves to be reduced to a single philosophy or a single aesthetic theory?"
+ ],
+ "labels": [
+  "reduce.v.01",
+  "reduce.v.01",
+  "reduce.v.01",
+  "reduce.v.01",
+  "reduce.v.02",
+  "reduce.v.02",
+  "reduce.v.02",
+  "reduce.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: portion
+dataset: data/raw/semcor_words/portion.json
+senses:
+  - part.n.01
+  - parcel.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

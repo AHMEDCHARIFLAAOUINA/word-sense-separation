@@ -1,0 +1,53 @@
+{
+ "target_word": "title",
+ "sentences": [
+  "Example sentence: All payments authorized under section 7 of this Title shall be disbursed from the proper fund, as the case may be, and all amounts covered into the Treasury to the credit of the aforesaid funds are hereby permanently appropriated for the making of the payments authorized by section 7 of this Title.",
+  "Example sentence: There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Title.",
+  "Example sentence: A special fund created for that purpose pursuant to subsection (a) of this section any amounts hereafter paid, in United States dollars, by a foreign government which has entered into a claims settlement agreement with the Government of the United States as described in subsection (a) of section 4 of this Title.",
+  "Example sentence: The action of the Commission in allowing or denying any claim under this title shall be final and conclusive on all questions of law and fact and not subject to review by the Secretary of State or any other official, department, agency, or establishment of the United States or by any court by mandamus or otherwise.",
+  "Example sentence: Any person who makes application for any such payment shall be held to have consented to all the provisions of this Title.",
+  "Example sentence: Payments made pursuant to this Title shall be made only to the person or persons on behalf of whom the award is made, except that -",
+  "Example sentence: The Attorney General shall assign such officers and employees of the Department of Justice as may be necessary to represent the United States as to any claims of the Government of the United States with respect to which the Commission has jurisdiction under this title.",
+  "Example sentence: The earlier of them was an unofficial enterprise, sponsored by Life magazine, under the title of the National purpose.",
+  "Example sentence: The medical title of `` Lobar Ventilation in Man '' by Drs. C. J. Martin and A. C. Young, covers a brief paper which is one part of a much larger effort to apply electronics to the study of the respiratory process.",
+  "Example sentence: Ah, what a title for the exhibition: The Eye is All ''!",
+  "Example sentence: Hence the title of the book, referring to the soldiers and subjects of the king; on the fatal battlefield of Poltava, to quote from the novel, `` the wreath he twined for himself slipped down upon his people ''.",
+  "Example sentence: In Berlin he published his views of the chemical laws of nature in German and this was issued in French translation (Paris, 1813) under the title Recherches sur l ' identite des forces chimiques et electriques, a work held in very high esteem by the new generation of research chemists.",
+  "Example sentence: The collective by which I address you in the title above is neither patronizing nor jocose but an exact industrial term in use among professional thieves.",
+  "Example sentence: For example, there was sheet music with the word `` jazz '' in the title, to illustrate how a word of uncertain origin took hold."
+ ],
+ "labels": [
+  "title.n.01",
+  "title.n.01",
+  "title.n.01",
+  "title.n.01",
+  "title.n.01",
+  "title.n.01",
+  "title.n.01",
+  "title.n.02",
+  "title.n.02",
+  "title.n.02",
+  "title.n.02",
+  "title.n.02",
+  "title.n.02",
+  "title.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

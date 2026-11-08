@@ -1,0 +1,7 @@
+word: detail
+dataset: data/raw/semcor_words/detail.json
+senses:
+  - detail.n.03
+  - detail.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

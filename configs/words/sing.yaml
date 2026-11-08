@@ -1,0 +1,7 @@
+word: sing
+dataset: data/raw/semcor_words/sing.json
+senses:
+  - sing.v.02
+  - sing.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

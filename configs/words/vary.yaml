@@ -1,0 +1,7 @@
+word: vary
+dataset: data/raw/semcor_words/vary.json
+senses:
+  - deviate.v.02
+  - change.v.03
+n_per_sense: 7
+prefix: "Example sentence: "

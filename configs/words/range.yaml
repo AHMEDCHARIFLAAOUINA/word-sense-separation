@@ -1,0 +1,7 @@
+word: range
+dataset: data/raw/semcor_words/range.json
+senses:
+  - scope.n.01
+  - range.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

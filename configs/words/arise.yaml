@@ -1,0 +1,7 @@
+word: arise
+dataset: data/raw/semcor_words/arise.json
+senses:
+  - originate.v.01
+  - arise.v.04
+n_per_sense: 4
+prefix: "Example sentence: "

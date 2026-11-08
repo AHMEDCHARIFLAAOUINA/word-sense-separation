@@ -1,0 +1,35 @@
+{
+ "target_word": "entry",
+ "sentences": [
+  "Example sentence: Her first day at work she was puzzled by an entry in the doctor's notes on an emergency case.",
+  "Example sentence: When a match is found, an entry is made in the table of dictionary usage.",
+  "Example sentence: Each entry that is selected for storage is written into the next available cells of the W-region.",
+  "Example sentence: (Here an entry is a form plus the information that pertains to it.)",
+  "Example sentence: The foreign entry limit price would be approached more rapidly, since domestic wage rates do not enter foreign costs directly.",
+  "Example sentence: For the industry of this model, the effect of such public pressures in the past has been to hold the price well below the short-run profit maximizing price (given the wage rate and the level of GNP), and even below the entry limited price (but not below average cost).",
+  "Example sentence: The entry limiting price will also be raised for potential domestic competition, but unless general inflation permits profit margins to increase proportionately throughout the economy, we might expect the public limit price to approach the entry limit price.",
+  "Example sentence: Where the industry's product price has been kept below the `` profit maximizing '' and `` entry limiting '' prices due to fears of public reaction, the profit seeking producers have an interest in offering little real resistance to wage demands."
+ ],
+ "labels": [
+  "entry.n.01",
+  "entry.n.01",
+  "entry.n.01",
+  "entry.n.01",
+  "introduction.n.01",
+  "introduction.n.01",
+  "introduction.n.01",
+  "introduction.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

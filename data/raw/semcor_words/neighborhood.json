@@ -1,0 +1,53 @@
+{
+ "target_word": "neighborhood",
+ "sentences": [
+  "Example sentence: She was going to keep on scheming, poking, prodding, suggesting, and dictating until the cops got up enough interest in him to go back to their old neighborhood and ask questions.",
+  "Example sentence: Furthermore, one can find a neighborhood of Q in which the difference function is monotone, for since it is analytic it can have only a finite number of extrema in any interval.",
+  "Example sentence: Above it, from a second story showroom, wooden angels surveyed the neighborhood.",
+  "Example sentence: If there's no suitable academy in your own neighborhood, there's always New England.",
+  "Example sentence: The neighborhood high schools are not, strictly speaking, comprehensive schools, because some of the boys and girls may be attending a vocational or technical high school instead of the local school.",
+  "Example sentence: Even in the neighborhood of the Earth, where information has been obtained both directly and indirectly, the derived flux values vary by at least four orders of magnitude.",
+  "Example sentence: In the neighborhood of an end point of an interval of tangent points in the f-plane the function is two valued or no valued on one side, and is a single valued function consisting entirely of tangent points on the other side.",
+  "Example sentence: I felt superior to the neighborhood friends I was leaving behind, felt older than my years, and was full of compliments for myself as I headed into the subway that was carrying its packs of passengers out of that dull borough and into the unstable, tantalizing excitement of Manhattan.",
+  "Example sentence: One wife, described by a New York psychologist, so dominated her husband that she actually placed their sexual relationship on a schedule, writing it down right between the weekly PTA meetings and the Thursday night neighborhood card parties.",
+  "Example sentence: For most Brooklyn College students, college is at once a perpetuation of their ethnic attachments and a breaking away from the cage of neighborhood and family.",
+  "Example sentence: Among my school and neighborhood friends, during the next months, I bragged and swaggered and pompously described my impending date.",
+  "Example sentence: In there aren't many young people in the neighborhood the modifier young takes dominant stress away from its head people: the fact that the young creatures of interest are people seems rather obvious.",
+  "Example sentence: Mission Street at this hour was populated by a whole community that Gun could not have seen on his tour of duty - the neighborhood that had known Urbano Quintana by day.",
+  "Example sentence: Look for a farm in a neighborhood of well-kept homes."
+ ],
+ "labels": [
+  "vicinity.n.01",
+  "vicinity.n.01",
+  "vicinity.n.01",
+  "vicinity.n.01",
+  "vicinity.n.01",
+  "vicinity.n.01",
+  "vicinity.n.01",
+  "neighborhood.n.02",
+  "neighborhood.n.02",
+  "neighborhood.n.02",
+  "neighborhood.n.02",
+  "neighborhood.n.02",
+  "neighborhood.n.02",
+  "neighborhood.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

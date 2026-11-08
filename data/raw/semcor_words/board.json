@@ -1,0 +1,41 @@
+{
+ "target_word": "board",
+ "sentences": [
+  "Example sentence: Petitioner knew that the Department's recommendation was based not on the hearing officer's report but on the statement of the local board in his file.",
+  "Example sentence: The recommendation of the Department - as well as the decision of the appeal board - was based entirely on the local board file, not on an FBI report.",
+  "Example sentence: Petitioner first contends that the Department denied him procedural due process by not giving him timely opportunity, before its final recommendation to the appeal board, to answer the statement of the local board as to his claim of devoting 100 hours to actual preaching.",
+  "Example sentence: It is also significant that neither this report nor the hearing officer's notes were furnished to the appeal board.",
+  "Example sentence: In his answer thereto, he advised the Board that he had made no such statement in 1956, and asserted that his only claim to `` pioneering '' was in 1952.",
+  "Example sentence: He just shot at the board and then drew circles around the holes to form a bull's-eye.",
+  "Example sentence: Over the door was a board with large, inept lettering:",
+  "Example sentence: With enormous interest, Adam watched his hands as they touched and shifted the objects on the board directly before him.",
+  "Example sentence: Then I cover the sowing with a board.",
+  "Example sentence: When the first sprinkling of green appears I remove the board."
+ ],
+ "labels": [
+  "board.n.01",
+  "board.n.01",
+  "board.n.01",
+  "board.n.01",
+  "board.n.01",
+  "board.n.02",
+  "board.n.02",
+  "board.n.02",
+  "board.n.02",
+  "board.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

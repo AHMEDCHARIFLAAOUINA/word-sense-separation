@@ -1,0 +1,41 @@
+{
+ "target_word": "slid",
+ "sentences": [
+  "Example sentence: Timothy Rourke groaned dismally as he slid under the wheel.",
+  "Example sentence: Geely grunted and slid partly out, and Shayne's left arm snaked in around his neck to help him, while he set himself solidly on the roadway and swung his right fist to the big, gum-chewing jaw before Geely could straighten up.",
+  "Example sentence: Patrolman G. E. Hammons said the car evidently slid out of control on rain-slick streets and slammed into the pole.",
+  "Example sentence: A news item described the launching of a ship: `` Completing the ceremony, the beautiful movie star smashed a bottle of champagne over her stern as she slid gracefully down the ways into the sea ''.",
+  "Example sentence: Roberta Landis put her hand on her husband's arm as he slid in the driver's seat beside her.",
+  "Example sentence: Even Hudson, experienced in Arctic sailing and determined as he was, must have had qualms as he slid down the Thames.",
+  "Example sentence: The covers slid down his skinny neck so I saw his head, fuzzed like a dandelion gone to seed, but his face was turned to the wall - there was the pale shadow of his nose on the plaster - and I thought, Well you don't look much like a pig-drunk bully now.",
+  "Example sentence: He slid in at her side, tucked a cigar into his mouth, and politely proffered one to her.",
+  "Example sentence: Above him slid the evasive shadow of a storm cloud.",
+  "Example sentence: It crept into the open neck of her blouse and slid down her body, seeping into her flesh through all the quivering pores of her skin."
+ ],
+ "labels": [
+  "skid.v.04",
+  "skid.v.04",
+  "skid.v.04",
+  "skid.v.04",
+  "skid.v.04",
+  "slither.v.01",
+  "slither.v.01",
+  "slither.v.01",
+  "slither.v.01",
+  "slither.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

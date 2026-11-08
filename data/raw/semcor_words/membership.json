@@ -1,0 +1,53 @@
+{
+ "target_word": "membership",
+ "sentences": [
+  "Example sentence: Members of higher and lower social status often cluster around this nucleus, so that Protestant figures on social class give the impression of spread over all social classes; but this is deceptive, for the core of membership is concentrated in a single social and economic stratum.",
+  "Example sentence: The Protestants themselves are the first to admit the great falling off in effective membership in their churches.",
+  "Example sentence: Religious faith can be considered a necessary condition of membership in a congregation, since the decision to join a worshiping group requires some motive force, but faith is not a sufficient condition for joining; the presence of other members of similar social and economic level is the sufficient condition.",
+  "Example sentence: In a sense, the showdown promised by Mr. Hammarskjold's sudden and tragic death has been avoided; no precedents have been set as yet; structurally, the U.N. is still fluid, vulnerable to the pressures that its new and enlarged membership are bringing to bear upon it.",
+  "Example sentence: No one can deny that these `` back door '' admissions to membership provisions have been seriously abused nor that they have not resulted in the admission of downright incompetents to membership in supposedly learned societies.",
+  "Example sentence: The single union which faces the industry does not restrict its membership, and there is an adequate supply of labor available to the firms of the industry at the going wage rate.",
+  "Example sentence: In general, religious interest seems to exist in all parts of the metropolis; congregational membership, however, is another thing.",
+  "Example sentence: No one can deny that these `` back door '' admissions to membership provisions have been seriously abused nor that they have not resulted in the admission of downright incompetents to membership in supposedly learned societies.",
+  "Example sentence: That is in the continuance of the `` grandfather clauses '' in their membership requirements.",
+  "Example sentence: Participation for the educator in this case, however, would have to be raised to full and complete membership.",
+  "Example sentence: An examination of some forty catalogs of schools offering courses in interior design, for the most part schools accredited by membership in the National Association of Schools of Art, and a further `` on the spot '' inspection of a number of schools, show their courses adhere pretty closely to the recommendations.",
+  "Example sentence: This seems somewhat shortsighted since if the absolute educational qualifications for membership which the organizations profess are ever enforced, the educator will have the molding of the entire profession in his hands.",
+  "Example sentence: Not only should every educator above the rank of instructor be expected to be a member of one of the professional organizations, but his first qualification for membership as an educator should be so sharply scrutinized that membership would be equivalent to certification to teach the subject.",
+  "Example sentence: At any rate, the substance of Eichmann's testimony was that all his actions flowed from his membership in the party and the SS, and though the Prosecutor did his utmost to prove actual personal hatred of Jews, his success on this score was doubtful and the anti-Semitic lesson weakened to that extent."
+ ],
+ "labels": [
+  "membership.n.01",
+  "membership.n.01",
+  "membership.n.01",
+  "membership.n.01",
+  "membership.n.01",
+  "membership.n.01",
+  "membership.n.01",
+  "membership.n.02",
+  "membership.n.02",
+  "membership.n.02",
+  "membership.n.02",
+  "membership.n.02",
+  "membership.n.02",
+  "membership.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: instituted
+dataset: data/raw/semcor_words/instituted.json
+senses:
+  - establish.v.02
+  - institute.v.02
+n_per_sense: 4
+prefix: "Example sentence: "

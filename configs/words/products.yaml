@@ -1,0 +1,7 @@
+word: products
+dataset: data/raw/semcor_words/products.json
+senses:
+  - product.n.02
+  - merchandise.n.01
+n_per_sense: 11
+prefix: "Example sentence: "

@@ -1,0 +1,53 @@
+{
+ "target_word": "join",
+ "sentences": [
+  "Example sentence: Form clay strip into a cylinder; use slip to join scored ends.",
+  "Example sentence: Jones relented, he did not order his men to apply the torch - the drove of livestock was driven up the valley, via Beverly, and across the mountains to feed and serve the Confederate army, while Jones and his raiders turned toward Buckhannon to join forces with Imboden.",
+  "Example sentence: Score side edges of base; join sides and base with slip and reinforce with coil.",
+  "Example sentence: Continuing with the case in which \\ g is a * * f curve on a quadric Q, we first observe that the second regulus of Q consists precisely of the lines which join the two free intersections of \\ g and the planes through any one of the multiple secants.",
+  "Example sentence: Place clay piece A inside; use slip to join overlapped ends together.",
+  "Example sentence: In the second, the fixed elements are the lines which join the vertex, P, to the two intersections of \\ g and the plane of the pencil which do not lie on the multiple secant.",
+  "Example sentence: Bend handle; press scored handle ends firmly in place using dowel to reinforce container while pressing; use slip to join.",
+  "Example sentence: They borrowed a typewriter, raised about $2000 in contributions, hired a secretary, persuaded a couple of young men to join them for almost no pay and began mailing out a collection of unstapled leaflets that they called Guideposts.",
+  "Example sentence: The dweller at p is last to hear about a new cure, the slowest to announce to his neighbors his urgent distresses, the one who goes the farthest to trade, and the one with the greatest difficulty of all in putting over an idea or getting people to join him in a cooperative effort.",
+  "Example sentence: I disagree with Mr. Burnham's position on the Common Market [Nov. 18] as a desirable organization for us to join.",
+  "Example sentence: Noticing Russell's horse in front of the long log building, he assumed his friend had slipped inside and would be able to put up a good fight, so he began working his way down the ditch to join him.",
+  "Example sentence: Didi and Gogo hover on the edge of suicide; Hamm's world is death and Clov may or may not get out of it to join the living child outside.",
+  "Example sentence: Few persons who join the Church are insincere.",
+  "Example sentence: By-passing the military junta which has ruled Turkey since the overthrow of Premier Adnan Menderes 17 months ago, the army general staff, led by Gen. Cedvet Sunay, had set a deadline for the parties to join in a national coalition government."
+ ],
+ "labels": [
+  "join.v.02",
+  "join.v.02",
+  "join.v.02",
+  "join.v.02",
+  "join.v.02",
+  "join.v.02",
+  "join.v.02",
+  "join.v.01",
+  "join.v.01",
+  "join.v.01",
+  "join.v.01",
+  "join.v.01",
+  "join.v.01",
+  "join.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

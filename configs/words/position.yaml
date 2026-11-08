@@ -1,0 +1,7 @@
+word: position
+dataset: data/raw/semcor_words/position.json
+senses:
+  - position.n.01
+  - position.n.03
+n_per_sense: 9
+prefix: "Example sentence: "

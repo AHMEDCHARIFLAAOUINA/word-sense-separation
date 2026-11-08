@@ -1,0 +1,7 @@
+word: here
+dataset: data/raw/semcor_words/here.json
+senses:
+  - here.r.01
+  - here.r.02
+n_per_sense: 20
+prefix: "Example sentence: "

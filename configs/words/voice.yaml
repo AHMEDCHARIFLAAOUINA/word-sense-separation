@@ -1,0 +1,7 @@
+word: voice
+dataset: data/raw/semcor_words/voice.json
+senses:
+  - voice.n.01
+  - voice.n.02
+n_per_sense: 17
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: promised
+dataset: data/raw/semcor_words/promised.json
+senses:
+  - promise.v.01
+  - promise.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

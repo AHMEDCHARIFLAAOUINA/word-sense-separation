@@ -1,0 +1,35 @@
+{
+ "target_word": "defense",
+ "sentences": [
+  "Example sentence: We have noted how some electronic techniques, developed for the defense effort, have evenutally been used in commerce and industry.",
+  "Example sentence: During World War 2, about 7.5 million persons were enrolled in courses organized under two special programs administered by state and local school authorities: (1) Vocational Education for National Defense, and (2) War Production Training.",
+  "Example sentence: National defense considerations have been the major reason behind most Federal training expenditures in recent decades.",
+  "Example sentence: Accordingly, if it is not repealed by the Congress at its present session, I shall have no alternative thereafter but to direct the Secretary of Defense to disregard the section unless a court of competent jurisdiction determines otherwise.",
+  "Example sentence: His eccentricity begins as a defense against boredom.",
+  "Example sentence: This concept has stimulated much basic research concerning the behavior of particulate biological materials, the pathogenesis of respiratory infections, the medical management of such diseases and defense against their occurrence.",
+  "Example sentence: In a periodic review, the local board on July 30, 1953, reclassified him 1, - A and upheld this classification after a personal appearance by petitioner, because of his willingness to kill in defense of his church and home.",
+  "Example sentence: All of these considerations are of critical importance in considering defense and medical management."
+ ],
+ "labels": [
+  "defense.n.01",
+  "defense.n.01",
+  "defense.n.01",
+  "defense.n.01",
+  "defense.n.02",
+  "defense.n.02",
+  "defense.n.02",
+  "defense.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,35 @@
+{
+ "target_word": "badly",
+ "sentences": [
+  "Example sentence: The figures on the worksheet paper in front of her were jumping and waving around so badly it was all she could do to make them out clearly enough to copy them with the typewriter.",
+  "Example sentence: Cousin Joshua Dover decided to remain with the Reverend and poor Isaac Pitt until life passed away - and he was hurt so badly he did not seem for long in this world.",
+  "Example sentence: There was only one place where Jake Carwood's description had gone badly awry: the peace and quiet.",
+  "Example sentence: Before the fight was over, the Harlem boy had a concussion and Trig was cut up badly.",
+  "Example sentence: Whether he sang well or badly had nothing to do with it.",
+  "Example sentence: From many sides come remarks that Protestant churches are badly attended and the large medieval cathedrals look all but empty during services.",
+  "Example sentence: Ordinary politeness may have militated against this opinion being stated so badly but anyone with a wide acquaintance in both groups and who has sat through the many round tables, workshops or panel discussions - whatever they are called - on this subject will recognize that the final, boiled down crux of the matter is education.",
+  "Example sentence: Its terms will tend to be labile or vague, and they will fit actual languages more and more badly."
+ ],
+ "labels": [
+  "badly.r.01",
+  "badly.r.01",
+  "badly.r.01",
+  "badly.r.01",
+  "ill.r.01",
+  "ill.r.01",
+  "ill.r.01",
+  "ill.r.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: silence
+dataset: data/raw/semcor_words/silence.json
+senses:
+  - silence.n.02
+  - muteness.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

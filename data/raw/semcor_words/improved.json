@@ -1,0 +1,35 @@
+{
+ "target_word": "improved",
+ "sentences": [
+  "Example sentence: Unquestionably Trujillo did some good things for his country: he improved public facilities such as roads and sanitation, attracted industry and investment and raised the standard of living notably.",
+  "Example sentence: The partition of India has hardly improved relations between Hindus and Muslims; neither has the establishment of the State of Israel fostered harmony between Muslims and Jews.",
+  "Example sentence: - Some areas may already have been improved and contain buildings, roads, utilities, cleared land, etcetera which may raise the cost of the site.",
+  "Example sentence: Now, the machine has been improved to a point where it is generally more economical than oil heat at temperatures down to 15 degrees.",
+  "Example sentence: As a result, distribution costs were cut, customer relations improved.",
+  "Example sentence: On Saturday, the orchestra was sensibly situated down on the field, the stage floor was apparently in decent condition for dancing, and the order of the program improved.",
+  "Example sentence: Immediately, the film improved and it improved because in narrative it found a content based on time to complement its own unbreakable connection with time.",
+  "Example sentence: The president of the firm, calculating expenses alone, felt his costs had dropped one-half while success in selection had improved over one hundred per cent."
+ ],
+ "labels": [
+  "better.v.02",
+  "better.v.02",
+  "better.v.02",
+  "better.v.02",
+  "better.v.03",
+  "better.v.03",
+  "better.v.03",
+  "better.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

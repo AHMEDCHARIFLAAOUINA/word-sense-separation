@@ -1,0 +1,7 @@
+word: contributed
+dataset: data/raw/semcor_words/contributed.json
+senses:
+  - contribute.v.02
+  - lend.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

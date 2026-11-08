@@ -1,0 +1,47 @@
+{
+ "target_word": "extremely",
+ "sentences": [
+  "Example sentence: The pleura is extremely thin in type 2, and septa are absent.",
+  "Example sentence: One of extremely low anionic binding capacity, one of low anionic binding capacity and one of high anionic binding capacity.",
+  "Example sentence: However, any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen bonded **f interlayer interactions which are already quite short at 2.58 A.",
+  "Example sentence: Drs. Howry and Holmes at the University of Colorado Medical School have applied the same sonar technique to other areas of soft tissue and have obtained extremely good results.",
+  "Example sentence: Dirt, which is here defined as particulate material which is usually inorganic and is very often extremely finely divided so as to exhibit colloidal properties.",
+  "Example sentence: Lobularity is extremely well developed in type 1,; absent in type 2,; imperfectly developed in type 3,.",
+  "Example sentence: L'Unita and Hoy published identical denunciations of Short's elevation, l'Osservatore Romano and the Christian Science Monitor ignored it, Times of India snickered at it, and the Manchester Guardian simply reported it - the Fosterites in England were few but extremely militant.",
+  "Example sentence: But the radiation may be so intense at the start that one percent may be extremely dangerous.",
+  "Example sentence: This procedure is extremely shortsighted in chronic labor surplus areas with a long history of declining employment.",
+  "Example sentence: We have proved so able to solve technological problems that to contend we cannot realize a universal goal in the immediate future is to be extremely shortsighted, if nothing else.",
+  "Example sentence: Daniel termed `` extremely conservative '' his estimate that it would produce 17 million dollars to help erase an anticipated deficit of 63 million dollars at the end of the current fiscal year next Aug. 31.",
+  "Example sentence: Poirot and his counterparts are perfectly respectable people; it is true that they are also extremely dull."
+ ],
+ "labels": [
+  "highly.r.01",
+  "highly.r.01",
+  "highly.r.01",
+  "highly.r.01",
+  "highly.r.01",
+  "highly.r.01",
+  "extremely.r.02",
+  "extremely.r.02",
+  "extremely.r.02",
+  "extremely.r.02",
+  "extremely.r.02",
+  "extremely.r.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

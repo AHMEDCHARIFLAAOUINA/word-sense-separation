@@ -1,0 +1,35 @@
+{
+ "target_word": "initiative",
+ "sentences": [
+  "Example sentence: In all other areas, private initiative of the `` proprietorship '' type should be urged to produce the desired goods and services.",
+  "Example sentence: It was arranged that he would board in the home of one of the old members of the church, a woman named Catt who, as Wilson afterward found, was briefly referred to as The Cat because of her sharp tongue and fierce initiative.",
+  "Example sentence: To perpetuate wealth control led by small groups of individuals who played no role in its creation prevents those with real initiative from coming to the fore, and is basically anti democratic.",
+  "Example sentence: This trade was subject to a tariff of 7.5 per cent after February 1835, but much was smuggled into Assiniboia with the result that the duty was reduced by 1841 to 4 per cent on the initiative of the London committee.",
+  "Example sentence: The initiative, administration and control remain primarily with the local school districts.",
+  "Example sentence: The responsibility for taking the initiative in generating ideas is that of every officer in the Department who has a policy function, regardless of rank.",
+  "Example sentence: No manufacturer has taken the initiative in pointing out the costs involved.",
+  "Example sentence: Naturally no woman can ever completely monopolize the sexual initiative."
+ ],
+ "labels": [
+  "enterprise.n.03",
+  "enterprise.n.03",
+  "enterprise.n.03",
+  "enterprise.n.03",
+  "first_step.n.01",
+  "first_step.n.01",
+  "first_step.n.01",
+  "first_step.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

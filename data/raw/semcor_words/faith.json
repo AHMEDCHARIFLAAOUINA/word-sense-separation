@@ -1,0 +1,41 @@
+{
+ "target_word": "faith",
+ "sentences": [
+  "Example sentence: Catholic priests have frequently appeared on television programs, sometimes discussing the Christian faith on an equal footing with Protestant clergymen.",
+  "Example sentence: The statement is often made that when Bultmann argues in this way, he `` overestimates the intellectual stumbling-block which myth is supposed to put in the way of accepting the Christian faith ''.",
+  "Example sentence: If the content of faith is to be presented today in a form that can be `` understanded of the people '' - and this, it must not be forgotten, is one of the goals of the perennial theological task - there is no other choice but to abandon completely a mythological manner of representation.",
+  "Example sentence: His religious beliefs provide him with plausible explanations for many conditions which cause him great concern, and his religious faith makes possible fortitude, equanimity, and consolation, enabling him to endure colossal misfortune, fear, frustration, uncertainty, suffering, evil, and danger.",
+  "Example sentence: How foolish it was to try to fathom the truth in an area where only faith would suffice.",
+  "Example sentence: The reason offered for clinging to the ancestral faith lacked force and authority even in the teen-agers ' minds.",
+  "Example sentence: On the other hand, Christian faith knows that death is more than the natural termination of temporal existence.",
+  "Example sentence: They hope, of course, to reclaim the non-Catholic population to the Catholic faith, and at every Sunday Benediction they recite by heart the `` Prayer for England '':",
+  "Example sentence: The religious symbolism, and especially the closely related rites and worship forms, constitute a powerful bond for the members of the particular faith.",
+  "Example sentence: `` Faith of our Fathers: Mary's prayers / Shall win our country back to thee ''."
+ ],
+ "labels": [
+  "religion.n.01",
+  "religion.n.01",
+  "religion.n.01",
+  "religion.n.01",
+  "religion.n.01",
+  "religion.n.02",
+  "religion.n.02",
+  "religion.n.02",
+  "religion.n.02",
+  "religion.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: boss
+dataset: data/raw/semcor_words/boss.json
+senses:
+  - foreman.n.01
+  - boss.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

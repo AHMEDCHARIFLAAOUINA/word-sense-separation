@@ -1,0 +1,41 @@
+{
+ "target_word": "pretending",
+ "sentences": [
+  "Example sentence: They weren't sleeping, of course, but they thought they were doing him a favor by pretending.",
+  "Example sentence: Soon we were deep in a conversation that was interrupted many times by little things like Jennie's holding her breath and pretending to black out, Miranda's dumping the contents of the sugar bowl on the table, and various screeches, thuds, and giggles.",
+  "Example sentence: It's no use pretending that all conditioners are quiet, but the noise they produce can be kept to a minimum.",
+  "Example sentence: `` I'm going to walk up to the horses, bold as brass, pretending I'm one of the guerrillas.",
+  "Example sentence: He might tell her how sorry a spectacle she was making of herself, pretending to be blind to the way Julia Fortune had taken Dean's affections from her.",
+  "Example sentence: Ludie inquired every evening, pretending that he did not care.",
+  "Example sentence: The furor was such that people who could not possibly have squirmed their way into the rehearsals were pretending that they were intimate with the whole affair and that it would be sensational.",
+  "Example sentence: Now there could be an end to pretending.",
+  "Example sentence: He didn't think it was possible for this couple to be pretending.",
+  "Example sentence: He no longer had to lie in his bunk all night, his eyes closed, pretending to sleep."
+ ],
+ "labels": [
+  "feign.v.01",
+  "feign.v.01",
+  "feign.v.01",
+  "feign.v.01",
+  "feign.v.01",
+  "dissemble.v.03",
+  "dissemble.v.03",
+  "dissemble.v.03",
+  "dissemble.v.03",
+  "dissemble.v.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

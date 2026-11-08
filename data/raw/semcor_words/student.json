@@ -1,0 +1,47 @@
+{
+ "target_word": "student",
+ "sentences": [
+  "Example sentence: The contention needs to be formulated with much greater precision than it ever was during the campaign, but once that has been done, I fail to see how any serious student of world affairs can quarrel with it.",
+  "Example sentence: Thus the student of literature may sometimes find it helpful to classify a poem or an essay as being in idea or in ideal content or subject matter typical or atypical of its period.",
+  "Example sentence: Again the student of evolutionary biology will find a fascinating, if to our minds grotesque, anticipation of the theory of chance variations and the natural elimination of the unfit in Lucretius, who in turn seems to have borrowed the concept from the philosopher Empedocles.",
+  "Example sentence: These moments are historical events in the lives of individual authors with which the student of comparative literature must be frequently concerned.",
+  "Example sentence: Usually the work studied offers us a special or even an individualized rendering or treatment of the ideas in question, so that the student finds it necessary to distinguish carefully between the several expressions of an `` - ism '' or mode of thought.",
+  "Example sentence: Of course, it goes without saying that no student of ideas can justifiably ignore the contemporary scene.",
+  "Example sentence: In both cases the student attends school half-time and works in a regular job the other half.",
+  "Example sentence: Hanging over the bar was an oil painting of a nude Al had accepted from a student at the Corcoran Gallery who needed to eat and drink and was broke.",
+  "Example sentence: Each trial consists of choosing a student manager at random.",
+  "Example sentence: They may even enroll a colored student or two for show, though he usually turns out to be from Thailand, or any place other than the American South.",
+  "Example sentence: If the student drops out of high school, the break with the school is even more complete.",
+  "Example sentence: Instead of being limited to the poor training facilities in remote areas, the student would be able to move to large institutions of concentrated specialized training."
+ ],
+ "labels": [
+  "scholar.n.01",
+  "scholar.n.01",
+  "scholar.n.01",
+  "scholar.n.01",
+  "scholar.n.01",
+  "scholar.n.01",
+  "student.n.01",
+  "student.n.01",
+  "student.n.01",
+  "student.n.01",
+  "student.n.01",
+  "student.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

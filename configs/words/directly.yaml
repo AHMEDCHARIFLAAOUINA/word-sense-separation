@@ -1,0 +1,7 @@
+word: directly
+dataset: data/raw/semcor_words/directly.json
+senses:
+  - directly.r.01
+  - directly.r.02
+n_per_sense: 10
+prefix: "Example sentence: "

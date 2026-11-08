@@ -1,0 +1,7 @@
+word: individual
+dataset: data/raw/semcor_words/individual.json
+senses:
+  - individual.a.01
+  - person.n.01
+n_per_sense: 13
+prefix: "Example sentence: "

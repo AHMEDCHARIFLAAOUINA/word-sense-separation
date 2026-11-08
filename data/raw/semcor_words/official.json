@@ -1,0 +1,53 @@
+{
+ "target_word": "official",
+ "sentences": [
+  "Example sentence: The official statistics show that 60 per cent are employed workers or independent professional people.",
+  "Example sentence: If any official operation abroad begins to go wrong, we shall look to the ambassador to find out why and to get suggestions for remedial action.",
+  "Example sentence: Brooklyn College is distinctive for not having an official drinking place.",
+  "Example sentence: Wasn't the report official enough?",
+  "Example sentence: On the face of it, it is because he employs deductive techniques alien to official police routine.",
+  "Example sentence: He took a midnight train out of Cleveland Saturday, without an official word to anybody, and has stayed away from newsmen on his train trip across the nation to Reno, Nev., where his wife, former Olympic Diving Champion Zoe Ann Olsen, awaited.",
+  "Example sentence: Even then, as you go into the house oppressed by the knowledge that something is cooking and that your house has passed under this unaccountable, official control, could you go on forgetting that you still had that ridiculous hat on your head and you were still carrying that childish horn in your hand?",
+  "Example sentence: A politician was approached by a man seeking the office of a minor public official who had just died.",
+  "Example sentence: Almost every official who reflects on it thinks this movement of Americans to canvas dwellings opens one of the most promising of all outdoor markets.",
+  "Example sentence: Georgia Republicans are getting strong encouragement to enter a candidate in the 1962 governor's race, a top official said Wednesday.",
+  "Example sentence: `` And it's all the more tragic because it's so little deserved '', said Mr. J. J. A. Frans, a Belgian official of the United Nations Educational, Scientific, and Cultural Organization.",
+  "Example sentence: A former du Pont official became a General Motors vice president and set about maximizing du Pont's share of the General Motors market.",
+  "Example sentence: The action of the Commission in allowing or denying any claim under this title shall be final and conclusive on all questions of law and fact and not subject to review by the Secretary of State or any other official, department, agency, or establishment of the United States or by any court by mandamus or otherwise.",
+  "Example sentence: Such certification shall be final and conclusive and shall not be subject to review by any other official or department, agency, or establishment of the United States."
+ ],
+ "labels": [
+  "official.a.01",
+  "official.a.01",
+  "official.a.01",
+  "official.a.01",
+  "official.a.01",
+  "official.a.01",
+  "official.a.01",
+  "official.n.01",
+  "official.n.01",
+  "official.n.01",
+  "official.n.01",
+  "official.n.01",
+  "official.n.01",
+  "official.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

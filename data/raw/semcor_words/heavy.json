@@ -1,0 +1,47 @@
+{
+ "target_word": "heavy",
+ "sentences": [
+  "Example sentence: Place your Power Stands in position and adjust their height so that this will correspond to the height of your shoulders when you are in a deep leg split as for a heavy Clean.",
+  "Example sentence: `` Sam, no one around here wears such heavy soles.",
+  "Example sentence: He stood on the porch and watched him struggling with the heavy harness, and finally went over to help him.",
+  "Example sentence: `` The heavy thick soles.",
+  "Example sentence: It squatted low and square upon the sidewalk with a heavy iron grating supporting a glass facade.",
+  "Example sentence: His face was ruddy and heavy and unlined, and when he laughed he showed his teeth, which were big and white and strong and unquestionably home-grown.",
+  "Example sentence: This will be a problem in areas of heavy snowfall.",
+  "Example sentence: After heavy rains and an onslaught of mice, snow fell on October 15, 1825, and remained on the ground through a winter so cold that the ice on the Red was five feet thick.",
+  "Example sentence: His earliest work reflected heavy influences from English and continental writers.",
+  "Example sentence: It didn't take Captain Chandler long to realize that he had to carry a heavy load of tradition on his shoulders as commander of Troop H.",
+  "Example sentence: He darkened under his heavy burn.",
+  "Example sentence: He walked with a heavy list to the right, as that leg was four inches shorter than the other, but the lurch did not reduce his feline quickness with his guns."
+ ],
+ "labels": [
+  "heavy.a.01",
+  "heavy.a.01",
+  "heavy.a.01",
+  "heavy.a.01",
+  "heavy.a.01",
+  "heavy.a.01",
+  "heavy.a.02",
+  "heavy.a.02",
+  "heavy.a.02",
+  "heavy.a.02",
+  "heavy.a.02",
+  "heavy.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

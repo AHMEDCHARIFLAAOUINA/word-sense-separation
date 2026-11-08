@@ -1,0 +1,7 @@
+word: role
+dataset: data/raw/semcor_words/role.json
+senses:
+  - function.n.03
+  - character.n.04
+n_per_sense: 6
+prefix: "Example sentence: "

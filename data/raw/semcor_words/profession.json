@@ -1,0 +1,41 @@
+{
+ "target_word": "profession",
+ "sentences": [
+  "Example sentence: In his wake came the District Traffic Supervisor and the cream of the telegraphic profession, ten of Boston's best, chosen for their long experience and thorough knowledge of golf.",
+  "Example sentence: We must build a corps of highly professional teachers of interior design who have had education, experience in the profession and are willing to take on the usual accompaniments of teaching - minimal income and minimal status among their confreres.",
+  "Example sentence: It looked to me as though he had everything an artist could want, joy in his work, standing in the profession, a large and steady income.",
+  "Example sentence: This seems somewhat shortsighted since if the absolute educational qualifications for membership which the organizations profess are ever enforced, the educator will have the molding of the entire profession in his hands.",
+  "Example sentence: I am not aware of great attention by any of these authors or by the psychotherapeutic profession to the role of literary study in the development of conscience - most of their attention is to a pre-literate period of life, or, for the theologians of course, to the influence of religion.",
+  "Example sentence: Anthropologists, housewives, historians and such by profession, they approach their discipline as amateurs, collectors, commercial propagandists, analysts or some combination of the four.",
+  "Example sentence: In a sense almost all high school and college courses could be considered as vocational to the extent that later in life the student in his vocation (which may be a profession) will be called upon to use some of the skills developed and the competence obtained.",
+  "Example sentence: In 1610, Hudson was probably in his early forties, a good navigator, a stubborn voyager, but otherwise fatally unsuited to his chosen profession.",
+  "Example sentence: On the other hand, if he wishes to continue in his chosen profession, he must abandon his own code and sacrifice his precious individualism.",
+  "Example sentence: Everyone is ambivalent about his profession, if he has practised it long enough, but there were still moments when he loved the stage and all those unseen people out there, who might cheer you or boo you, but that was largely, though not entirely, up to you."
+ ],
+ "labels": [
+  "profession.n.01",
+  "profession.n.01",
+  "profession.n.01",
+  "profession.n.01",
+  "profession.n.01",
+  "profession.n.02",
+  "profession.n.02",
+  "profession.n.02",
+  "profession.n.02",
+  "profession.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

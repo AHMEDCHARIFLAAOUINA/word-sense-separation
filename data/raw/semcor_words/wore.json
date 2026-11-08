@@ -1,0 +1,41 @@
+{
+ "target_word": "wore",
+ "sentences": [
+  "Example sentence: The feet wore army shoes, in obvious disrepair.",
+  "Example sentence: But she was learning that so long as she was in this country, and wore civilian dress in the Club, there would always be transient young men who would approach her with broken English.",
+  "Example sentence: He wore his white shirt open at the neck, revealing a bit of scrawny pale chest underneath.",
+  "Example sentence: She usually wore weeds, and a stranger watching her board a train might have guessed that Mr. Pastern was dead, but Mr. Pastern was far from dead.",
+  "Example sentence: Teachers - men who wore brown suits and had gray hair and pleasant smiles - came to their table to talk shop and to be introduced to Scotty and Rachel.",
+  "Example sentence: He wore no gun - a strange ommission for a peace officer in this country.",
+  "Example sentence: He can smell again the perfume she wore and recall the lilting sound of laughter, and can smell again the aroma of autumn - fallen leaves, the wine of cool air, and the nostalgia of woodsmoke which blows through all the winds of fall.",
+  "Example sentence: He wore a brown knit sports shirt with no tie.",
+  "Example sentence: The night we first met, at one of Mrs. Monmouth's giant parties, he was wearing a brown cashmere jacket with silver buttons and a soft pink Viyella shirt; instead of a necktie he wore a leather bolo drawn through a golden ring in which was set a lump of pale pure jade.",
+  "Example sentence: She wore a court-length gown of organdy designed with bateau neckline and princesse skirt accented by lace appliques."
+ ],
+ "labels": [
+  "wear.v.01",
+  "wear.v.01",
+  "wear.v.01",
+  "wear.v.01",
+  "wear.v.01",
+  "wear.v.02",
+  "wear.v.02",
+  "wear.v.02",
+  "wear.v.02",
+  "wear.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

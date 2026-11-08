@@ -1,0 +1,7 @@
+word: use
+dataset: data/raw/semcor_words/use.json
+senses:
+  - use.n.01
+  - use.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

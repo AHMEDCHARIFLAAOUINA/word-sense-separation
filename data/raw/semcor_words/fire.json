@@ -1,0 +1,47 @@
+{
+ "target_word": "fire",
+ "sentences": [
+  "Example sentence: `` I saw your fire '', she said, speaking slowly, making an effort to control her anger.",
+  "Example sentence: I meant what I said about that fire.",
+  "Example sentence: If there was a fire or a flood he would save Mama first and Violet next.",
+  "Example sentence: Look at the trees as to size and interest, the amount of shade they provide, how healthy they are, the problems of maintenance, fire hazards, wind throw, etcetera.",
+  "Example sentence: He got a small fire started and put on bacon and coffee.",
+  "Example sentence: They got tin cups of coffee from the big pot on the coosie's fire, rolled and lighted brown paper cigarettes, lounged about.",
+  "Example sentence: The gun would fire or not, just as chance willed.",
+  "Example sentence: The most intriguing aspect of the S + W Magnum chambered for the new Jet is that it can also fire standard.22 rim-fires by means of adapter sleeves in the chambers.",
+  "Example sentence: Not fire until the bombs came down!",
+  "Example sentence: He tried to veer the rifle around to fire into Mike's body.",
+  "Example sentence: Then he was to co-ordinate his fire with a radar-controlled shore gun firing white tracers.",
+  "Example sentence: I saw Little Billy rise and fire almost point blank and an Indian's face became shattered flesh and bone."
+ ],
+ "labels": [
+  "fire.n.01",
+  "fire.n.01",
+  "fire.n.01",
+  "fire.n.01",
+  "fire.n.01",
+  "fire.n.01",
+  "open_fire.v.01",
+  "open_fire.v.01",
+  "open_fire.v.01",
+  "open_fire.v.01",
+  "open_fire.v.01",
+  "open_fire.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

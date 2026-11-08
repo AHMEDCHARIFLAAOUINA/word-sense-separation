@@ -1,0 +1,7 @@
+word: proposed
+dataset: data/raw/semcor_words/proposed.json
+senses:
+  - propose.v.01
+  - project.v.08
+n_per_sense: 13
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: well
+dataset: data/raw/semcor_words/well.json
+senses:
+  - well.r.01
+  - well.r.02
+n_per_sense: 20
+prefix: "Example sentence: "

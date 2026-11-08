@@ -1,0 +1,7 @@
+word: company
+dataset: data/raw/semcor_words/company.json
+senses:
+  - company.n.01
+  - company.n.02
+n_per_sense: 11
+prefix: "Example sentence: "

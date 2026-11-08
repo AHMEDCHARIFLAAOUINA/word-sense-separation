@@ -1,0 +1,41 @@
+{
+ "target_word": "characterized",
+ "sentences": [
+  "Example sentence: Mr. Siepi was, as always, a consummate actor; with a few telling strokes he characterized Alvise magnificently.",
+  "Example sentence: This was particularly true in the world arena, which was an anarchical battleground characterized by strife and avaricious competition for colonial empires.",
+  "Example sentence: Only within the framework of a mature relationship characterized by honest appraisals of performance can we provide telling assistance.",
+  "Example sentence: It is characterized by the presence of incompletely developed secondary lobules; well defined, but haphazardly arranged, interlobular septa and a thick, remarkably vascular pleura (fig. 9).",
+  "Example sentence: The society is likely to be characterized by having a fairly modernized urban sector and a relatively untouched rural sector, with very poor communications between the two.",
+  "Example sentence: Soon they will fight their way into the lower middle-class suburbs, and the churches will experience the same decay and rebuilding cycle which has characterized their history for a century.",
+  "Example sentence: The model of this paper considers an industry which is not characterized by vigorous price competition, but which is so basic that its wage price policies are held in check by continuous critical public scrutiny.",
+  "Example sentence: One main type of malocclusion is characterized by a receding chin and protruding upper front teeth.",
+  "Example sentence: New car sales in Dallas County during March showed slight signs of recovering from the doldrums which have characterized sales this year.",
+  "Example sentence: Mercer's lyrics are characterized by an unerring ear for rhythmic nuances, a puckish sense of humor expressed in language with a colloquial flair."
+ ],
+ "labels": [
+  "qualify.v.06",
+  "qualify.v.06",
+  "qualify.v.06",
+  "qualify.v.06",
+  "qualify.v.06",
+  "characterize.v.02",
+  "characterize.v.02",
+  "characterize.v.02",
+  "characterize.v.02",
+  "characterize.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

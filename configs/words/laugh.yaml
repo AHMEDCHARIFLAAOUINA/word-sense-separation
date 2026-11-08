@@ -1,0 +1,7 @@
+word: laugh
+dataset: data/raw/semcor_words/laugh.json
+senses:
+  - laugh.n.01
+  - laugh.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

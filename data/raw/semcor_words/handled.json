@@ -1,0 +1,47 @@
+{
+ "target_word": "handled",
+ "sentences": [
+  "Example sentence: Problems have arisen in this sensitive field but have been handled in most cases with understanding and restraint.",
+  "Example sentence: One handled the salesman in a friendly manner, another in a rough manner, and the third in a hesitating manner.",
+  "Example sentence: He was invulnerable to attack, but he could be handled, Mickey knew, if he could be brought to make the first move.",
+  "Example sentence: The unhealthy use of denial in the initial reaction to a stress must be handled through the medium of a positive controlled transference.",
+  "Example sentence: Yes, we know, they're professionals, men paid to play, and they shouldn't care how they're handled, just as long as their names are spelled correctly on the first and fifteenth of each month.",
+  "Example sentence: Purchase of state vehicles is handled similarly to all state purchases.",
+  "Example sentence: The purchase of state-owned vehicles is handled in the same manner as all other purchases of the state.",
+  "Example sentence: It would have been Hohlbein who handled her affairs.",
+  "Example sentence: He must deal with the question of how to manage a part when it cannot be handled without relation to the whole - when the whole is too large to grasp.",
+  "Example sentence: He supervised the cleanups and handled the shipments of raw gold which each week went out to San Francisco.",
+  "Example sentence: Among us, we three handled quite a few small commissions, from spot drawings for advertising agencies uptown to magazine work and quick lettering jobs.",
+  "Example sentence: Present at the scene - in addition to the dead man, who was indeed Louis Thor - had been Thor's partner Bill Blake, and Antony Rose, an advertising agency executive who handled the ZING account."
+ ],
+ "labels": [
+  "treat.v.01",
+  "treat.v.01",
+  "treat.v.01",
+  "treat.v.01",
+  "treat.v.01",
+  "treat.v.01",
+  "manage.v.02",
+  "manage.v.02",
+  "manage.v.02",
+  "manage.v.02",
+  "manage.v.02",
+  "manage.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

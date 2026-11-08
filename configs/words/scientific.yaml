@@ -1,0 +1,7 @@
+word: scientific
+dataset: data/raw/semcor_words/scientific.json
+senses:
+  - scientific.a.01
+  - scientific.a.02
+n_per_sense: 11
+prefix: "Example sentence: "

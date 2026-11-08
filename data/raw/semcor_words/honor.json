@@ -1,0 +1,41 @@
+{
+ "target_word": "honor",
+ "sentences": [
+  "Example sentence: On November 22, 1859, the Providence Daily Journal stated that although Brown's `` pluck '' and honest fanaticism must be admired, any honor paid to Brown would only induce other fanatics to imitate his actions.",
+  "Example sentence: Since he has just shown who is top dog, he may not be ready to receive this highest honor in the gift of the Soviet people.",
+  "Example sentence: Bertha Szold was more like Meg, the eldest March girl, who `` learned that a woman's happiest kingdom is home, her highest honor the art of ruling it, not as a queen, but a wise wife and mother ''.",
+  "Example sentence: `` Johnny insisted on cooking a chicken dinner in my honor - he's always been a good cook - and I'll never forget him cleaning the chicken in the tub ''.",
+  "Example sentence: The only public demonstration in honor of John Brown was held at Pratt's Hall in Providence, on the day of his execution.",
+  "Example sentence: Living with his watercolors is a vicarious experience of seeing nature distilled through the eyes of a sensitive interpretor, a breath and breadth of the outdoor world to help man honor the Creator of it all.",
+  "Example sentence: Mr. and Mrs. Piero de Luise will honor Italian Consul and Mrs. Emilio Bassi at a cocktail party Tuesday, May 2, from 6 to 8 p. m. in their home.",
+  "Example sentence: Had it done so, the blot on its escutcheon would have remained indelible, nor could the Harvard Divinity School assemble today to honor Parker's insurgence other than by getting down on its collective knees and crying `` peccavi ''.",
+  "Example sentence: To honor him is to honor ourselves.",
+  "Example sentence: I have a distinct admiration for this man we honor today because of the humility with which he carries his greatness."
+ ],
+ "labels": [
+  "award.n.02",
+  "award.n.02",
+  "award.n.02",
+  "award.n.02",
+  "award.n.02",
+  "honor.v.01",
+  "honor.v.01",
+  "honor.v.01",
+  "honor.v.01",
+  "honor.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

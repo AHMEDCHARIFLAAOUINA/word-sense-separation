@@ -1,0 +1,41 @@
+{
+ "target_word": "about",
+ "sentences": [
+  "Example sentence: The measured powder density of the **f used here was about **f, approximately one-third that of the crystal density (**f).",
+  "Example sentence: The half-intensity diameter of the main lobe of the antenna was about 18 '.5, and the brightness temperature was reduced by assuming a Gaussian shape for the antenna beam and a uniformly bright disk for the moon.",
+  "Example sentence: Five of these done daily for about a week will develop the strength for one push-up.",
+  "Example sentence: (The best evidence is that he received a monthly wage of about $125, very good money in an era when top hands worked for $30 and found.)",
+  "Example sentence: In man the normal level of iodine in the diet and the level necessary to prevent development of goitre is about 100 | mg per day.",
+  "Example sentence: After looking about a bit, Wilson discovered beyond Black Bottom, across the river and far removed from the white city, a considerable tract of land, and it occurred to him that the church and the better Negro homes might gradually be moved to this plot.",
+  "Example sentence: He finished with the team and filled his pipe and stood looking about him.",
+  "Example sentence: Dismounting, Russ looked about hastily.",
+  "Example sentence: Scotty's father sat sprawled in his chair, angular, alert as a cricket, looking about at the huge stainless-steel appointments of the room with an expression of proprietorship.",
+  "Example sentence: Lying in the grass behind the brush clump, Warren looked about."
+ ],
+ "labels": [
+  "approximately.r.01",
+  "approximately.r.01",
+  "approximately.r.01",
+  "approximately.r.01",
+  "approximately.r.01",
+  "about.r.02",
+  "about.r.02",
+  "about.r.02",
+  "about.r.02",
+  "about.r.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

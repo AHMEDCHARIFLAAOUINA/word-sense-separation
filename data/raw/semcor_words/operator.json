@@ -1,0 +1,35 @@
+{
+ "target_word": "operator",
+ "sentences": [
+  "Example sentence: The diagonalizable operator D and the nilpotent operator N are uniquely determined by (a) and (b) and each of them is a polynomial in T.",
+  "Example sentence: Then (a) * * f (b) each * * f is invariant under T (c) if * * f is the operator induced on * * f by T, then the minimal polynomial for * * f is * * f.",
+  "Example sentence: (Actually, a nilpotent operator on an n-dimensional space must have its nth power 0; if we take * * f above, that will be large enough.",
+  "Example sentence: By Theorem 10, D is a diagonalizable operator which we shall call the diagonalizable part of T.",
+  "Example sentence: George Woodcock was manager and troubleshooter; Elizabeth Way was the first operator; and a night operator was also employed.",
+  "Example sentence: `` See that guy ''? the operator asked pityingly.",
+  "Example sentence: In 1931 Mrs. F. H. Briggs, agent and chief operator, who was to retire in 1946 with thirty years ' service, led agency offices in sales for the year with $2490.",
+  "Example sentence: Aging but still precocious, French feline enfant terrible Francoisette Lagoon has succeeded in shocking jaded old Paris again, this time with a sexy ballet scenario called The Lascivious Interlude, the story of a nymphomaniac trip-hammer operator who falls hopelessly in love with a middle-aged steam shovel."
+ ],
+ "labels": [
+  "operator.n.01",
+  "operator.n.01",
+  "operator.n.01",
+  "operator.n.01",
+  "operator.n.02",
+  "operator.n.02",
+  "operator.n.02",
+  "operator.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

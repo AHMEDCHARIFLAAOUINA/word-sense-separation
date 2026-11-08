@@ -1,0 +1,7 @@
+word: campaign
+dataset: data/raw/semcor_words/campaign.json
+senses:
+  - political_campaign.n.01
+  - campaign.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

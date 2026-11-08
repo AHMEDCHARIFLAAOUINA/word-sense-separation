@@ -1,0 +1,47 @@
+{
+ "target_word": "hesitated",
+ "sentences": [
+  "Example sentence: Garth hesitated.",
+  "Example sentence: He hesitated.",
+  "Example sentence: He hesitated for a moment when Michelangelo asked him to disrobe, so Michelangelo gave him a piece of toweling to wrap around his loins, led him to the kitchen to take off his clothes.",
+  "Example sentence: Barton hesitated.",
+  "Example sentence: He didn't, but it was not really a question, and so he left the room, walked down the hall to the front of the apartment, hesitated, and then knocked lightly on the closed door of the study.",
+  "Example sentence: For an instant his men hesitated, unable to believe that their lieutenant, the most popular officer in the regiment, was dead.",
+  "Example sentence: Local police have hesitated to prosecute them because of the heavy court costs involved even for the simplest offense.",
+  "Example sentence: When he was back on his feet again and about to reinstall the fuses, however, he hesitated.",
+  "Example sentence: Dean still hesitated, but Mike lifted him almost bodily into the saddle and thrust the reins in his hand.",
+  "Example sentence: She hesitated, she hopped, she roll and rocked, skipped and jumped, but in some two weeks she started to pace, From that time to this she has shown steady improvement and now looks like one of the classiest things on the grounds.",
+  "Example sentence: He hesitated; the question was too wide for the sparse English language.",
+  "Example sentence: Mickey backed off again and Roberts hesitated, then came along."
+ ],
+ "labels": [
+  "hesitate.v.02",
+  "hesitate.v.02",
+  "hesitate.v.02",
+  "hesitate.v.02",
+  "hesitate.v.02",
+  "hesitate.v.02",
+  "hesitate.v.01",
+  "hesitate.v.01",
+  "hesitate.v.01",
+  "hesitate.v.01",
+  "hesitate.v.01",
+  "hesitate.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

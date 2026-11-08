@@ -1,0 +1,7 @@
+word: past
+dataset: data/raw/semcor_words/past.json
+senses:
+  - past.n.01
+  - past.a.01
+n_per_sense: 20
+prefix: "Example sentence: "

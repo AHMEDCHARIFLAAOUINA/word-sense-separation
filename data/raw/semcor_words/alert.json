@@ -1,0 +1,35 @@
+{
+ "target_word": "alert",
+ "sentences": [
+  "Example sentence: It could never happen as long as God was alert and the Drew steeple stood guard with its peaked lance.",
+  "Example sentence: She grasped the chair arms and brought her thin body upright, like a bird alert for flight.",
+  "Example sentence: Mr. McKinley, for all his sprawling and his easy familiarity, was completely alert to his son, eyes always on the still face, jumping to anticipate Scotty's desires.",
+  "Example sentence: Scotty's father sat sprawled in his chair, angular, alert as a cricket, looking about at the huge stainless-steel appointments of the room with an expression of proprietorship.",
+  "Example sentence: My object, rather, is to alert you to an aspect or two of the affair that could have the gravest implications for you, far beyond the legal sanctions society might inflict.",
+  "Example sentence: She must be cautious so as not to alert the scheming forest.",
+  "Example sentence: The camp was a cluster of aluminum bubbles, ringed with a spy web to alert the Earthmen to the approach of any being.",
+  "Example sentence: His esoteric chartings of the voice alert the therapist to areas where deeper probing may bring to light underlying psychological difficulties, making them apparent first to the therapist and eventually to the patient."
+ ],
+ "labels": [
+  "alert.a.01",
+  "alert.a.01",
+  "alert.a.01",
+  "alert.a.01",
+  "alarm.v.02",
+  "alarm.v.02",
+  "alarm.v.02",
+  "alarm.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

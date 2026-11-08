@@ -1,0 +1,35 @@
+{
+ "target_word": "grounds",
+ "sentences": [
+  "Example sentence: Although admitting Brown's guilt on legal grounds, Day said that, `` Brown is no common criminal; his deed was not below, but above the law ''.",
+  "Example sentence: This is brought out in the common religious ethos that prevails even in the denominationally diverse audiences at many secular semi-public and public occasions in the United States; and it is evidenced in the prayers offered, in the frequent religious allusions, and in the confirmation of points on religious grounds.",
+  "Example sentence: Position (2) appears to us to be unlikely in view of the absence of a piezoelectric effect and on general chemical structural grounds.",
+  "Example sentence: On chemical grounds it seems most likely that iodide is first converted to * * f and then to * * f as the active iodinating species.",
+  "Example sentence: Would you permit Juanita to walk about the grounds with me for a short spell, Mrs. Lattimer ''?",
+  "Example sentence: When he had given the call a few moments thought, he went into the kitchen to ask Mrs. Yamata to prepare tea and sushi for the visitors, using the formal English china and the silver tea service which had been donated to the mission, then he went outside to inspect the grounds.",
+  "Example sentence: Could an employee's garden club take over partial care of plant grounds?",
+  "Example sentence: Lights blazed in the big house and surrounding grounds."
+ ],
+ "labels": [
+  "evidence.n.01",
+  "evidence.n.01",
+  "evidence.n.01",
+  "evidence.n.01",
+  "yard.n.02",
+  "yard.n.02",
+  "yard.n.02",
+  "yard.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

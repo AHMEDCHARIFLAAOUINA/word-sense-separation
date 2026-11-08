@@ -1,0 +1,7 @@
+word: technical
+dataset: data/raw/semcor_words/technical.json
+senses:
+  - technical.a.01
+  - technical.a.02
+n_per_sense: 10
+prefix: "Example sentence: "

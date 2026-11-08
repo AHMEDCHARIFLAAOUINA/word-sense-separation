@@ -1,0 +1,7 @@
+word: outside
+dataset: data/raw/semcor_words/outside.json
+senses:
+  - outside.r.01
+  - outside.n.01
+n_per_sense: 7
+prefix: "Example sentence: "

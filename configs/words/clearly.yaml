@@ -1,0 +1,7 @@
+word: clearly
+dataset: data/raw/semcor_words/clearly.json
+senses:
+  - clearly.r.01
+  - intelligibly.r.01
+n_per_sense: 9
+prefix: "Example sentence: "

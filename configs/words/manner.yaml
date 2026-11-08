@@ -1,0 +1,7 @@
+word: manner
+dataset: data/raw/semcor_words/manner.json
+senses:
+  - manner.n.01
+  - manner.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

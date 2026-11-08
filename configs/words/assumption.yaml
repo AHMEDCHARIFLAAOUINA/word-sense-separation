@@ -1,0 +1,7 @@
+word: assumption
+dataset: data/raw/semcor_words/assumption.json
+senses:
+  - premise.n.01
+  - assumption.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

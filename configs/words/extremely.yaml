@@ -1,0 +1,7 @@
+word: extremely
+dataset: data/raw/semcor_words/extremely.json
+senses:
+  - highly.r.01
+  - extremely.r.02
+n_per_sense: 6
+prefix: "Example sentence: "

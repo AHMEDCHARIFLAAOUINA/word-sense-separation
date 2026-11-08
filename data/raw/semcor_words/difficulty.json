@@ -1,0 +1,53 @@
+{
+ "target_word": "difficulty",
+ "sentences": [
+  "Example sentence: The president of a small firm selling restaurant products, had considerable difficulty in finding suitable salesmen for his business.",
+  "Example sentence: One vocational instructor in a city vocational school, speaking of his course in a certain field, said he had no difficulty placing all students in jobs outside of the city.",
+  "Example sentence: With difficulty, Hudson persuaded him to rejoin the ship, and they sailed from Iceland.",
+  "Example sentence: One issue that must be faced is the relative difficulty of analysis of different phonologic subsystems.",
+  "Example sentence: Measurements of skins are of little value; every snake hide is noticeably longer than its carcass and intentional stretching presents no difficulty to the unscrupulous explorer.",
+  "Example sentence: In it important elements of Christianity and of the Biblical view of reality in general, which now cause us much difficulty, could be responded to quite naturally and spontaneously.",
+  "Example sentence: They possessed no outer fortifications, no hard shells of confidence; they had enough difficulty getting from day to day, let alone having an awful crime thrust upon them.",
+  "Example sentence: The difficulty was that each day seemed to produce its quota of details which must be cleaned up immediately.",
+  "Example sentence: Most countries in this second category share the difficulty of having many of the structures of a modern political and social system without the modern standards of performance required to make them effective.",
+  "Example sentence: Despite extensive attempts to obtain highly pure reagents, serious difficulty was experienced in obtaining reproducible rates of reaction.",
+  "Example sentence: Again, one major difficulty is the local focus.",
+  "Example sentence: I lived in this onward driving contest where each day overcame a new difficulty, gained a new truth, or banished a previous error ''.",
+  "Example sentence: We can escape from such a difficulty by ruling out the animal as not constituting a trial, but such a solution is not always satisfactory.",
+  "Example sentence: But in such an important question, we would be satisfied if the judgment were that the principal objection to the identity of forces which produce electricity and magnetism were only a difficulty, and not a thing which is contrary to it."
+ ],
+ "labels": [
+  "trouble.n.04",
+  "trouble.n.04",
+  "trouble.n.04",
+  "trouble.n.04",
+  "trouble.n.04",
+  "trouble.n.04",
+  "trouble.n.04",
+  "difficulty.n.02",
+  "difficulty.n.02",
+  "difficulty.n.02",
+  "difficulty.n.02",
+  "difficulty.n.02",
+  "difficulty.n.02",
+  "difficulty.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: show
+dataset: data/raw/semcor_words/show.json
+senses:
+  - prove.v.02
+  - show.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

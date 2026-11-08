@@ -1,0 +1,7 @@
+word: dealing
+dataset: data/raw/semcor_words/dealing.json
+senses:
+  - cover.v.05
+  - deal.v.03
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: cook
+dataset: data/raw/semcor_words/cook.json
+senses:
+  - cook.n.01
+  - cook.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

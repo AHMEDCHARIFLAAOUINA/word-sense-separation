@@ -1,0 +1,47 @@
+{
+ "target_word": "square",
+ "sentences": [
+  "Example sentence: The square has one corner point on the straight line segment, and does not lie entirely in the interior.",
+  "Example sentence: Indeed, the spiral **f, with the two endpoints connected by a straight line possesses only one inscribed square.",
+  "Example sentence: About 300 yards up the creek was a cluster of Mexican houses containing six rooms in the form of a square.",
+  "Example sentence: We erect a square with PQ as a side and with free corners **f and **f adjacent to P and Q respectively.",
+  "Example sentence: A large picnic area or camping development is most efficient in shape as a square or rectangle several hundred feet in width in preference to a long narrow area less than one hundred feet wide.",
+  "Example sentence: A square inscribed in a curve C means a square with its four corner points on the curve, though it may not lie entirely in the interior of C.",
+  "Example sentence: He was a square brick of a man with a moon round face and sunken Polish features.",
+  "Example sentence: It squatted low and square upon the sidewalk with a heavy iron grating supporting a glass facade.",
+  "Example sentence: For an instant John longed for the sound of the bells of Noyon-la-Sainte, the touch of his mother's hand, the lilt of Charles's voice in the square raftered rooms, his father's bass tones rumbling to the canons, and the sight of the beloved bishop.",
+  "Example sentence: Mercer is supposed to have refused it with, `` Anyone who wears a square monocle must be affected ''!",
+  "Example sentence: The innocent malfeasant, filled with that supreme sense of honor found in bars, insisted upon replacing the destroyed monocle - and did, over the protests of the former owner - with a square monocle.",
+  "Example sentence: These cells were used rather than square Pyrex tubing because of the tendency of the latter to shatter when thawing frozen carbon tetrachloride."
+ ],
+ "labels": [
+  "square.n.01",
+  "square.n.01",
+  "square.n.01",
+  "square.n.01",
+  "square.n.01",
+  "square.n.01",
+  "square.a.01",
+  "square.a.01",
+  "square.a.01",
+  "square.a.01",
+  "square.a.01",
+  "square.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: dry
+dataset: data/raw/semcor_words/dry.json
+senses:
+  - dry.a.01
+  - dry.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

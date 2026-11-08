@@ -1,0 +1,47 @@
+{
+ "target_word": "share",
+ "sentences": [
+  "Example sentence: The partners each bring to it unselfish love, and each takes away an equal share of pleasure and joy.",
+  "Example sentence: The pre 1960 rate of Federal participation with respect to any State's base allotment, as well as the adjusted rate in effect during the 1960 - 1962 period, is designated by the statute as that State's `` adjusted Federal Share ''.",
+  "Example sentence: The provisions for determining a State's unadjusted Federal share are designed to reflect the varying financial resources among the States.",
+  "Example sentence: The purpose of the adjusted Federal share relating to the base allotment and of the transition provisions for reaching the unadjusted Federal share is to prevent dislocations from abrupt changes in matching rates.",
+  "Example sentence: A former du Pont official became a General Motors vice president and set about maximizing du Pont's share of the General Motors market.",
+  "Example sentence: Many industry trade associations are developing campaigns to protect or enhance the share of the consumer's dollar being spent on their particular products.",
+  "Example sentence: The senses in each counterpart bear the impression only of phenomena that share its own frequency, whereas those upon all other frequencies are invisible, inaudible and intactible to them.",
+  "Example sentence: The trees are their homes; but the Commission does not share such sentiments.",
+  "Example sentence: Most countries in this second category share the difficulty of having many of the structures of a modern political and social system without the modern standards of performance required to make them effective.",
+  "Example sentence: Hoijer's Athabascan and my Yokuts share 71 identical meanings (with allowance for several near synonyms like stomach belly, big large, long far, many much, die dead, say speak).",
+  "Example sentence: No one asks questions about the free union of the sexes in West Venice so long as the partners share the negative attitudes of the group.",
+  "Example sentence: Now, you probably share the widespread Western belief that the Lord Buddha is the most compassionate of the gods, much more so than Jehovah and Allah and the rest."
+ ],
+ "labels": [
+  "share.n.01",
+  "share.n.01",
+  "share.n.01",
+  "share.n.01",
+  "share.n.01",
+  "share.n.01",
+  "share.v.01",
+  "share.v.01",
+  "share.v.01",
+  "share.v.01",
+  "share.v.01",
+  "share.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

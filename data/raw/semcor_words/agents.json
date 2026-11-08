@@ -1,0 +1,35 @@
+{
+ "target_word": "agents",
+ "sentences": [
+  "Example sentence: Much new equipment and many unique techniques have been developed for the quantitative exposure of experimental animals to aerosols of infectious agents contained in particles of specified dimensional characteristics.",
+  "Example sentence: It is the exploitation of the inherent potential of infectious disease agents by scientific research and development, resulting in the production of BW weapons systems.",
+  "Example sentence: Biological agents are, of course, highly host specific.",
+  "Example sentence: There are optimal humidity requirements for various agents when airborne.",
+  "Example sentence: In answering these questions, we need to ask not merely whether Communist troops have crossed over into territories they did not occupy before, and not merely whether disciplined agents of the Cominform are in control of governments from which they were formerly excluded:",
+  "Example sentence: Accordingly Selkirk's agents ordered the settlers to move north, and by October, John Halkett had torn down both posts, floating the timber to `` the Forks '' in rafts.",
+  "Example sentence: Look at Castro now - cockier than ever with arms and agents to threaten the Americas.",
+  "Example sentence: For Mrs. Shaefer - who had been given a clean bill of health by her own physician at the time she visited Lee - and her friend were agents for the California Pure Food and Drug Inspection Bureau."
+ ],
+ "labels": [
+  "agent.n.01",
+  "agent.n.01",
+  "agent.n.01",
+  "agent.n.01",
+  "agent.n.02",
+  "agent.n.02",
+  "agent.n.02",
+  "agent.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

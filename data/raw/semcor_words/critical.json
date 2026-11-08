@@ -1,0 +1,41 @@
+{
+ "target_word": "critical",
+ "sentences": [
+  "Example sentence: However, a growing intellectual sophistication and the new certitudes imparted by courses in psychology and anthropology make the students increasingly critical of their somewhat provincial and overprotective parents.",
+  "Example sentence: The model of this paper considers an industry which is not characterized by vigorous price competition, but which is so basic that its wage price policies are held in check by continuous critical public scrutiny.",
+  "Example sentence: The crude sketch of Piepsam contains, in its critical, destructive and self-destructive tendencies, much that is enlarged and illuminated in the figures of, for instance, Naphta and Leverku^hn.",
+  "Example sentence: Mary's super critical attitude toward Byron had nothing to do with his moral disrepute.",
+  "Example sentence: Mr. McKinley examined everything with critical care, seeking something material to blame for his son's illness.",
+  "Example sentence: Physicochemical investigations of anionic surfactants, including the soaps, have shown that there is little polymerization or agglomeration of the chain anions below a certain region of concentration called the critical micelle concentration.",
+  "Example sentence: Moreover, it will be asymmetric until a certain critical **f distance is reached, below which it will become symmetric.",
+  "Example sentence: (2) In the critical micelle region, there is a rapid agglomeration or polymerization to give the micelles, which have a degree of polymerization averaging around 60 - 80.",
+  "Example sentence: Furthermore, conditioned reactions are fundamentally altered when the hypothalamic sympathetic reactivity is augmented beyond a critical level, and several types of behavioral changes probably related to the degree of central autonomic `` tuning '' are observed.",
+  "Example sentence: (1) Below the critical micelle concentration, monomers and some dimers are present."
+ ],
+ "labels": [
+  "critical.a.01",
+  "critical.a.01",
+  "critical.a.01",
+  "critical.a.01",
+  "critical.a.01",
+  "critical.a.02",
+  "critical.a.02",
+  "critical.a.02",
+  "critical.a.02",
+  "critical.a.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

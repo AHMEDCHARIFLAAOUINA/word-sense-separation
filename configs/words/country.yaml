@@ -1,0 +1,7 @@
+word: country
+dataset: data/raw/semcor_words/country.json
+senses:
+  - country.n.02
+  - state.n.04
+n_per_sense: 10
+prefix: "Example sentence: "

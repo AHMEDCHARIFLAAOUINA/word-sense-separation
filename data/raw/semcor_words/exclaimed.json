@@ -1,0 +1,35 @@
+{
+ "target_word": "exclaimed",
+ "sentences": [
+  "Example sentence: `` Cook a whole antelope ''? she exclaimed.",
+  "Example sentence: '' Thou mayst have supernatural powers ``, exclaimed Yang Shan, '' yet thou must give back the Spirit of Buddha to me ``.",
+  "Example sentence: `` Just our luck ''! exclaimed Stram.",
+  "Example sentence: You were right '', Russ exclaimed, tearing the loose bills out of Carmer's hat.",
+  "Example sentence: `` C'est formidable '', they exclaimed.",
+  "Example sentence: Whitey exclaimed, with true affection.",
+  "Example sentence: He cites with pleasure the comment of a lady, who exclaimed after a concert: `` Why, it's extremely interesting.",
+  "Example sentence: `` Moriarty '', my driver suddenly exclaimed with something so definite, so final in his tone I once more repeated the absurdity, mustering all my latent powers of hypocrisy to sound convinced."
+ ],
+ "labels": [
+  "proclaim.v.02",
+  "proclaim.v.02",
+  "proclaim.v.02",
+  "proclaim.v.02",
+  "exclaim.v.01",
+  "exclaim.v.01",
+  "exclaim.v.01",
+  "exclaim.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

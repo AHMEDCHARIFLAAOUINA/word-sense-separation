@@ -1,0 +1,7 @@
+word: close
+dataset: data/raw/semcor_words/close.json
+senses:
+  - close.a.01
+  - close.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

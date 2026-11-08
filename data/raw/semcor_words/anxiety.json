@@ -1,0 +1,35 @@
+{
+ "target_word": "anxiety",
+ "sentences": [
+  "Example sentence: He took advantage of the antagonism between aggressive assertiveness and anxiety and found a relatively rapid disappearance of anxiety when the former attitude was established.",
+  "Example sentence: The child with high anxiety may first direct his anxiety released energy toward achievement, but because his distress severely reduces the abilities of discrimination and memorization of complex symbols, the child may fail in his initial attempts to master the problem.",
+  "Example sentence: The question may be raised whether or not we are dealing with a common factor in anxiety and compulsivity.",
+  "Example sentence: The issue of interaction between anxiety and compulsivity will be taken up later.",
+  "Example sentence: He wondered if it wore the old anxiety, or the old, taut stoicism.",
+  "Example sentence: This discovery caused Hal anxiety.",
+  "Example sentence: It is interesting that, although the percentage of married students is not appreciably higher at Brooklyn than elsewhere - about 30 per cent of the women and 25 per cent of the men in the graduating class - the anxiety of the unmarried has puffed up the estimate.",
+  "Example sentence: Certainly there would be less anxiety, fewer accidents (it is the clumsy child who sustains the worst injuries), and higher scholastic averages, since alert children work better."
+ ],
+ "labels": [
+  "anxiety.n.01",
+  "anxiety.n.01",
+  "anxiety.n.01",
+  "anxiety.n.01",
+  "anxiety.n.02",
+  "anxiety.n.02",
+  "anxiety.n.02",
+  "anxiety.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: sin
+dataset: data/raw/semcor_words/sin.json
+senses:
+  - sin.n.01
+  - sin.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

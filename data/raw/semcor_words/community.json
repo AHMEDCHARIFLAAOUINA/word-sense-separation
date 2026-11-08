@@ -1,0 +1,35 @@
+{
+ "target_word": "community",
+ "sentences": [
+  "Example sentence: A tsunami in the Hawaiian Islands in 1869 washed away an entire town (Ponoluu), leaving only two forlorn trees standing where the community had been.",
+  "Example sentence: The peace of the community was badly disturbed, and people across the nation, reading of the incident, felt uneasy.",
+  "Example sentence: Mission Street at this hour was populated by a whole community that Gun could not have seen on his tour of duty - the neighborhood that had known Urbano Quintana by day.",
+  "Example sentence: These values give direction to the life of the middle-class man or woman, dictating the methods of child rearing, determining the pattern of community participation, setting the style for the psychiatric treatment of middle-class illness, and informing the congregational life of the major denominations.",
+  "Example sentence: Because community not severalty of property is the law of nature no man can assert an absolutely unalterable right to what is his.",
+  "Example sentence: We find it in the later Stoic conception of man's natural condition which included the community of all possessions.",
+  "Example sentence: In all the respects just indicated Utopian communism differs from previous conceptions in which community of possessions and living plays a role.",
+  "Example sentence: Finally, the conception of the natural community of all possessions which originated with the Stoics was firmly fixed in a tradition by More's time, although it was not accepted by all the theologian philosophers of the Middle Ages."
+ ],
+ "labels": [
+  "community.n.01",
+  "community.n.01",
+  "community.n.01",
+  "community.n.01",
+  "community.n.02",
+  "community.n.02",
+  "community.n.02",
+  "community.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

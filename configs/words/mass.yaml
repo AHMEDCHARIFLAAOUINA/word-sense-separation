@@ -1,0 +1,7 @@
+word: mass
+dataset: data/raw/semcor_words/mass.json
+senses:
+  - mass.n.01
+  - mass.n.04
+n_per_sense: 9
+prefix: "Example sentence: "

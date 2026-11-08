@@ -1,0 +1,7 @@
+word: industry
+dataset: data/raw/semcor_words/industry.json
+senses:
+  - industry.n.01
+  - industry.n.02
+n_per_sense: 12
+prefix: "Example sentence: "

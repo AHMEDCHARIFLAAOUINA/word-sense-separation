@@ -1,0 +1,7 @@
+word: trade
+dataset: data/raw/semcor_words/trade.json
+senses:
+  - trade.n.01
+  - trade.n.02
+n_per_sense: 11
+prefix: "Example sentence: "

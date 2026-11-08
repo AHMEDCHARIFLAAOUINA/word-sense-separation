@@ -1,0 +1,47 @@
+{
+ "target_word": "gained",
+ "sentences": [
+  "Example sentence: If the Union conceded this to them, the same right must be conceded to each remaining state whenever it saw fit to secede: This would destroy the federal balance between it and the states, and in the end sacrifice to the sovereignty of the states all the liberty the citizens had gained by their Union.",
+  "Example sentence: Service running through Barnumville and to Bennington County towns east of the mountains was in the hands of the `` Gleason Telephone Company '' in 1925, but major supervision of telephone lines in Manchester was with the New England Telephone and Telegraph Company, which eventually gained all control.",
+  "Example sentence: His denials of extensive reading notwithstanding, it is no doubt safe to assume that he has spent time schooling himself in Southern history and that he has gained some acquaintance with the chief literary authors who have lived in the South or have written about the South.",
+  "Example sentence: Additional information supplied to us discloses that the railroad gained a stabilized supply of telegraphers of which it was in need.",
+  "Example sentence: I lived in this onward driving contest where each day overcame a new difficulty, gained a new truth, or banished a previous error ''.",
+  "Example sentence: Some clue to the character of London's approach in these discs may be gained immediately from the fact that ten of the 12 titles include the word `` percussion '' or `` percussive ''.",
+  "Example sentence: He has gained only one thing - he has exploded a 50 - megaton bomb and he probably has rockets with sufficient thrust to lob it over the shorter intercontinental ranges.",
+  "Example sentence: Beatie, getting no sympathy for her misfortune, soon rallies and finds that although she has lost a lover she has gained her freedom.",
+  "Example sentence: The inference is overwhelming that du Pont's commanding position was promoted by its stock interest and was not gained solely on competitive merit ''.",
+  "Example sentence: Upon consideration of the variety of soils and fabrics normally encountered in the washing process, it is little wonder that the use of a number of detergent constituents having `` synergistic '' properties has gained widespread acceptance.",
+  "Example sentence: Miss Xydis has a natural affinity for the keyboard, and in the twenty years since her debut here she has gained the authority and inner assurance that lead to audience control.",
+  "Example sentence: One is that they were established, or gained eminence, under pressure provided by these same immigrants, from whom the old families wished to segregate their children."
+ ],
+ "labels": [
+  "derive.v.02",
+  "derive.v.02",
+  "derive.v.02",
+  "derive.v.02",
+  "derive.v.02",
+  "derive.v.02",
+  "acquire.v.05",
+  "acquire.v.05",
+  "acquire.v.05",
+  "acquire.v.05",
+  "acquire.v.05",
+  "acquire.v.05"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: however
+dataset: data/raw/semcor_words/however.json
+senses:
+  - however.r.01
+  - however.r.02
+n_per_sense: 17
+prefix: "Example sentence: "

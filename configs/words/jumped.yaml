@@ -1,0 +1,7 @@
+word: jumped
+dataset: data/raw/semcor_words/jumped.json
+senses:
+  - jump.v.01
+  - startle.v.02
+n_per_sense: 5
+prefix: "Example sentence: "

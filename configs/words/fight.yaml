@@ -1,0 +1,7 @@
+word: fight
+dataset: data/raw/semcor_words/fight.json
+senses:
+  - contend.v.06
+  - fight.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

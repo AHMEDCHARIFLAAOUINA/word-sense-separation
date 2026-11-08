@@ -1,0 +1,7 @@
+word: carried
+dataset: data/raw/semcor_words/carried.json
+senses:
+  - carry.v.02
+  - transport.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

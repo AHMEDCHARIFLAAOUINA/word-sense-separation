@@ -1,0 +1,35 @@
+{
+ "target_word": "burst",
+ "sentences": [
+  "Example sentence: When a plan burst its seams, hasty conferences supply the necessary patch, and life goes merrily on.",
+  "Example sentence: His eyes were threaded by little filaments of red as if tiny veins had burst and flooded blood into them.",
+  "Example sentence: It can cut a red squirrel neatly in two or burst a crow into a flurry of feathers.",
+  "Example sentence: The clouds bulged downward and burst suddenly into a great black funnel.",
+  "Example sentence: She burst into tears.",
+  "Example sentence: An auto overturned, skidding into a stopped tractor-trailer and burst into flames near Snellville, the patrol said.",
+  "Example sentence: In the hall, after adjournment, Dr. Frothingham took him warmly by the hand and requested Parker to visit him - whereupon our burly Theodore again burst into tears.",
+  "Example sentence: Soon Mrs. B.'s fears threatened to burst into a full-blown panic concerning the welfare of the entire family."
+ ],
+ "labels": [
+  "burst.v.01",
+  "burst.v.01",
+  "burst.v.01",
+  "burst.v.01",
+  "break.v.09",
+  "break.v.09",
+  "break.v.09",
+  "break.v.09"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

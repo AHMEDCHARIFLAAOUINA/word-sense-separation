@@ -1,0 +1,7 @@
+word: fire
+dataset: data/raw/semcor_words/fire.json
+senses:
+  - fire.n.01
+  - open_fire.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

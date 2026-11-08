@@ -1,0 +1,7 @@
+word: prefer
+dataset: data/raw/semcor_words/prefer.json
+senses:
+  - prefer.v.01
+  - choose.v.02
+n_per_sense: 7
+prefix: "Example sentence: "

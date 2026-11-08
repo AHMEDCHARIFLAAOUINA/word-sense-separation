@@ -1,0 +1,41 @@
+{
+ "target_word": "peace",
+ "sentences": [
+  "Example sentence: The Providence Daily Journal stated that although the guilt of Brown was evident, the South must guarantee him a fair trial to preserve domestic peace.",
+  "Example sentence: Peace is a worthy objective; but if we must choose between peace and keeping the Communists out of Berlin, then we must fight.",
+  "Example sentence: He is a Buddhist, which means that to him peace and the sanctity of human life are not only religious dogma, but a profound and unshakable Weltanschauung.",
+  "Example sentence: The world exploded when Fascism challenged all concepts of peace and liberty, and the outraged, freedom loving peoples of the Capitalist and Socialist worlds combined forces to stamp Fascist tyranny into cringing submission.",
+  "Example sentence: How best to destroy your peace?",
+  "Example sentence: As part of the same arrangement, Torrio had, in the spirit of peace and good will, and in exchange for armed support in the April election campaign, bestowed upon O ' Banion a third share in the Hawthorne Smoke Shop proceeds and a cut in the Cicero beer trade.",
+  "Example sentence: This is important to understanding the position that doctrinaire liberals found themselves in after World War 2, and our great democratic victory that brought no peace.",
+  "Example sentence: `` What matters here is family loyalty; faith in the Buddha and staying at peace with the phis, the spirits; and to live in harmony with nature ''.",
+  "Example sentence: The peace of the community was badly disturbed, and people across the nation, reading of the incident, felt uneasy.",
+  "Example sentence: We of the liberal led world got all set for peace and rehabilitation."
+ ],
+ "labels": [
+  "peace.n.01",
+  "peace.n.01",
+  "peace.n.01",
+  "peace.n.01",
+  "peace.n.01",
+  "peace.n.02",
+  "peace.n.02",
+  "peace.n.02",
+  "peace.n.02",
+  "peace.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: board
+dataset: data/raw/semcor_words/board.json
+senses:
+  - board.n.01
+  - board.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

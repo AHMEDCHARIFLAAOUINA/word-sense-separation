@@ -1,0 +1,35 @@
+{
+ "target_word": "discovery",
+ "sentences": [
+  "Example sentence: Indeed we should say, on the contrary, that the accident of our later discovery made no difference whatever to the badness of the animal's pain, that it would have been every whit as bad whether a chance passer-by happened later to discover the body and feel repugnance or not.",
+  "Example sentence: The discovery that movies are a form of fiction was made in the early years of this century and it was made chiefly by two men, a French magician, Georges Melies, and an American employee of Edison, Edwin S. Porter.",
+  "Example sentence: The sequence of events leading to his important discovery still remains ambiguous but it seems that one of the advanced students at the university related that the first direct event that led to the publication of Oersted's discovery occurred during a private lecture made before a group of other advanced students in the spring of 1820.",
+  "Example sentence: He was stirred by the announcement of Volta's discovery of chemical electricity and he immediately applied the voltaic pile to experiments with acids and alkalis.",
+  "Example sentence: His chief discovery was important - the Great North (later, the Hudson) River - but it produced no northwest passage.",
+  "Example sentence: This must have been Hudson's blackest discovery.",
+  "Example sentence: And an additional factor was helping to make women more sexually self-assertive - the comparatively recent discovery of the true depths of female desire and response.",
+  "Example sentence: Mrs. Monmouth thought of him as her discovery, and she paid two to three hundred dollars for a painting."
+ ],
+ "labels": [
+  "discovery.n.01",
+  "discovery.n.01",
+  "discovery.n.01",
+  "discovery.n.01",
+  "discovery.n.02",
+  "discovery.n.02",
+  "discovery.n.02",
+  "discovery.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

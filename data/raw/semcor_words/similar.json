@@ -1,0 +1,41 @@
+{
+ "target_word": "similar",
+ "sentences": [
+  "Example sentence: These conjugates * * f had much less nonspecific staining than the previous conjugate (with 50 mg FITC per gram of globulin) while the specific staining was similar in both cases.",
+  "Example sentence: These general facts are mentioned to make clear that the total situation in the two families is similar enough to warrant comparison.",
+  "Example sentence: The career of Charles 12, is obviously very similar to that of Napoleon.",
+  "Example sentence: One hebephrenic women confided to me, `` I live in a world of words '', as if, to her, words were fully concrete objects; Burnham, in his excellent article (1955) concerning schizophrenic communication, includes mention of similar clinical material.",
+  "Example sentence: Any reputable French interne can supply you with a dozen similar instances, and I'll presently recount a case out of my own personal experience, but, for the moment, let's resume our catalogue.",
+  "Example sentence: The inner life of congregations will prosper so long as like-minded people of similar social and economic level can fraternize together; the outer life of congregations - the suitability of the environment to their survival - will be propitious so long as the people in the area are of the same social and economic level as the membership.",
+  "Example sentence: Religious faith can be considered a necessary condition of membership in a congregation, since the decision to join a worshiping group requires some motive force, but faith is not a sufficient condition for joining; the presence of other members of similar social and economic level is the sufficient condition.",
+  "Example sentence: Missionary outreach by friendly contact looks somewhat different when one reflects on what is known about friendly contact in metropolitan neighborhoods; the majority of such contacts are with people of similar social and economic position; association by level of achievement is the dominant principle of informal relations.",
+  "Example sentence: First of all, as we had surmised, the highly compulsive children in the structured setting score significantly better (* * f) on achievement than do similar children in the unstructured schools.",
+  "Example sentence: The task of a congregation would be defined, according to economic integration, as the work of co-opting individuals and families of similar social and economic position to replenish the nuclear core of the congregation."
+ ],
+ "labels": [
+  "similar.a.01",
+  "similar.a.01",
+  "similar.a.01",
+  "similar.a.01",
+  "similar.a.01",
+  "alike.a.01",
+  "alike.a.01",
+  "alike.a.01",
+  "alike.a.01",
+  "alike.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

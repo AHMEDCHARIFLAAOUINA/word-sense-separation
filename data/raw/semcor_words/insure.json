@@ -1,0 +1,35 @@
+{
+ "target_word": "insure",
+ "sentences": [
+  "Example sentence: It has already been reported in your newspapers that the East Greenwich School Committee is considering additions to at least one elementary school and to the high school to insure future accommodations for a school population that we know will increase.",
+  "Example sentence: The raw sewage was introduced directly under the turbine aerator to insure maximum mixing of the raw sewage with the aeration tank contents.",
+  "Example sentence: Under this program, property sales specialists in the Small Business Administration regional offices help small business concerns to locate Federal property for sale and insure that small firms have the opportunity to bid competitively for surplus personal and real property and certain natural resources, including timber from the national forests.",
+  "Example sentence: The `` hold-back '', as Pentagon mutterers labeled it, apparently was a temporary expedient intended to insure that the army services are built up gradually and, thus, the new funds spent prudently.",
+  "Example sentence: Each completed locking bar should remain in place as the work progresses to insure snug fitting.",
+  "Example sentence: And, given probable public attitudes - about which reasonably good estimates can be made - what action is called for to insure necessary support?",
+  "Example sentence: That guiding principle of the Hoover Administration fell to the siege guns of the New Deal; less than a score of years later Congress enacted the Employment Act of 1946, by which the national government assumed the responsibility of taking action to insure conditions of maximum employment.",
+  "Example sentence: These factors practically insure that no single financing formula is feasible; each situation must be studied and a plan developed that takes into consideration such factors as the effect of the existing and prospective tax calendars, the financial condition of the treasuries, and the length of the transition interval."
+ ],
+ "labels": [
+  "see.v.10",
+  "see.v.10",
+  "see.v.10",
+  "see.v.10",
+  "guarantee.v.02",
+  "guarantee.v.02",
+  "guarantee.v.02",
+  "guarantee.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

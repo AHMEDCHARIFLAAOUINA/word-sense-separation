@@ -1,0 +1,41 @@
+{
+ "target_word": "bottom",
+ "sentences": [
+  "Example sentence: They cringed under sodden covers, listening to the waves slop against the bottom.",
+  "Example sentence: Grabski slurped his way to the bottom of the soup bowl.",
+  "Example sentence: The top of the sample was nearly flat and the bottom hemispherical.",
+  "Example sentence: The discarded papers inside were sodden, there was a glint of liquid at the bottom, and the smell of whisky was strong and distinct.",
+  "Example sentence: The pilot plant was a circular lagoon 81 ft in diam at the surface and 65 ft in diam at the bottom, 4 ft below the surface, with a volume of 121000 gal.",
+  "Example sentence: They turned at the bottom of Kate's steps and moved off in the direction of the park.",
+  "Example sentence: We want to stimulate ideas from the bottom to the top of the Department.",
+  "Example sentence: Chandler left Carroll at the bottom of the hill to direct any reinforcements he could find to the fight.",
+  "Example sentence: Alison was still sound asleep; he made fresh coffee and searched through all the desk drawers for more cigarettes before thinking of her handbag, and found a crumpled stray cigarette at its bottom, which tasted peculiarly of face powder.",
+  "Example sentence: We want to make sure that our junior colleagues realize that ideas are welcome, that initiative goes right down to the bottom and goes all the way to the top."
+ ],
+ "labels": [
+  "bottom.n.01",
+  "bottom.n.01",
+  "bottom.n.01",
+  "bottom.n.01",
+  "bottom.n.01",
+  "bottom.n.02",
+  "bottom.n.02",
+  "bottom.n.02",
+  "bottom.n.02",
+  "bottom.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

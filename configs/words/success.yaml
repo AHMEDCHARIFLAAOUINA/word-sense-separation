@@ -1,0 +1,7 @@
+word: success
+dataset: data/raw/semcor_words/success.json
+senses:
+  - success.n.02
+  - success.n.01
+n_per_sense: 12
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "wall",
+ "sentences": [
+  "Example sentence: The illustrations in fig. 8 show how to lay a concrete block wall.",
+  "Example sentence: Hoag stumbled back into the hall, leaned against the wall, and started to retch.",
+  "Example sentence: He stopped pacing, leaned against the dank, timbered wall and let his mind drift.",
+  "Example sentence: A blower is essential for the double wall shelter and for the underground shelters.",
+  "Example sentence: Mortar is poured between this bracing and the 4 - inch blocks on edge to complete the wall thickness for radiation shielding.",
+  "Example sentence: And the valley stretched endlessly out ahead, scorched and baked and writhing in its heat, until it vanished into the throbbing wall of fiery orange brown haze.",
+  "Example sentence: Sameness for the Old Man was framed in by a wall of ginkgo trees which divided these quarters from the city.",
+  "Example sentence: The seemingly quiet ocean had crashed a wall of water from 10 to 100 feet high upon beaches crowded with bathers, drowning thousands of them and flattening villages along the shore.",
+  "Example sentence: He moved the flights over against one wall.",
+  "Example sentence: The muscles of the extremities, chest wall, neck, and abdominal wall were soft, pale, and atrophic."
+ ],
+ "labels": [
+  "wall.n.01",
+  "wall.n.01",
+  "wall.n.01",
+  "wall.n.01",
+  "wall.n.01",
+  "wall.n.02",
+  "wall.n.02",
+  "wall.n.02",
+  "wall.n.02",
+  "wall.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

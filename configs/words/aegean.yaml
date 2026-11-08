@@ -1,0 +1,7 @@
+word: aegean
+dataset: data/raw/semcor_words/aegean.json
+senses:
+  - aegean.n.01
+  - aegean.a.01
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,47 @@
+{
+ "target_word": "laid",
+ "sentences": [
+  "Example sentence: The cloth is laid on one half of the bottom at a time.",
+  "Example sentence: They practiced movement behind a smoke screen laid by smoke grenades; and they attempted a skirmish line of advance against a camouflaged enemy encampment.",
+  "Example sentence: Hans had laid steaming towels over the kid's chest and stomach.",
+  "Example sentence: I laid a tenspot on the bar and motioned to the bartender to serve a round.",
+  "Example sentence: I laid three layers of glass cloth on the inside of the stem, also installing a bow eye at this time.",
+  "Example sentence: Oersted's own earlier experiments were unimpressive, possibly because he had, like other experimenters, laid the conducting wire across the compass needle instead of parallel with it.",
+  "Example sentence: In it was a stone Tibetan Buddha I had picked up in Bombay, and occasionally, to make merit, my wife and I garlanded it with flowers or laid a few pennies in its lap.",
+  "Example sentence: The guns are fired, the hymns are sung, and the body of Charles is carried down to the vault and laid beside the tombs of his ancestors.",
+  "Example sentence: Perhaps after the soldiers had laid him on the ground, while Joseph of Arimathea was at Pontius Pilate's asking for Christ's body, Nicodemus was gathering his mixture of myrrh and aloes, and the others had gone home to mourn.",
+  "Example sentence: From upstream it looks like a long arcaded box laid across the river; from downstream, where the water level is much lower, it is a high, elaborately facaded pavilion.",
+  "Example sentence: Standing in the shelter of the tent - a rejected hospital tent on which the rain now dripped, no longer drumming - Adam watched his own hands touch the objects on the improvised counter of boards laid across two beef barrels.",
+  "Example sentence: Winston laid it in the basket."
+ ],
+ "labels": [
+  "put.v.01",
+  "put.v.01",
+  "put.v.01",
+  "put.v.01",
+  "put.v.01",
+  "put.v.01",
+  "lay.v.02",
+  "lay.v.02",
+  "lay.v.02",
+  "lay.v.02",
+  "lay.v.02",
+  "lay.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

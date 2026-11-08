@@ -1,0 +1,41 @@
+{
+ "target_word": "inspired",
+ "sentences": [
+  "Example sentence: A romantic is one who thinks the world is divinely inspired and all he has to do is find the right key, and then divine justice and altruism will appear.",
+  "Example sentence: The great seal of the United States was obviously inspired by the Christian faith.",
+  "Example sentence: From necessity, they are also inspired by the `` hard-sell '' attitude of the sponsor, so, finally, it is the sponsor who must take the responsibility for the good or bad taste of his advertising.",
+  "Example sentence: The Hopkinsian universal disinterested benevolence, although holding to original sin and the doctrine of election, inspired its adherents to heroic endeavours for others, looked for the early coming of the Millennium, and was paralleled by the confidence in man's ability cherished by the Unitarians, Emerson, and the Transcendentalists.",
+  "Example sentence: That his moods, even in his early years, are those of his people, does him honor, as his music honors those who inspired it.",
+  "Example sentence: To ask me to believe that so inexpressibly marvelous a book was written long after all the events by some admiring follower, and was not inspired directly by the Spirit of God, is asking me to accept a miracle far greater than any of those recorded in the Bible.",
+  "Example sentence: And like this English master, Mason realizes his subjects in large, simplified masses which, though they seem effortless, are in reality the result of skilled design born of hard work and a thorough distillation of the natural form that inspired them.",
+  "Example sentence: The critics ' campaign finally inspired the first major U. S. exhibit of Schiele's works.",
+  "Example sentence: His pictures generalize, though they are inspired by a particular locale; they universalize in terms of weather, skies, earth, and people.",
+  "Example sentence: With lyrical intensity they reveal what they hate, but their faith in love, inspired by the revolutionary rhythms of jazz, culminates in the climax of the orgasm."
+ ],
+ "labels": [
+  "inspire.v.01",
+  "inspire.v.01",
+  "inspire.v.01",
+  "inspire.v.01",
+  "inspire.v.01",
+  "inspire.v.02",
+  "inspire.v.02",
+  "inspire.v.02",
+  "inspire.v.02",
+  "inspire.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

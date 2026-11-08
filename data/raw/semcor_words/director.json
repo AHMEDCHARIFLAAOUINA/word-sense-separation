@@ -1,0 +1,47 @@
+{
+ "target_word": "director",
+ "sentences": [
+  "Example sentence: This form may be obtained from the local office of your district director.",
+  "Example sentence: If you mail a return or tax payment, you must place it in the mails in ample time to reach the district director on or before the due date.",
+  "Example sentence: `` The sexual relationship does not exist in a vacuum '', declares Dr. Mary Steichen Calderone, medical director of the Planned Parenthood Federation of America and author of the recent book, Release From Sexual Tensions.",
+  "Example sentence: The first program was sponsored by Abraham + Strauss, Hempstead, New York, under the direction of Special Events director Jennings Dennis.",
+  "Example sentence: Earlier this month Edward R. Murrow, director of the United States Information Agency, came to Hollywood and had dinner with more than 100 leaders of the motion picture industry.",
+  "Example sentence: For further information contact Director, Office of Business Economics, U.S. Department of Commerce, Washington 25, D.C..",
+  "Example sentence: The drama in the theater and the concert in the hall both have a fixed time, but the time is fixed by the director and the players, the conductor and the instrumentalists, subject, therefore, to much variation, as record collectors well know.",
+  "Example sentence: Says Wallace F. Jannsen, director of the FDA's Division of Public Information: `` Quacks are apt to direct their appeal directly to older people, or to sufferers from chronic ailments such as arthritis, rheumatism, diabetes, and cancer.",
+  "Example sentence: According to the myth, Old Order then vanishes at stage left and reappears at extreme stage right, but director Shuz skillfully sidesteps the rather gooshey problem of stage effects by simply having Miss Arapacis walk across the stage.",
+  "Example sentence: Everett Miller, then assistant director for the Garrick Gaieties, a Theatre Guild production, needed a lyricist for a song he had written; he just happened not to need any actor at the moment, however.",
+  "Example sentence: When the detective left, Andrus phoned his secretary to cancel his work and to advise the network to get a substitute director for his current project.",
+  "Example sentence: A man named Lars Simon, playwright director, had expressed a wish that Anthony Payne drop dead."
+ ],
+ "labels": [
+  "director.n.01",
+  "director.n.01",
+  "director.n.01",
+  "director.n.01",
+  "director.n.01",
+  "director.n.01",
+  "director.n.03",
+  "director.n.03",
+  "director.n.03",
+  "director.n.03",
+  "director.n.03",
+  "director.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

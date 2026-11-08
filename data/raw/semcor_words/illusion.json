@@ -1,0 +1,41 @@
+{
+ "target_word": "illusion",
+ "sentences": [
+  "Example sentence: Linking the smoothly changing images together, the eye itself endows them with the illusion of movement.",
+  "Example sentence: Only when the collage had been exhaustively translated into oil, and transformed by this translation, did Cubism become an affair of positive color and flat, interlocking silhouettes whose legibility and placement created allusions to, if not the illusion of, unmistakable three-dimensional identities.",
+  "Example sentence: If they opted for illusion, it could only be illusion per se - an illusion of depth, and of relief, so general and abstracted as to exclude the representation of individual objects.",
+  "Example sentence: Most psychiatrists dismiss these instances of that weird feeling as the deja vu (already seen) illusion, just as they dismiss dream previsions as coincidences.",
+  "Example sentence: In following this general principle, Mason provides the observer with a natural eye progression from foreground to background, and the illusion of depth is instantly created.",
+  "Example sentence: It seemed to her, as it seemed each night, that the gloom drew itself in and became densest at the table's empty chairs, giving her the frequent illusion that she dined with shadows.",
+  "Example sentence: If deja vu is an illusion, then peculiarly, it is a most prevalent mental disturbance affecting even the most level-headed people.",
+  "Example sentence: Like certain expensive restaurants, just sitting there gave you the illusion of being wealthy yourself.",
+  "Example sentence: That a writer who is gay cannot be serious is a common professional illusion, sedulously fostered by all too many academics who mistakenly believe that their frivolous efforts should be taken seriously because they are expressed with that dreary solemnity which is the only mode of expression their authors are capable of.",
+  "Example sentence: The comfort was short-lived, yet she found herself returning to the assurance whenever her imagination forced images on her too awful to contemplate without the prop of illusion."
+ ],
+ "labels": [
+  "illusion.n.01",
+  "illusion.n.01",
+  "illusion.n.01",
+  "illusion.n.01",
+  "illusion.n.01",
+  "illusion.n.02",
+  "illusion.n.02",
+  "illusion.n.02",
+  "illusion.n.02",
+  "illusion.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

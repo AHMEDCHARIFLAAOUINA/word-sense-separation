@@ -1,0 +1,35 @@
+{
+ "target_word": "store",
+ "sentences": [
+  "Example sentence: In a course for supermarket operators, a district manager who had been recently appointed to his position after being outstandingly successful as a store manager, found that in supervising other managers he was having a difficult time.",
+  "Example sentence: No suburban shopping-center branch - not even Hudson's vast Northland outside Detroit - does anything like the unit volume of business or carries anything like the variety of merchandise to be found in the home store.",
+  "Example sentence: If the distant patron of the suburban branch has been frightened away from downtown by traffic problems, however, the city store can only pressure the politicians to do something about the highways or await the completion of the federal highway program.",
+  "Example sentence: The kind who came into a cheap store like this!",
+  "Example sentence: The garden supplies enough carrots, turnips, rutabagas, potatoes, beets, cabbage and squash to store for winter meals in the root cellar.",
+  "Example sentence: The address * * f and the number of cells required to store the form are written in * * f; the information cell * * f is saved to represent the text occurrence.",
+  "Example sentence: When entries are being retrieved from this file, the table of dictionary usage indicates which entries to skip and which entries to store in the computer.",
+  "Example sentence: Therefore, give Him your affection and store up His love for you."
+ ],
+ "labels": [
+  "shop.n.01",
+  "shop.n.01",
+  "shop.n.01",
+  "shop.n.01",
+  "store.v.01",
+  "store.v.01",
+  "store.v.01",
+  "store.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,41 @@
+{
+ "target_word": "cool",
+ "sentences": [
+  "Example sentence: Briefly we rolled over a paved road up to Pak Song, on the cool Bolovens Plateau.",
+  "Example sentence: A light, porous mulch applied now keeps the roots cool and the soil soft during these early days of growth.",
+  "Example sentence: The scant flesh grew cool beneath her frantic hands.",
+  "Example sentence: Then she took iced lemonade to Marsh's young aide where he sat in the cool of the big trees around the flower garden.",
+  "Example sentence: It doesn't really matter which month of the year you sow them, but they germinate best when they have a wide variation of temperature, very warm followed by cool in the same 24 hours.",
+  "Example sentence: You can install it yourself - this is a central system that will cool every part of your house.",
+  "Example sentence: Poach the apples in this syrup for twelve minutes, drain them, and cool.",
+  "Example sentence: An attic space above insulation makes a house easier to cool.",
+  "Example sentence: In a two-story house, one unit may be installed in the basement to serve the first floor, another in the attic to cool the second.",
+  "Example sentence: An oversize unit will cool off your house quickly, then shut down for a long period."
+ ],
+ "labels": [
+  "cool.a.01",
+  "cool.a.01",
+  "cool.a.01",
+  "cool.a.01",
+  "cool.a.01",
+  "cool.v.01",
+  "cool.v.01",
+  "cool.v.01",
+  "cool.v.01",
+  "cool.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

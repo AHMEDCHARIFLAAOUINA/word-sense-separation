@@ -1,0 +1,7 @@
+word: yet
+dataset: data/raw/semcor_words/yet.json
+senses:
+  - yet.r.01
+  - so_far.r.01
+n_per_sense: 13
+prefix: "Example sentence: "

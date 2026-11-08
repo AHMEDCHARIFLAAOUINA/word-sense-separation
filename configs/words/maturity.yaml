@@ -1,0 +1,7 @@
+word: maturity
+dataset: data/raw/semcor_words/maturity.json
+senses:
+  - adulthood.n.01
+  - maturity.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

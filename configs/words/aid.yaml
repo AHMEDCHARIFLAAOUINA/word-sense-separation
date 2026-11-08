@@ -1,0 +1,7 @@
+word: aid
+dataset: data/raw/semcor_words/aid.json
+senses:
+  - help.v.01
+  - aid.n.01
+n_per_sense: 9
+prefix: "Example sentence: "

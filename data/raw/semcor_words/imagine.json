@@ -1,0 +1,41 @@
+{
+ "target_word": "imagine",
+ "sentences": [
+  "Example sentence: `` Can't you possibly imagine what life is going to be like, here ''?",
+  "Example sentence: `` What did I imagine ''? she thought.",
+  "Example sentence: But it's hard to imagine Mr. Burman as a Nobel laureate on the basis of these charming but not really momentous fables.",
+  "Example sentence: The burden of Mr. Wesker's message is that people living close to the soil (at least in England) are not the happy, fine, strong, natural, earthy people city-bred intellectuals imagine.",
+  "Example sentence: It is perhaps difficult to conceive, but imagine that tonight on London bridge the Teddy boys of the East End will gather to sing Marlowe, Herrick, Shakespeare, and perhaps some lyrics of their own.",
+  "Example sentence: `` I imagine the old girl hasn't missed us much '', Mark added, his eyes on the road.",
+  "Example sentence: Jesus, imagine, the crummy bastards, they'll get em, they'll get what's comin to em * * h He whirled about suddenly.",
+  "Example sentence: Prior to 1954 I imagine that a majority of Southerners would have voted against the Confederacy.",
+  "Example sentence: Instead of Catholics ' being obliged or even encouraged to beget the greatest possible number of offspring, as many non-Catholics imagine, the ideal of responsible parenthood is stressed.",
+  "Example sentence: By way of explanation we ourselves are prone to imagine that this achievement stems from the same American Catholic zeal and generosity which brought the parochial school system into existence."
+ ],
+ "labels": [
+  "imagine.v.01",
+  "imagine.v.01",
+  "imagine.v.01",
+  "imagine.v.01",
+  "imagine.v.01",
+  "think.v.02",
+  "think.v.02",
+  "think.v.02",
+  "think.v.02",
+  "think.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

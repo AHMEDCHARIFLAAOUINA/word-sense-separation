@@ -1,0 +1,7 @@
+word: heavy
+dataset: data/raw/semcor_words/heavy.json
+senses:
+  - heavy.a.01
+  - heavy.a.02
+n_per_sense: 6
+prefix: "Example sentence: "

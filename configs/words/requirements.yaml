@@ -1,0 +1,7 @@
+word: requirements
+dataset: data/raw/semcor_words/requirements.json
+senses:
+  - necessity.n.02
+  - requirement.n.01
+n_per_sense: 14
+prefix: "Example sentence: "

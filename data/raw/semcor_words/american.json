@@ -1,0 +1,53 @@
+{
+ "target_word": "american",
+ "sentences": [
+  "Example sentence: After all, the field is large, difficult to define and seldom taught properly to American undergraduates.",
+  "Example sentence: And a witty American journalist remarked over a century ago what is even more true today, `` Many a writer seems to think he is never profound except when he cann't understand his own meaning ''.",
+  "Example sentence: Their kind created an American culture superior to any in the world, an industrial and technological culture which penetrated Russia as it did almost every corner of the earth without a nickel from the Federal treasury or a single governmental specialist to contrive directives or program a series of consultations of interested agencies.",
+  "Example sentence: Like Holmes, the American private eye rejects the social conventions of his time.",
+  "Example sentence: As I have repeatedly stated, this provision is much more restrictive than the general law, popularly known as the Buy American Act.",
+  "Example sentence: In her letter to John Brown, `` E. B. '', the Quakeress from Newport, had suggested that the American people owed more honor to John Brown for seeking to free the slaves than they did to George Washington.",
+  "Example sentence: By dealing with common landscape in an uncommon way, Roy Mason has found a particular niche in American landscape art.",
+  "Example sentence: Though it was a great relief when the big brains on these shows turned out to be frauds and phonies, it did irreparable damage to the ego of the editor and many another intelligent, well-informed American.",
+  "Example sentence: We were told that to the Pathet Lao, a kidnaped American was worth at least $750, a fortune in Laos.",
+  "Example sentence: If a nation wished to get a head start in physical fitness over all other nations, it would start its kindergarten students on a program of gymnastics the day they entered and thus eliminate a large number of the problems that plague American schools.",
+  "Example sentence: The American is very lucky if he has three.",
+  "Example sentence: In six years, U. S. aid had amounted to more than $1.60 for each American - a total of three hundred million dollars.",
+  "Example sentence: There has been a tendency on the part of many American linguists to assume that a phonemic transcription will automatically be the best possible orthography and that the only real problem will then be the social one of securing acceptance.",
+  "Example sentence: Life had included him in its `` Modern American Artists '' series and had photographed him at his studio in the East Sixties; the corner of it you could see in the photograph looked as though it ought to have Velasquez in it painting the royalty of Spain."
+ ],
+ "labels": [
+  "american.a.01",
+  "american.a.01",
+  "american.a.01",
+  "american.a.01",
+  "american.a.01",
+  "american.a.01",
+  "american.a.01",
+  "american.n.01",
+  "american.n.01",
+  "american.n.01",
+  "american.n.01",
+  "american.n.01",
+  "american.n.01",
+  "american.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

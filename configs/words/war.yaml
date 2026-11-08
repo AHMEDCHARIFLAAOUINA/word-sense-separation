@@ -1,0 +1,7 @@
+word: war
+dataset: data/raw/semcor_words/war.json
+senses:
+  - war.n.02
+  - war.n.01
+n_per_sense: 18
+prefix: "Example sentence: "

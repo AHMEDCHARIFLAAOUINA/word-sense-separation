@@ -1,0 +1,7 @@
+word: score
+dataset: data/raw/semcor_words/score.json
+senses:
+  - mark.n.01
+  - score.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

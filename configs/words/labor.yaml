@@ -1,0 +1,7 @@
+word: labor
+dataset: data/raw/semcor_words/labor.json
+senses:
+  - labor.n.01
+  - labor.n.02
+n_per_sense: 17
+prefix: "Example sentence: "

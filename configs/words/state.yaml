@@ -1,0 +1,7 @@
+word: state
+dataset: data/raw/semcor_words/state.json
+senses:
+  - state.n.01
+  - state.v.01
+n_per_sense: 5
+prefix: "Example sentence: "

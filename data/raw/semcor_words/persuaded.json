@@ -1,0 +1,53 @@
+{
+ "target_word": "persuaded",
+ "sentences": [
+  "Example sentence: The men did not object to his sketching them while they went about their work, but no one could be persuaded to come to his studio to pose.",
+  "Example sentence: Selkirk persuaded eighty men and four officers to go to Red River where they were to serve as a military force to protect his settlers from the hostile Northwest Company which resented the intrusion of farmers into the fur traders ' empire.",
+  "Example sentence: I made them show me their identification before I could be persuaded not to call on Felice Perrin ''.",
+  "Example sentence: What persuaded the cow-man to remain on Shayol?",
+  "Example sentence: I persuaded an Australian friend who had lived `` outback '' for years to take me to see some aborigines living in the bush.",
+  "Example sentence: Perhaps there is more truth than we are wont to admit in the conviction of that ornament of Tarheelia, Robert Ruark's grandfather, who was persuaded that the great curse of the modern world is `` all this gallivantin '' '.",
+  "Example sentence: After Larkin has been persuaded to restock his tangled acres with pheasants, he poaches only what he needs for the nourishment of his family and local callers.",
+  "Example sentence: They must be persuaded to adopt the other necessary self-help measures which are described in the preceding section.",
+  "Example sentence: If the less developed countries are to be persuaded to adopt a long-term approach, the United States, as the principal supplier of external aid, must be prepared to give long-term commitments.",
+  "Example sentence: As a result, he was persuaded out to dinner.",
+  "Example sentence: But Winston had persuaded him.",
+  "Example sentence: But he was always persuaded out.",
+  "Example sentence: With difficulty, Hudson persuaded him to rejoin the ship, and they sailed from Iceland.",
+  "Example sentence: Most important of all, the less developed countries must be persuaded to take the necessary steps to allocate and commit their own resources."
+ ],
+ "labels": [
+  "carry.v.23",
+  "carry.v.23",
+  "carry.v.23",
+  "carry.v.23",
+  "carry.v.23",
+  "carry.v.23",
+  "carry.v.23",
+  "persuade.v.02",
+  "persuade.v.02",
+  "persuade.v.02",
+  "persuade.v.02",
+  "persuade.v.02",
+  "persuade.v.02",
+  "persuade.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

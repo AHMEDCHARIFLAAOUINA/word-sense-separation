@@ -1,0 +1,7 @@
+word: formula
+dataset: data/raw/semcor_words/formula.json
+senses:
+  - formula.n.01
+  - recipe.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

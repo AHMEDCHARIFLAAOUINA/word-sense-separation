@@ -1,0 +1,7 @@
+word: turned
+dataset: data/raw/semcor_words/turned.json
+senses:
+  - turn.v.01
+  - change_state.v.01
+n_per_sense: 8
+prefix: "Example sentence: "

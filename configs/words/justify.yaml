@@ -1,0 +1,7 @@
+word: justify
+dataset: data/raw/semcor_words/justify.json
+senses:
+  - justify.v.01
+  - justify.v.02
+n_per_sense: 6
+prefix: "Example sentence: "

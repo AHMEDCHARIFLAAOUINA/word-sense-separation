@@ -1,0 +1,47 @@
+{
+ "target_word": "body",
+ "sentences": [
+  "Example sentence: She grasped the chair arms and brought her thin body upright, like a bird alert for flight.",
+  "Example sentence: The body was that of a well developed, somewhat debilitated white man weighing 108 lb. There were bilateral pterygia and arcus senilis, and the mouth was edentulous.",
+  "Example sentence: Now, driving the horse and sulky borrowed from Mynheer Schuyler, he felt as if every bone was topped by burning oil and that every muscle was ready to dissolve into jelly and leave his big body helpless and unable to move.",
+  "Example sentence: `` The great Greek tragedies are concerned with man against Fate, not man against man for the prize of a woman's body.",
+  "Example sentence: They took Jesus's body, then, and wrapped it in winding-clothes with the spices; that is how the Jews prepare a body for burial.",
+  "Example sentence: He stood stiffly erect, clutching the staff, his body half hidden by the limp cloth.",
+  "Example sentence: The canons, in a body, had tried to force him on his deathbed to let them give him the last rites of the Church, but he had died still proclaiming salvation by faith.",
+  "Example sentence: Is the matter one for the United Nations or some other international body?",
+  "Example sentence: The number of people acting as one body by this scheme gives a surprisingly large army of * * f 55987 men.",
+  "Example sentence: Economic security and cultural opportunities, incisive idioms, social fermentations for a new national ideology - a sympathetic public and a large body of performers especially trained to fulfill his purpose.",
+  "Example sentence: The connective system, or network, is tailored to meet the requirements of the objective, and it is therefore not surprising that a military body acting as a single coordinated unit has a different communication network than a factory, a college, or a rural village.",
+  "Example sentence: Schley County Rep. B. D. Pelham will offer a resolution Monday in the House to rescind the body's action of Friday in voting itself a $10 per day increase in expense allowances."
+ ],
+ "labels": [
+  "body.n.01",
+  "body.n.01",
+  "body.n.01",
+  "body.n.01",
+  "body.n.01",
+  "body.n.01",
+  "body.n.02",
+  "body.n.02",
+  "body.n.02",
+  "body.n.02",
+  "body.n.02",
+  "body.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

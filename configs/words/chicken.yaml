@@ -1,0 +1,7 @@
+word: chicken
+dataset: data/raw/semcor_words/chicken.json
+senses:
+  - chicken.n.01
+  - chicken.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

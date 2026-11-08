@@ -1,0 +1,7 @@
+word: stomach
+dataset: data/raw/semcor_words/stomach.json
+senses:
+  - stomach.n.01
+  - abdomen.n.01
+n_per_sense: 4
+prefix: "Example sentence: "

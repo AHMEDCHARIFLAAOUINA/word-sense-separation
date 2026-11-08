@@ -1,0 +1,7 @@
+word: band
+dataset: data/raw/semcor_words/band.json
+senses:
+  - set.n.05
+  - band.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: believe
+dataset: data/raw/semcor_words/believe.json
+senses:
+  - believe.v.01
+  - think.v.01
+n_per_sense: 10
+prefix: "Example sentence: "

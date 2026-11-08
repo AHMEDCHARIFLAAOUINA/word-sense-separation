@@ -1,0 +1,53 @@
+{
+ "target_word": "prefer",
+ "sentences": [
+  "Example sentence: I have used a variety of heavy-weight hand-made papers, but prefer an English make, rough surface, in 400 - pound weight.",
+  "Example sentence: In place of asking salesmen to fill questionnaires, checking their references, interviewing them, asking them to be tried out, he told them he would prefer to test them.",
+  "Example sentence: Employers prefer to hire youth with such training rather than those without, and most graduates of vocational training go to work in jobs related to their training.",
+  "Example sentence: When no medical problems exist, the newly married couple generally prefer to cope with the adjustments of their new relationship by themselves.",
+  "Example sentence: With respect to those countries whose leaders prefer to live with their illusions, we can afford to wait, for in time their comparative lack of progress will become clear for all to see.",
+  "Example sentence: Some people have luck and some have no luck and that, whatever people who prefer order say, is the size of it.",
+  "Example sentence: Their own easier, slower tempo is especially dear to Southerners; and I have heard many say that they are content to earn a half or a third as much as they could up North because they so much prefer the quieter habits of their home town.",
+  "Example sentence: How right he was; how clearly he saw the cultural defection of experimentation as an escape for those who dare not or prefer not to face the discipline of modern traditionalism.",
+  "Example sentence: That Prokofieff's harmonies and forms sometimes seem professionally routine to our ears, may or may not indicate that he was less of an `` original '' than we prefer to believe.",
+  "Example sentence: When it comes to this, I shall prefer emigrating to some country where they make no pretence of loving liberty - to Russia, for instance, where despotism can be taken pure, without the base alloy of hypocrisy ''.",
+  "Example sentence: However, many herpetologists remain skeptical and would prefer a tentative maximum of about 30 feet.",
+  "Example sentence: I prefer to speak, however, of Sam Rayburn, the person, rather than Sam Rayburn, the American institution.",
+  "Example sentence: I have observed that being up on a horse changes the whole character of a man, and when a very small man is up on a saddle, he'd like as not prefer to eat his meals there.",
+  "Example sentence: Most species seem to prefer a ready-made hollow such as a deserted mouse nest, a bird house, or the hole made by a woodpecker; some show a definite liking for making their nest in moss."
+ ],
+ "labels": [
+  "prefer.v.01",
+  "prefer.v.01",
+  "prefer.v.01",
+  "prefer.v.01",
+  "prefer.v.01",
+  "prefer.v.01",
+  "prefer.v.01",
+  "choose.v.02",
+  "choose.v.02",
+  "choose.v.02",
+  "choose.v.02",
+  "choose.v.02",
+  "choose.v.02",
+  "choose.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

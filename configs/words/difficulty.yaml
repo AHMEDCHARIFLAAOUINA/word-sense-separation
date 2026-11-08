@@ -1,0 +1,7 @@
+word: difficulty
+dataset: data/raw/semcor_words/difficulty.json
+senses:
+  - trouble.n.04
+  - difficulty.n.02
+n_per_sense: 7
+prefix: "Example sentence: "

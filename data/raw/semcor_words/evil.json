@@ -1,0 +1,41 @@
+{
+ "target_word": "evil",
+ "sentences": [
+  "Example sentence: It casts a spell upon them so that they leave with a feeling of having been in the mysterious presence of an evil power.",
+  "Example sentence: A teenage girl, Abigail Williams, is being sharply questioned by her minister uncle, the Reverend Samuel Parris, about a wild night affair in the woods in which she and some other girls had seemed to have had contact with these evil beings.",
+  "Example sentence: If there is nothing evil in these things, if they get their moral complexion only from our feeling about them, why shouldn't they be greeted with a cheer?",
+  "Example sentence: The suggestion that in saying something evil had occurred we were after all making no mistake, because we had never meant anyhow to say anything about the past suffering, seems to me merely frivolous.",
+  "Example sentence: Now Pathet Lao propagandists were reported marching him barefoot from village to village, as evidence of evil American intervention.",
+  "Example sentence: As the play unfolds, however, the audience is subtly brought into the grip of an awful evil which grows with ominously gathering power and soon engulfs the community.",
+  "Example sentence: I say to you that the Church will ever decry evil ''!",
+  "Example sentence: If we were asked why we thought so, we should say that these things involve great evil and are wrong, and that to take delight in what is evil or wrong is plainly unfitting.",
+  "Example sentence: His religious beliefs provide him with plausible explanations for many conditions which cause him great concern, and his religious faith makes possible fortitude, equanimity, and consolation, enabling him to endure colossal misfortune, fear, frustration, uncertainty, suffering, evil, and danger.",
+  "Example sentence: The concept of unity, in which positive and negative are attributes of the same force, in which good and evil are relative, ever-changing, and always joined to the same phenomenon - such a concept is still reserved to the physical sciences and to the few who have grasped the history of ideas."
+ ],
+ "labels": [
+  "evil.a.01",
+  "evil.a.01",
+  "evil.a.01",
+  "evil.a.01",
+  "evil.a.01",
+  "evil.n.01",
+  "evil.n.01",
+  "evil.n.01",
+  "evil.n.01",
+  "evil.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

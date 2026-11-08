@@ -1,0 +1,7 @@
+word: flesh
+dataset: data/raw/semcor_words/flesh.json
+senses:
+  - flesh.n.01
+  - human_body.n.01
+n_per_sense: 5
+prefix: "Example sentence: "

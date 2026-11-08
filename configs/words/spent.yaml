@@ -1,0 +1,7 @@
+word: spent
+dataset: data/raw/semcor_words/spent.json
+senses:
+  - spend.v.02
+  - spend.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

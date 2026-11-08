@@ -1,0 +1,53 @@
+{
+ "target_word": "collected",
+ "sentences": [
+  "Example sentence: The effluent was collected through two pipes and discharged to the Blue River through a surface drainage ditch.",
+  "Example sentence: Grab samples were collected from the existing oxidation pond to determine its operating conditions.",
+  "Example sentence: Composite samples were collected at weekly intervals.",
+  "Example sentence: Those were his only interludes behind bars, although he collected four more charges on his police record in 1921 and 1922, three for burglary and one for robbery.",
+  "Example sentence: Pursuing it, he has logged 500000 miles, suffered indescribable digestive indignities, and meticulously collected physiological data on the health and eating habits of 10000 individuals, from Bantu tribesmen to Italian contadini.",
+  "Example sentence: We collected `` lucky stones '' - all the creamy translucent pebbles, worn smooth and round, that we could find in the driveway.",
+  "Example sentence: Space was provided for short-time guest medical exhibits, and the Museum collected new accessions of microscopes, medical, surgical, and diagnostic instruments, uniform, and similar items of historical medico-military significance.",
+  "Example sentence: These errors were then collected and written on a blackboard, condensing similar ideas.",
+  "Example sentence: Her mother had done it before her, and even her old grandmother, who had collected money for smallpox and unwed mothers.",
+  "Example sentence: A federal grand jury called 10 witnesses yesterday in an investigation of the affairs of Ben Stein, 47, who collected big fees as a `` labor consultant '' and operator of a janitors ' service.",
+  "Example sentence: Vicky Kowalski meanwhile learned that several of her fellow students had collected almost $25 for her family during the lunch hour yesterday at Fuhrmann Junior High School, 5155 Fourteen Mile road east.",
+  "Example sentence: Another neighbor, Mrs. Frank C. Smith, 2731 Pall Mall, Sterling Township, surprised Kowalski by coming to the home yesterday with $135 collected locally toward the $400 funeral costs.",
+  "Example sentence: Toys will not be collected at firehouses this year.",
+  "Example sentence: Louisiana, however, collected an income tax on the profits from the sale."
+ ],
+ "labels": [
+  "roll_up.v.02",
+  "roll_up.v.02",
+  "roll_up.v.02",
+  "roll_up.v.02",
+  "roll_up.v.02",
+  "roll_up.v.02",
+  "roll_up.v.02",
+  "collect.v.02",
+  "collect.v.02",
+  "collect.v.02",
+  "collect.v.02",
+  "collect.v.02",
+  "collect.v.02",
+  "collect.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

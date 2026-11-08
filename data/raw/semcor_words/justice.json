@@ -1,0 +1,35 @@
+{
+ "target_word": "justice",
+ "sentences": [
+  "Example sentence: We should think of it more as an act of justice than compassion ''.",
+  "Example sentence: - liberal considers that the need for a national economy with controls that will assure his conception of social justice is so great that individual and local liberties as well as democratic processes may have to yield before it.",
+  "Example sentence: A number of other nineteenth century developments contributed to the transmutation of the law of nations into international law; that is, from aspects of a universal system of Justice into particular rules governing the relations of sovereign states.",
+  "Example sentence: Cubism, in its 1911 - 1912 phase (which the French, with justice, call `` hermetic '') was on the verge of abstract art.",
+  "Example sentence: The ultimate objective of American policy is to help establish a world in which there is the largest possible measure of freedom and justice and peace and material prosperity; and in particular - since this is our special responsibility - that these conditions be enjoyed by the people of the United States.",
+  "Example sentence: Jury, judge and executioner were riding the range in the form of a single unknown figure that could materialize anywhere, at any time, to dispense an ancient brand of justice the men of the new West had believed long outdated.",
+  "Example sentence: `` Litigants and witnesses were put to the expense and inconvenience of going long distances to transact business; public money spent; justice delayed; nothing accomplished, and the whole distribution of justice in this county seems to be an absolute farce ''.",
+  "Example sentence: Justice is a worthy objective; but if justice for Bantus entails driving the government of the Union of South Africa away from the West, then the Bantus must be prepared to carry their identification cards yet a while longer."
+ ],
+ "labels": [
+  "justice.n.01",
+  "justice.n.01",
+  "justice.n.01",
+  "justice.n.01",
+  "justice.n.02",
+  "justice.n.02",
+  "justice.n.02",
+  "justice.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

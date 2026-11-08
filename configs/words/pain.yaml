@@ -1,0 +1,7 @@
+word: pain
+dataset: data/raw/semcor_words/pain.json
+senses:
+  - pain.n.01
+  - pain.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

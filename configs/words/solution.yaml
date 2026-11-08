@@ -1,0 +1,7 @@
+word: solution
+dataset: data/raw/semcor_words/solution.json
+senses:
+  - solution.n.01
+  - solution.n.03
+n_per_sense: 5
+prefix: "Example sentence: "

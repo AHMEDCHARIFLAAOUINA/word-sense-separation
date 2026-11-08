@@ -1,0 +1,7 @@
+word: off
+dataset: data/raw/semcor_words/off.json
+senses:
+  - away.r.01
+  - off.r.03
+n_per_sense: 5
+prefix: "Example sentence: "

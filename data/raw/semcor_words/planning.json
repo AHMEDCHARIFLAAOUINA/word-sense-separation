@@ -1,0 +1,35 @@
+{
+ "target_word": "planning",
+ "sentences": [
+  "Example sentence: Nevertheless, with foresight and careful planning, some of the more disruptive and dangerous consequences of social change which have troubled other countries passing through this stage can be escaped.",
+  "Example sentence: Such planning will require the cooperation of other occupants and of the apartment management.",
+  "Example sentence: In recent years many counties and the U. S. Forest Service have taken aerial photos which show features in detail and are very good for planning use.",
+  "Example sentence: The Bureau contributed to the planning and success of the Symposium through the efforts of Mr. W. A. Wildhack, General Chairman, and Dr. C. M. Herzfeld, Program Chairman.",
+  "Example sentence: Every policy officer cannot help but be a planning officer.",
+  "Example sentence: Has the probable price situation in your field been forecast as a basis for future planning?",
+  "Example sentence: Providing good customer service requires as thorough a marketing and general management planning job as the original selling of the product.",
+  "Example sentence: Good service starts with product design and planning:"
+ ],
+ "labels": [
+  "planning.n.01",
+  "planning.n.01",
+  "planning.n.01",
+  "planning.n.01",
+  "planning.n.02",
+  "planning.n.02",
+  "planning.n.02",
+  "planning.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

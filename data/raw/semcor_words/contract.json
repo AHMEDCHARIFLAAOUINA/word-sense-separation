@@ -1,0 +1,35 @@
+{
+ "target_word": "contract",
+ "sentences": [
+  "Example sentence: Skorich received a three year contract at a salary believed to be between $20000 and $25000 a year.",
+  "Example sentence: It is not surprising that the international obligations of states were also viewed in terms of contract.",
+  "Example sentence: A 5 - percent royalty is paid on any production during the period the contract is in effect; if the Government certifies that production may be possible from the property, the royalty obligation continues for the 10 - year period usually specified in the contract or until the Government's contribution is repaid with interest.",
+  "Example sentence: It is convenient to assume that the union industry contract is of one year's duration.",
+  "Example sentence: The Government will contract with an eligible applicant to pay up to one-half of the cost of approved exploration work as it progresses.",
+  "Example sentence: He said that on his tour the preceding year a considerable number of hours would have been available to him on Japanese radio networks, but that he had then lacked the funds to contract for them.",
+  "Example sentence: What Gabriel was asking was that mankind forego all its parochial moral judgments, and contract to let the Angels serve on Earth as it is in Heaven regardless of the applicable Earth laws.",
+  "Example sentence: It seemed like a good time for officials to use a recently-passed law empowering the post office department to contract for the transport of first class mail by air."
+ ],
+ "labels": [
+  "contract.n.01",
+  "contract.n.01",
+  "contract.n.01",
+  "contract.n.01",
+  "contract.v.01",
+  "contract.v.01",
+  "contract.v.01",
+  "contract.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

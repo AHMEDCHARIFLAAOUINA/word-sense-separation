@@ -1,0 +1,7 @@
+word: left
+dataset: data/raw/semcor_words/left.json
+senses:
+  - left.a.01
+  - left.n.01
+n_per_sense: 8
+prefix: "Example sentence: "

@@ -1,0 +1,35 @@
+{
+ "target_word": "queen",
+ "sentences": [
+  "Example sentence: Simultaneously, males or drones are produced, mostly from the unfertilized eggs of workers, although a few may be produced by the queen.",
+  "Example sentence: As befits a queen, a bumblebee female is rather choosy and may spend considerable time searching for a suitable nesting place.",
+  "Example sentence: Once she has made up her mind, the queen starts out by constructing, in her chosen abode, a small `` floor '' of dried grass or some woolly material.",
+  "Example sentence: The larvae, kept warm by the queen, are full grown in about ten days.",
+  "Example sentence: Bertha Szold was more like Meg, the eldest March girl, who `` learned that a woman's happiest kingdom is home, her highest honor the art of ruling it, not as a queen, but a wise wife and mother ''.",
+  "Example sentence: `` O Blessed Virgin Mary, Mother of God and our most gentle queen and mother, look down in mercy upon England, thy '' dowry ``, and upon us all who greatly hope and trust in thee.",
+  "Example sentence: The unfortunate queen mounted the scaffold; the headsman swung his axe; the head dropped off; end of film.",
+  "Example sentence: First thing I knew he was in the kitchenette cooking up the breakfast and I was handing Eileen her coffee-cup and she was lying there handsome as a queen among her courtiers."
+ ],
+ "labels": [
+  "queen.n.01",
+  "queen.n.01",
+  "queen.n.01",
+  "queen.n.01",
+  "queen.n.02",
+  "queen.n.02",
+  "queen.n.02",
+  "queen.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

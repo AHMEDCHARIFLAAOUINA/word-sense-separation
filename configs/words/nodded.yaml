@@ -1,0 +1,7 @@
+word: nodded
+dataset: data/raw/semcor_words/nodded.json
+senses:
+  - nod.v.01
+  - nod.v.02
+n_per_sense: 8
+prefix: "Example sentence: "

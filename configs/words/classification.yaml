@@ -1,0 +1,7 @@
+word: classification
+dataset: data/raw/semcor_words/classification.json
+senses:
+  - categorization.n.03
+  - classification.n.02
+n_per_sense: 5
+prefix: "Example sentence: "

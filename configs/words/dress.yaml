@@ -1,0 +1,7 @@
+word: dress
+dataset: data/raw/semcor_words/dress.json
+senses:
+  - dress.n.01
+  - dress.v.01
+n_per_sense: 6
+prefix: "Example sentence: "

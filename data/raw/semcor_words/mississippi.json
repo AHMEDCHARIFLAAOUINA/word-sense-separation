@@ -1,0 +1,35 @@
+{
+ "target_word": "mississippi",
+ "sentences": [
+  "Example sentence: I murmured something about a possible difference between New Mexico's history and Mississippi's.",
+  "Example sentence: He is not one to remain more comfortably and unquestioningly within a body of social, cultural, or literary traditions than he was within the traditions - or possibly the regulations - governing his tenure in the post office at Oxford, Mississippi, thirty-five years ago.",
+  "Example sentence: A Mississippi soldier wrote: `` Our General Reub Davis is a vain, stuck-up, illiterate ass ''.",
+  "Example sentence: But in looking at Faulkner against his background in Mississippi and the South, it is important not to lose the broader perspective.",
+  "Example sentence: In September 1822 two companies of infantry arrived at the mouth of the St. Peter's River, the head of navigation on the Mississippi, and began construction of Fort St. Anthony which, upon completion, was renamed in honor of its commander, Colonel Josiah Snelling.",
+  "Example sentence: With their customary source of supply cut off, the Fort Garry free traders engaged three men to cart goods to them from the Mississippi country.",
+  "Example sentence: On June 24 more than 400 families started the three month trip across the plains to the Mississippi.",
+  "Example sentence: Raymond Vernon reports that residents of East St. Louis have been driving across the Mississippi, through the heart of downtown St. Louis and out to the western suburbs for major shopping, simply because parking is easier at the big branches than it is in the heart of town."
+ ],
+ "labels": [
+  "mississippi.n.02",
+  "mississippi.n.02",
+  "mississippi.n.02",
+  "mississippi.n.02",
+  "mississippi.n.01",
+  "mississippi.n.01",
+  "mississippi.n.01",
+  "mississippi.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

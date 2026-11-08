@@ -1,0 +1,7 @@
+word: short
+dataset: data/raw/semcor_words/short.json
+senses:
+  - short.a.01
+  - short.a.02
+n_per_sense: 11
+prefix: "Example sentence: "

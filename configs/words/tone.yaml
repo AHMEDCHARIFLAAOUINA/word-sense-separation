@@ -1,0 +1,7 @@
+word: tone
+dataset: data/raw/semcor_words/tone.json
+senses:
+  - tone.n.01
+  - tone.n.02
+n_per_sense: 8
+prefix: "Example sentence: "

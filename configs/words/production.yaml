@@ -1,0 +1,7 @@
+word: production
+dataset: data/raw/semcor_words/production.json
+senses:
+  - production.n.01
+  - production.n.02
+n_per_sense: 10
+prefix: "Example sentence: "

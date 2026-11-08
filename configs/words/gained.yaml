@@ -1,0 +1,7 @@
+word: gained
+dataset: data/raw/semcor_words/gained.json
+senses:
+  - derive.v.02
+  - acquire.v.05
+n_per_sense: 6
+prefix: "Example sentence: "

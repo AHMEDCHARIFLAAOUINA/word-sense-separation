@@ -1,0 +1,53 @@
+{
+ "target_word": "touch",
+ "sentences": [
+  "Example sentence: `` Why, I'm not fit to touch the hem of her garment ''.",
+  "Example sentence: It was just me and Eileen getting drunk together like we used to in the old days, and me staring at her across the table crazy to get my hands on her partly because I wanted to wring her neck because she was so ornery but mostly because she was so wonderful to touch.",
+  "Example sentence: Also make sure thermometer does not touch the revolving spit or hit the coals.",
+  "Example sentence: Standing in the shelter of the tent - a rejected hospital tent on which the rain now dripped, no longer drumming - Adam watched his own hands touch the objects on the improvised counter of boards laid across two beef barrels.",
+  "Example sentence: I didn't want to touch him and I hoped Ma would do it but she kept looking at the kid's clothes piled on the floor and the pool of water by them and didn't make any move to.",
+  "Example sentence: At the peak of the arch, tip the head back and bend the knees in an effort to touch toes to head.",
+  "Example sentence: Mercer never noticed the needle touch his arm.",
+  "Example sentence: For an instant John longed for the sound of the bells of Noyon-la-Sainte, the touch of his mother's hand, the lilt of Charles's voice in the square raftered rooms, his father's bass tones rumbling to the canons, and the sight of the beloved bishop.",
+  "Example sentence: She had jumped away from his shy touch like a cat confronted by a sidewinder.",
+  "Example sentence: It had been shut again, but the lock was broken; he noted with a thrill of fear that the door moved under his touch.",
+  "Example sentence: But youth asked nothing of its parents - not a touch of the hand or a kiss given in passing.",
+  "Example sentence: The walk and his fears had served to overheat him and his sweaty armpits cooled at the touch of the night air.",
+  "Example sentence: And he could recognize, by touch alone, articles which he had handled immediately before, even though they were altogether unfamiliar to him and could not be identified by him; that is, he was unaware what kind of objects they were or what their use was.",
+  "Example sentence: At the slope's base coils of concertina stretched out of eye range like a wild tangle of children's hoops, stopped simultaneously, weirdly poised as if awaiting the magic of the child's touch to start them all rolling again."
+ ],
+ "labels": [
+  "touch.v.01",
+  "touch.v.01",
+  "touch.v.01",
+  "touch.v.01",
+  "touch.v.01",
+  "touch.v.01",
+  "touch.v.01",
+  "touch.n.01",
+  "touch.n.01",
+  "touch.n.01",
+  "touch.n.01",
+  "touch.n.01",
+  "touch.n.01",
+  "touch.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

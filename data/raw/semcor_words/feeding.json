@@ -1,0 +1,41 @@
+{
+ "target_word": "feeding",
+ "sentences": [
+  "Example sentence: In a conditioning experiment, he demonstrated the antagonism between feeding and pain.",
+  "Example sentence: Since strong nociceptive stimuli produce an experimental neurosis during which the animals fail to eat in the experimental situation, Wolpe thought that he could utilize the feeding pain antagonism to inhibit the neurotic symptoms through feeding.",
+  "Example sentence: A mild electrical shock served as a conditioned stimulus and was followed by feeding.",
+  "Example sentence: A system had to be used which did not depend upon the feeding of the fluid into the manometer if measurements of the normal pressure were to be made in a reasonable time.",
+  "Example sentence: The feeding pain antagonism seems to be based on this reciprocal relation between the tropho - and ergotropic systems.",
+  "Example sentence: Greatest benefits have been associated with feeding low moisture corn in beef feeding programs.",
+  "Example sentence: For the prevention or treatment of the early stages of shipping fever complex, increase feeding level to 0.5 to 2 grams per head per day.",
+  "Example sentence: All-weather roads must be provided next to the feeding floor so access will be possible all year.",
+  "Example sentence: Would it be feasible to limit the menu in order to reduce feeding costs?",
+  "Example sentence: Can staggered lunch periods relieve the capacity strain on your feeding facilities?"
+ ],
+ "labels": [
+  "eating.n.01",
+  "eating.n.01",
+  "eating.n.01",
+  "eating.n.01",
+  "eating.n.01",
+  "feeding.n.02",
+  "feeding.n.02",
+  "feeding.n.02",
+  "feeding.n.02",
+  "feeding.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

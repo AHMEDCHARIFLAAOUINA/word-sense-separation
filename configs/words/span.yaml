@@ -1,0 +1,7 @@
+word: span
+dataset: data/raw/semcor_words/span.json
+senses:
+  - span.n.01
+  - cross.v.05
+n_per_sense: 4
+prefix: "Example sentence: "

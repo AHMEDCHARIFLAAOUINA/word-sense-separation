@@ -1,0 +1,41 @@
+{
+ "target_word": "illustrated",
+ "sentences": [
+  "Example sentence: The wide divergence of reactions is clearly illustrated in the Kinsey studies in human sexuality.",
+  "Example sentence: The relationship between particle size and infectious dose is illustrated in Table 1.",
+  "Example sentence: The behavior of a biological aerosol, on a much smaller scale, is illustrated by a specific field trial conducted with a non pathogenic organism.",
+  "Example sentence: Another specimen of such double-entendre is illustrated by a woman in a department store.",
+  "Example sentence: The impact of technological factors is also illustrated by the history of the high energy fuel program.",
+  "Example sentence: Designed for summer comfort are the shoes illustrated.",
+  "Example sentence: The shelter illustrated in figure 12 is based on such a room built in a new home in the Washington, D. C. area in the Spring of 1959.",
+  "Example sentence: They're followed by the front and rear bulkheads as illustrated.",
+  "Example sentence: Those illustrated are reminiscent of a circus top or a merry-go-round.",
+  "Example sentence: The method used to scan the eye ultrasonically is illustrated in Fig. 6."
+ ],
+ "labels": [
+  "exemplify.v.02",
+  "exemplify.v.02",
+  "exemplify.v.02",
+  "exemplify.v.02",
+  "exemplify.v.02",
+  "illustrate.v.02",
+  "illustrate.v.02",
+  "illustrate.v.02",
+  "illustrate.v.02",
+  "illustrate.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

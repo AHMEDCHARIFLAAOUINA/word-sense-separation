@@ -1,0 +1,7 @@
+word: hard
+dataset: data/raw/semcor_words/hard.json
+senses:
+  - difficult.a.01
+  - hard.a.02
+n_per_sense: 12
+prefix: "Example sentence: "

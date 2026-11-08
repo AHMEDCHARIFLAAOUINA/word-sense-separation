@@ -1,0 +1,7 @@
+word: favor
+dataset: data/raw/semcor_words/favor.json
+senses:
+  - favor.n.01
+  - prefer.v.03
+n_per_sense: 6
+prefix: "Example sentence: "

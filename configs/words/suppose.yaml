@@ -1,0 +1,7 @@
+word: suppose
+dataset: data/raw/semcor_words/suppose.json
+senses:
+  - suppose.v.01
+  - think.v.02
+n_per_sense: 15
+prefix: "Example sentence: "

@@ -1,0 +1,53 @@
+{
+ "target_word": "talk",
+ "sentences": [
+  "Example sentence: He had preached a short sermon, trying to talk man-to-man to the audience, to tell them who he was, what he had done in Macon and Birmingham, and what he proposed to do here.",
+  "Example sentence: Shadow, the more talkative, began at once to talk, her voice piteous.",
+  "Example sentence: `` That's the way to talk.",
+  "Example sentence: But, because they are politicians, they like to talk as poor-mouth as the lowliest voter.",
+  "Example sentence: If we was both armed, you wouldn't talk so tough ''.",
+  "Example sentence: Sometimes the bubbling sound of geysers came faintly across the plain to the herd of men; those who could talk declared it to be the breathing of Captain Alvarez.",
+  "Example sentence: - You talk deep.",
+  "Example sentence: He thought that if once, only once, he could talk with Simms Purdew, something about his own life, and all life, would be clear and simple.",
+  "Example sentence: It really ought to be rebuilt, and he determined to go up and talk to the city banks about this.",
+  "Example sentence: He could certainly talk.",
+  "Example sentence: Most realtors and real estate brokers talk of themselves as `` professional people '' with the cultural and moral values held by the traditional professions.",
+  "Example sentence: He was down, hard to talk to, and far too nonchalant on the field.",
+  "Example sentence: It was about that time, a board member said later, that Dr. Thomas G. Pullen, Jr., State superintendent of schools, told Dr. Jenkins and a number of other education officials that he would not talk to them with a recording machine sitting in front of him.",
+  "Example sentence: `` You're afraid to talk to a guy you idolize ''."
+ ],
+ "labels": [
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.02",
+  "talk.v.01",
+  "talk.v.01",
+  "talk.v.01",
+  "talk.v.01",
+  "talk.v.01",
+  "talk.v.01",
+  "talk.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

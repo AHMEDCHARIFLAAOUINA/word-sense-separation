@@ -1,0 +1,35 @@
+{
+ "target_word": "dragged",
+ "sentences": [
+  "Example sentence: Hope wouldn't hear of it, and she took the heater back to Grandma's room, and Grandma took it back to Hope's room, and the two of them dragged it back and forth until Grandma tipped it over and almost set her bedspread on fire.",
+  "Example sentence: `` You mean you dragged your wife all over hell's half-acre looking for work ''?",
+  "Example sentence: I hated being dragged into the salons of these aristocrats.",
+  "Example sentence: Shayne locked his big hands around Harris ' thin neck and dragged him out over the seat into the roadway.",
+  "Example sentence: Apart from the personal equation, another reason advanced in favor of the meeting was that too often in the past the U. S. appeared to have been dragged reluctantly to the summit.",
+  "Example sentence: They dragged him inside the building.",
+  "Example sentence: After a long time the half-man dragged himself over to the group with his powerful arms.",
+  "Example sentence: Susan and Julia came from the door and dragged him with them."
+ ],
+ "labels": [
+  "haul.v.01",
+  "haul.v.01",
+  "haul.v.01",
+  "haul.v.01",
+  "drag.v.01",
+  "drag.v.01",
+  "drag.v.01",
+  "drag.v.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

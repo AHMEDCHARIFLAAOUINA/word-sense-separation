@@ -1,0 +1,7 @@
+word: passage
+dataset: data/raw/semcor_words/passage.json
+senses:
+  - passage.n.01
+  - passage.n.03
+n_per_sense: 4
+prefix: "Example sentence: "

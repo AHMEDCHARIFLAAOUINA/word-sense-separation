@@ -1,0 +1,7 @@
+word: little
+dataset: data/raw/semcor_words/little.json
+senses:
+  - small.a.01
+  - little.a.02
+n_per_sense: 20
+prefix: "Example sentence: "

@@ -1,0 +1,7 @@
+word: policy
+dataset: data/raw/semcor_words/policy.json
+senses:
+  - policy.n.02
+  - policy.n.01
+n_per_sense: 14
+prefix: "Example sentence: "

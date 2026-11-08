@@ -1,0 +1,35 @@
+{
+ "target_word": "mature",
+ "sentences": [
+  "Example sentence: Carpenter's study showed that female common garter and ribbon snakes of Michigan mature at about the age of two.",
+  "Example sentence: The following information on snakes varying greatly in size (but all with less than a 10 - foot maximum) shows, when considered with the foregoing, that there is probably no correlation between the length of a snake and the time required for it to mature.",
+  "Example sentence: When they unite with the Church they must find in this fellowship the satisfaction of their basic spiritual needs or they will never mature into effective Christians.",
+  "Example sentence: The fruit is allowed to mature on the tree, but it is still firm at this point.",
+  "Example sentence: It is at this point in his life that the mature Prokofieff emerges.",
+  "Example sentence: At 12, Hans was sufficiently mature to help his father in the apothecary shop, which helped stimulate his interest in medicine and science.",
+  "Example sentence: Inheriting a more mature Mantle, who now has seen the sights on and off Broadway, Ralph Houk quietly bestowed, no pun intended, the mantle of authority on Mickey.",
+  "Example sentence: Only within the framework of a mature relationship characterized by honest appraisals of performance can we provide telling assistance."
+ ],
+ "labels": [
+  "mature.v.01",
+  "mature.v.01",
+  "mature.v.01",
+  "mature.v.01",
+  "mature.a.01",
+  "mature.a.01",
+  "mature.a.01",
+  "mature.a.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

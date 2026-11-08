@@ -1,0 +1,7 @@
+word: generally
+dataset: data/raw/semcor_words/generally.json
+senses:
+  - by_and_large.r.01
+  - generally.r.02
+n_per_sense: 10
+prefix: "Example sentence: "

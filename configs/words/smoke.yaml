@@ -1,0 +1,7 @@
+word: smoke
+dataset: data/raw/semcor_words/smoke.json
+senses:
+  - smoke.n.01
+  - smoke.v.01
+n_per_sense: 4
+prefix: "Example sentence: "

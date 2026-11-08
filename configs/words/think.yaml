@@ -1,0 +1,7 @@
+word: think
+dataset: data/raw/semcor_words/think.json
+senses:
+  - think.v.02
+  - think.v.01
+n_per_sense: 7
+prefix: "Example sentence: "

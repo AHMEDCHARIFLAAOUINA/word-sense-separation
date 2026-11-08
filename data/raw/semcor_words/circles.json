@@ -1,0 +1,41 @@
+{
+ "target_word": "circles",
+ "sentences": [
+  "Example sentence: She did not move in primitive circles.",
+  "Example sentence: In business circles, usually conservative, this sort of atmosphere would hardly be found.",
+  "Example sentence: But they, naturally, kept his secret well, and the public at large knew only of a great excitement in musical and court circles.",
+  "Example sentence: I hope his suggestions are given the consideration they deserve in Kikuyu circles.",
+  "Example sentence: From my wife's experience and other sources, this seems to be rarely encountered in educated circles.",
+  "Example sentence: He just shot at the board and then drew circles around the holes to form a bull's-eye.",
+  "Example sentence: We talk about national character in the same way that Copernicus talked of the compulsions of celestial bodies to move in circles.",
+  "Example sentence: He swayed like a drunkard, his arms milling in slow circles.",
+  "Example sentence: He saw the Starbird as she lay, her slender mast up and gently turning, its point describing constant languid circles against a cumulus sky.",
+  "Example sentence: Across the front of a yard and down the side, they were iron, either spiked along the top or arched in half circles."
+ ],
+ "labels": [
+  "set.n.05",
+  "set.n.05",
+  "set.n.05",
+  "set.n.05",
+  "set.n.05",
+  "circle.n.01",
+  "circle.n.01",
+  "circle.n.01",
+  "circle.n.01",
+  "circle.n.01"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

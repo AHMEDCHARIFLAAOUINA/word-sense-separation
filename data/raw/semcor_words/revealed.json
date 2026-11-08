@@ -1,0 +1,47 @@
+{
+ "target_word": "revealed",
+ "sentences": [
+  "Example sentence: A section of the colon revealed intense hyperemia and extensive focal ulcerations of the mucosa, associated with much fibrin and many neutrophils.",
+  "Example sentence: As she gained composure during the second act, her technical resourcefulness emerged stronger, though she had already revealed a trill almost unprecedented in years of performances of `` Lucia ''.",
+  "Example sentence: At this time a detailed neuromuscular examination revealed diffuse muscle atrophy that was moderate in the hands and feet, but more marked in the shoulders, hips, and pelvic girdle, with hypoactive deep tendon reflexes.",
+  "Example sentence: More than anything, it is the therapist's intuitive sensing of these latent meanings in the stereotype which helps these meanings to become revealed, something like a spread-out deck of cards, on sporadic occasions over the passage of the patient's and his months of work together.",
+  "Example sentence: The wan light spread over the ground and the valley revealed in the first glimmer the contours of trees and fences and palely shadowed gullies.",
+  "Example sentence: Electromyography revealed no evidence of lower motor neuron disease.",
+  "Example sentence: A study of major denominational membership statistics over a twenty-year period revealed the appalling fact that nearly 40 per cent of those who joined the Church were lost to the Church within seven years.",
+  "Example sentence: The moment simultaneously revealed that in the crisis our policy ran counter to that of all our NATO allies, to the entire Western community.",
+  "Example sentence: A detailed scouring of the entire area revealed nothing beyond a ledge of rocks that might have been the rifleman's hiding place.",
+  "Example sentence: What is interesting is that his positive qualifications for the post were revealed only as a kind of tail to his candidacy.",
+  "Example sentence: To the trained ear of the linguist, talk has always revealed a staggering quantity of information about the talker - such things as geographical origin and / or history, socio-economic identity, education.",
+  "Example sentence: Principal Clayton W. Pohly said he would allow a further collection between classes today, and revealed that Y-Teen Club past surpluses had been used to provide a private hospital nurse Monday for Mrs. Kowalski."
+ ],
+ "labels": [
+  "uncover.v.01",
+  "uncover.v.01",
+  "uncover.v.01",
+  "uncover.v.01",
+  "uncover.v.01",
+  "uncover.v.01",
+  "unwrap.v.02",
+  "unwrap.v.02",
+  "unwrap.v.02",
+  "unwrap.v.02",
+  "unwrap.v.02",
+  "unwrap.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: water
+dataset: data/raw/semcor_words/water.json
+senses:
+  - water.n.01
+  - body_of_water.n.01
+n_per_sense: 17
+prefix: "Example sentence: "

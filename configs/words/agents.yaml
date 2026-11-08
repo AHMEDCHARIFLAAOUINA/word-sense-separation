@@ -1,0 +1,7 @@
+word: agents
+dataset: data/raw/semcor_words/agents.json
+senses:
+  - agent.n.01
+  - agent.n.02
+n_per_sense: 4
+prefix: "Example sentence: "

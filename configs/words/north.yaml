@@ -1,0 +1,7 @@
+word: north
+dataset: data/raw/semcor_words/north.json
+senses:
+  - north.n.01
+  - north.r.01
+n_per_sense: 9
+prefix: "Example sentence: "

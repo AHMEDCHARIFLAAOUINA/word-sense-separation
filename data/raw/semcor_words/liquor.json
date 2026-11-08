@@ -1,0 +1,53 @@
+{
+ "target_word": "liquor",
+ "sentences": [
+  "Example sentence: I didn't smell a drop of liquor, and we didn't have a bit of trouble ''.",
+  "Example sentence: They caught Trig stealing liquor from the officers ' mess, and he got a couple of girls in trouble.",
+  "Example sentence: Winston had heard because he was setting up the liquor tray in the next room.",
+  "Example sentence: Many of them sincerely believe that the use of liquor in any form or in any degree is intrinsically evil and sinful.",
+  "Example sentence: For three years, since the liquor territorial conference, Torrio had, with his elastic patience, and because he knew that retaliation could cause only violent warfare and disaster to business, tolerated O ' Banion's impudent double-crossing.",
+  "Example sentence: Later, riding in for some lusty enjoyment of the liquor and professional ladies of Cheyenne, he laid claim to the killing with the vague insinuations he made.",
+  "Example sentence: And once Bake slipped in, pale and drawn, last night's liquor still on his breath with some of today's added to it.",
+  "Example sentence: The long retention period and the complete mixing concept prevented rapid changes in either the mixed liquor or in the effluent.",
+  "Example sentence: The oxygen uptake rate in the mixed liquor averaged 0.8 mg / l / hr during the first four months of this study.",
+  "Example sentence: Routine determinations were made for dissolved oxygen in the mixed liquor and for oxygen uptake rates.",
+  "Example sentence: Only once were stalked ciliates found in the mixed liquor.",
+  "Example sentence: Routine microscopic examinations were made of the mixed liquor as indicated by McKinney and Gram for the various types of protozoa.",
+  "Example sentence: At no time were algae found in the mixed liquor.",
+  "Example sentence: It appeared that most of the mixed liquor suspended solids were active microbial solids with the heavier, less active solids settling out."
+ ],
+ "labels": [
+  "liquor.n.01",
+  "liquor.n.01",
+  "liquor.n.01",
+  "liquor.n.01",
+  "liquor.n.01",
+  "liquor.n.01",
+  "liquor.n.01",
+  "liquor.n.02",
+  "liquor.n.02",
+  "liquor.n.02",
+  "liquor.n.02",
+  "liquor.n.02",
+  "liquor.n.02",
+  "liquor.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

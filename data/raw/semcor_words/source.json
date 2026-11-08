@@ -1,0 +1,53 @@
+{
+ "target_word": "source",
+ "sentences": [
+  "Example sentence: In this connection, it has been observed that the increasing number of Irish Catholics, priests and laity, in England, while certainly seen as good for Catholicism, is nevertheless a source of embarrassment for some of the more nationalistic English Catholics, especially when these Irishmen offer to remind their Christian brethren of this good.",
+  "Example sentence: He turned his head to the source of the disturbance and instantly back to the window and his rifle sight, dismissing Hoag for the moment with the same contempt he had shown in their encounter at Hoag's apartment.",
+  "Example sentence: A wall stabilized high current arc source was constructed and used to study transition probabilities of atomic hydrogen and oxygen.",
+  "Example sentence: During the trip Selkirk decided that the route through Illinois territory to Indiana and the eastern United States was the best route for goods from England to reach Red River and that the United States was a better source of supply for many goods than either Canada or England.",
+  "Example sentence: For Blanche, Kitti's death was a source of guilty, but nonetheless soaring, happy hope.",
+  "Example sentence: The lyric beauties of Schubert's Trout Quintet - its elemental rhythms and infectious melodies - make it a source of pure pleasure for almost all music listeners.",
+  "Example sentence: Two types of light source were used, a thousand watt projection lamp and an AH6 high pressure mercury arc.",
+  "Example sentence: (See Source of Data, below, for per capita income data to be used in this step.)",
+  "Example sentence: For this period, as for earlier centuries, pottery remains the most secure source; the ceramic material of the age is more abundant, more diversified, and more indicative of the hopes and fears of its makers, who begin to show scenes of human life and death.",
+  "Example sentence: Would we want a future-day Gibbon or Macaulay recounting the saga of America with movies as his prime source of knowledge?",
+  "Example sentence: (See Source of Data, below for population data to be used in this step.)",
+  "Example sentence: `` in many corners of the globe '', he said, `` the major source of impressions about this country are in the movies they meet.",
+  "Example sentence: It has recently become practical to use the radio emission of the moon and planets as a new source of information about these bodies and their atmospheres.",
+  "Example sentence: Yet for much of the globe, Hollywood is just that - prime, if not sole, source of knowledge."
+ ],
+ "labels": [
+  "beginning.n.04",
+  "beginning.n.04",
+  "beginning.n.04",
+  "beginning.n.04",
+  "beginning.n.04",
+  "beginning.n.04",
+  "beginning.n.04",
+  "source.n.02",
+  "source.n.02",
+  "source.n.02",
+  "source.n.02",
+  "source.n.02",
+  "source.n.02",
+  "source.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

@@ -1,0 +1,7 @@
+word: social
+dataset: data/raw/semcor_words/social.json
+senses:
+  - social.a.01
+  - social.a.02
+n_per_sense: 7
+prefix: "Example sentence: "

@@ -1,0 +1,41 @@
+{
+ "target_word": "solution",
+ "sentences": [
+  "Example sentence: As is well known, detergent actives belong to the chemical class consisting of moderately high molecular weight and highly polar molecules which exhibit the property of forming micelles in solution.",
+  "Example sentence: The precipitate was washed twice with an 80% saturated solution of * * f, dissolved in a small quantity of 0.1 M neutral phosphate buffer, dialyzed against cold distilled water till free from ammonium ions, and lyophilized using liquid nitrogen.",
+  "Example sentence: Sections of sweet clover stem and root tumors were treated with 1: 10 solution of * * f for 30 minutes, washed in buffered saline for 15 minutes, stained with * * f for 30 minutes, and washed for 15 minutes in PBS.",
+  "Example sentence: Following reaction the cells were scratched with a file and opened under a 20% aqueous sodium iodide solution.",
+  "Example sentence: This chlorine carbon tetrachloride solution was illuminated for a day following which the flask was resealed onto a vacuum system and the excess chlorine distilled off.",
+  "Example sentence: He considered them with brooding eyes, brows bunched as his brain grappled with the problem and tried to find some solution.",
+  "Example sentence: Roleplaying was offered as a solution - and the procedure worked as follows: all candidates were invited to a hotel conference room, where the president explained the difficulty he had, and how unnecessary it seemed to him to hire people who just did not work out.",
+  "Example sentence: We are tempted to blame others for our problems rather than look them straight in the face and realize they are of our own making and possible of solution only by ourselves with the help of desperately needed, enlightened, competent leaders.",
+  "Example sentence: We suggest the application of certain data-processing techniques as a solution to the problem.",
+  "Example sentence: But in the meantime the beer runner, unhappy with this solution, telephoned Torrio and returned to O ' Banion with the message: `` Say, Dionie, I just been talking to Johnny, and he said to let them cops have the three hundred."
+ ],
+ "labels": [
+  "solution.n.01",
+  "solution.n.01",
+  "solution.n.01",
+  "solution.n.01",
+  "solution.n.01",
+  "solution.n.03",
+  "solution.n.03",
+  "solution.n.03",
+  "solution.n.03",
+  "solution.n.03"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

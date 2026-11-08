@@ -1,0 +1,7 @@
+word: sure
+dataset: data/raw/semcor_words/sure.json
+senses:
+  - certain.a.02
+  - surely.r.01
+n_per_sense: 11
+prefix: "Example sentence: "

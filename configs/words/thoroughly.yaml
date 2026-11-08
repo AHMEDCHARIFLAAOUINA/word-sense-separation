@@ -1,0 +1,7 @@
+word: thoroughly
+dataset: data/raw/semcor_words/thoroughly.json
+senses:
+  - thoroughly.r.01
+  - thoroughly.r.02
+n_per_sense: 5
+prefix: "Example sentence: "

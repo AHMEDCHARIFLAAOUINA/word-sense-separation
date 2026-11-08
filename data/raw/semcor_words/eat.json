@@ -1,0 +1,41 @@
+{
+ "target_word": "eat",
+ "sentences": [
+  "Example sentence: `` Lillian's bread is so good and everything tastes so much better here that it is hard not to eat too much '', said the secretary ruefully eyeing her extra pounds.",
+  "Example sentence: It's one thing to go without food when you're occupied with some work or when you're simply postponing a meal, but when you're dependent on someone else and know that you cann't eat until he's bedded down for the night, hunger can be a gnawing torture.",
+  "Example sentence: `` We've got to eat '', Sarah said, curtly, because a chill crawled over her again.",
+  "Example sentence: One wrote: `` [I am so hungry] I could eat a rider off his horse + snap at the stirups ''.",
+  "Example sentence: She'll eat just a pineapple and cottage cheese salad and I'm to have one with her so she wonn't feel out of place ''.",
+  "Example sentence: James P. Mitchell, when he was the head of the department, promised to eat his hat if unemployment didn't drop below three million a couple of years ago.",
+  "Example sentence: The practice of charging employes for meals whether they eat at the hospital or not should be abolished.",
+  "Example sentence: `` Well '', remarked one gentleman who had been forced to accompany his wife, `` the good Lord can eat where angels fear to tread ''.",
+  "Example sentence: I have observed that being up on a horse changes the whole character of a man, and when a very small man is up on a saddle, he'd like as not prefer to eat his meals there.",
+  "Example sentence: Most members of the U. S. Senate, because they are human, like to eat as high on the hog as they can."
+ ],
+ "labels": [
+  "eat.v.01",
+  "eat.v.01",
+  "eat.v.01",
+  "eat.v.01",
+  "eat.v.01",
+  "eat.v.02",
+  "eat.v.02",
+  "eat.v.02",
+  "eat.v.02",
+  "eat.v.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}

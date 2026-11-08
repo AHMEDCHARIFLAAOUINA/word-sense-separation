@@ -1,0 +1,35 @@
+{
+ "target_word": "portion",
+ "sentences": [
+  "Example sentence: Down the boulevard he could see a portion of the ghetto wall.",
+  "Example sentence: The Skeletal Age curve in the lower portion of Figure 2 shows that slowing may have occurred for her during the prepubescent period.",
+  "Example sentence: Because they prepare their own meals they also keep in their pockets a good portion of that $10.50 food bill along with most of the tip money.",
+  "Example sentence: Third, the upper portion deals with only two indicators of developmental level, Onset and Completion.",
+  "Example sentence: The department apparently intends to make the Rural Roads Authority a revolving fund under which new bonds would be issued every time a portion of the old ones are paid off by tax authorities.",
+  "Example sentence: That's why the FDA, the American Medical Association (AMA), and the National Better Business Bureau (BBB) have estimated the toll of mechanical quackery to be a substantial portion of the $610 million or so paid to medical charlatans annually.",
+  "Example sentence: Every taxpayer is well aware of the vast size of our annual defense budget and most of our readers also realize that a large portion of these expenditures go for military electronics.",
+  "Example sentence: Nevertheless, `` we feel that in the future Fulton County should receive some portion of these available funds '', the jurors said."
+ ],
+ "labels": [
+  "part.n.01",
+  "part.n.01",
+  "part.n.01",
+  "part.n.01",
+  "parcel.n.02",
+  "parcel.n.02",
+  "parcel.n.02",
+  "parcel.n.02"
+ ],
+ "stratum": [
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor",
+  "semcor"
+ ],
+ "prefix": "Example sentence: ",
+ "design": "SemCor 3.0 sentences with WordNet sense annotations; one surface form per word, the two most frequent senses, balanced classes"
+}
