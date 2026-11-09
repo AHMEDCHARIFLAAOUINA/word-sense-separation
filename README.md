@@ -2,7 +2,7 @@
 
 Code, dataset and result tables for the paper
 
-> Ahmed Charif Laaouina, Xiangping Wu, Shuoran Jiang and Qingcai Chen.
+> Ahmed Charif Laaouina, Shuoran Jiang and Qingcai Chen.
 > *Downstream Effects of Controlling Word-Sense Separation in Large Language Models.*
 > Journal of Artificial Intelligence Research (under review).
 
@@ -20,13 +20,15 @@ effects on GSM8K and eleven other benchmarks.
 | `run.py`, `src/` | the pipeline: hidden-state extraction, separation measure, weight geometry, analysis, fine-tuning |
 | `scripts/dataset/` | building and checking the dataset from SemCor 3.0 |
 | `scripts/geometry_separation/` | Section 4 of the paper: batch runs, spectral truncation, robustness, tables and figures |
-| `scripts/ta_method_comparison/` | Section 4.1: comparison with the OpenHowNet-based measure |
+| `scripts/openhownet_comparison/` | Section 4.1: comparison with the OpenHowNet-based measure (run from the OpenHowNet project folder, not included) |
 | `scripts/sense_pull_finetuning/` | Sections 5–6: launchers for the pull-loss runs, evaluation, summaries and tables |
-| `results/` | the tables and figures of the paper, by part (`02_geometry_separation`, `03_ta_method_comparison`, `04_sense_pull_finetuning`) |
+| `results/tables/` | the result tables of the paper as CSV files (`geometry_separation`, `openhownet_comparison`, `sense_pull_finetuning`) |
+| `results/figures/` | the figures of the paper (PDF) |
 | `environment/` | conda environments: `llm_env` (all models except qwen-7b), `qwen7_env` (qwen-7b), `opencompass` (benchmarks) |
 
 The full raw outputs (per-word separation curves for 13 models, weight geometry, truncation results,
-per-item benchmark predictions; about 860 MB) are archived separately: **[link to the data archive]**.
+per-item benchmark predictions; about 860 MB) are too large for this repository. They will be archived on
+Zenodo when the paper is published, and the link will be added here.
 
 ## The dataset
 
@@ -60,7 +62,12 @@ Models are not included; they are available from their original providers on Hug
 | Weight geometry vs separation (Section 4.2) | `src/analysis/compute_geometry.py`, `src/analysis/cross_word.py`, `scripts/geometry_separation/semcor_robustness.py` |
 | Spectral truncation (Section 4.3) | `scripts/geometry_separation/batch_intervention.py`, `intervention_semcor_analysis.py` |
 | Pull-loss fine-tuning (Sections 5–6) | `scripts/sense_pull_finetuning/run_llama_full.py`, `run_qwen_full.py`, `run_pull_layers.py`, `run_llama_10seeds.py` |
-| Benchmarks and tables (Section 6) | `scripts/sense_pull_finetuning/eval_final.py`, `eval_broad.py`, `make_task2_tables.py` |
+| Benchmarks and tables (Section 6) | `scripts/sense_pull_finetuning/eval_final.py`, `eval_broad.py`, `make_finetuning_tables.py` |
+
+The pull loss is implemented in `src/finetune/sense_pull_regulariser.py` and selected with `--loss ta_pull`;
+`ta_pull` is its internal name and appears in the names of the result files. The reference runs use
+`--baseline`. Other loss variants in the code (`--loss ta`, `pushpull`) belong to earlier experiments and
+are not used in the paper.
 
 All settings (LoRA rank 16, α 32, learning rate 1e-4, λ = 1, 1,991 steps, seeds) are listed in
 Appendix A of the paper.
@@ -74,7 +81,7 @@ Code: MIT (`LICENSE`). Dataset and results: CC BY 4.0, with the SemCor/WordNet n
 ```bibtex
 @article{laaouina2026downstream,
   title   = {Downstream Effects of Controlling Word-Sense Separation in Large Language Models},
-  author  = {Laaouina, Ahmed Charif and Wu, Xiangping and Jiang, Shuoran and Chen, Qingcai},
+  author  = {Laaouina, Ahmed Charif and Jiang, Shuoran and Chen, Qingcai},
   journal = {Journal of Artificial Intelligence Research},
   year    = {2026},
   note    = {Under review}

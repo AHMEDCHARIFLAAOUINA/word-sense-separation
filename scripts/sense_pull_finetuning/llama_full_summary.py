@@ -23,7 +23,7 @@ print("LLaMA, all GSM8K training data, official GSM8K test set (1,319). ta_pull 
 print("last 4 layers. Δ = ta_pull − same-seed baseline; * = 95% bootstrap CI of the paired difference excludes 0.\n")
 for m, layers in MODELS.items():
     print(f"=== {m}  (regularised layers {layers})")
-    for col, label in (("correct_stop", "stop rule"), ("correct", "old score")):
+    for col, label in (("correct_stop", "stop rule"), ("correct", "without stop rule")):
         pre = items("pretrained" if m == "llama-3-8b" else f"pretrained_{m}", col)
         base = [items(f"final_gsm8k_full_{m}_baseline_s{s}", col) for s in SEEDS]
         pull = [items(f"final_gsm8k_full_{m}_ta_pull_s{s}", col) for s in SEEDS]

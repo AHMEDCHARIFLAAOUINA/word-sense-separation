@@ -17,7 +17,7 @@ def layers(m, k):
 
 def train_job(m, k, s):
     tag = f"{m}_ta_pull_last{k}"
-    cmd = ["python", "-m", "src.finetune.ta_semantic_regulariser", "--model", m, "--task", "gsm8k_full",
+    cmd = ["python", "-m", "src.finetune.sense_pull_regulariser", "--model", m, "--task", "gsm8k_full",
            "--seed", str(s), "--layers", layers(m, k), "--loss", "ta_pull", "--span", "mean", "--tag", tag,
            "--save-adapter", f"adapters/final_gsm8k_full_{tag}_s{s}"]
     return f"final_gsm8k_full_{tag}_s{s}", cmd, "saved ->"

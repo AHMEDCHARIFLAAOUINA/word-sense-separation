@@ -12,7 +12,7 @@ VARIANTS = {"baseline": ["--baseline"], "ta_pull": ["--loss", "ta_pull", "--span
 
 def train_job(m, v, s):
     tag = f"{m}_{v}"
-    cmd = ["python", "-m", "src.finetune.ta_semantic_regulariser", "--model", m, "--task", "gsm8k_full",
+    cmd = ["python", "-m", "src.finetune.sense_pull_regulariser", "--model", m, "--task", "gsm8k_full",
            "--seed", str(s), "--layers", MODELS[m], "--tag", tag,
            "--save-adapter", f"adapters/final_gsm8k_full_{tag}_s{s}"] + VARIANTS[v]
     return f"final_gsm8k_full_{tag}_s{s}", cmd, "saved ->"

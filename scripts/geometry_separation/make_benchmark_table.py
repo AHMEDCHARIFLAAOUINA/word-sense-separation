@@ -28,7 +28,7 @@ MODELS = {
 }
 FAMILY = {"llama": "LLaMA", "qwen": "Qwen", "bert": "BERT-family"}
 BENCH = ("ceval", "cmmlu", "gsm8k")
-# qwen_7b_gsm8k.tar.gz on the server is empty (the run output was not kept);
+# the archived output of this run (qwen_7b_gsm8k.tar.gz) is empty;
 # this is the score reported from that run, marked with * in the table
 NO_ARCHIVE = {("qwen_7b", "gsm8k"): 54.13}
 

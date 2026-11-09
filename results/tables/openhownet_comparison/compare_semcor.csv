@@ -1,0 +1,14 @@
+model,words (ours),words (his),peak layer (ours),peak layer (his),Pearson r,Spearman rho,note
+llama-7b,999,1000,8,12,0.929,0.711,
+llama-2-7b,999,1000,9,11,0.942,0.7,
+llama-3-8b,999,1000,6,12,0.785,0.596,
+llama-3.1-8b,999,1000,6,32,0.807,0.654,
+qwen-7b,999,0,,,,,the OpenHowNet project code cannot run this model (no fast tokenizer)
+qwen1.5-7b,999,1000,32,32,0.939,0.701,
+qwen2-7b,999,1000,28,28,0.953,0.856,
+qwen2.5-7b,999,1000,10,13,0.947,0.828,
+qwen3-8b,999,1000,10,10,0.978,0.959,
+bert-base,999,1000,9,12,0.979,0.944,
+roberta-base,999,1000,9,9,0.933,0.944,
+spanbert-base-cased,999,1000,5,5,0.9,0.972,
+xlm-roberta-base,999,1000,6,6,0.944,0.944,

@@ -1,5 +1,5 @@
 """Tasks, data loading and evaluation for fine-tuning with a separation regulariser
-(LoRA). The training used in the paper is ta_semantic_regulariser.py."""
+(LoRA). The training used in the paper is sense_pull_regulariser.py."""
 
 from __future__ import annotations
 
